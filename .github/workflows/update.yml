@@ -53,7 +53,7 @@ jobs:
         cp .github/template/README-Off-Season.md .
         python .github/scripts/update_readmes.py
         if [[ `git status --porcelain` ]]; then
-          git commit --quiet --all --no-edit
+          git commit --quiet --all --no-edit --message="chore: update"
         else
           echo "No changes to commit"
         fi
