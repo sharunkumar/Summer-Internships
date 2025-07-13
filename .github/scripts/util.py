@@ -34,10 +34,7 @@ def fail(why):
 
 def getLocations(listing):
     locations = "</br>".join(listing["locations"])
-    if len(listing["locations"]) <= 3:
-        return locations
-    num = str(len(listing["locations"])) + " locations"
-    return f'<details><summary>**{num}**</summary>{locations}</details>'
+    return locations
 
 def getSponsorship(listing):
     if listing["sponsorship"] == "Does Not Offer Sponsorship":
@@ -266,6 +263,15 @@ def embedTable(listings, filepath, offSeason=False):
     with open(filepath, "w") as f:
         f.write(newText)
 
+
+def customFilter(listings):
+    def is_canada_only(locations):
+        return all('canada' in loc.lower() for loc in locations)
+    
+    return [listing for listing in listings if 
+            listing["active"] and 
+            listing["sponsorship"] not in ["Does Not Offer Sponsorship", "U.S. Citizenship is Required"] and
+            not is_canada_only(listing["locations"])]
 
 def filterSummer(listings, year, earliest_date):
     return [listing for listing in listings if listing["is_visible"] and any(f"Summer {year}" in item for item in listing["terms"]) and listing['date_posted'] > earliest_date]

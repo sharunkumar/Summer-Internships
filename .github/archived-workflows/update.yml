@@ -1,0 +1,114 @@
+name: Update
+
+on:
+  push:
+    branches:
+      - dev
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Add Git Commiter Details
+      run: |
+        git config --global user.email "sharunksplus@gmail.com"
+        git config --global user.name "Sharun"
+
+    - name: Upstream Setup & Merge
+      run: |
+        git remote add upstream https://github.com/SimplifyJobs/Summer2024-Internships.git
+        git fetch upstream
+        git merge --log upstream/dev --strategy=recursive --strategy-option=theirs
+
+    # This has to be done first due to permissions reasons
+    - name: Remove other workflows
+      run: |
+        find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec rm -v {} +
+
+    - name: Commit and push
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -am "removed the unused workflows" && git push
+        else
+          echo "No changes to commit"
+        fi
+
+
+    - name: Update README.md
+      run: |
+        sed -i '/🔒 Closed 🔒/Id' README.md
+        sed -i '/no sponsorship/Id' README.md
+        sed -i '/no visa sponsorship/Id' README.md
+        sed -i '/must be US citizen/Id' README.md
+        sed -i '/Citizenship Required/Id' README.md
+
+    # - name: Update README-2023.md
+    #   run: |
+    #     sed -i '/🔒 Closed 🔒/Id' README-2023.md
+    #     sed -i '/no sponsorship/Id' README-2023.md
+    #     sed -i '/no visa sponsorship/Id' README-2023.md
+    #     sed -i '/must be US citizen/Id' README-2023.md
+    #     sed -i '/Citizenship Required/Id' README-2023.md
+
+    - name: Update README-Off-Season.md
+      run: |
+        sed -i '/🔒 Closed 🔒/Id' README-Off-Season.md
+        sed -i '/no sponsorship/Id' README-Off-Season.md
+        sed -i '/no visa sponsorship/Id' README-Off-Season.md
+        sed -i '/must be US citizen/Id' README-Off-Season.md
+        sed -i '/Citizenship Required/Id' README-Off-Season.md
+
+    - name: Commit
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -am "remove closed, no sponsorship entries"
+        else
+          echo "No changes to commit"
+        fi
+        
+    - name: Remove Fluff
+      run: |
+        sed -i '/And we'\''re back!/,/The List/d' README.md
+        # sed -i '/And we'\''re back!/,/The List/d' README-2023.md
+        sed -i '/And we'\''re back!/,/The List/d' README-Off-Season.md
+        sed -i '/Back to Top/,/Made with/d' README.md
+        # sed -i '/Back to Top/,/Made with/d' README-2023.md
+        sed -i '/Back to Top/,/Made with/d' README-Off-Season.md
+        sed -i '/Jump to bottom/Id' README.md
+        # sed -i '/Jump to bottom/Id' README-2023.md
+        sed -i '/Jump to bottom/Id' README-Off-Season.md
+
+    - name: Commit
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -am "remove fluff"
+        else
+          echo "No changes to commit"
+        fi
+        
+    - name: Fix Links
+      run: |
+        sed -i 's|SimplifyJobs/Summer2024-Internships/blob/dev/README|sharunkumar/Summer2024-Internships/blob/dev/README|g' README.md
+        # sed -i 's|SimplifyJobs/Summer2024-Internships/blob/dev/README|sharunkumar/Summer2024-Internships/blob/dev/README|g' README-2023.md
+        sed -i 's|SimplifyJobs/Summer2024-Internships/blob/dev/README|sharunkumar/Summer2024-Internships/blob/dev/README|g' README-Off-Season.md
+        # sed -i 's|README-2024.md|README.md|g' README-2023.md
+
+    - name: Commit
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -am "fixed links"
+        else
+          echo "No changes to commit"
+        fi
+        
+    - name: Push
+      run: git push

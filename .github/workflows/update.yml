@@ -1,0 +1,62 @@
+name: Update
+
+on:
+  push:
+    branches:
+      - dev
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.9"
+
+    - name: Add Git Commiter Details
+      run: |
+        git config --global user.email "sharunksplus@gmail.com"
+        git config --global user.name "Sharun"
+
+    - name: Upstream Setup & Merge
+      run: |
+        git remote add upstream https://github.com/SimplifyJobs/Summer2024-Internships.git
+        git fetch upstream
+        git merge --log upstream/dev --strategy=recursive --strategy-option=ours
+
+    # This has to be done first due to permissions reasons
+    - name: Move other workflows
+      run: |
+        find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec git mv {} .github/archived-workflows/ \;
+
+    - name: Commit and push
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -am "move unused workflows" && git push
+        else
+          echo "No changes to commit"
+        fi
+
+    - name: Update README & Commit
+      run: |
+        cp .github/template/README.md .
+        cp .github/template/README-Off-Season.md .
+        python .github/scripts/update_readmes.py
+        if [[ `git status --porcelain` ]]; then
+          git commit --quiet --all --amend --no-edit
+        else
+          echo "No changes to commit"
+        fi
+        
+    - name: Push
+      run: git push

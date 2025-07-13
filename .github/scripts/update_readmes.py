@@ -9,8 +9,10 @@ def main():
     util.checkSchema(listings)
     util.sortListings(listings)
 
-    summer_2026_listings = util.filterSummer(listings, "2026", earliest_date=1748761200)
-    util.embedTable(summer_2026_listings, "README.md")
+    listings = util.customFilter(listings)
+
+    summer_2025_listings = util.filterSummer(listings, "2025", earliest_date=1710797957)
+    util.embedTable(summer_2025_listings, "README.md")
 
     offseason_listings = util.filterOffSeason(listings)
     util.embedTable(offseason_listings, "README-Off-Season.md", offSeason=True)
