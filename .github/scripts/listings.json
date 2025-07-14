@@ -201684,7 +201684,7 @@
         "company_name": "Mosaic",
         "id": "add58d0d-03e1-4be9-b1b3-8157951776ea",
         "title": "Data Analyst Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -203819,7 +203819,7 @@
         "company_name": "Booz Allen",
         "id": "cd929e1b-b53a-41da-bb0e-978fa0a580e8",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Summer 2026"
@@ -203962,7 +203962,7 @@
         "company_name": "Fullscript",
         "id": "17297b33-3c3a-4843-ae91-5aaefe314533",
         "title": "Co-op/Intern Ruby Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
