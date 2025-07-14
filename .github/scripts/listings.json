@@ -201477,7 +201477,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "a8539137-0cf4-4e26-b72a-c8e777820850",
         "title": "Intern \u2013 Investments - Total Fund Management - Global Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -201619,7 +201619,7 @@
         "id": "33ff25a9-0363-4486-acfd-48422c94be84",
         "title": "ERP Internship: Rising Senior Technology",
         "category": "AI/ML/Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -204057,6 +204057,32 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Harris Computer",
+        "id": "ecebbe66-21e2-4603-a305-59a0bdc571a7",
+        "title": "Software Developer \u2013 Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752473641,
+        "date_posted": 1752473641,
+        "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Ontario-Canada/Software-Developer--Co-op-Intern_R0030937",
+        "locations": [
+            "Alberta, Canada",
+            "British Columbia, Canada",
+            "Ontario, Canada",
+            "NB, Canada",
+            "Charlottetown, PE, Canada",
+            "Nova Scotia, Canada",
+            "Manitoba, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
         "is_visible": true,
         "sponsorship": "Other"
     }
