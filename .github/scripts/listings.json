@@ -135729,7 +135729,7 @@
         "company_name": "Skydio",
         "id": "8cb4e5ff-4d38-47a1-8377-bec886058322",
         "title": "Middleware Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200142,7 +200142,7 @@
         "company_name": "Teledyne",
         "id": "55792b63-1879-4792-b9f0-3950515ca814",
         "title": "Sdet \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200185,7 +200185,7 @@
         "company_name": "Lake Michigan Credit Union",
         "id": "075a3256-c169-4ec2-8cf6-5ae0dd39129f",
         "title": "Retail Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -204114,7 +204114,7 @@
         "company_name": "BitGo",
         "id": "78a181f0-a303-49e7-89cd-895a7ea2578d",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204537,5 +204537,190 @@
         "date_posted": 1752558239,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Geotab",
+        "id": "2eb982ee-9ac1-4246-a93b-fdd920748148",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752593395,
+        "date_posted": 1752593395,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4575184008",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Oakville, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Geotab",
+        "id": "6832ab76-ef30-46ff-863c-78bf6f03b1d0",
+        "title": "Data Analyst Intern - Data Operations",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752593395,
+        "date_posted": 1752593395,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4615491008",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Oakville, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Geotab",
+        "id": "c6e38bc7-daae-4ab6-9728-3b51745a9025",
+        "title": "Software Development Intern - IO Mobile App Platform",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752593387,
+        "date_posted": 1752593387,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4628085008",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nissan Global",
+        "id": "67e55ea9-7dc1-4129-854b-083feca47415",
+        "title": "Data Scientist Degree Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752593260,
+        "date_posted": 1752593260,
+        "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Cranfield/Data-Scientist-Degree-Apprentice_R00193334",
+        "locations": [
+            "Bedfordshire, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Nissan-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "50c69c72-2547-465e-8e07-643c6cff1247",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752594418,
+        "date_posted": 1752594418,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Analyst-Intern---Summer-2026_R218614-1",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integra FEC",
+        "id": "4294f84d-72ea-4305-9184-fb401c89700b",
+        "title": "Fall \u2013 Data Scientist Intern - PhD",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752594661,
+        "date_posted": 1752594661,
+        "url": "https://job-boards.greenhouse.io/integra/jobs/4522522008",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Integra-FEC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integra FEC",
+        "id": "c50a2a65-255b-4e7f-b3a7-c823855372d6",
+        "title": "Fall \u2013 Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752594662,
+        "date_posted": 1752594662,
+        "url": "https://job-boards.greenhouse.io/integrainterns/jobs/4522500008",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Integra-FEC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integra FEC",
+        "id": "b9b7b539-ad69-4201-847f-6dfc32c09e67",
+        "title": "Fall \u2013 Data Scientist Intern - PhD",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752594662,
+        "date_posted": 1752594662,
+        "url": "https://job-boards.greenhouse.io/integrainterns/jobs/4580605008",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Integra-FEC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integra FEC",
+        "id": "cc7f3be6-0c1d-4d28-9284-af55f27b3a1b",
+        "title": "Fall \u2013 Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752594661,
+        "date_posted": 1752594661,
+        "url": "https://job-boards.greenhouse.io/integra/jobs/4522499008",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Integra-FEC",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
