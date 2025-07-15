@@ -194242,7 +194242,7 @@
         "company_name": "Amgen",
         "id": "ce4bd948-2c14-46f1-a057-d5875bcd7e9a",
         "title": "Undergraduate / Graduate Co-op Student - Software Engineer - Large Molecule Discovery - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -197425,7 +197425,7 @@
         "company_name": "Penumbra Inc",
         "id": "488f9849-d9f6-43f8-8958-0972546516ae",
         "title": "Data Science Engineer Intern T",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199083,7 +199083,7 @@
         "company_name": "Hootsuite",
         "id": "5c1956c7-7c56-4d30-9881-59df7ae1c592",
         "title": "Co-op/Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -200674,7 +200674,7 @@
         "company_name": "TabaPay",
         "id": "244d9bb1-e065-40bf-8e13-85ae5a4e319c",
         "title": "Data Analyst \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -201215,7 +201215,7 @@
         "company_name": "Autodesk",
         "id": "72c96fbc-f8cd-4977-9bf9-93929c6e2ac8",
         "title": "Intern \u2013 Software Developer/ Stagiaire en d\u00e9veloppement logiciels",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204145,6 +204145,232 @@
             "Houston, TX"
         ],
         "company_url": "https://simplify.jobs/c/Bot-Auto",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "DRW",
+        "id": "1b59a6da-b31e-43cb-b8db-6b27bed2e95b",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1752524915,
+        "date_posted": 1752524915,
+        "url": "https://job-boards.greenhouse.io/drweng/jobs/6987105",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "DRW",
+        "id": "a280fb88-977f-40b2-8db5-33676938c4b7",
+        "title": "CAMPUS RY26 Quantitative Trading Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2027"
+        ],
+        "date_updated": 1752524554,
+        "date_posted": 1752524554,
+        "url": "https://job-boards.greenhouse.io/drweng/jobs/6899911",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WGU",
+        "id": "efe3becb-c2ec-489d-9115-aa9b091adefa",
+        "title": "Associate Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752525939,
+        "date_posted": 1752525939,
+        "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-Office/Associate-Software-Engineer-Intern_JR-022297",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DRW",
+        "id": "c7343fde-2dbc-478d-a4b2-9a1ab06f3b52",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1752525551,
+        "date_posted": 1752525551,
+        "url": "https://job-boards.greenhouse.io/drweng/jobs/6987115",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "TD Bank",
+        "id": "e27b0cea-cef9-4f52-ab5d-e8fc29dea87c",
+        "title": "Global Markets Intern/Co-op - Institutional FX Sales",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752527912,
+        "date_posted": 1752527912,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Global-Markets-Intern-Co-op---Institutional-FX-Sales---Montreal--Fall-2025-_R_1432147",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Curve Dental",
+        "id": "03f5eb46-608f-42b5-868d-d643e5598b1f",
+        "title": "Software Development Intern (Temporary)",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752535042,
+        "date_posted": 1752535042,
+        "url": "https://ats.rippling.com/curve-dental/jobs/b7f7de31-9b57-4235-b8f9-fe19dfabaf14",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Curve-Dental",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clarity Innovations",
+        "id": "f00fed72-e40a-4faa-90a5-5542a89666b1",
+        "title": "Internship \u2013 Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752516717,
+        "date_posted": 1752516717,
+        "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/4776912007",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clarity-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Bridgewater Associates",
+        "id": "a8440d30-9b5e-4550-b1e4-b7c7efb1f49d",
+        "title": "Investment Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752519199,
+        "date_posted": 1752519199,
+        "url": "https://job-boards.greenhouse.io/bwaltpostings/jobs/7950099002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akuna Capital",
+        "id": "9bf45871-ab21-4adf-ad7e-fc57ca65fd8d",
+        "title": "Software Engineer Intern - Full Stack Web",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752518401,
+        "date_posted": 1752518401,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7060087",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Akuna Capital",
+        "id": "2156c922-ba8a-4f27-bd2a-50aaab6dfc8c",
+        "title": "Hardware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752518400,
+        "date_posted": 1752518400,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=6945855",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akuna Capital",
+        "id": "533c5cbc-2c31-4f95-b3ee-c79ed5b904ce",
+        "title": "Software Engineer Intern - Python",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752518405,
+        "date_posted": 1752518405,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7055471",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
         "is_visible": true,
         "sponsorship": "Other"
     }
