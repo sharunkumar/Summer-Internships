@@ -204373,5 +204373,169 @@
         "company_url": "https://simplify.jobs/c/Akuna-Capital",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akuna Capital",
+        "id": "9f4cdfd7-56ef-48ca-9ae9-100399041c1e",
+        "title": "Software Engineer Intern - C++",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752518407,
+        "date_posted": 1752518407,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=6996427",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akuna Capital",
+        "id": "c0492323-352f-4760-bf7c-5c301e1b6b72",
+        "title": "Software Engineer Intern - C# .NET Desktop",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752518400,
+        "date_posted": 1752518400,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7060377",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "08d72057-2262-4940-ab32-648dcc930353",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752518401,
+        "date_posted": 1752518401,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7055793",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akuna Capital",
+        "id": "0f902ab7-852b-4624-9759-d50392926fc8",
+        "title": "Quantitative Development & Strategy Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752518402,
+        "date_posted": 1752518402,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7065132",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BILL",
+        "id": "1d99182b-c744-4d2f-a23f-19dc5a040262",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1752547879,
+        "date_posted": 1752547879,
+        "url": "https://www.bill.com/job?5588094004&gh_jid=5588094004",
+        "locations": [
+            "San Jose, CA",
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Bill-Dot-Com",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Occidental Petroleum",
+        "id": "387d5861-f87f-4086-b76b-88018de85a3f",
+        "title": "Co-Op \u2013 Data - Well Servicing & Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752549310,
+        "date_posted": 1752549310,
+        "url": "https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413",
+        "locations": [
+            "Midland, TX",
+            "Houston, TX",
+            "Fort Lupton, CO",
+            "Lubbock, TX",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Occidental-Petroleum",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Live Nation Entertainment",
+        "id": "2423b44d-ac5b-4ceb-a773-24532a6cd601",
+        "title": "Nosql Team Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1752550895,
+        "date_posted": 1752550895,
+        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Beverly-Hills-CA-USA/NoSQL-Team-Intern_JR-76287-1",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1752558239,
+        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern--e-Transfer-_REQ-1870",
+        "company_name": "Interac",
+        "title": "Software Development Intern (e-Transfer)",
+        "locations": [
+            "Toronto, Ontario, Canada"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "3eba7b3a-5f7d-4127-9629-675724975dab",
+        "date_posted": 1752558239,
+        "company_url": "",
+        "is_visible": true
     }
 ]
