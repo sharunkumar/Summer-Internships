@@ -112065,7 +112065,7 @@
         "company_name": "Kognitos",
         "id": "07f91406-4025-4590-b4dd-017ede99ce97",
         "title": "Software Engineer \u2013 Intern - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -200102,7 +200102,7 @@
         "company_name": "Teledyne",
         "id": "ee092cd6-fe15-4c7e-96d0-4f21a8ecb942",
         "title": "Sdet \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200122,7 +200122,7 @@
         "company_name": "Teledyne",
         "id": "ce985d6c-2510-4960-b4f7-37f22769e002",
         "title": "Sdet \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -204722,5 +204722,66 @@
         "company_url": "https://simplify.jobs/c/Integra-FEC",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Neuralink",
+        "id": "d363c23b-f987-413e-81b9-316ca38ddb0d",
+        "title": "Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752619201,
+        "date_posted": 1752619201,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/6648992003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuralink",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CSC",
+        "id": "09ac7883-3235-4372-9a65-2e8ec327a389",
+        "title": "Business Systems Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1752619093,
+        "date_posted": 1752619093,
+        "url": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/13011",
+        "locations": [
+            "Wheeling, IL",
+            "Lewisville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CSC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1752620872,
+        "url": "https://careers.honeywell.com/en/sites/Honeywell/job/109972/?utm_medium=jobshare",
+        "company_name": "Honeywell",
+        "title": "Co-Op - Bachelors Software Eng (Fall 2025)",
+        "locations": [
+            "Mason, OH"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "karthik961",
+        "id": "443acaa5-213d-475d-a522-0696fc96b6a6",
+        "date_posted": 1752620872,
+        "company_url": "",
+        "is_visible": true
     }
 ]
