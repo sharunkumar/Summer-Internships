@@ -204198,7 +204198,7 @@
         "company_name": "WGU",
         "id": "efe3becb-c2ec-489d-9115-aa9b091adefa",
         "title": "Associate Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204749,7 +204749,7 @@
         "company_name": "CSC",
         "id": "09ac7883-3235-4372-9a65-2e8ec327a389",
         "title": "Business Systems Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -204783,5 +204783,25 @@
         "date_posted": 1752620872,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citadel",
+        "id": "71e539ff-f839-4f08-8c0f-0c7a934bbf05",
+        "title": "Sector Data Analyst \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752682057,
+        "date_posted": 1752682057,
+        "url": "https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
