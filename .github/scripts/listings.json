@@ -195401,7 +195401,7 @@
         "company_name": "Pinterest",
         "id": "cff03a38-09fd-45cc-9503-4ee4db0736c4",
         "title": "Software Engineering Intern 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -199658,7 +199658,7 @@
         "company_name": "Weber Shandwick",
         "id": "986a9beb-fbed-4491-930b-2d13ec403e4e",
         "title": "AI & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -204066,7 +204066,7 @@
         "company_name": "Harris Computer",
         "id": "ecebbe66-21e2-4603-a305-59a0bdc571a7",
         "title": "Software Developer \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
