@@ -198134,7 +198134,7 @@
         "company_name": "American Financial Group",
         "id": "f3629439-d25d-408e-8e90-51897922d12d",
         "title": "Catastrophe Modeling & Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -200813,7 +200813,7 @@
         "company_name": "Boston Consulting Group",
         "id": "502917c2-1890-4d56-9c5c-ac941efd78f2",
         "title": "Data Scientist \u2013 Internship - Bcg X",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -203511,7 +203511,7 @@
         "company_name": "Altera Digital Health",
         "id": "29af7a44-1534-4d8c-826f-4fd8c391161a",
         "title": "Intern \u2013 Operational Innovation & Digital Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -203799,7 +203799,7 @@
         "company_name": "Zeiss",
         "id": "63cc4d2d-7397-4d65-af7b-a442760b16ff",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205112,6 +205112,66 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Neuralink",
+        "id": "ca10b950-dafb-4ebf-b140-a175ce765fc3",
+        "title": "Robot Optics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752706412,
+        "date_posted": 1747261993,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/6576326003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuralink",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "American Axle & Manufacturing",
+        "id": "1d6bdb23-cbfb-4de1-b070-944b63b3ad9a",
+        "title": "Controls Application Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752704421,
+        "date_posted": 1752704421,
+        "url": "https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Detroit-MI/Controls-Application-Engineering-Co-op_JREQ-217346",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Axle-And-Manufacturing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lactalis",
+        "id": "29d95b44-7fe1-4b45-a48f-6035bb8f33c3",
+        "title": "Digital Assets Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752705845,
+        "date_posted": 1752705845,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3420129",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/d63c7c19-9e10-40da-84e9-383bb65dbe55",
         "is_visible": true,
         "sponsorship": "Other"
     }
