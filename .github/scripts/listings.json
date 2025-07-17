@@ -197244,7 +197244,7 @@
         "company_name": "HeyGen",
         "id": "c1b50b62-a034-444a-8294-d02e8b74ebce",
         "title": "Growth Automation Intern - Community",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200246,7 +200246,7 @@
         "company_name": "Veolia",
         "id": "8e74b0e0-0692-4369-bb48-0b0a83ee7c16",
         "title": "Intern \u2013 Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200953,7 +200953,7 @@
         "company_name": "NVIDIA",
         "id": "e7d57dde-ac35-4ece-a3d0-24ac4d340100",
         "title": "Performance Engineer Intern - Gaming",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -204801,6 +204801,317 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ATPCO",
+        "id": "601ab90d-c0b2-4c34-aba9-5d9aeb94ac47",
+        "title": "Software Engineer Intern - Fall",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752692139,
+        "date_posted": 1752692139,
+        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000071086725",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1752702062,
+        "url": "https://www.bill.com/job?gh_jid=5588094004",
+        "company_name": "BILL",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Draper, UT",
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "4aee991f-cbf2-4c44-8f9c-c100d47ff045",
+        "date_posted": 1752702062,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752702164,
+        "url": "https://www.bill.com/job?gh_jid=5588103004",
+        "company_name": "BILL",
+        "title": "Machine Learning Engineer Intern",
+        "locations": [
+            "Draper, UT",
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "017e35d2-817c-4988-bb40-9a0417dc6a19",
+        "date_posted": 1752702164,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752702806,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4563183008",
+        "company_name": "Five Rings",
+        "title": "Quantitative Researcher",
+        "locations": [
+            "New York"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "4c4becae-fb14-4899-ae14-43884b3de6ec",
+        "date_posted": 1752702806,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752702892,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4613451008",
+        "company_name": "Five Rings",
+        "title": "Quantitative Trader",
+        "locations": [
+            "New York"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "99061796-1d4c-49b3-bccf-b652043edb95",
+        "date_posted": 1752702892,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752703034,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008",
+        "company_name": "Five Rings",
+        "title": "Software Developer",
+        "locations": [
+            "New York"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a3ede5ec-a866-47e7-a243-533274b64baa",
+        "date_posted": 1752703034,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752703435,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/8033390002",
+        "company_name": "Optiver",
+        "title": "FPGA Engineer Intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "386b263c-ba3b-49c8-9b72-8ba2aefe5771",
+        "date_posted": 1752703435,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752703528,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/8033372002",
+        "company_name": "Optiver",
+        "title": "FPGA Engineer Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "e46a4600-d0f3-439b-9717-3d9224c91423",
+        "date_posted": 1752703528,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752703746,
+        "url": "https://careers.sig.com/job/SUSQA004Y9571",
+        "company_name": "Susquehanna",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "71233a18-97c1-49fc-888f-3d9ee6f5421f",
+        "date_posted": 1752703746,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752703920,
+        "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4543280005",
+        "company_name": "CTC",
+        "title": "Quant Trading",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "04eaabf3-2e60-4389-b088-9fbd15f3a373",
+        "date_posted": 1752703920,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752704054,
+        "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4545359005",
+        "company_name": "CTC",
+        "title": "Software Engineer",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0be08fdc-a2cb-47b8-a985-e15e6ce34b7d",
+        "date_posted": 1752704054,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752704192,
+        "url": "https://careers.caterpillar.com/en/jobs/r0000313300/2026-summer-corporate-intern-digital-and-analytics",
+        "company_name": "Caterpillar",
+        "title": "Digital and Analytics",
+        "locations": [
+            "Chicago, IL",
+            "Peoria, IL",
+            "Irving, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9172ef4a-5b49-4c4a-8994-cf56ecfd5921",
+        "date_posted": 1752704192,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752704767,
+        "url": "https://akunacapital.com/job-details?gh_jid=6996427",
+        "company_name": "Akuna Capital",
+        "title": "Software Engineer C++",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "7a76ed8c-250a-427c-8492-d6fc7ef8997e",
+        "date_posted": 1752704297,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1752704375,
+        "url": "https://akunacapital.com/job-details?gh_jid=7055793",
+        "company_name": "Akuna Capital",
+        "title": "Quantitative Research",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a8f8bb7e-1150-4205-8081-6d0609cc0ec5",
+        "date_posted": 1752704375,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752704493,
+        "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2026-Summer/13257",
+        "company_name": "Two Sigma",
+        "title": "Quantitative Researcher",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "afa81220-95fd-42b5-887d-22c6d1cf80e8",
+        "date_posted": 1752704493,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "1ac16bab-f736-430d-bfd9-0d18a7e50da6",
+        "title": "Semiconductor Packaging Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752706510,
+        "date_posted": 1752706510,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Semiconductor-Packaging-Engineering-Intern---Fall-2025_R-10059102",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
         "is_visible": true,
         "sponsorship": "Other"
     }
