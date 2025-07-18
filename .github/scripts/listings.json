@@ -196090,7 +196090,7 @@
         "company_name": "RTX",
         "id": "a90c0d85-e73a-4496-9f7c-f86eac919441",
         "title": "Analyste syst\u00e8mes d\u2019affaires et transformation - Analyst Business Systems and Transformation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -196290,7 +196290,7 @@
         "company_name": "RTX",
         "id": "a14675e7-5562-4624-8050-e582ee90eec4",
         "title": "Stage \u2013 Centre Priorit\u00e9 Clients / Internship - Customer First Centre-Technical helpdesk",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -196412,7 +196412,7 @@
         "company_name": "RTX",
         "id": "499782f3-7d5e-40ab-9990-8ab75f5be7df",
         "title": "Services de pi\u00e8ces de rechange / Internship - Analyste de donn\u00e9es - Data Analyst - Spare Parts Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -199679,7 +199679,7 @@
         "company_name": "IPG DXTRA",
         "id": "b7892ba6-6fe2-49a3-b781-0a46d8c18c8a",
         "title": "AI & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -205172,6 +205172,68 @@
             "Buffalo, NY"
         ],
         "company_url": "https://simplify.jobs/c/d63c7c19-9e10-40da-84e9-383bb65dbe55",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Optiver",
+        "id": "b0e9ecde-edb9-4d18-a010-544b56b16851",
+        "title": "Trading Operations Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752780690,
+        "date_posted": 1752780690,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/8078284002/?gh_jid=8078284002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Procter & Gamble (P&G)",
+        "id": "7df12e4e-2c4c-4e11-90a0-4d3269000aba",
+        "title": "2026 STEM BOLD Internship & Scholarship",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Fall 2026",
+            "Fall 2027"
+        ],
+        "date_updated": 1752791463,
+        "date_posted": 1752791463,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/XMLNAME-2026-STEM-BOLD-Internship---Scholarship_R000135727",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CrucialLogics",
+        "id": "30afcb1f-8682-4fb1-94b8-d73d1eae3d78",
+        "title": "Intern Associate Consultant - Microsoft AI Solutions",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752793498,
+        "date_posted": 1752793498,
+        "url": "https://ats.rippling.com/cruciallogics/jobs/da995c92-0158-4064-9990-a3f22bec110b",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CrucialLogics",
         "is_visible": true,
         "sponsorship": "Other"
     }
