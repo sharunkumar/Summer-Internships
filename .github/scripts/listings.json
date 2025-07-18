@@ -198399,7 +198399,7 @@
         "company_name": "ATPCO",
         "id": "6be97c1c-8cee-4d2e-abcb-fc7c8d56fdc7",
         "title": "Platform Capability Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199003,7 +199003,7 @@
         "company_name": "ATPCO",
         "id": "d13103aa-3597-4a98-8c36-81e1c36c7495",
         "title": "Platform Capability Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -202683,7 +202683,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Citadel Securities",
         "title": "Quantitative Research Analyst Intern",
         "source": "Simplify",
