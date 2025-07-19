@@ -204628,7 +204628,7 @@
         "company_name": "Capital One",
         "id": "50c69c72-2547-465e-8e07-643c6cff1247",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -205374,6 +205374,26 @@
             "Mississauga, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/McKesson",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "0fa1d1ef-d849-4324-9f49-a98e4ae73fa3",
+        "title": "Embedded Software Engineer \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752891655,
+        "date_posted": 1752891655,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op--Fall-2025---4-16-Months-_R028459",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
         "is_visible": true,
         "sponsorship": "Other"
     }
