@@ -179138,7 +179138,7 @@
         "company_name": "OpsLevel",
         "id": "ccef3149-9a70-48d9-9f66-9dd842c9820d",
         "title": "Software Engineering Intern \u2013 Co-op Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -192395,7 +192395,7 @@
         "company_name": "Formlabs",
         "id": "76ce9e44-de61-4ccf-8eb5-6bb40aabfed8",
         "title": "Hardware Systems Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -196028,7 +196028,7 @@
         "company_name": "RTX",
         "id": "7952406e-45a4-432f-9c2c-23a9534bc53d",
         "title": "Software Developer Internship - Services Moteurs Num\u00e9riques - Digital Engines Services - Ground Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -197284,7 +197284,7 @@
         "company_name": "Blue Origin",
         "id": "545c1ba4-aad0-4d0a-8062-462629f0715e",
         "title": "Avionics Software Engineering Intern - Undergraduate",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -202683,7 +202683,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "Citadel Securities",
         "title": "Quantitative Research Analyst Intern",
         "source": "Simplify",
@@ -202917,7 +202917,7 @@
         "company_name": "iSono Health",
         "id": "11e59e53-7009-4f00-9efa-175b35ee840f",
         "title": "Software Engineering Intern (Internship)",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -203037,7 +203037,7 @@
         "company_name": "Ciena",
         "id": "ab843abc-edeb-45eb-90e0-c9cbc09a6bf9",
         "title": "Software Co-op Student - Liquid Spectrum Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -203719,7 +203719,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "b8c55504-664c-4575-83d1-b2ac50115a75",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205234,6 +205234,146 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/CrucialLogics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Elekta",
+        "id": "ae82c3eb-baa1-4e4b-8416-b48f960eb3e7",
+        "title": "Engineering & Science \u2013 Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752847787,
+        "date_posted": 1752847787,
+        "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/San-Jose/Engineering---Science---Software-Engineering-Intern_R2025-1140",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Elekta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AvicenaTech",
+        "id": "2a570640-8dd0-4185-adae-8783604d5e6e",
+        "title": "Software Systems Hardware Integration Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752878950,
+        "date_posted": 1752878950,
+        "url": "https://ats.rippling.com/general/jobs/81a2a70c-304b-4047-80e0-054502dbc175",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AvicenaTech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "aa0431ef-9cd7-4300-b708-a7b79ab5f7ca",
+        "title": "Firmware Development Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752878787,
+        "date_posted": 1752878787,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Firmware-Development-Engineer-Co-op_JR0275614",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "QuantCo",
+        "id": "6ae9f4e5-6bce-420b-b285-17a33a0d6355",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1752879172,
+        "date_posted": 1752879172,
+        "url": "https://jobs.lever.co/quantco-/09da5ced-a2fc-4cf1-9013-c177bb673e02/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/QuantCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "0fe15623-df2c-411d-9bba-5c60ad639fd3",
+        "title": "2026 Software Engineering Internship - Uber Career Prep",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752881301,
+        "date_posted": 1752881301,
+        "url": "https://university-uber.icims.com/jobs/146380/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "e8d959a9-515d-4530-973a-d59cb8825dc1",
+        "title": "2026 Software Engineering Uberstar Internship - Uber Career Prep",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752881249,
+        "date_posted": 1752881249,
+        "url": "https://university-uber.icims.com/jobs/146377/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "McKesson",
+        "id": "bcb6cd89-72ce-4d52-bfa0-348839aed02a",
+        "title": "Software & Database Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752880951,
+        "date_posted": 1752880951,
+        "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Software---Database-Development-Intern---Fall-2025_JR0133433-1",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/McKesson",
         "is_visible": true,
         "sponsorship": "Other"
     }
