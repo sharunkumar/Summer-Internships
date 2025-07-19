@@ -205396,5 +205396,192 @@
         "company_url": "https://simplify.jobs/c/Ciena",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tenstorrent",
+        "id": "6c1a5b1e-2711-4d53-b7f3-aa2637b02694",
+        "title": "Physical Design Intern - CPU/AI Hardware",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752922563,
+        "date_posted": 1752922563,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4526301007",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tenstorrent",
+        "id": "2a159136-4b54-47ea-841a-cd9da6e2ed19",
+        "title": "CPU Design Verification Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752922562,
+        "date_posted": 1752922562,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501100007",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tenstorrent",
+        "id": "6d7a0dfd-a6f5-403d-898d-b3a8a031d04d",
+        "title": "Software Intern - AI Compilers",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752922559,
+        "date_posted": 1752922559,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501189007",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tenstorrent",
+        "id": "4ccd3cc1-f196-4041-996c-f33e4728a6fe",
+        "title": "CPU Core Performance Verification Intern - CPU/AI Hardware",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752922555,
+        "date_posted": 1752922555,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501134007",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tenstorrent",
+        "id": "53a083aa-f7ae-4f4d-8a2d-4a9130721f72",
+        "title": "Acceleration Kernel Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752922556,
+        "date_posted": 1752922556,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tenstorrent",
+        "id": "090d7464-14d7-468a-af4c-53506f99815c",
+        "title": "Scaleout Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752922557,
+        "date_posted": 1752922557,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4583168007",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tenstorrent",
+        "id": "125dfd48-ec38-40b4-90de-7514665e2a46",
+        "title": "Design Verification Software Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752922557,
+        "date_posted": 1752922557,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4522665007",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tenstorrent",
+        "id": "f4ab5c55-fdaa-4b85-bae6-d22f9b18e7ce",
+        "title": "Physical Design for Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752922553,
+        "date_posted": 1752922553,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tenstorrent",
+        "id": "a02ffae4-632a-461b-91f5-3b8e276e7933",
+        "title": "RTL Design Intern - CPU/AI Hardware",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752922558,
+        "date_posted": 1752922558,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501108007",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
