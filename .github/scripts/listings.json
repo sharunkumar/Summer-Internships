@@ -205583,5 +205583,27 @@
         "company_url": "https://simplify.jobs/c/Tenstorrent",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LiveRamp",
+        "id": "e5e0c406-a702-4e37-99b2-f95714b459f4",
+        "title": "Software Engineer Co-Op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752965396,
+        "date_posted": 1752965396,
+        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Software-Engineer-Co-Op_JR011692",
+        "locations": [
+            "SF",
+            "NYC",
+            "North Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/LiveRamp",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
