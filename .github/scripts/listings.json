@@ -205323,7 +205323,7 @@
         "company_name": "Uber",
         "id": "0fe15623-df2c-411d-9bba-5c60ad639fd3",
         "title": "2026 Software Engineering Internship - Uber Career Prep",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205343,7 +205343,7 @@
         "company_name": "Uber",
         "id": "e8d959a9-515d-4530-973a-d59cb8825dc1",
         "title": "2026 Software Engineering Uberstar Internship - Uber Career Prep",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
