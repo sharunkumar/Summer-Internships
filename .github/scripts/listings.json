@@ -186362,7 +186362,7 @@
         "company_name": "Nokia",
         "id": "18f07f8b-3b29-4b88-be1f-dcf7aa54af89",
         "title": "Software Development Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -205283,7 +205283,7 @@
         "company_name": "Intel",
         "id": "aa0431ef-9cd7-4300-b708-a7b79ab5f7ca",
         "title": "Firmware Development Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205603,6 +205603,47 @@
             "North Little Rock, AR"
         ],
         "company_url": "https://simplify.jobs/c/LiveRamp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Warner Bros.",
+        "id": "5946f52b-26d5-4c66-ab61-661cc98cf32e",
+        "title": "CNN Research & Analytics Internships - Fall 2025",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1753081978,
+        "date_posted": 1753081978,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/CNN-Research---Analytics-Internships--ATL---Fall-2025_R000096208",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Warner Bros.",
+        "id": "b5df519b-b779-42c4-9aec-265558818b47",
+        "title": "Sports Analytics Internships - Fall 2025",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753081978,
+        "date_posted": 1753081978,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Analytics-Internships--ATL---Fall-2025_R000096210",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
         "is_visible": true,
         "sponsorship": "Other"
     }
