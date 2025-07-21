@@ -192009,7 +192009,7 @@
         "company_name": "Neuralink",
         "id": "a2dfea15-9579-4b72-97ab-b4d45941a3b8",
         "title": "Software Engineer Intern - Implant",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746685496,
         "date_posted": 1746685496,
@@ -203759,7 +203759,7 @@
         "company_name": "Base Power",
         "id": "8204aabf-4c8d-40fb-9923-d0c0b186732b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204003,7 +204003,7 @@
         "company_name": "Bank of America",
         "id": "f4aed11b-ac6f-4335-b335-a67616533eba",
         "title": "Global Technology Apprentice - Npower/Per Scholas",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -204023,7 +204023,7 @@
         "company_name": "Bank of America",
         "id": "ab78f20f-8294-42fc-88e6-68c970b84504",
         "title": "Global Technology Apprentice - Npower/Per Scholas",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -204045,7 +204045,7 @@
         "company_name": "Bank of America",
         "id": "06dac1c9-4122-4a97-8607-107fda70c938",
         "title": "Global Technology Apprentice - Community College",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
