@@ -187109,7 +187109,7 @@
         "company_name": "IJM",
         "id": "f34c829f-78b9-441b-9f8d-207961a32efc",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -197283,20 +197283,22 @@
         "category": "Software",
         "company_name": "Blue Origin",
         "id": "545c1ba4-aad0-4d0a-8062-462629f0715e",
-        "title": "Avionics Software Engineering Intern - Undergraduate",
+        "title": "Avionics Software Engineering Intern",
         "active": true,
         "terms": [
             "Spring 2026"
         ],
-        "date_updated": 1748795783,
+        "date_updated": 1753108129,
         "date_posted": 1748795783,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Spring-2026-Avionics-Software-Engineering-Intern---Undergraduate_R52403",
         "locations": [
-            "Seattle, WA"
+            "Seattle, WA",
+            "Denver, CO",
+            "Los Angeles, CA"
         ],
         "company_url": "https://simplify.jobs/c/Blue-Origin",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "date_updated": 1749268060,
@@ -199003,7 +199005,7 @@
         "company_name": "ATPCO",
         "id": "d13103aa-3597-4a98-8c36-81e1c36c7495",
         "title": "Platform Capability Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -203779,7 +203781,7 @@
         "company_name": "Autodesk",
         "id": "ac2977ee-d3b6-42cf-a58c-351df28acdc4",
         "title": "Intern Software Developer - Stagiaire en D\u00e9veloppement Logiciel",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204588,7 +204590,7 @@
         "company_name": "Geotab",
         "id": "c6e38bc7-daae-4ab6-9728-3b51745a9025",
         "title": "Software Development Intern - IO Mobile App Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205243,7 +205245,7 @@
         "company_name": "Elekta",
         "id": "ae82c3eb-baa1-4e4b-8416-b48f960eb3e7",
         "title": "Engineering & Science \u2013 Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
