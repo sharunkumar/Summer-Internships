@@ -201197,7 +201197,7 @@
         "company_name": "Altera Corporation",
         "id": "19f0a0c7-14d4-4b86-a515-05f0e1690d15",
         "title": "Embedded Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204438,7 +204438,7 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
+        "category": "Quant",
         "company_name": "Akuna Capital",
         "id": "0f902ab7-852b-4624-9759-d50392926fc8",
         "title": "Quantitative Development & Strategy Intern",

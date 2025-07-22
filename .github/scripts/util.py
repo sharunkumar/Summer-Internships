@@ -141,7 +141,7 @@ def classifyJobCategory(job):
         category = job["category"].lower()
         if category in ["hardware", "hardware engineering", "embedded engineering"]:
             return "Hardware Engineering"
-        elif category in ["quant", "quantitative finance"]:
+        elif category in ["quant", "quantitative finance", "fintech engineering", "fintech"]:
             return "Quantitative Finance"
         elif category in ["ai/ml/data", "data & analytics", "ai & machine learning", "data science"]:
             return "Data Science, AI & Machine Learning"
