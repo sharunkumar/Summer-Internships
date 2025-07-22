@@ -197284,7 +197284,7 @@
         "company_name": "Blue Origin",
         "id": "545c1ba4-aad0-4d0a-8062-462629f0715e",
         "title": "Avionics Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -202335,7 +202335,7 @@
         ]
     },
     {
-        "date_updated": 1751938726,
+        "date_updated": 1753178182,
         "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-University-Recruiting---IT-Emerging-Talent-Summer-Intern-Program--Hybrid-_R355518-1",
         "locations": [
             "Rahway, NJ",
@@ -202343,14 +202343,14 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Merck",
         "title": "IT Intern",
         "source": "AlmondCroffle",
         "id": "2a58fa17-716b-4be6-8916-2d2c47f2b48c",
         "date_posted": 1751938726,
         "company_url": "",
-        "is_visible": true,
+        "is_visible": false,
         "terms": [
             "Summer 2026"
         ]
@@ -205862,5 +205862,43 @@
         "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753167130,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6542613003?gh_src=3ad4b3093us",
+        "company_name": "Rocket Lab",
+        "title": "Software Intern Fall 2025",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "f763e13a-9d72-474c-b855-1ac5ed14c36f",
+        "date_posted": 1753167130,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753177953,
+        "url": "https://careers.kearneyco.com/jobs/4822?lang=en-us",
+        "company_name": "Kearney&Co",
+        "title": "Data Analytics Internship",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "r-zemam",
+        "id": "8cc151ea-ae04-43a3-9026-1dc72a2bcf38",
+        "date_posted": 1753177953,
+        "company_url": "",
+        "is_visible": true
     }
 ]
