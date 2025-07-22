@@ -125823,7 +125823,7 @@
         "company_name": "Astranis",
         "id": "0c4eb9cc-4a38-44bf-84ed-4a3a33eeac97",
         "title": "Flight Software Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -129680,7 +129680,7 @@
         "company_name": "Amazon",
         "id": "a2baf8e3-dd66-4af5-b918-b05df02264b3",
         "title": "Neuron Compiler Software Engineer Intern - Annapurna ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -130655,7 +130655,7 @@
         "company_name": "Astranis",
         "id": "e58de69a-8d5d-46e4-b833-0545e896bc3f",
         "title": "Ground Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -164524,7 +164524,7 @@
         "company_name": "Astranis",
         "id": "92d88f3f-2cb2-4c81-a378-bb180cf64691",
         "title": "Full Stack Developer \u2013 Intern - Network Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -185314,7 +185314,7 @@
         "company_name": "Rocket Lab USA",
         "id": "8fbe4bde-afec-439e-8db8-e5cdc4a30060",
         "title": "Software Intern Fall 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -186901,7 +186901,7 @@
         "company_name": "IJM",
         "id": "4981864d-bf87-46a3-a4bf-55cf7e548317",
         "title": "Data & Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -189922,7 +189922,7 @@
         "company_name": "Amazon",
         "id": "e7ad70c9-ce61-47f8-9b75-e9c73c1bc251",
         "title": "2025 ASIC Physical Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -191613,7 +191613,7 @@
         "company_name": "Nokia",
         "id": "6cf00bd1-2dc3-4f0f-882d-ac92cc8131a6",
         "title": "Hardware Failure Analysis Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -193182,7 +193182,7 @@
         "company_name": "Nokia",
         "id": "d2a18477-34b8-4a56-b349-fc552f0345dd",
         "title": "Special Projects Software Dev Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -195968,7 +195968,7 @@
         "company_name": "Ciena",
         "id": "93db84d8-56d6-44d3-88e1-a2ea95d057f9",
         "title": "Hardware Design Intern-Interconnect/Signal Integrity",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -198318,7 +198318,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "189ca38d-7a57-4de8-8dc1-1c99abf4b886",
         "title": "Stagiaire en conception de logiciels/Software Designer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -198925,7 +198925,7 @@
         "company_name": "The Walt Disney Company",
         "id": "731a7712-6c7a-400d-8931-435678ff09b8",
         "title": "Computer Graphics Technology Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -200472,7 +200472,7 @@
         "company_name": "Nokia",
         "id": "5c3dbc69-bcd9-4260-bdfb-77e0a1417a44",
         "title": "Firmware Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Winter 2025"
@@ -202385,8 +202385,8 @@
         "company_name": "Walleye Capital",
         "title": "Technology Intern",
         "category": "AI/ML/Data",
-        "source": "AlmondCroffle",
-        "id": "7840ddc8-22f6-4a81-b918-c3cd9a2e634c",
+        "source": "Simplify",
+        "id": "fcc647a6-bbe5-44f4-bd54-7ec4741098ea",
         "date_posted": 1751938726,
         "company_url": "",
         "is_visible": true,
@@ -202404,8 +202404,8 @@
         "active": true,
         "company_name": "Walleye Capital",
         "title": "Risk Quant Research Intern",
-        "source": "AlmondCroffle",
-        "id": "094fb87f-ba62-422c-948a-44f25e650ef5",
+        "source": "Simplify",
+        "id": "3751a4b4-bc2d-4c09-a44b-766f878d225a",
         "date_posted": 1751938726,
         "company_url": "",
         "is_visible": true,
@@ -202423,8 +202423,8 @@
         "active": true,
         "company_name": "Walleye Capital",
         "title": "Quantitative Researcher Intern",
-        "source": "AlmondCroffle",
-        "id": "c2a4c7b5-850c-493a-a8f4-664feebc6731",
+        "source": "Simplify",
+        "id": "8daccd86-7eef-4564-b20b-e3cdee2229ec",
         "date_posted": 1751938726,
         "company_url": "",
         "is_visible": true,
@@ -202442,8 +202442,8 @@
         "active": true,
         "company_name": "Walleye Capital",
         "title": "Quantitative Developer Intern",
-        "source": "AlmondCroffle",
-        "id": "01b79431-e2f4-48cb-8cd6-f4e422527165",
+        "source": "Simplify",
+        "id": "d7cc2264-cc9b-42af-a3a1-75d57798dd06",
         "date_posted": 1751938726,
         "company_url": "",
         "is_visible": true,
@@ -202461,8 +202461,8 @@
         "active": true,
         "company_name": "Walleye Capital",
         "title": "Equity Volatility Quant Researcher Intern",
-        "source": "AlmondCroffle",
-        "id": "a9976e71-84af-49d8-97b1-10f7a74362fd",
+        "source": "Simplify",
+        "id": "304d27a4-e6ff-46a1-be65-0384ee9b7bbf",
         "date_posted": 1751938726,
         "company_url": "",
         "is_visible": true,
@@ -203474,7 +203474,7 @@
         "company_name": "ExodusPoint",
         "id": "c8a165ab-f25d-4201-8479-5e3036447639",
         "title": "Artificial Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -205305,7 +205305,7 @@
         "company_name": "QuantCo",
         "id": "6ae9f4e5-6bce-420b-b285-17a33a0d6355",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -205646,6 +205646,220 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Warner Bros.",
+        "id": "8aa72ad4-7fe4-4f89-a01d-0e871730dc42",
+        "title": "Research & Analytics Internships - Fall 2025",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753122178,
+        "date_posted": 1753122178,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research---Analytics-Internships--NYC---Fall-2025_R000096209",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Five Rings Capital",
+        "id": "1c9ad46a-3060-4def-9979-2154b31b7e19",
+        "title": "Summer Intern - Quantitative Research Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753140023,
+        "date_posted": 1753140023,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4563192008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wells Fargo",
+        "id": "b33274f6-acab-4bf6-9237-e62c8ad81770",
+        "title": "2026 Analytics and Data Summer Internship - Early Careers",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753141354,
+        "date_posted": 1753141354,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Analytics-and-Data-Summer-Internship---Early-Careers_R-475778",
+        "locations": [
+            "Des Moines, IA",
+            "Dallas, TX",
+            "Charlotte, NC",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Morgan Stanley",
+        "id": "3c831e96-b42c-4023-99fe-aca3702e3e05",
+        "title": "MSIM-Portfolio Solutions-Quant Generalist-Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753142320,
+        "date_posted": 1753142320,
+        "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/MSIM--Portfolio-Solutions--Quant-Generalist--Intern_JR017183",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Walleye Capital",
+        "id": "24bd5cf5-6584-47ec-b744-6656776fb7c6",
+        "title": "Central Risk Book \u2013 Quant Research Intern - Crb",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753118206,
+        "date_posted": 1753118206,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565272006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Walleye-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wells Fargo",
+        "id": "556191e3-8d71-4017-b725-d0fa4bc80939",
+        "title": "2025 Emerging Talent Apprentice - Lgcc",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1753113460,
+        "date_posted": 1753113460,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/NEW-YORK-NY/XMLNAME-2025-Emerging-Talent-Apprentice---LGCC_R-475686-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wells Fargo",
+        "id": "ffe51158-461e-4569-ba8e-006aa3653f36",
+        "title": "Technology Summer Internship - Early Careers - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753113466,
+        "date_posted": 1753113466,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Technology-Summer-Internship---Early-Careers--Software-Engineer-_R-474982",
+        "locations": [
+            "Iselin, Woodbridge Township, NJ",
+            "Charlotte, NC",
+            "St. Louis, MO",
+            "Phoenix, AZ",
+            "Chandler, AZ",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nikkiso",
+        "id": "3562bd11-e289-44da-89b3-1cef60cf0737",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753118323,
+        "date_posted": 1753118323,
+        "url": "https://careers-nikkiso.icims.com/jobs/3493/job",
+        "locations": [
+            "Cypress, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Nikkiso",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Walleye Capital",
+        "id": "46895a50-4c9a-41cc-aa44-fe8c9aa4abe4",
+        "title": "Investment Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753118207,
+        "date_posted": 1753118207,
+        "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565271006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Walleye-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Trade Desk",
+        "id": "04aad1de-def9-41e3-9baa-8215982fe10d",
+        "title": "2026 Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753147307,
+        "date_posted": 1753147307,
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4787577007",
+        "locations": [
+            "Irvine, CA",
+            "NYC",
+            "Bellevue, WA",
+            "Denver, CO",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
         "is_visible": true,
         "sponsorship": "Other"
     }
