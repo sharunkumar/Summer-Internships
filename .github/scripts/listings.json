@@ -188311,7 +188311,7 @@
         "company_name": "TD Bank",
         "id": "c6b6ce8b-2100-4a15-b3f6-0af6d3e3c2ab",
         "title": "Asset Management Portfolio Analytics Developer Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -192234,7 +192234,7 @@
         "company_name": "Comcast",
         "id": "7c30f87c-a844-4404-ad91-7dd95002ac07",
         "title": "Comcast Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -192395,7 +192395,7 @@
         "company_name": "Formlabs",
         "id": "76ce9e44-de61-4ccf-8eb5-6bb40aabfed8",
         "title": "Hardware Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -201217,7 +201217,7 @@
         "company_name": "Autodesk",
         "id": "72c96fbc-f8cd-4977-9bf9-93929c6e2ac8",
         "title": "Intern \u2013 Software Developer/ Stagiaire en d\u00e9veloppement logiciels",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -203801,7 +203801,7 @@
         "company_name": "Zeiss",
         "id": "63cc4d2d-7397-4d65-af7b-a442760b16ff",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -205900,5 +205900,147 @@
         "date_posted": 1753177953,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veolia",
+        "id": "9e50abeb-1c4c-478f-8a02-8d6cf01148e1",
+        "title": "Bilingual \u2013 Digital Adoption Intern - Eng/FR",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753210079,
+        "date_posted": 1753210079,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000072057496",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Asana",
+        "id": "a93d91a8-8a68-4d90-834a-29be89f49104",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1753227968,
+        "date_posted": 1753227968,
+        "url": "https://www.asana.com/jobs/apply/7078075?gh_jid=7078075",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Asana",
+        "id": "2bb9bcfa-613f-4dfa-aeea-6182e412f02a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1753227962,
+        "date_posted": 1753227962,
+        "url": "https://www.asana.com/jobs/apply/7078082?gh_jid=7078082",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "McKesson",
+        "id": "839bdd2c-1074-4967-973f-0d0ff562e9ce",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1753227836,
+        "date_posted": 1753227836,
+        "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Software-Development-Intern---Fall-2025_JR0133412-1",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/McKesson",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Asana",
+        "id": "c09d8413-12d6-4d9d-8548-d7107f1a3990",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1753228731,
+        "date_posted": 1753228731,
+        "url": "https://www.asana.com/jobs/apply/7078079?gh_jid=7078079",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife",
+        "id": "8dcf4e03-2759-4c92-9c2e-f8bb5bbdf346",
+        "title": "Agentic AI Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753195299,
+        "date_posted": 1753195299,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Toronto-Ontario/Agentic-AI-Developer-Intern_JR25071102",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UNFPA",
+        "id": "d1335828-6000-4c1c-acd0-f5556b572763",
+        "title": "Geospatial Sciences Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2026"
+        ],
+        "date_updated": 1753193489,
+        "date_posted": 1753193489,
+        "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/jobs/job/27996",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/UNFPA",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
