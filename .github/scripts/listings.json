@@ -205907,7 +205907,7 @@
         "company_name": "Veolia",
         "id": "9e50abeb-1c4c-478f-8a02-8d6cf01148e1",
         "title": "Bilingual \u2013 Digital Adoption Intern - Eng/FR",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206040,6 +206040,47 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/UNFPA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "e71da27b-9b79-4c94-bbc3-6bbcf17e8fab",
+        "title": "System Simulation Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753252270,
+        "date_posted": 1753252270,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/System-Simulation-Engineering-Co-op_JR0275615",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "245c8ebf-1af2-42e6-93b0-07e3797dde29",
+        "title": "Stage \u2013 Transformation num\u00e9rique des op\u00e9rations / Internship - Digital Transformation of Operations",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1753266688,
+        "date_posted": 1752891299,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Internship-Fall_01780876",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     }
