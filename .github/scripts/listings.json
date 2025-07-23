@@ -199465,7 +199465,7 @@
         "company_name": "NVIDIA",
         "id": "989ddaf0-0d34-495c-b706-294d4343d165",
         "title": "Compiler Engineering Intern - GPU Compute and CUDA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -206081,6 +206081,26 @@
             "Longueuil, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Definity Financial",
+        "id": "0d6e0d09-97d5-4df7-9627-416cd9c2b82f",
+        "title": "Technology Solutions",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753285537,
+        "date_posted": 1753285537,
+        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/8303",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Definity-Financial",
         "is_visible": true,
         "sponsorship": "Other"
     }
