@@ -191293,7 +191293,7 @@
         "company_name": "NimbleRx",
         "id": "3546d9fb-2ff3-4d85-869a-75c46e69666d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -198985,7 +198985,7 @@
         "company_name": "Blockhouse",
         "id": "e5faa8c6-2682-4449-8981-18a5f12176f6",
         "title": "Quantitative Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -201277,7 +201277,7 @@
         "company_name": "Hearst",
         "id": "c6308d04-5ca6-4573-8553-fcdc2eeb99e8",
         "title": "Intern \u2013 Governance - Risk & Compliance",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -203474,7 +203474,7 @@
         "company_name": "ExodusPoint",
         "id": "c8a165ab-f25d-4201-8479-5e3036447639",
         "title": "Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -206049,7 +206049,7 @@
         "company_name": "Intel",
         "id": "e71da27b-9b79-4c94-bbc3-6bbcf17e8fab",
         "title": "System Simulation Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206101,6 +206101,45 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Definity-Financial",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753297309,
+        "url": "https://jobs.ashbyhq.com/a37/f457c131-1471-464a-9d23-5a9f94714c92",
+        "company_name": "a37",
+        "title": "Fullstack/MLE Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "brianlzhou",
+        "id": "f3104144-b5dc-4b87-b0be-aad6991b1090",
+        "date_posted": 1753297309,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "cfe6f158-be63-4ed0-89c1-ae005702a634",
+        "title": "Co-Op for NPOP Team",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753310620,
+        "date_posted": 1753310620,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/Co-Op-for-NPOP-Team_R25020204",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
         "is_visible": true,
         "sponsorship": "Other"
     }
