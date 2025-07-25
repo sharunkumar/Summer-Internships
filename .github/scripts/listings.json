@@ -199425,7 +199425,7 @@
         "company_name": "Ciena",
         "id": "719b6c71-b98b-4a5c-aba0-27f61aba89a4",
         "title": "12-month Product Verification Security Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -205552,7 +205552,7 @@
         "company_name": "Tenstorrent",
         "id": "f4ab5c55-fdaa-4b85-bae6-d22f9b18e7ce",
         "title": "Physical Design for Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206139,6 +206139,45 @@
             "Newark, NJ"
         ],
         "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753403845,
+        "url": "https://asana.com/jobs/apply/7078079?gh_jid=7078079",
+        "company_name": "Asana",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Francisco CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "William-Leung",
+        "id": "1f084a00-0869-4ddf-a62e-d7a33c7a13a4",
+        "date_posted": 1753403845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Signify",
+        "id": "e5f9a242-713c-401f-9aba-c68cadc4f923",
+        "title": "Digital & Technology Solutions Degree Apprenticeship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753406064,
+        "date_posted": 1747326794,
+        "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-UK/Validation-Engineer-Apprentice_357468",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Signify",
         "is_visible": true,
         "sponsorship": "Other"
     }
