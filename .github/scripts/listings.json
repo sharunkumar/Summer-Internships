@@ -203944,7 +203944,7 @@
         "company_name": "Magna",
         "id": "942b4383-c408-4291-b7bd-eb32e9e97cac",
         "title": "Data Science & Analytics WCM Co-op Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206007,7 +206007,7 @@
         "company_name": "Manulife",
         "id": "8dcf4e03-2759-4c92-9c2e-f8bb5bbdf346",
         "title": "Agentic AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206178,6 +206178,87 @@
             "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Signify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chainlink Labs",
+        "id": "781f484d-eb88-40fb-9276-bcf4b9d5fe6c",
+        "title": "Research Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753418703,
+        "date_posted": 1753418703,
+        "url": "https://jobs.ashbyhq.com/chainlink-labs/203f6551-100f-42a5-90a6-3bb29e58a9f6/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chainlink-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fizz",
+        "id": "2b9c6225-2cfa-4dea-8b2b-d48dbf13661a",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753418233,
+        "date_posted": 1753418233,
+        "url": "https://jobs.ashbyhq.com/fizz/6ba63204-10ab-47d4-a991-259091d82053/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fizz-Social",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Aerospace",
+        "id": "ea019bd3-3a85-4f49-b027-cd92cd78fd28",
+        "title": "Digital Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753418974,
+        "date_posted": 1753418974,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Intern---US---Summer-2026_R5002160-1",
+        "locations": [
+            "Livonia, MI",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CompScience",
+        "id": "73899a9e-ce46-4fd5-880e-b47eca53da42",
+        "title": "Engineering Internship Program",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753424312,
+        "date_posted": 1753424312,
+        "url": "https://jobs.ashbyhq.com/compscience/0701a16f-4858-4d63-b9fb-2f052655369d/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CompScience",
         "is_visible": true,
         "sponsorship": "Other"
     }
