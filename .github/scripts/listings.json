@@ -189822,7 +189822,7 @@
         "company_name": "Marvell",
         "id": "c42cba08-11b2-422c-b319-f0c7a3abe006",
         "title": "Digital Design Intern - Bachelors",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1743920016,
         "date_posted": 1743920016,
@@ -199550,7 +199550,7 @@
         "company_name": "Amazon",
         "id": "753c4120-5b70-4adf-8e9a-7b1b2892215e",
         "title": "Software Development Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Fall 2023",
@@ -201338,7 +201338,7 @@
         "company_name": "Lendbuzz",
         "id": "980fbaf2-ceb5-4abd-9aa8-40665ba0bf28",
         "title": "Co-op \u2013 Machine Learning Engineer - Portuguese / Spanish",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206259,6 +206259,26 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CompScience",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Definity Financial",
+        "id": "c7b25112-cf8f-4396-aec9-11a1e4eadb48",
+        "title": "Risk Services Analyst",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753409989,
+        "date_posted": 1753409989,
+        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/8374",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Definity-Financial",
         "is_visible": true,
         "sponsorship": "Other"
     }
