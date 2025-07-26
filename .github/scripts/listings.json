@@ -206301,5 +206301,24 @@
         "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753492422,
+        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/ok1Awfwb",
+        "company_name": "Metropolitan Transportation Authority",
+        "title": "Software Development, Emerging Talent Intern",
+        "locations": [
+            "New York City, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "hamim23z",
+        "id": "9d48f5ab-5719-43f7-bfc8-b7d1409d0121",
+        "date_posted": 1753480519,
+        "company_url": "",
+        "is_visible": false
     }
 ]
