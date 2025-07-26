@@ -201156,7 +201156,7 @@
         "company_name": "Nokia",
         "id": "40ce21dd-c6e2-4ced-bb9a-9a3d66073375",
         "title": "Software Development Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -206320,5 +206320,45 @@
         "date_posted": 1753480519,
         "company_url": "",
         "is_visible": false
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Geotab",
+        "id": "ae8461f4-875e-4754-84eb-77f3f893d974",
+        "title": "Embedded Developer Intern - Platform Reliability & Security",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753493807,
+        "date_posted": 1753493807,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4669628008",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Accenture",
+        "id": "c5e2a6e7-15d7-4f60-8131-1e9a26916bb5",
+        "title": "Graduate Intern - Applied Research Scientist",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753494846,
+        "date_posted": 1753494846,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mountain-View-650-Castro-Corp/Center-for-Advanced-AI---Applied-Research-Scientist---Fall-Graduate-Intern---NAELFY26_R00279161",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
