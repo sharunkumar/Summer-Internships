@@ -178465,7 +178465,7 @@
         "company_name": "Hydrow",
         "id": "00b7c46d-8c84-4606-b53e-1d308c6b41f8",
         "title": "Co-op: Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -187573,7 +187573,7 @@
         "company_name": "Corewell Health",
         "id": "ea7d4fbf-8fbe-494b-929e-07c041b3b680",
         "title": "HR Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1745508813,
         "date_posted": 1745508813,
@@ -196069,7 +196069,7 @@
         "company_name": "ByteDance",
         "id": "5465bad1-1227-4018-a11d-1ea0735cec19",
         "title": "Software Development Engineer Intern in Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -206358,6 +206358,107 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "a90371df-bcff-4ccd-acbf-e98dee89c3d3",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1753472518,
+        "date_posted": 1753472518,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Software-Development-Intern_R-00163313",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "N1",
+        "id": "d48ec36f-aeb5-4c12-92bc-b624855ba19d",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753484552,
+        "date_posted": 1753484552,
+        "url": "https://jobs.ashbyhq.com/n1/f40a263f-dc1a-4d67-81ed-2ba3c893567c/application",
+        "locations": [
+            "Oakland, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/N1",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "7795cff9-7de8-4256-b810-d3e481b2d8ba",
+        "title": "Physical Automation Co-Op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753481376,
+        "date_posted": 1753481376,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MCKINNEY-TXMCY/Physical-Automation-Co-Op_R25025593",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BorgWarner",
+        "id": "564a7cb1-829f-4e2f-bd89-26dab87c5903",
+        "title": "Simulation and Applied Statistics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753477890,
+        "date_posted": 1753477890,
+        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Arden---North-Carolina---USA/Simulation-and-Applied-Statistics-Intern_R2025-2872",
+        "locations": [
+            "Arden, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/BorgWarner",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": " PrizePicks",
+        "id": "ad043edd-7bfb-41b6-aeee-c9274666b67a",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753484202,
+        "date_posted": 1753484202,
+        "url": "http://prizepicks.com/position?gh_jid=6660981003",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/PrizePicks",
         "is_visible": true,
         "sponsorship": "Other"
     }
