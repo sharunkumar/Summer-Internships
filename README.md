@@ -13,9 +13,9 @@
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[JP Morgan Chase](https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company)** | Software Engineer Internship | Atlanta, GA | <div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210646112?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1b806319-cc33-48f2-b80c-72890a2eb4ec?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
-| **[BILL](https://simplify.jobs/c/Bill-Dot-Com?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | San Jose, CA</br>Draper, UT | <div align="center"><a href="https://www.bill.com/job?5588094004&gh_jid=5588094004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1d99182b-c744-4d2f-a23f-19dc5a040262?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 11d |
-| **[QuinStreet](https://simplify.jobs/c/2899ea2e-f1cb-4ba2-aebd-2e61c21eef95?utm_source=GHList&utm_medium=company)** | Engineering Co-Op | San Mateo, CA | <div align="center"><a href="https://www.quinstreet.com/careers/?gh_jid=7066959&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a72044a5-3355-4e99-b299-d7314cdc7b8d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
-| **[ByteDance](https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3?utm_source=GHList&utm_medium=company)** | Backend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Content | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7522742153819670792/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e5d09b9b-d149-4b31-b702-af8c1b5f952f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 22d |
+| **[BILL](https://simplify.jobs/c/Bill-Dot-Com?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | San Jose, CA</br>Draper, UT | <div align="center"><a href="https://www.bill.com/job?5588094004&gh_jid=5588094004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1d99182b-c744-4d2f-a23f-19dc5a040262?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 12d |
+| **[QuinStreet](https://simplify.jobs/c/2899ea2e-f1cb-4ba2-aebd-2e61c21eef95?utm_source=GHList&utm_medium=company)** | Engineering Co-Op | San Mateo, CA | <div align="center"><a href="https://www.quinstreet.com/careers/?gh_jid=7066959&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a72044a5-3355-4e99-b299-d7314cdc7b8d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 15d |
+| **[ByteDance](https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3?utm_source=GHList&utm_medium=company)** | Backend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Content | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7522742153819670792/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e5d09b9b-d149-4b31-b702-af8c1b5f952f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 23d |
 | **[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | Dallas, TX | <div align="center"><a href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR103689?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b7935c76-a713-4867-98ee-1b5d3b61b5db?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 26d |
 | **[Mercedes-Benz](https://simplify.jobs/c/Mercedes-Benz?utm_source=GHList&utm_medium=company)** | Software Developer – AIX Intern | San Jose, CA | <div align="center"><a href="https://jobs.lever.co/MBRDNA/e987dc81-f177-4b4a-b605-670d8b68d00e/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b3e5a9c8-5692-44c5-9363-7b413b530683?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[Bits](https://simplify.jobs/c/Bits?utm_source=GHList&utm_medium=company)** | Software Engineer – Summer Internship | New York, NY | <div align="center"><a href="https://apply.workable.com/getbits/j/52E7B0CF95/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8e5903ba-fdd9-4b77-99bb-e78ca08e1321?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
@@ -43,7 +43,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (124)</summary>
+<summary>🗃️ Inactive roles (125)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -57,7 +57,7 @@
 | Juniper Networks | Software Engineering Intern - Summer 2025 | Sunnyvale, CA | 🔒 | 5mo |
 | **[7-Eleven](https://simplify.jobs/c/7-Eleven?utm_source=GHList&utm_medium=company)** | Software Engineer Intern, Anaplan (Summer 2025) | San Francisco, CA | 🔒 | 5mo |
 | ↳ | Software Developer Intern | Irving, TX | 🔒 | 5mo |
-| SAP | SAP iXp Intern - CX Data & AI Software Developer | San Francisco, CA | 🔒 | 5mo |
+| SAP | SAP iXp Intern - CX Data & AI Software Developer | San Francisco, CA | 🔒 | 6mo |
 | Wizards of the Coast | Intern - Software Development Engineer | Renton, WA | 🔒 | 6mo |
 | SAP | SAP iXp Intern - Software Developer | Palo Alto, CA | 🔒 | 6mo |
 | **[Analog Devices](https://simplify.jobs/c/Analog-Devices?utm_source=GHList&utm_medium=company)** | Algorithm Engineer Intern | Boston, MA | 🔒 | 6mo |
@@ -73,8 +73,8 @@
 | CommScope | Software Engineering Intern | Lowell, MA | 🔒 | 6mo |
 | Johnson & Johnson | 2025 MAKE Summer Software Engineering Intern | Jacksonville, FL | 🔒 | 6mo |
 | **[Salesforce](https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company)** | Summer 2025 Intern - Software Engineering, BT | Dallas, TX | 🔒 | 6mo |
-| Thermo Fisher Scientific | Artificial Intelligence Internship | Pittsburgh, PA | 🔒 | 6mo |
-| TikTok | Software Engineer Intern (CIS Privacy and Security) - 2025 Summer (BS/MS) | Seattle, WA | 🔒 | 6mo |
+| Thermo Fisher Scientific | Artificial Intelligence Internship | Pittsburgh, PA | 🔒 | 7mo |
+| TikTok | Software Engineer Intern (CIS Privacy and Security) - 2025 Summer (BS/MS) | Seattle, WA | 🔒 | 7mo |
 | **[Zoox](https://simplify.jobs/c/Zoox?utm_source=GHList&utm_medium=company)** | Test Infrastructure Intern | San Carlos, CA | 🔒 | 7mo |
 | HMH | Intern - Software Engineer | Portland, OR | 🔒 | 7mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship, Reinforcement Learning Engineer, Tesla Bot | Palo Alto, CA | 🔒 | 7mo |
@@ -110,7 +110,7 @@
 | **[Coinbase](https://simplify.jobs/c/Coinbase?utm_source=GHList&utm_medium=company)** | Security Engineer Intern | New York, NY | 🔒 | 8mo |
 | Micron Technology | Intern - Software Engineer CXL development | San Jose, CA | 🔒 | 8mo |
 | **[Salesforce](https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company)** | Summer 2025 - AI Software Engineer Intern | Palo Alto, CA | 🔒 | 8mo |
-| **[Nutanix](https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company)** | Systems Engineering Intern | Durham, NC | 🔒 | 8mo |
+| **[Nutanix](https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company)** | Systems Engineering Intern | Durham, NC | 🔒 | 9mo |
 | Vizient, Inc | Summer Intern - Software Engineering | Chicago, IL | 🔒 | 9mo |
 | Honeywell | Future IT Leaders - Summer 2025 Intern | Charlotte, NC</br>Atlanta, GA</br>Phoenix, AZ</br>Houston, TX | 🔒 | 9mo |
 | Walgreens | IT Infrastructure & Engineering Internship | Deerfield, IL | 🔒 | 9mo |
@@ -128,6 +128,7 @@
 | Iridium Satellite | Software Automation Intern | Chandler, AZ | 🔒 | 9mo |
 | Dolby | Software Development Engineering Intern (Summer 2025) | San Francisco, CA | 🔒 | 9mo |
 | Cigna | Software Engineering Internship | Philadelphia, PA</br>Bloomfield, CT</br>St. Louis, MO</br>Denver, CO l Morris Plains, NJ l Nashville/Franklin, TN</br>Austin, TX</br>Bloomington, MN | 🔒 | 9mo |
+| **[HeyGen](https://simplify.jobs/c/HeyGen?utm_source=GHList&utm_medium=company)** | Software Engineer – Intern | Palo Alto, CA</br>Toronto, ON, Canada</br>SF</br>LA | 🔒 | 9mo |
 | Hologic | Intern, R&D Software Engineering | San Diego, CA | 🔒 | 9mo |
 | Schneider Electric | Software Engineer Intern (Summer 2025) | North Andover, MA</br>Boston, MA | 🔒 | 9mo |
 | **[WeRide](https://simplify.jobs/c/WeRide?utm_source=GHList&utm_medium=company)** | 2025 Summer Intern - Software Engineer | San Jose, CA | 🔒 | 9mo |
@@ -147,7 +148,7 @@
 | **[Watershed](https://simplify.jobs/c/Watershed?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | San Francisco, CA | 🔒 | 10mo |
 | Qorvo | Software Engineer Intern | San Jose, CA, US | 🔒 | 10mo |
 | Newrez | Software Engineer Intern | Coppell, TX</br>Onsite | 🔒 | 10mo |
-| **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | Amazon Robotics - Software Development Engineer (SDE) Intern | Westborough, MA</br>North Reading, MA | 🔒 | 10mo |
+| **[Amazon](https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company)** | Amazon Robotics - Software Development Engineer (SDE) Intern | Westborough, MA</br>North Reading, MA | 🔒 | 11mo |
 | Estée Lauder | Summer 2025 Intern, Information Technology A.I. | United States | 🔒 | 11mo |
 | Leica Biosystems | Software Engineering Intern | Vista, CA | 🔒 | 11mo |
 | **[MongoDB](https://simplify.jobs/c/MongoDB?utm_source=GHList&utm_medium=company)** | Software Engineering, Product - Intern - 2025 | New York, NY | 🔒 | 11mo |
@@ -188,7 +189,7 @@
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | **[Leidos](https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company)** | Software Development Intern | Orlando, FL | <div align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Software-Development-Intern_R-00163313?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a90371df-bcff-4ccd-acbf-e98dee89c3d3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
-| **[McKinney](https://simplify.jobs/c/McKinney?utm_source=GHList&utm_medium=company)** | Intern – Data | Phoenix, AZ | <div align="center"><a href="https://job-boards.greenhouse.io/jobsmckinneycom/jobs/7009226?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c1594392-5219-4bdb-9f4c-6bbfe93e804e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 18d |
+| **[McKinney](https://simplify.jobs/c/McKinney?utm_source=GHList&utm_medium=company)** | Intern – Data | Phoenix, AZ | <div align="center"><a href="https://job-boards.greenhouse.io/jobsmckinneycom/jobs/7009226?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c1594392-5219-4bdb-9f4c-6bbfe93e804e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 19d |
 | **[LiveRamp](https://simplify.jobs/c/LiveRamp?utm_source=GHList&utm_medium=company)** | Co-op – Data Science | Seattle, WA</br>SF</br>Little Rock, AR</br>New York, NY | <div align="center"><a href="https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-op--Data-Science_JR011667?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/89b8ffb6-8d7c-4900-8706-96cfae17748d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[BorgWarner](https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company)** | Business Automation Intern | Auburn Hills, MI | <div align="center"><a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Business-Automation-Intern_R2025-2397?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/57dab389-8b07-4069-8915-49ea65020e69?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 | **[ByteDance](https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3?utm_source=GHList&utm_medium=company)** | Strategic Analysis Intern - AI Innovation Business - BS/MS | San Jose, CA | <div align="center"><a href="https://jobs.bytedance.com/en/position/7514899101986539783/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4126330c-823d-4312-856e-55a2b0e44924?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
@@ -266,7 +267,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
-| **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Audio Software Engineer Co-Op | Plantation, FL | <div align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Audio-Software-Engineer-Co-Op--Fall-2025-_R55185?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2b02a608-ae8b-45e5-a224-5baee594dfc6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 29d |
+| **[Motorola](https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company)** | Audio Software Engineer Co-Op | Plantation, FL | <div align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Audio-Software-Engineer-Co-Op--Fall-2025-_R55185?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2b02a608-ae8b-45e5-a224-5baee594dfc6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 30d |
 | **[Ciena](https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company)** | Wavelogic Software Intern | Atlanta, GA | <div align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern_R027872?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8c15e863-9761-4fd7-8e3d-8a6d45e2a524?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 
 
