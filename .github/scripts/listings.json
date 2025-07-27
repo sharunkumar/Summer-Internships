@@ -138795,7 +138795,7 @@
         "company_name": "Teledyne",
         "id": "468490c9-7c54-41d8-b2dc-ecb9f6088a0c",
         "title": "Software Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -191094,7 +191094,7 @@
         "company_name": "Verkada",
         "id": "9441c8b9-6a9a-45d2-ab82-1705d77fd1c5",
         "title": "Software Engineering Intern - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -192234,7 +192234,7 @@
         "company_name": "Comcast",
         "id": "7c30f87c-a844-4404-ad91-7dd95002ac07",
         "title": "Comcast Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -193834,7 +193834,7 @@
         "company_name": "Sony Pictures Imageworks",
         "id": "eaefad4f-6e23-44a5-b71f-f2e5e65865fd",
         "title": "Software Engineer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -194242,7 +194242,7 @@
         "company_name": "Amgen",
         "id": "ce4bd948-2c14-46f1-a057-d5875bcd7e9a",
         "title": "Undergraduate / Graduate Co-op Student - Software Engineer - Large Molecule Discovery - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -198945,7 +198945,7 @@
         "company_name": "Ciena",
         "id": "86a281b9-be8d-4f04-b246-faa021f43e63",
         "title": "Product Verification Automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -203801,7 +203801,7 @@
         "company_name": "Zeiss",
         "id": "63cc4d2d-7397-4d65-af7b-a442760b16ff",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205405,7 +205405,7 @@
         "company_name": "Tenstorrent",
         "id": "6c1a5b1e-2711-4d53-b7f3-aa2637b02694",
         "title": "Physical Design Intern - CPU/AI Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206459,6 +206459,67 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/PrizePicks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sony Pictures Entertainment",
+        "id": "bb0b208c-cddf-4c3b-9d0c-35871ac62017",
+        "title": "Systems & Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753569312,
+        "date_posted": 1753569312,
+        "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Systems---Data-Analytics-Intern--US-TV-Production---Fall-2025_JR108232",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/cba19b9c-c87b-4670-905f-598655ed2801",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Blockhouse",
+        "id": "a54ed89d-22a5-4e70-a329-1f4c976443e4",
+        "title": "Quantitative Research Internship",
+        "active": true,
+        "terms": [
+            "Fall 2023",
+            "Winter 2023"
+        ],
+        "date_updated": 1753389566,
+        "date_posted": 1753312635,
+        "url": "https://jobs.ashbyhq.com/blockhouse/c14ed20e-e1fc-41ca-9a36-7c21c1bed9b8/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Blockhouse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "6d4e59b1-765c-4c09-9833-47d5c3bc7922",
+        "title": "Engineering Co-Op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753412639,
+        "date_posted": 1753412639,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MIRA-LOMA-OPERATIONS-CAMRL/Solutions-Engineering-Co-Op_R25007890-1",
+        "locations": [
+            "Mira Loma, Jurupa Valley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
         "is_visible": true,
         "sponsorship": "Other"
     }
