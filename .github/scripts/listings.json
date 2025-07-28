@@ -198318,7 +198318,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "189ca38d-7a57-4de8-8dc1-1c99abf4b886",
         "title": "Stagiaire en conception de logiciels/Software Designer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -203863,7 +203863,7 @@
         "company_name": "Nokia",
         "id": "01593c1f-96ee-414d-84e9-47be3d0f7702",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
