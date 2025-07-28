@@ -197672,7 +197672,7 @@
         "company_name": "TransMarket Group",
         "id": "cf412da4-1f1d-43aa-8f7d-135ac859dfdf",
         "title": "Algorithmic Trader Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2027"
@@ -205203,7 +205203,7 @@
         "company_name": "Procter & Gamble (P&G)",
         "id": "7df12e4e-2c4c-4e11-90a0-4d3269000aba",
         "title": "2026 STEM BOLD Internship & Scholarship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Fall 2026",
@@ -205926,7 +205926,7 @@
         "company_name": "Asana",
         "id": "a93d91a8-8a68-4d90-834a-29be89f49104",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -205946,7 +205946,7 @@
         "company_name": "Asana",
         "id": "2bb9bcfa-613f-4dfa-aeea-6182e412f02a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -205987,7 +205987,7 @@
         "company_name": "Asana",
         "id": "c09d8413-12d6-4d9d-8548-d7107f1a3990",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -206710,5 +206710,89 @@
         "company_url": "https://simplify.jobs/c/Virtu-Financial",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KeyCorp",
+        "id": "83360f53-a0e3-4a8a-90b3-6441c1c75013",
+        "title": "2026 Summer Analytics and Quantitative Modeling Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753719818,
+        "date_posted": 1753719818,
+        "url": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/KeyCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "2cd5d5fc-61c2-42ad-b056-79b99fa3a9f0",
+        "title": "Embedded Software Engineer \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753721722,
+        "date_posted": 1753721722,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op--Fall-2025---4-16-Months-_R028495",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753724191,
+        "url": "https://jobs.lever.co/Arcade/1c849dd0-e3b5-4f73-bb56-1dc159ec6820",
+        "company_name": "Arcade",
+        "title": "Research Engineer Intern, Applied AI",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "aajain2",
+        "id": "2f94c67b-d250-453c-aec1-6a72456ecb0e",
+        "date_posted": 1753724191,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753724203,
+        "url": "https://jobs.lever.co/Arcade/07c31ffc-8333-4819-bde3-e2fd4272ad86",
+        "company_name": "Arcade",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Fall 2025",
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "aajain2",
+        "id": "cfae5044-39c8-4291-8cbb-532effc2c6fe",
+        "date_posted": 1753724203,
+        "company_url": "",
+        "is_visible": true
     }
 ]
