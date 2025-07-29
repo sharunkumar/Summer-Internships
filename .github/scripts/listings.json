@@ -207164,5 +207164,25 @@
         "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SoloPulse",
+        "id": "25f618ff-a04a-413e-8673-435b5ca87c57",
+        "title": "Software Engineer Intern/Co-Op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753772451,
+        "date_posted": 1753772451,
+        "url": "https://jobs.lever.co/solopulseco/ff0a8d2b-7734-4d24-b8f7-dd5a76b583b0/apply",
+        "locations": [
+            "Norcross, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/SoloPulse",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
