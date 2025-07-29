@@ -207184,5 +207184,138 @@
         "company_url": "https://simplify.jobs/c/SoloPulse",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753794282,
+        "url": "https://job-boards.greenhouse.io/tellius/jobs/4801983007",
+        "company_name": "Tellius",
+        "title": "AI Engineering Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "maevetellius",
+        "id": "a68a7eb6-6843-4470-9a78-2f594b44b9f2",
+        "date_posted": 1753794282,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753797508,
+        "url": "https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Richmond%2C-Virginia/Genworth-IT-Development-Program-Intern---Summer-2026_REQ-250327?workerSubType=7fa6841689a6106a8c0af76995631b08",
+        "company_name": "Genworth",
+        "title": "IT Development Program Intern",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "8be12d6b-c211-43e9-ac5e-031fa7bb122b",
+        "date_posted": 1753797508,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753798997,
+        "url": "https://jobs.lever.co/AIFund/08af7df2-3085-4d7b-ad74-10767e2d93db",
+        "company_name": "AI Fund",
+        "title": "Full-Stack Engineer Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "1dad2d7b-bd5c-4d6b-be7d-afa82377587a",
+        "date_posted": 1753798997,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753800498,
+        "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR103688",
+        "company_name": "Copart",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "1d121ea9-1c36-4ed3-92b8-53ec2b8f7b92",
+        "date_posted": 1753800498,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753800872,
+        "url": "https://apply.workable.com/datavisor-jobs/j/8C50D4D8CC/",
+        "company_name": "Datavisor",
+        "title": "Software Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a5d6e19b-4e0a-4fbf-972a-0a3fe88f0440",
+        "date_posted": 1753800872,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753801070,
+        "url": "https://jobs.ashbyhq.com/unify/95113ca1-4f4a-4435-8636-5758ce0d155e",
+        "company_name": "Unify",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "San Francisco, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "8348b8d0-7571-43c9-9c2d-de459ec7aa54",
+        "date_posted": 1753801070,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753801436,
+        "url": "https://careers-gdms.icims.com/jobs/67268/embedded-software-engineering-co-op/job?mobile=false&width=1117&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420",
+        "company_name": "General Dynamics",
+        "title": "Embedded Software Engineering Co-Op",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "eb29a32a-e4c3-4bbc-8c2a-3f2706aaaee7",
+        "date_posted": 1753801436,
+        "company_url": "",
+        "is_visible": true
     }
 ]
