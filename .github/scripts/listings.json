@@ -193023,7 +193023,7 @@
         "company_name": "Robinhood",
         "id": "1755cada-9e4f-49ef-823d-82b93fe9be4e",
         "title": "Software Developer Intern/Co-op - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205695,7 +205695,7 @@
         "company_name": "Wells Fargo",
         "id": "b33274f6-acab-4bf6-9237-e62c8ad81770",
         "title": "2026 Analytics and Data Summer Internship - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206128,7 +206128,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "cfe6f158-be63-4ed0-89c1-ae005702a634",
         "title": "Co-Op for NPOP Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206794,5 +206794,148 @@
         "date_posted": 1753724203,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "e0d07aa8-10d6-41ba-ac9d-be52f1a304ad",
+        "title": "Digital Verification Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753742800,
+        "date_posted": 1753742800,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Verification-Intern---Fall-2025_R-10059450",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blockhouse",
+        "id": "55c10134-f464-473a-97a6-4347e9faec26",
+        "title": "Crypto Quantitative Developer Internship",
+        "active": true,
+        "terms": [
+            "Fall 2023",
+            "Winter 2023"
+        ],
+        "date_updated": 1753743158,
+        "date_posted": 1753743158,
+        "url": "https://jobs.ashbyhq.com/blockhouse/551532d5-adc3-49a2-8bef-c94817bc5b84/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Blockhouse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Asana",
+        "id": "1d2f4592-790c-4de8-871b-49d3e29be22e",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2027"
+        ],
+        "date_updated": 1753745698,
+        "date_posted": 1753745698,
+        "url": "https://www.asana.com/jobs/apply/7078192?gh_jid=7078192",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Asana",
+        "id": "f4358b93-2379-4e15-9ddf-ebd87e229e56",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2027"
+        ],
+        "date_updated": 1753745692,
+        "date_posted": 1753745692,
+        "url": "https://www.asana.com/jobs/apply/7078152?gh_jid=7078152",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hudson River Trading",
+        "id": "e961b830-9cec-45ea-8007-4a01b4ce8128",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753745538,
+        "date_posted": 1753745538,
+        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6998786",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Hudson River Trading",
+        "id": "9ba23c17-8fb9-4971-9c69-ff7db55428ab",
+        "title": "Algorithm Development \u2013 Internship - Quant Research",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753745521,
+        "date_posted": 1753745521,
+        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6998811",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sony Pictures Entertainment",
+        "id": "35a41d86-7366-4f13-a92b-4ae229251df7",
+        "title": "Intern \u2013 IT Business Analysis - TV Networks",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753752796,
+        "date_posted": 1753752796,
+        "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Intern--IT-Business-Analysis--TV-Networks---Fall-2025_JR108255",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/cba19b9c-c87b-4670-905f-598655ed2801",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
