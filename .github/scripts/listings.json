@@ -119438,7 +119438,7 @@
         "company_name": "Altera",
         "id": "857ea339-1431-4ff9-a91d-c48fee5b99f9",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -203117,7 +203117,7 @@
         "company_name": "Weber Shandwick",
         "id": "0076f7ea-3093-4781-9e14-5c59176f719d",
         "title": "Media Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -203863,7 +203863,7 @@
         "company_name": "Nokia",
         "id": "01593c1f-96ee-414d-84e9-47be3d0f7702",
         "title": "Data fabric and network automation Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -205758,7 +205758,7 @@
         "company_name": "Wells Fargo",
         "id": "556191e3-8d71-4017-b725-d0fa4bc80939",
         "title": "2025 Emerging Talent Apprentice - Lgcc",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026",
