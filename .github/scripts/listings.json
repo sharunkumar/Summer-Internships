@@ -207642,5 +207642,25 @@
         "company_url": "https://simplify.jobs/c/Hitachi",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Trade Desk",
+        "id": "f7e0be1d-ea87-4940-bc4c-ef214840687d",
+        "title": "2026 Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753797045,
+        "date_posted": 1753797045,
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4784540007",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
