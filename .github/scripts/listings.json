@@ -187323,7 +187323,7 @@
         "company_name": "Nokia",
         "id": "b90c25ce-d478-4208-b03d-3ba75dc4fe48",
         "title": "NW Automation Practice Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -187590,7 +187590,7 @@
         "company_name": "Nokia",
         "id": "aea63ff3-bc4c-4097-884a-077491c09c08",
         "title": "Automation Engineer Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -203019,7 +203019,7 @@
         "company_name": "IPG DXTRA",
         "id": "27c4c5c3-1337-433a-8e86-8bcdf2c57345",
         "title": "Media Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204812,7 +204812,7 @@
         "company_name": "ATPCO",
         "id": "601ab90d-c0b2-4c34-aba9-5d9aeb94ac47",
         "title": "Software Engineer Intern - Fall",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205846,9 +205846,9 @@
         "title": "2026 Software Engineering Internship",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1753147307,
+        "date_updated": 1753831558,
         "date_posted": 1753147307,
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4787577007",
         "locations": [
@@ -206572,7 +206572,7 @@
         "company_name": "Peter Millar",
         "id": "3cd5f864-6b2d-4434-8798-0af875742623",
         "title": "Special Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -207071,9 +207071,9 @@
         "title": "Summer Intern - Telecommunications",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1753754621,
+        "date_updated": 1753831501,
         "date_posted": 1753754621,
         "url": "https://jobs.ashbyhq.com/Lynk/c7f7e208-f784-4970-980b-9a0c7b0e8ec7/application",
         "locations": [
@@ -207111,9 +207111,9 @@
         "title": "Software Engineering Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1753754615,
+        "date_updated": 1753831591,
         "date_posted": 1753754615,
         "url": "https://jobs.ashbyhq.com/Lynk/45674c74-be04-41ac-94d0-dfa83e3fe210/application",
         "locations": [
@@ -207317,5 +207317,330 @@
         "date_posted": 1753801436,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unify",
+        "id": "2d772373-731b-42c2-b337-f023cbd360d4",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753814037,
+        "date_posted": 1753814037,
+        "url": "https://jobs.ashbyhq.com/unify/95113ca1-4f4a-4435-8636-5758ce0d155e/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Unify-Gtm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Harmonic",
+        "id": "e8076d17-2280-4fa5-bed9-f5047d2de260",
+        "title": "Software Engineer Intern - Summer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1753815260,
+        "date_posted": 1753815260,
+        "url": "https://job-boards.greenhouse.io/harmonic/jobs/4591178005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/HarmonicAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Truist",
+        "id": "7074846a-4bbe-4274-883a-7c52fe779fa8",
+        "title": "Intern Conversion - Credit Sales & Trading Analyst Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753815096,
+        "date_posted": 1753815096,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2026-Truist-Securities---Credit-Sales---Trading-Analyst-Program--Intern-Conversion-_R0105083",
+        "locations": [
+            "Charlotte, NC",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "1b55e4c6-d1d8-4f1d-afbc-52357b131ae9",
+        "title": "Software Developer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753829797,
+        "date_posted": 1753829797,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304-1",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gimlet Labs",
+        "id": "d0c01d7e-2014-48ec-acdf-a55a31a1fce8",
+        "title": "AI Researcher \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753831192,
+        "date_posted": 1753831192,
+        "url": "https://jobs.ashbyhq.com/gimlet/373302e0-c4ab-4fdf-a8be-18ec45e4c5f5/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Gimlet-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gimlet Labs",
+        "id": "8154f734-12f7-4652-a99d-d28d1ac14d60",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753831189,
+        "date_posted": 1753831189,
+        "url": "https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Gimlet-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fable",
+        "id": "f5fa501e-e474-417b-8138-03f9c5a8e002",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753831061,
+        "date_posted": 1753831061,
+        "url": "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Fable",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allium",
+        "id": "8f826dc7-fbfb-49d7-b008-d17d4fd1a790",
+        "title": "Engineering Intern - Internal Platform",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753831049,
+        "date_posted": 1753831049,
+        "url": "https://jobs.ashbyhq.com/allium/0071bb2f-9fcf-430b-87d5-26a8f4001e2d/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Allium",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Globus Medical",
+        "id": "97f40342-4b82-4bae-b1d4-e95c5ab11c37",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753831333,
+        "date_posted": 1753831333,
+        "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Software-Engineer-Co-op_JR103892",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Globus-Medical",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753832237,
+        "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875",
+        "company_name": "Keybank",
+        "title": "2026 Summer Analytics and Quantitative Modeling Internship",
+        "locations": [
+            "Cleveland, Ohi"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "3b18d185-a436-4a4a-be2a-377f73684b0b",
+        "date_posted": 1753832237,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753832317,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Technology-US-Intern-Summer-2026/307248",
+        "company_name": "Deloitte",
+        "title": "Deloitte Technology - US Intern - Summer 2026",
+        "locations": [
+            "Hermitage, TN"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "da8367ea-614f-485e-bca2-aa3a258fd0ee",
+        "date_posted": 1753832317,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PNC Financial Services",
+        "id": "47709a7c-a287-47c5-9780-ffedf6e22fc1",
+        "title": "Technology Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1753832620,
+        "date_posted": 1753832620,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Technology-Summer-Intern_R196693",
+        "locations": [
+            "Cleveland, OH",
+            "Birmingham, AL",
+            "Dallas, TX",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Asana",
+        "id": "b0f42f02-ca6c-4967-9fc1-05e44a33f823",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2027"
+        ],
+        "date_updated": 1753832567,
+        "date_posted": 1753832567,
+        "url": "https://www.asana.com/jobs/apply/7071272?gh_jid=7071272",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hitachi",
+        "id": "7eba3b00-8e3f-4b55-87be-233c620da9fe",
+        "title": "Research Internship - AI Agents for Industrial Applications",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1753833505,
+        "date_posted": 1753833505,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Internship---AI-Agents-for-Industrial-Applications_R0100758",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hitachi",
+        "id": "7ee9d6a2-e989-4e8a-a909-abbe99192cb5",
+        "title": "Research Internship - Deep Learning & LLM-Based Solutions for Industrial Applications",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1753833490,
+        "date_posted": 1753833490,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Internship---Deep-Learning---LLM-Based-Solutions-for-Industrial-Applications_R0100515",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hitachi",
+        "id": "e0b379ae-6f9e-4a68-9c7a-7ed4f2b45cb1",
+        "title": "Applied Research Internship - RL for Industrial Controls Applications",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1753833494,
+        "date_posted": 1753833494,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Applied-Research-Internship---RL-for-Industrial-Controls-Applications_R0100513",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
