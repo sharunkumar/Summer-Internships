@@ -199527,7 +199527,7 @@
         "company_name": "BorgWarner",
         "id": "57dab389-8b07-4069-8915-49ea65020e69",
         "title": "Business Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -207662,5 +207662,297 @@
         "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753885793,
+        "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853",
+        "company_name": "Squarepoint",
+        "title": "Intern Quant Researcher",
+        "locations": [
+            "New York"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2025",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "90b18f30-a2fb-4d61-9c01-ebce10eeca83",
+        "date_posted": 1753885793,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753886304,
+        "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-portfolio-implementation-trading-and-portfolio-finance-summer-analyst/7022101?gh_jid=7022101#/",
+        "company_name": "AQR",
+        "title": "Portfolio Implementation, Trading and Portfolio Finance Summer Analyst",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ad243775-06bb-4d21-b6f9-6becc1b35bfd",
+        "date_posted": 1753886304,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753886466,
+        "url": "https://job-boards.greenhouse.io/neuralink/jobs/6648992003",
+        "company_name": "Neuralink",
+        "title": "Firmware Engineer Intern",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "773146b6-5594-40a6-bf71-81966afced00",
+        "date_posted": 1753886466,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753887047,
+        "url": "https://globusmedical.wd5.myworkdayjobs.com/en-US/gmed_careers/job/Audubon-PA/Software-Engineer-Co-op_JR103892",
+        "company_name": "Globus Medical",
+        "title": "Software Engineer Co-op",
+        "locations": [
+            "Audubon, PA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "d5a96687-d8f3-41ba-b29c-a693238eb9f5",
+        "date_posted": 1753887047,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753887172,
+        "url": "https://catalent.wd1.myworkdayjobs.com/en-US/External/job/Emeryville-CA/AI-Operations-Project-Internship_0090310",
+        "company_name": "Catalent",
+        "title": "AI Operations Project",
+        "locations": [
+            "Emeryville, CA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2025",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "3cb99435-ac73-4695-8b97-b2d73cd99471",
+        "date_posted": 1753887172,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753887303,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Santa-Clara-California-United-States/Research-Internship---AI-Agents-for-Industrial-Applications_R0100758",
+        "company_name": "Hitachi",
+        "title": "Research Internship \u2013 AI Agents for Industrial Applications",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2025",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "54d0ba18-9fe4-4769-b007-76a7b16069e0",
+        "date_posted": 1753887303,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753887407,
+        "url": "https://jobs.ashbyhq.com/realitydefender/39bb3911-38f3-4db6-9537-0ec90bfb7440",
+        "company_name": "Reality Defender",
+        "title": "Computer Vision Intern",
+        "locations": [
+            "Global Remote"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "34eaa388-6447-48c0-8fcf-2f78b8163555",
+        "date_posted": 1753887407,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753887979,
+        "url": "https://careers-heart.icims.com/jobs/16131/intern%2c-data-science-remote/job",
+        "company_name": "American Heart Association",
+        "title": "Intern, Data Science",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2025",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2d152a19-6776-4d9b-a84b-e9ec4caaa257",
+        "date_posted": 1753887979,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753888107,
+        "url": "https://careers.l3harris.com/en/job/-/-/4832/84133135648",
+        "company_name": "L3Harris Technologies",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "adb7f02f-04dc-490a-8bd5-4f2e51713d9e",
+        "date_posted": 1753888107,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753888981,
+        "url": "https://komatsu.jobs/job/Embedded-Controls-Software-Intern/31088-en_US",
+        "company_name": "Komatsu",
+        "title": "Embedded Controls Software Intern",
+        "locations": [
+            "Warrendale, PA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b8798162-16f0-43aa-82b3-e6cd55d2aac1",
+        "date_posted": 1753888981,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753895888,
+        "url": "https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e",
+        "company_name": "Allium",
+        "title": "Engineering Intern - AI",
+        "locations": [
+            "New York"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2025",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "d1ae8439-77a5-4545-a92d-a994cfe2603a",
+        "date_posted": 1753895888,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753897997,
+        "url": "https://asana.com/jobs/apply/7078152?gh_jid=7078152",
+        "company_name": "Asana",
+        "title": "Data Science Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "81e07779-67eb-4cc6-b58d-38fd96a0f54e",
+        "date_posted": 1753897997,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753898058,
+        "url": "https://asana.com/jobs/apply/7078192?gh_jid=7078192",
+        "company_name": "Asana",
+        "title": "Data Science Intern",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "2106be07-d00e-471c-82e2-941a6a192557",
+        "date_posted": 1753898058,
+        "company_url": "",
+        "is_visible": true
     }
 ]
