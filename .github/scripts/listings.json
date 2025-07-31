@@ -200164,7 +200164,7 @@
         "company_name": "LiveRamp",
         "id": "89b8ffb6-8d7c-4900-8706-96cfae17748d",
         "title": "Co-op \u2013 Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -208360,6 +208360,69 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T. Rowe Price",
+        "id": "8ee5b986-8499-4a01-9c96-f6ff2ed6ebe8",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1753943555,
+        "date_posted": 1753943555,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2026-Global-Technology-Software-Engineering-Internship_77527",
+        "locations": [
+            "Owings Mills, MD",
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/t-rowe-price",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "T. Rowe Price",
+        "id": "7e554010-b9ad-4be3-b642-5b4a13ed6298",
+        "title": "2026 Global Trading Internship Program",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2027"
+        ],
+        "date_updated": 1753943545,
+        "date_posted": 1753943545,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2026-Global-Trading-Internship-Program_77576",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/t-rowe-price",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DataVisor",
+        "id": "0c963e33-ad50-4d13-a647-6fa3fcee563f",
+        "title": "Software Engineer - 3 Months",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753810802,
+        "date_posted": 1753810802,
+        "url": "https://apply.workable.com/datavisor-jobs/j/8C50D4D8CC/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/DataVisor",
         "is_visible": true,
         "sponsorship": "Other"
     }
