@@ -203741,7 +203741,7 @@
         "company_name": "Base Power",
         "id": "84fb9450-6a32-4ad5-8c4a-2cbeb07ad086",
         "title": "Hardware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206068,7 +206068,7 @@
         "company_name": "RTX",
         "id": "245c8ebf-1af2-42e6-93b0-07e3797dde29",
         "title": "Stage \u2013 Transformation num\u00e9rique des op\u00e9rations / Internship - Digital Transformation of Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -207954,5 +207954,413 @@
         "date_posted": 1753898058,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753900848,
+        "url": "https://econtrols.applytojob.com/apply/CPny6ePXTz/IoT-Software-Developer-Intern-Summer-2026",
+        "company_name": "EControls",
+        "title": "IoT Software Developer Intern",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "76a04b29-32ac-492b-a3e8-fd7ccfdc5cd4",
+        "date_posted": 1753900848,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753901428,
+        "url": "https://pnc.wd5.myworkdayjobs.com/en-US/External/job/PA---Pittsburgh-15222/Quantitative-Analytics-Undergraduate-Intern_R196780",
+        "company_name": "PNC Bank",
+        "title": "Quantitative Analytics Undergraduate Intern",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c0bfaa5d-951b-4c0a-9256-bbfdb7d23687",
+        "date_posted": 1753901428,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753902751,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R105781",
+        "company_name": "Tencent",
+        "title": "Cloud Media Services Intern",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b55257a3-502c-431c-baaf-849281bbefee",
+        "date_posted": 1753902751,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753902847,
+        "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-Intern_R2109933",
+        "company_name": "KBR",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "3e14edb5-cec3-4f0c-8a3d-e17d388fa666",
+        "date_posted": 1753902847,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753903073,
+        "url": "https://www.bmwgroup.jobs/us/en/jobfinder/job-description-copy.161921.html",
+        "company_name": "BMW Group",
+        "title": "Product Development - Telematics & ConnectedDrive Services",
+        "locations": [
+            "Woodcliff Lake, NJ"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "91d6b9ac-c324-4427-8c22-2700eb41266d",
+        "date_posted": 1753903073,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753903161,
+        "url": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Software-Application-Engineer-Intern_2025-17664",
+        "company_name": "SEL",
+        "title": "Software Application Engineer Intern",
+        "locations": [
+            "Pullman, WA"
+        ],
+        "terms": [
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "52806a00-c046-4f0e-b4c3-05edf119d7d0",
+        "date_posted": 1753903161,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753903246,
+        "url": "https://jobs.ashbyhq.com/method/f86acf81-857c-454d-a508-8289163ad6eb",
+        "company_name": "Method",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Austin, TX",
+            "New York, NY"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b3d93de4-d3d7-4875-9624-204cfc856735",
+        "date_posted": 1753903246,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753903350,
+        "url": "https://careers.leonardodrs.com/job/Melbourne-Fall-2025-Software-Engineering-Intern-%28MLB%2C-FL%29-FL-32935/1308605900",
+        "company_name": "Leonardo DRS",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "fedfb83b-a53e-46a7-818d-eae47d1e8084",
+        "date_posted": 1753903350,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753903472,
+        "url": "https://www.peaknano.com/careers/software-engineer-intern-spring-26",
+        "company_name": "Peak Nano",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Macedonia, OH"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "41e6a8b5-f4e7-49ce-937d-8c7982659c8d",
+        "date_posted": 1753903472,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crowdstrike",
+        "id": "c25d8bdf-7ebf-4d8f-8763-f93229200038",
+        "title": "Frontend Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753913937,
+        "date_posted": 1753913937,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Frontend-Engineer-Intern---Fall-2025--Remote--CAN-_R24199",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Baseten",
+        "id": "513fb75b-6101-4a0f-96ad-e809fb8e0916",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753914653,
+        "date_posted": 1753914653,
+        "url": "https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Baseten",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HarbourVest",
+        "id": "bcf459e6-8c48-4c98-8acc-7425e5de6630",
+        "title": "Portfolio Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753914550,
+        "date_posted": 1753914550,
+        "url": "https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Portfolio-Analytics-Intern_R1920",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/HarbourVest",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microchip Technology",
+        "id": "be8b60a3-a50d-4a68-b13b-31ddf6a50e32",
+        "title": "Intern-Engineering - Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1753917773,
+        "date_posted": 1753917773,
+        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Data-Analyst-_R1100-25",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microchip Technology",
+        "id": "555cee32-8a3c-42f4-80fb-0cabe87ef3bd",
+        "title": "Intern-Engineering - Data Analyst",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753917771,
+        "date_posted": 1753917771,
+        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Data-Analyst-_R1091-25",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FGS Global",
+        "id": "86878f63-163d-404e-bb3d-ddadee7605fa",
+        "title": "IT Intern \u2013 CRM & Data Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753918944,
+        "date_posted": 1753918944,
+        "url": "https://job-boards.greenhouse.io/fgsglobal/jobs/4805848007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/FGS-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "5ee98427-9639-4bd1-aab3-77bf5b44bcaf",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753919868,
+        "date_posted": 1753919868,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Software-Development-Intern---Summer-2026_315321-1",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AbbVie",
+        "id": "cae188bf-ce85-4b79-8028-954730fbaca8",
+        "title": "Business Technology Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753922165,
+        "date_posted": 1753922165,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990008860976",
+        "locations": [
+            "Waukegan, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "9d726641-4bfa-459c-b64d-fe62b6c31bb7",
+        "title": "Data Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1753923275,
+        "date_posted": 1753923275,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000073609797",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "f3f95eb6-b37f-4b71-b1d1-017ea01d16c9",
+        "title": "Data Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1753923273,
+        "date_posted": 1753923273,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000073609410",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "6f018744-2fdf-4b38-bbab-b334c1e51a18",
+        "title": "Data Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1753923260,
+        "date_posted": 1753923260,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000073610595",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
