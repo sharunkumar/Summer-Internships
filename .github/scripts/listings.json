@@ -202509,20 +202509,20 @@
         ]
     },
     {
-        "date_updated": 1751938726,
+        "date_updated": 1753970719,
         "url": "https://job-boards.greenhouse.io/genevatrading/jobs/4767553007",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Geneva Trading",
         "title": "Quantitative Trader Intern",
         "source": "AlmondCroffle",
         "id": "c3cfca67-4238-4971-8d11-426837f2b1cd",
         "date_posted": 1751938726,
         "company_url": "",
-        "is_visible": true,
+        "is_visible": false,
         "terms": [
             "Summer 2026"
         ]
@@ -202815,14 +202815,14 @@
         ]
     },
     {
-        "date_updated": 1751938726,
+        "date_updated": 1753971049,
         "url": "https://wabtec.wd1.myworkdayjobs.com/en-US/wabtec_careers/job/Summer-2026-LEAD-Information-Technology-Intern_R0099765",
         "locations": [
             "Pittsburgh, PA",
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wabtec",
         "title": "Summer 2026 LEAD Information Technology Intern",
         "category": "AI/ML/Data",
@@ -202830,7 +202830,7 @@
         "id": "c19e2fc9-90dd-4195-8e4c-df9337436a70",
         "date_posted": 1751938726,
         "company_url": "",
-        "is_visible": true,
+        "is_visible": false,
         "terms": [
             "Summer 2026"
         ]
@@ -205020,25 +205020,23 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752704192,
+        "date_updated": 1753971149,
         "url": "https://careers.caterpillar.com/en/jobs/r0000313300/2026-summer-corporate-intern-digital-and-analytics",
         "company_name": "Caterpillar",
         "title": "Digital and Analytics",
         "locations": [
-            "Chicago, IL",
-            "Peoria, IL",
-            "Irving, TX"
+            "Chicago, IL Peoria, IL Irving, TX"
         ],
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "9172ef4a-5b49-4c4a-8994-cf56ecfd5921",
         "date_posted": 1752704192,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1752704767,
@@ -206143,7 +206141,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1753403845,
+        "date_updated": 1753972515,
         "url": "https://asana.com/jobs/apply/7078079?gh_jid=7078079",
         "company_name": "Asana",
         "title": "Software Engineer Intern",
@@ -206153,13 +206151,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "William-Leung",
         "id": "1f084a00-0869-4ddf-a62e-d7a33c7a13a4",
         "date_posted": 1753403845,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -206231,7 +206229,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1753418974,
+        "date_updated": 1753972578,
         "date_posted": 1753418974,
         "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Intern---US---Summer-2026_R5002160-1",
         "locations": [
@@ -206239,7 +206237,7 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/GE-Aerospace",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -207347,9 +207345,9 @@
         "title": "Software Engineer Intern - Summer",
         "active": true,
         "terms": [
-            "Summer 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1753815260,
+        "date_updated": 1753986339,
         "date_posted": 1753815260,
         "url": "https://job-boards.greenhouse.io/harmonic/jobs/4591178005",
         "locations": [
@@ -207369,7 +207367,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1753815096,
+        "date_updated": 1753970936,
         "date_posted": 1753815096,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/XMLNAME-2026-Truist-Securities---Credit-Sales---Trading-Analyst-Program--Intern-Conversion-_R0105083",
         "locations": [
@@ -207378,7 +207376,7 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Truist",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -207521,7 +207519,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753832317,
+        "date_updated": 1753972768,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Technology-US-Intern-Summer-2026/307248",
         "company_name": "Deloitte",
         "title": "Deloitte Technology - US Intern - Summer 2026",
@@ -207531,13 +207529,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "polinavishnev",
         "id": "da8367ea-614f-485e-bca2-aa3a258fd0ee",
         "date_posted": 1753832317,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -207755,7 +207753,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753887172,
+        "date_updated": 1753972851,
         "url": "https://catalent.wd1.myworkdayjobs.com/en-US/External/job/Emeryville-CA/AI-Operations-Project-Internship_0090310",
         "company_name": "Catalent",
         "title": "AI Operations Project",
@@ -207770,13 +207768,13 @@
             "Summer 2025",
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "3cb99435-ac73-4695-8b97-b2d73cd99471",
         "date_posted": 1753887172,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753887303,
@@ -207956,7 +207954,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753900848,
+        "date_updated": 1753972941,
         "url": "https://econtrols.applytojob.com/apply/CPny6ePXTz/IoT-Software-Developer-Intern-Summer-2026",
         "company_name": "EControls",
         "title": "IoT Software Developer Intern",
@@ -207966,13 +207964,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "76a04b29-32ac-492b-a3e8-fd7ccfdc5cd4",
         "date_posted": 1753900848,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753901428,
@@ -208425,5 +208423,62 @@
         "company_url": "https://simplify.jobs/c/DataVisor",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753985972,
+        "url": "https://careers-kimley-horn.icims.com/jobs/19367/software-developer-intern/job",
+        "company_name": "Kimley Horn",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": false,
+        "source": "polinavishnev",
+        "id": "23f9b154-2ee9-47f4-b87d-25c5c8aec18c",
+        "date_posted": 1753985972,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753986055,
+        "url": "https://jobs.ashbyhq.com/atomicsemi/68fba2a4-ca8c-448c-ad39-4d12b26a93e5",
+        "company_name": "Atomic Semi",
+        "title": "Full Stack Software Engineering Intern - Fall",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "e07eb3f7-bf2c-45a6-bf96-116fc88bb677",
+        "date_posted": 1753986055,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753986313,
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/Software-Developer-Associate--Intern-_RQ204199",
+        "company_name": "GDIT",
+        "title": "Software Developer Associate (Intern)",
+        "locations": [
+            "Bossier City, LA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "f2f1c82c-371f-4e92-92b1-0e1b75e9819c",
+        "date_posted": 1753986313,
+        "company_url": "",
+        "is_visible": true
     }
 ]
