@@ -205445,7 +205445,7 @@
         "company_name": "Tenstorrent",
         "id": "6d7a0dfd-a6f5-403d-898d-b3a8a031d04d",
         "title": "Software Intern - AI Compilers",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
