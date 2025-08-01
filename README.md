@@ -167,9 +167,9 @@
 | American Express | Technology Software Engineer Summer Internship | Phoenix, AZ</br>Hybrid | 🔒 | 11mo |
 | Ambarella | Software Engineer Intern | Santa Clara, CA | 🔒 | 11mo |
 | **[Microsoft](https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company)** | Software Engineer: Fullstack Intern | Redmond, WA | 🔒 | 11mo |
-| **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)** | Software Engineer – Internship - Defense Tech | Palo Alto, CA | 🔒 | 11mo |
-| ↳ | Software Engineer – Internship - Defense Tech | New York, NY | 🔒 | 11mo |
-| ↳ | Forward Deployed Software Engineer – Internship - Defense Tech | Washington, DC | 🔒 | 11mo |
+| **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)** | Software Engineer – Internship - Defense Tech | Palo Alto, CA | 🔒 | 12mo |
+| ↳ | Software Engineer – Internship - Defense Tech | New York, NY | 🔒 | 12mo |
+| ↳ | Forward Deployed Software Engineer – Internship - Defense Tech | Washington, DC | 🔒 | 12mo |
 | Confluent | Software Engineering Intern | Austin, TX | 🔒 | 12mo |
 | Notion | Software Engineering Intern (Summer 2025) | San Francisco, CA</br>New York, NY | 🔒 | 12mo |
 | Marshall Wace | Software Engineering Intern | London</br>New York, NY</br>Singapore</br>Hong Kong | 🔒 | 12mo |
