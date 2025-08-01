@@ -201217,7 +201217,7 @@
         "company_name": "Autodesk",
         "id": "72c96fbc-f8cd-4977-9bf9-93929c6e2ac8",
         "title": "Intern \u2013 Software Developer/ Stagiaire en d\u00e9veloppement logiciels",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204610,7 +204610,7 @@
         "company_name": "Nissan Global",
         "id": "67e55ea9-7dc1-4129-854b-083feca47415",
         "title": "Data Scientist Degree Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205141,7 +205141,7 @@
         "company_name": "American Axle & Manufacturing",
         "id": "1d6bdb23-cbfb-4de1-b070-944b63b3ad9a",
         "title": "Controls Application Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
