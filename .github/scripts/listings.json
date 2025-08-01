@@ -4682,7 +4682,7 @@
         "company_name": "Palantir",
         "id": "930b6c2c-a5c0-4871-a545-bf43ae8c31a9",
         "title": "Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -208367,7 +208367,7 @@
         "company_name": "T. Rowe Price",
         "id": "8ee5b986-8499-4a01-9c96-f6ff2ed6ebe8",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2026"
@@ -208389,7 +208389,7 @@
         "company_name": "T. Rowe Price",
         "id": "7e554010-b9ad-4be3-b642-5b4a13ed6298",
         "title": "2026 Global Trading Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027"
@@ -208564,6 +208564,167 @@
             "Minneapolis, MN"
         ],
         "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "PennState University",
+        "id": "9b3a298c-8894-407e-bb7b-b72434713c39",
+        "title": "Embedded Systems and Hardware Co-Op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754055979,
+        "date_posted": 1754055979,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2",
+        "locations": [
+            "Horsham, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "6ab6835f-e402-420e-b119-a7c369286ab4",
+        "title": "Frontend Software Engineer Intern - Global E-Commerce",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754062321,
+        "date_posted": 1754062321,
+        "url": "https://jobs.bytedance.com/en/position/7533346008655825159/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "082ca7b9-5288-4b74-98f7-b5c17bef229f",
+        "title": "Software Development Engineer in Test Intern - Global E-Commerce",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754062868,
+        "date_posted": 1754062868,
+        "url": "https://jobs.bytedance.com/en/position/7533346574367377672/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HPR (Hyannis Port Research)",
+        "id": "3f55a41c-bd7c-4855-83ca-36cd58dfe0ea",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754066819,
+        "date_posted": 1754066819,
+        "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667961003",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/HyannisPortResearch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "6feb48ea-78ab-4a85-ab90-66862ecc00a6",
+        "title": "IT Co-Op",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1754066456,
+        "date_posted": 1754066456,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Fall-Winter-2025-IT-Co-Op_168888",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SEL",
+        "id": "4e16d5dc-8fd7-4b4e-a047-d2a34d3d4566",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1754068009,
+        "date_posted": 1754068009,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2025-17584",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SEL",
+        "id": "6025f88a-da96-4b57-8e5c-df65e272dc83",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754067997,
+        "date_posted": 1754067997,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2025-17597",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sony",
+        "id": "3d16e213-d290-4dc5-9795-d9d9903e1a74",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754067958,
+        "date_posted": 1754067958,
+        "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-117822",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony",
         "is_visible": true,
         "sponsorship": "Other"
     }
