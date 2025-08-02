@@ -205822,7 +205822,7 @@
         "company_name": "Walleye Capital",
         "id": "46895a50-4c9a-41cc-aa44-fe8c9aa4abe4",
         "title": "Investment Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -207363,7 +207363,7 @@
         "company_name": "Truist",
         "id": "7074846a-4bbe-4274-883a-7c52fe779fa8",
         "title": "Intern Conversion - Credit Sales & Trading Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209493,7 +209493,7 @@
         "company_name": "Vanguard",
         "id": "32de91ea-8464-46ae-ad58-76366978ddef",
         "title": "IT Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -209667,6 +209667,94 @@
             "Canada"
         ],
         "company_url": "https://simplify.jobs/c/DataVisor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PIP Labs",
+        "id": "21a768af-44e6-4166-81bc-924935050640",
+        "title": "Engineering Intern - App Team",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753717078,
+        "date_posted": 1753717078,
+        "url": "https://jobs.lever.co/piplabs/175d9c4e-5994-431e-bb59-3d0cf0aba42d/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/PIP-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stax",
+        "id": "c55b74b5-fb2e-4dd6-a742-8a2a98658a58",
+        "title": "Software Engineer Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753717685,
+        "date_posted": 1753717685,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3442794",
+        "locations": [
+            "Orem, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/cc710af5-f21c-4b74-b377-d3b394b7b124",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altruist",
+        "id": "6d2aa9ac-ebaf-4c30-85d5-72c8bc871493",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754102255,
+        "date_posted": 1754102255,
+        "url": "https://altruist.com/join-altruist/5601833004?gh_jid=5601833004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "37af576e-0c5f-4966-b3b6-497946729e4d",
+        "title": "2025 Code for Good Hackathon \u2013 Summer Internship - Software Engineer Program",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754103505,
+        "date_posted": 1754103505,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210648143",
+        "locations": [
+            "Palo Alto, CA",
+            "Houston, TX",
+            "Austin, TX",
+            "Tampa, FL",
+            "Plano, TX",
+            "Chicago, IL",
+            "Columbus, OH",
+            "NYC",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
         "is_visible": true,
         "sponsorship": "Other"
     }
