@@ -208204,7 +208204,7 @@
         "company_name": "Microchip Technology",
         "id": "be8b60a3-a50d-4a68-b13b-31ddf6a50e32",
         "title": "Intern-Engineering - Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -208714,7 +208714,7 @@
         "company_name": "Sony",
         "id": "3d16e213-d290-4dc5-9795-d9d9903e1a74",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
