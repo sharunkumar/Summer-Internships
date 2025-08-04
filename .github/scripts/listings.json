@@ -208463,7 +208463,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753986313,
+        "date_updated": 1754274551,
         "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/Software-Developer-Associate--Intern-_RQ204199",
         "company_name": "GDIT",
         "title": "Software Developer Associate (Intern)",
@@ -208473,13 +208473,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "polinavishnev",
         "id": "f2f1c82c-371f-4e92-92b1-0e1b75e9819c",
         "date_posted": 1753986313,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -208515,7 +208515,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754032808,
+        "date_updated": 1754274872,
         "date_posted": 1754032808,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/jobs/job/210650080",
         "locations": [
@@ -208523,7 +208523,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Chase",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -208637,7 +208637,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754066819,
+        "date_updated": 1754274730,
         "date_posted": 1754066819,
         "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667961003",
         "locations": [
@@ -208645,7 +208645,7 @@
         ],
         "company_url": "https://simplify.jobs/c/HyannisPortResearch",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -208714,7 +208714,7 @@
         "company_name": "Sony",
         "id": "3d16e213-d290-4dc5-9795-d9d9903e1a74",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
