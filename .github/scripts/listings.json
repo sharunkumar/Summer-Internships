@@ -200859,7 +200859,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1751385393,
+        "date_updated": 1754409824,
         "date_posted": 1751385393,
         "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116/apply",
         "locations": [
@@ -201774,13 +201774,13 @@
         ]
     },
     {
-        "date_updated": 1751938726,
+        "date_updated": 1754417269,
         "url": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-City-Digital-Intern---2026_JR-254945",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Protiviti",
         "title": "Digital Intern",
         "category": "AI/ML/Data",
@@ -201788,7 +201788,7 @@
         "id": "fb090357-56f3-4b18-b5c7-8264f825e9ff",
         "date_posted": 1751938726,
         "company_url": "",
-        "is_visible": true,
+        "is_visible": false,
         "terms": [
             "Summer 2026"
         ]
@@ -206719,14 +206719,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1753719818,
+        "date_updated": 1754417399,
         "date_posted": 1753719818,
         "url": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875",
         "locations": [
             "Cleveland, OH"
         ],
         "company_url": "https://simplify.jobs/c/KeyCorp",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -207825,7 +207825,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753887979,
+        "date_updated": 1754417581,
         "url": "https://careers-heart.icims.com/jobs/16131/intern%2c-data-science-remote/job",
         "company_name": "American Heart Association",
         "title": "Intern, Data Science",
@@ -207833,20 +207833,15 @@
             "Remote"
         ],
         "terms": [
-            "Summer 2026",
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2025",
-            "Winter 2026",
-            "Spring 2026"
+            "Summer 2026"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "2d152a19-6776-4d9b-a84b-e9ec4caaa257",
         "date_posted": 1753887979,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753888107,
@@ -209346,16 +209341,16 @@
         "category": "Software",
         "company_name": "Ramp",
         "id": "39ae9c3c-4474-4565-b0b3-897552f89b41",
-        "title": "Software Engineer Internship - Frontend",
+        "title": "Software Engineering Internship - Frontend",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754346195,
+        "date_updated": 1754416640,
         "date_posted": 1754087223,
         "url": "https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa/application",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Ramp",
         "is_visible": true,
@@ -209555,7 +209550,7 @@
         "company_name": "CSC",
         "id": "3143b7b0-344a-456c-b0ff-4194e5f284de",
         "title": "Data Reporting and Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -209736,7 +209731,7 @@
         "company_name": "JP Morgan Chase",
         "id": "37af576e-0c5f-4966-b3b6-497946729e4d",
         "title": "2025 Code for Good Hackathon \u2013 Summer Internship - Software Engineer Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209780,7 +209775,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754330783,
+        "date_updated": 1754416513,
         "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2026_R218710-1",
         "company_name": "Capital One",
         "title": "Technology Internship Program - Summer 2026",
@@ -209792,13 +209787,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "hamim23z",
         "id": "8cbfccf6-8a38-46e4-9bfc-540dfef9f371",
         "date_posted": 1754330783,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -210260,5 +210255,46 @@
         "date_posted": 1754378177,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "174a07c8-fbf8-4230-a424-5d346a3ca5ba",
+        "title": "Software Engineer Intern - Payment Architecture - Global Payment",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1754410021,
+        "date_posted": 1754410021,
+        "url": "https://jobs.bytedance.com/en/position/7533369790536141063/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola",
+        "id": "212dc499-a662-4704-9d3b-ac2080f5586a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754413489,
+        "date_posted": 1754413489,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Software-Engineer-Intern_R56319",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
