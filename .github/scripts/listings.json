@@ -210192,5 +210192,73 @@
         "company_url": "https://simplify.jobs/c/Talos-Trading",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754377883,
+        "url": "https://nbtbancorp.wd12.myworkdayjobs.com/en-US/epic/job/Rochester-New-York/Student-Associate---Software-Engineer---EPIC_JR3617",
+        "company_name": "EPIC",
+        "title": "Student Associate - Software Engineer",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "68a97b61-7e02-4e63-b578-00bb0a61420e",
+        "date_posted": 1754377883,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754378083,
+        "url": "https://jobs.lever.co/convergentresearch/ae2f38c7-804e-45e0-b4c5-b5c666698d30",
+        "company_name": "Cultivarium",
+        "title": "Computer Vision and Machine Learning Intern",
+        "locations": [
+            "Watertown, MA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2026",
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f0046d13-bf59-4933-8985-28efd75937d9",
+        "date_posted": 1754378083,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754378177,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2026_R218613-1",
+        "company_name": "Capital One",
+        "title": "Cyber Security Internship Program",
+        "locations": [
+            "Mclean, VA",
+            "Plano, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "7dc4bfa6-d1e8-466a-983a-3f81f926fe65",
+        "date_posted": 1754378177,
+        "company_url": "",
+        "is_visible": true
     }
 ]
