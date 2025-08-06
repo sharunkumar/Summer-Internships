@@ -185687,7 +185687,7 @@
         "company_name": "Veolia",
         "id": "e5893996-b84a-41ef-9c84-606d12ebb185",
         "title": "Digital Adoption Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1744872509,
         "date_posted": 1744872509,
@@ -187226,7 +187226,7 @@
         "company_name": "Lumentum",
         "id": "a9621a7e-b43d-4797-be6a-fd4c9f8e463d",
         "title": "Process Automation Software Engineer Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -206446,7 +206446,7 @@
         "company_name": " PrizePicks",
         "id": "ad043edd-7bfb-41b6-aeee-c9274666b67a",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206715,7 +206715,7 @@
         "company_name": "KeyCorp",
         "id": "83360f53-a0e3-4a8a-90b3-6441c1c75013",
         "title": "2026 Summer Analytics and Quantitative Modeling Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -207445,7 +207445,7 @@
         "company_name": "Fable",
         "id": "f5fa501e-e474-417b-8138-03f9c5a8e002",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -210294,6 +210294,162 @@
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "bd5985bd-7c09-4dfe-b27f-46d6f0d3418a",
+        "title": "Forward Deployed Software Engineer \u2013 Internship - Commercial",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754429794,
+        "date_posted": 1754429794,
+        "url": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Chicago Trading Company",
+        "id": "51309188-7d62-41e9-9fbe-d02b155f9d0d",
+        "title": "Quant Trading Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754431442,
+        "date_posted": 1754431442,
+        "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4593774005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chicago Trading Company",
+        "id": "0f074937-3479-4ab1-8ba6-5f30386603ee",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754431449,
+        "date_posted": 1754431449,
+        "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4593772005",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "2c978ac6-354b-433b-85b1-97e6cd13fb55",
+        "title": "Summer 2026 University Internship Pipeline",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754432063,
+        "date_posted": 1754432063,
+        "url": "https://careers-peraton.icims.com/jobs/158530/job",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Moog Inc",
+        "id": "f64afbd4-decb-48c2-843c-156da8aeee65",
+        "title": "Intern \u2013 Artificial Intelligence",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754437877,
+        "date_posted": 1754437877,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-25-13375",
+        "locations": [
+            "Boston, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog-Inc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Alliaxis",
+        "id": "9186b9ce-15bc-4f7f-8581-953ff5f5e67b",
+        "title": "Manufacturing Excellence Co-op Student",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754440664,
+        "date_posted": 1754440664,
+        "url": "https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-op-Student_R-52959-1",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Alliaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Medtronic",
+        "id": "805ac1da-8344-4d6e-a9c3-a460012b5898",
+        "title": "Engineering Intern Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754443736,
+        "date_posted": 1754443736,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2026---Candidates-Attending-2025-SHPE-National-Convention_R41073-1",
+        "locations": [
+            "Boston, MA",
+            "Orange, CA",
+            "Santa Rosa, CA",
+            "Irvine, CA",
+            "Santa Clara, CA",
+            "Tempe, AZ",
+            "Ann Arbor, MI",
+            "Memphis, TN",
+            "Fort Worth, TX",
+            "North Haven, CT",
+            "Lafayette, CO",
+            "Minneapolis, MN",
+            "Newton, MA",
+            "Jacksonville, FL",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
         "is_visible": true,
         "sponsorship": "Other"
     }
