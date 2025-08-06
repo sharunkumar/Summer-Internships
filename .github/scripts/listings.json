@@ -198536,7 +198536,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1749614655,
+        "date_updated": 1754478546,
         "url": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Programmer-%28Fall-2025%29-Qu%C3%A9b-H4S-1Y9/1212251301",
         "company_name": "Bombardier",
         "title": "Intern, Programmer",
@@ -198546,13 +198546,13 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "b50f4695-ca31-4a4b-b26b-6710666f8da4",
         "date_posted": 1749614655,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -199837,23 +199837,24 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1750558409,
+        "date_updated": 1754478440,
         "url": "https://nakisa.com/career-opportunities/?gh_jid=4590663101",
         "company_name": "Nakisa",
         "title": "Software Developer Intern",
         "locations": [
-            "Montreal, Quebec, Canada"
+            "Montreal",
+            "Quebec, Canada"
         ],
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "59029780-d67d-4195-97b4-87c8323d4df6",
         "date_posted": 1750558409,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -203073,23 +203074,23 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752080685,
+        "date_updated": 1754478380,
         "url": "https://jobs.jobvite.com/careers/splunk-careers/job/ocD8vfwc",
         "company_name": "Splunk",
-        "title": "Product Manager Intern",
+        "title": "Site Reliability Engineer Intern",
         "locations": [
             "Remote"
         ],
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "Vitamoon",
         "id": "0467d78e-d6ec-422b-b5f2-0a0b411e22cf",
         "date_posted": 1752080685,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -203314,7 +203315,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1752137497,
+        "date_updated": 1754478198,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Robot-Learning-Platform---Fall-2025_JR1995734",
         "company_name": "NVIDIA",
         "title": "Software Engineering Intern - Robot Learning Platform",
@@ -203324,16 +203325,16 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "83e384ae-fc76-43d3-9937-d7c8653f3713",
         "date_posted": 1752137497,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1752137672,
+        "date_updated": 1754478146,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineering-Intern--GPU-Server---Fall-2025_JR1991278",
         "company_name": "NVIDIA",
         "title": "System Software Engineering Intern, GPU Server",
@@ -203343,16 +203344,16 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "08e875c0-37d9-4c14-a517-8edfc0c8c4a4",
         "date_posted": 1752137672,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1752137950,
+        "date_updated": 1754477985,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Intern--Sim2Real-Deployment---Fall-2025_JR1998912",
         "company_name": "NVIDIA",
         "title": "Robotics Software Intern - Sim2Real Deployment",
@@ -203362,13 +203363,13 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "77902452-0e2b-47dd-8fca-362b8d214de2",
         "date_posted": 1752137950,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1752139692,
@@ -203489,23 +203490,23 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1752185665,
+        "date_updated": 1754477757,
         "url": "https://www.pinterestcareers.com/jobs/6868494/software-engineering-intern-2025-toronto/?gh_jid=6868494",
         "company_name": "Pinterest",
         "title": "Software Engineering Intern",
         "locations": [
-            "Toronto, Canada"
+            "Pinterest, Canada"
         ],
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "59a2944f-01ba-41d7-b602-c513beeaddba",
         "date_posted": 1752185665,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -204522,7 +204523,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1752558239,
+        "date_updated": 1754477657,
         "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern--e-Transfer-_REQ-1870",
         "company_name": "Interac",
         "title": "Software Development Intern (e-Transfer)",
@@ -204532,13 +204533,13 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "3eba7b3a-5f7d-4127-9629-675724975dab",
         "date_posted": 1752558239,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -207184,7 +207185,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1753794282,
+        "date_updated": 1754477524,
         "url": "https://job-boards.greenhouse.io/tellius/jobs/4801983007",
         "company_name": "Tellius",
         "title": "AI Engineering Intern",
@@ -207194,13 +207195,13 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "maevetellius",
         "id": "a68a7eb6-6843-4470-9a78-2f594b44b9f2",
         "date_posted": 1753794282,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753797508,
@@ -207500,7 +207501,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1753832237,
+        "date_updated": 1754476916,
         "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875",
         "company_name": "Keybank",
         "title": "2026 Summer Analytics and Quantitative Modeling Internship",
@@ -207510,13 +207511,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "polinavishnev",
         "id": "3b18d185-a436-4a4a-be2a-377f73684b0b",
         "date_posted": 1753832237,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753972768,
@@ -207968,7 +207969,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1753901428,
+        "date_updated": 1754477066,
         "url": "https://pnc.wd5.myworkdayjobs.com/en-US/External/job/PA---Pittsburgh-15222/Quantitative-Analytics-Undergraduate-Intern_R196780",
         "company_name": "PNC Bank",
         "title": "Quantitative Analytics Undergraduate Intern",
@@ -207978,13 +207979,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "c0bfaa5d-951b-4c0a-9256-bbfdb7d23687",
         "date_posted": 1753901428,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753902751,
@@ -208011,7 +208012,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753902847,
+        "date_updated": 1754477151,
         "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-Intern_R2109933",
         "company_name": "KBR",
         "title": "Software Engineer Intern",
@@ -208026,13 +208027,13 @@
             "Summer 2025",
             "Summer 2026"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "3e14edb5-cec3-4f0c-8a3d-e17d388fa666",
         "date_posted": 1753902847,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753903073,
@@ -208054,7 +208055,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753903161,
+        "date_updated": 1754477252,
         "url": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Software-Application-Engineer-Intern_2025-17664",
         "company_name": "SEL",
         "title": "Software Application Engineer Intern",
@@ -208066,12 +208067,12 @@
             "Summer 2026"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "52806a00-c046-4f0e-b4c3-05edf119d7d0",
         "date_posted": 1753903161,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753903246,
@@ -208439,7 +208440,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753986055,
+        "date_updated": 1754477433,
         "url": "https://jobs.ashbyhq.com/atomicsemi/68fba2a4-ca8c-448c-ad39-4d12b26a93e5",
         "company_name": "Atomic Semi",
         "title": "Full Stack Software Engineering Intern - Fall",
@@ -208449,13 +208450,13 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "polinavishnev",
         "id": "e07eb3f7-bf2c-45a6-bf96-116fc88bb677",
         "date_posted": 1753986055,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754274551,
@@ -208811,7 +208812,7 @@
         "company_name": "Truist",
         "id": "78150de8-57b9-4b15-9825-57c0422748cb",
         "title": "Leadership Development Program - Technology and Innovation Track",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -208852,7 +208853,7 @@
         "company_name": "Truist",
         "id": "b35a6fc8-9d17-47b0-9442-a8c2d1da0c62",
         "title": "Technology and Innovation Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209472,14 +209473,14 @@
         "terms": [
             "Fall 2025"
         ],
-        "date_updated": 1754088368,
+        "date_updated": 1754479716,
         "date_posted": 1754088368,
         "url": "https://jobs.ashbyhq.com/contoro/30a3c92c-b8a3-437f-9af3-1ec057538bb5/application",
         "locations": [
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Contoro",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -209731,7 +209732,7 @@
         "company_name": "JP Morgan Chase",
         "id": "37af576e-0c5f-4966-b3b6-497946729e4d",
         "title": "2025 Code for Good Hackathon \u2013 Summer Internship - Software Engineer Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -210178,14 +210179,14 @@
         "terms": [
             "Fall 2025"
         ],
-        "date_updated": 1754323621,
+        "date_updated": 1754479333,
         "date_posted": 1754323621,
         "url": "https://jobs.ashbyhq.com/Talos-Trading/2db01769-8f00-4652-b790-b7cff80bc891/application",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Talos-Trading",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -210536,5 +210537,44 @@
         "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veolia",
+        "id": "f2ba6db2-80ad-47a4-82de-1bdf9a542b6d",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754434276,
+        "date_posted": 1754434276,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000074628375",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754479401,
+        "url": "https://jobs.ashbyhq.com/Talos-Trading/2db01769-8f00-4652-b790-b7cff80bc891",
+        "company_name": "Talos Trading",
+        "title": "Software Engineer Intern, Front-End, PMS",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b677ea27-398f-4293-b2ed-f261f89ffa59",
+        "date_posted": 1754479401,
+        "company_url": "",
+        "is_visible": true
     }
 ]
