@@ -206325,7 +206325,7 @@
         "company_name": "Geotab",
         "id": "ae8461f4-875e-4754-84eb-77f3f893d974",
         "title": "Embedded Developer Intern - Platform Reliability & Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -210100,8 +210100,8 @@
         ],
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
-        "source": "AlmondCroffle",
-        "id": "0c7f2a11-c68d-44d4-9ed2-231b2201c4b1",
+        "source": "Simplify",
+        "id": "10c6a34e-045d-49ae-8c16-438ff31f6929",
         "date_posted": 1754364082,
         "company_url": "",
         "is_visible": true
@@ -210450,6 +210450,90 @@
             "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BNY",
+        "id": "12e63b57-6972-4f3f-99e0-533473d5a6a8",
+        "title": "Summer Internship Program - Engineering - Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754450398,
+        "date_posted": 1754450398,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/68865",
+        "locations": [
+            "Pittsburgh, PA",
+            "Lake Mary, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "8e15d237-f55e-4828-891a-b9db1bc7778f",
+        "title": "Intern \u2013 PI Tech Co-op - Other",
+        "active": false,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754451000,
+        "date_posted": 1754451000,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Intern---Other---PI-Tech-Co-op_169036",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BNY",
+        "id": "c1705f0d-61ed-4dfc-a068-f90e8bf72420",
+        "title": "Summer Internship Program - Engineering - Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754450395,
+        "date_posted": 1754450395,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/68866",
+        "locations": [
+            "Pittsburgh, PA",
+            "Lake Mary, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "28443410-8587-45ee-93eb-e6a3250f2e60",
+        "title": "Software Development Engineer in Test Intern - Global E-Commerce",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754456986,
+        "date_posted": 1754456986,
+        "url": "https://jobs.bytedance.com/en/position/7533352137058011399/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other"
     }
