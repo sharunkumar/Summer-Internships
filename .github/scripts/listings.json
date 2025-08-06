@@ -203240,7 +203240,7 @@
         "company_name": "Amcor",
         "id": "1b57440b-0c53-4152-a016-b47606fa7a2a",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -208712,9 +208712,9 @@
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754067958,
+        "date_updated": 1754504652,
         "date_posted": 1754067958,
         "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-117822",
         "locations": [
@@ -208811,12 +208811,12 @@
         "category": "Software",
         "company_name": "Truist",
         "id": "78150de8-57b9-4b15-9825-57c0422748cb",
-        "title": "Leadership Development Program - Technology and Innovation Track",
+        "title": "Technology and Innovation Internship",
         "active": false,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754075605,
+        "date_updated": 1754504026,
         "date_posted": 1754075605,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2026-Leadership-Development-Program---Technology-and-Innovation-Track--Full-Time-LDP-Intern-Conversion-_R0105153-1",
         "locations": [
@@ -208825,7 +208825,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Truist",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -208936,9 +208936,9 @@
         "title": "Software Engineer \u2013 Internship - Infrastructure",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754055704,
+        "date_updated": 1754504797,
         "date_posted": 1754055704,
         "url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply",
         "locations": [
@@ -209019,7 +209019,7 @@
         "company_name": "Otis",
         "id": "fc5686b0-c829-4dfa-b045-deaf05e76adc",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209084,9 +209084,9 @@
         "title": "Software Engineer \u2013 Internship - Production Infrastructure",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754055699,
+        "date_updated": 1754504865,
         "date_posted": 1754055699,
         "url": "https://jobs.lever.co/palantir/bc5c4098-07d5-49ed-a398-a27e6191aa30/apply",
         "locations": [
@@ -209263,7 +209263,7 @@
         "company_name": "AppLovin",
         "id": "791b1718-d06b-413e-afa6-f462e66de6c5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -209429,9 +209429,9 @@
         "title": "Campus UI Software Engineer \u2013 Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754087088,
+        "date_updated": 1754503845,
         "date_posted": 1754087088,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6959808",
         "locations": [
@@ -209573,13 +209573,13 @@
         "title": "Software Engineering Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754001026,
+        "date_updated": 1754505043,
         "date_posted": 1754001026,
         "url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/Cedar-Falls-IA/Software-Engineering-Intern_R320481",
         "locations": [
-            "Waterloo, IA"
+            "Cedar Falls, IA"
         ],
         "company_url": "https://simplify.jobs/c/bdee93c8-46ab-46b3-8a3e-c03916910ae2",
         "is_visible": true,
@@ -210544,7 +210544,7 @@
         "company_name": "Veolia",
         "id": "f2ba6db2-80ad-47a4-82de-1bdf9a542b6d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -210574,6 +210574,25 @@
         "source": "AlmondCroffle",
         "id": "b677ea27-398f-4293-b2ed-f261f89ffa59",
         "date_posted": 1754479401,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754500959,
+        "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "kenchung285",
+        "id": "e96f4d5d-e95d-4172-b530-37f903a17500",
+        "date_posted": 1754500959,
         "company_url": "",
         "is_visible": true
     }
