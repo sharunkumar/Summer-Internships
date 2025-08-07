@@ -94372,7 +94372,7 @@
         "company_name": "Squarepoint Capital",
         "id": "3ec91fbf-4e9b-4ad8-a8e9-0878aa80cad8",
         "title": "Intern Software Developer - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -156692,7 +156692,7 @@
         "company_name": "ByteDance",
         "id": "ce3b17ad-c587-4791-88ab-33060ffb4909",
         "title": "Software Engineer Intern - Applied Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -209504,7 +209504,7 @@
         "company_name": "Vanguard",
         "id": "32de91ea-8464-46ae-ad58-76366978ddef",
         "title": "IT Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -210691,5 +210691,147 @@
         "date_posted": 1754528171,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754541165,
+        "url": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a",
+        "company_name": "Confluent",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "bf8470b1-93c2-48a9-aa09-782423815cbb",
+        "date_posted": 1754541165,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754541336,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4590429006",
+        "company_name": "Figure",
+        "title": "Firmware Engineer Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2d1a6338-2e35-4a8e-a5ae-a5c133acf387",
+        "date_posted": 1754541336,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sun Life",
+        "id": "c50ebc9c-7897-4b8b-b752-549a304b94f5",
+        "title": "Digital Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754541717,
+        "date_posted": 1754541717,
+        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Digital-Analytics-Intern--Summer-2026-_JR00114466",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sun-Life",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754543314,
+        "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-25-13375",
+        "company_name": "Moog",
+        "title": "Artificial Intelligence",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9ece024e-719a-4e8c-9953-c15309d1ac94",
+        "date_posted": 1754543314,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jump Trading",
+        "id": "6fdace5c-6ca0-411d-a5fa-170c4212dd45",
+        "title": "Campus UI Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754545792,
+        "date_posted": 1754545792,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7125381",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roblox",
+        "id": "526e258c-ede0-4d6f-b82d-564217c9707c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754545569,
+        "date_posted": 1754545569,
+        "url": "https://careers.roblox.com/jobs/7114765?gh_jid=7114765",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wurl",
+        "id": "dc49de1f-c56b-4912-92a6-d240db6835c1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754545547,
+        "date_posted": 1754545547,
+        "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4552288006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wurl",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
