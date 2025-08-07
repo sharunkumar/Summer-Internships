@@ -12,6 +12,9 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | AI/ML Software Engineer Intern - Data Platform | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7499689149813950727?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ae87d528-23ff-4841-8c2c-6834b05e0f5c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| ↳ | Software Engineer Intern - Recommendation Infrastructure | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7397571359977310490?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/70488a49-ae9c-48e3-b393-f17081cdf3a8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| ↳ | Software Engineer Intern – Lead Ads - BS/MS | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7483748420286859527?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7a09a47d-71fc-4d58-8e8c-a04fe2040205?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | Confluent | Software Engineering Intern | Austin, TX | <div align="center"><a href="https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Baseten](https://simplify.jobs/c/Baseten?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | New York, NY</br>San Francisco, CA | <div align="center"><a href="https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | **[Talos Trading](https://simplify.jobs/c/Talos-Trading?utm_source=GHList&utm_medium=company)** | Software Engineer Intern - Backend | NYC | <div align="center"><a href="https://jobs.ashbyhq.com/Talos-Trading/f3d358c4-54e2-4cc8-afe2-8474fa13320b/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/15be289a-4a3a-491e-a351-0bbbf5650273?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 2d |
@@ -85,7 +88,7 @@
 | Johnson & Johnson | 2025 MAKE Summer Software Engineering Intern | Jacksonville, FL | 🔒 | 7mo |
 | **[Salesforce](https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company)** | Summer 2025 Intern - Software Engineering, BT | Dallas, TX | 🔒 | 7mo |
 | Thermo Fisher Scientific | Artificial Intelligence Internship | Pittsburgh, PA | 🔒 | 7mo |
-| TikTok | Software Engineer Intern (CIS Privacy and Security) - 2025 Summer (BS/MS) | Seattle, WA | 🔒 | 7mo |
+| **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Software Engineer Intern (CIS Privacy and Security) - 2025 Summer (BS/MS) | Seattle, WA | 🔒 | 7mo |
 | **[Zoox](https://simplify.jobs/c/Zoox?utm_source=GHList&utm_medium=company)** | Test Infrastructure Intern | San Carlos, CA | 🔒 | 7mo |
 | HMH | Intern - Software Engineer | Portland, OR | 🔒 | 7mo |
 | **[Tesla](https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company)** | Internship, Reinforcement Learning Engineer, Tesla Bot | Palo Alto, CA | 🔒 | 7mo |
@@ -169,7 +172,7 @@
 | UPS | Technology Group Summer 2025 Internship | Parsippany, NJ | 🔒 | 11mo |
 | Oracle | Software Engineer Intern - Fusion Applications Development | Redwood City, CA | 🔒 | 11mo |
 | **[Squarepoint Capital](https://simplify.jobs/c/Squarepoint-Capital?utm_source=GHList&utm_medium=company)** | Intern Software Developer - Summer 2025 | Montreal, QC, Canada</br>London, UK | 🔒 | 11mo |
-| TikTok | Front-End Engineer Intern - (User and Creator Product) | San Jose, CA | 🔒 | 11mo |
+| **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Front-End Engineer Intern - (User and Creator Product) | San Jose, CA | 🔒 | 11mo |
 | American Express | Technology Software Engineer Summer Internship | Phoenix, AZ</br>Hybrid | 🔒 | 11mo |
 | Ambarella | Software Engineer Intern | Santa Clara, CA | 🔒 | 11mo |
 | **[Microsoft](https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company)** | Software Engineer: Fullstack Intern | Redmond, WA | 🔒 | 11mo |
@@ -180,7 +183,7 @@
 | Notion | Software Engineering Intern (Summer 2025) | San Francisco, CA</br>New York, NY | 🔒 | 12mo |
 | Marshall Wace | Software Engineering Intern | London</br>New York, NY</br>Singapore</br>Hong Kong | 🔒 | 12mo |
 | **[IXL Learning](https://simplify.jobs/c/IXL-Learning?utm_source=GHList&utm_medium=company)** | Software Engineer, Intern | San Mateo, CA | 🔒 | 12mo |
-| TikTok | Mobile Software Engineer Intern - User Relation | Los Angeles, CA | 🔒 | 12mo |
+| **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Mobile Software Engineer Intern - User Relation | Los Angeles, CA | 🔒 | 12mo |
 | **[Jane Street](https://simplify.jobs/c/Jane-Street?utm_source=GHList&utm_medium=company)** | Software Engineer Internship | New York, NY | 🔒 | 12mo |
 | BlackRock | 2025 Summer Internship Program - AMERS | Americas | 🔒 | 13mo |
 | D. E. Shaw | Software Developer Intern | New York, NY | 🔒 | 14mo |
@@ -200,6 +203,10 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[TikTok](https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company)** | Machine Learning Engineer Intern - E-commerce-Recommendation - BS/MS | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7397462166708930867?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a82bc710-4b8a-4d6a-8032-beea4a552c0d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| ↳ | Machine Learning Engineer Intern - Creative AI - BS/MS | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7488883963248904456?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f7ae716b-13a6-4464-9c91-775ac62596a4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| ↳ | Data Engineer Intern - Ads Data | San Jose, CA | <div align="center"><a href="https://lifeattiktok.com/search/7478174818136000776?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7acabf5a-1421-4b78-85ca-4aea13033332?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
+| ↳ | Machine Learning Engineer Intern - E-commerce-Recommendation - BS/MS | Seattle, WA | <div align="center"><a href="https://lifeattiktok.com/search/7397461556852508966?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/934af5c3-dc30-411c-b864-9fcaed8b9f2d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Copart](https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company)** | Mobile Developer Intern (AI / ML) | Dallas, TX | <div align="center"><a href="https://copart.wd12.myworkdayjobs.com/en-US/Copart/details/Mobile-Developer-Intern--AI---ML-_JR104180?workerSubType=642abc1e87ca10098af3a23fe5090000&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Summer 2025 Internships - Msu | Dulles, VA | <div align="center"><a href="https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Summer-2025-Internships---MSU_310284?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2184839b-c1f0-4dce-b0d3-d250d99aef17?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[PennState University](https://simplify.jobs/c/Penn-State?utm_source=GHList&utm_medium=company)** | AI/ML Research and Development Intern | State College, PA</br>Reston, VA | <div align="center"><a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000064471-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a7141d7b-1a29-4ce4-9635-9412583c6a96?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
