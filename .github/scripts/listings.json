@@ -47343,7 +47343,7 @@
         "company_name": "Ramp",
         "id": "094007c3-3fe3-4732-804a-d8d95105d434",
         "title": "Software Engineer Internship - IOS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -197692,7 +197692,7 @@
         "company_name": "Envista",
         "id": "5056b313-06b8-4dbd-845f-a7d6333b24c1",
         "title": "R&D Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -205645,7 +205645,7 @@
         "company_name": "Warner Bros.",
         "id": "b5df519b-b779-42c4-9aec-265558818b47",
         "title": "Sports Analytics Internships - Fall 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206477,7 +206477,7 @@
         "company_name": "Sony Pictures Entertainment",
         "id": "bb0b208c-cddf-4c3b-9d0c-35871ac62017",
         "title": "Systems & Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -208149,7 +208149,7 @@
         "company_name": "Crowdstrike",
         "id": "c25d8bdf-7ebf-4d8f-8763-f93229200038",
         "title": "Frontend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -210092,8 +210092,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "AlmondCroffle",
-        "id": "a6928d63-b64c-444f-a90a-2c02a6ddc690",
+        "source": "Simplify",
+        "id": "104ba742-a080-4cfc-a787-389a4b2623c4",
         "date_posted": 1754363985,
         "company_url": "",
         "is_visible": true
@@ -210128,7 +210128,7 @@
         "company_name": "Capital One",
         "id": "419d9be9-13fc-4bf5-a9e0-2ce445b05c04",
         "title": "Technology Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -212280,6 +212280,332 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "238bfcec-42a1-494c-902c-67cf488d9005",
+        "title": "Software Engineer Intern - Ads Infra",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1754587730,
+        "date_posted": 1754587730,
+        "url": "https://lifeattiktok.com/search/7473342040157194514",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "193fc4e6-659b-47ef-a4e3-7c2df938dc1c",
+        "title": "Software Engineer Intern - Data Arch - Shorttext Rec - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754583146,
+        "date_posted": 1754583146,
+        "url": "https://lifeattiktok.com/search/7535250563514059016",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Confluent",
+        "id": "de7eb449-6fc8-484d-bede-8f69ae747534",
+        "title": "Confluent Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2027"
+        ],
+        "date_updated": 1754605769,
+        "date_posted": 1754605769,
+        "url": "https://jobs.ashbyhq.com/confluent/095d92fe-7534-4f49-a846-b63ca229731b/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Confluent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Confluent",
+        "id": "8947eda0-17f0-40fb-99fa-eddae05ad61a",
+        "title": "2026 Confluent Software Engineering Intern Opportunity",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754605779,
+        "date_posted": 1754605779,
+        "url": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a/application",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Confluent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Confluent",
+        "id": "86d6b780-11da-4609-b072-9bcd6f464fda",
+        "title": "2026 Confluent Software Engineering Intern Opportunity",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754605769,
+        "date_posted": 1754605769,
+        "url": "https://jobs.ashbyhq.com/confluent/974fa008-7174-4e6f-a89c-8c6cce70ae7e/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Confluent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Jump Trading",
+        "id": "f83c9ced-2fd8-4b9c-b88a-df8059cb1387",
+        "title": "Campus Quantitative Trader \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754605563,
+        "date_posted": 1754605563,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7142372",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ramp",
+        "id": "6b976321-b3f1-4529-bee1-b8c1d3ed433e",
+        "title": "Software Engineer Internship - IOS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754606442,
+        "date_posted": 1754606442,
+        "url": "https://jobs.ashbyhq.com/ramp/8c155b55-3e7e-48a8-ac98-f988a2b6f4da/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ramp",
+        "id": "673559f4-3da3-4a62-9726-bee7fcf9a3c7",
+        "title": "Software Engineer Internship - Android",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754606441,
+        "date_posted": 1754606441,
+        "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife",
+        "id": "a8a4d2f7-edcd-40bc-922c-5e4a3de69c66",
+        "title": "Reporting & Analytics Analyst \u2013 Global Operations Risk & Control Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754607211,
+        "date_posted": 1754607211,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Toronto-Ontario/Reporting---Analytics-Analyst--Global-Operations-Risk---Control-Co-op_JR25080365",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dow Chemical Company",
+        "id": "446a8c72-ac30-4831-b0f1-8854e2c06eb8",
+        "title": "Data Engineer Internship Spring 2026",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1754610891,
+        "date_posted": 1754610891,
+        "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer-Internship-Spring-2026-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2061990",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Dow-Chemical-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cognitiv",
+        "id": "feaf73fb-5980-43ec-bcea-9143c578ca0d",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754612099,
+        "date_posted": 1754612099,
+        "url": "https://jobs.lever.co/cognitiv/e5efa188-f16b-4715-b90c-77049ba2603d/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cognitiv",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "e3119991-3859-4734-936c-1cc1c8296582",
+        "title": "Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754611840,
+        "date_posted": 1754611840,
+        "url": "https://jobs.intuit.com/job/toronto/software-developer-co-op-fall-2025/27595/82936409280",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "09f7e50b-2449-4e7e-8eb4-6a125a224464",
+        "title": "Mobile Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754611837,
+        "date_posted": 1754611837,
+        "url": "https://jobs.intuit.com/job/toronto/mobile-software-developer-co-op-4-months/27595/82954044144",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ConocoPhillips",
+        "id": "91933386-a7d0-4948-8805-be44737f7c17",
+        "title": "Intern \u2013 Land GIS Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754614784,
+        "date_posted": 1754614784,
+        "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Land-GIS-Analyst-2026_REQ-005138",
+        "locations": [
+            "Midland, TX",
+            "Houston, TX",
+            "Bartlesville, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/ConocoPhillips",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ConocoPhillips",
+        "id": "364cc17f-e247-44bc-a2be-c9f6fb91e0a7",
+        "title": "Intern \u2013 Land Administration GIS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754614786,
+        "date_posted": 1754614786,
+        "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/Intern--Land-Administration-GIS-2026_REQ-005151",
+        "locations": [
+            "Bartlesville, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/ConocoPhillips",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intellistack",
+        "id": "56fff996-d51d-4446-82cd-3489a318d443",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754614445,
+        "date_posted": 1754614445,
+        "url": "https://jobs.ashbyhq.com/Intellistack/0b5662ad-85ac-4d15-a291-f66b396d6c68/application",
+        "locations": [
+            "SF",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Intellistack",
         "is_visible": true,
         "sponsorship": "Other"
     }
