@@ -213415,5 +213415,214 @@
         "company_url": "https://simplify.jobs/c/Dell-Technologies",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754641088,
+        "url": "https://careers.confluent.io/jobs/job/66fb00d4-6988-48c2-81a3-f3d397dd2c2a",
+        "company_name": "Confluent",
+        "title": "Cloud Infrastructure Engineer Intern",
+        "locations": [
+            "Remote, United Kingdom"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Aparna-Rajesh",
+        "id": "5d43c056-4132-4f0d-b3c8-4937dc52a311",
+        "date_posted": 1754641088,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754641158,
+        "url": "https://careers.confluent.io/jobs/job/974fa008-7174-4e6f-a89c-8c6cce70ae7e",
+        "company_name": "Confluent",
+        "title": "Confluent Software Engineering Intern",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Aparna-Rajesh",
+        "id": "0d184a3a-096c-4cb5-8d63-97e011fa04ac",
+        "date_posted": 1754641158,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754641197,
+        "url": "https://careers.confluent.io/jobs/job/095d92fe-7534-4f49-a846-b63ca229731b",
+        "company_name": "Confluent",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Remote, London"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Aparna-Rajesh",
+        "id": "417bc8bf-397c-415a-9f30-ebe7d2007e4e",
+        "date_posted": 1754641197,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754641504,
+        "url": "https://xantium.com/careers/interns_2026/",
+        "company_name": "Xantium",
+        "title": "Quantitative Developer",
+        "locations": [
+            "New York, NY",
+            "London, UK"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Jacoblevy1999",
+        "id": "4042e060-9e80-4d3c-ac52-7d36428ac488",
+        "date_posted": 1754641489,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754641846,
+        "url": "https://job-boards.greenhouse.io/xantium/jobs/7094436",
+        "company_name": "Xantium",
+        "title": "Quantitative Developer",
+        "locations": [
+            "New York, NY",
+            "London, UK"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "28633d41-9afb-4ed3-b8dc-e92c7c5025ff",
+        "date_posted": 1754641765,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754642532,
+        "url": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer-Internship-Spring-2026-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2061990",
+        "company_name": "Dow",
+        "title": "Data Engineer Internship",
+        "locations": [
+            "Kankakee, IL"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "24c1973d-7482-4b76-8e75-a23ef19f1ddd",
+        "date_posted": 1754642532,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754649919,
+        "url": "https://hdsupply.jobs/us/en/job/R25003763/Summer-2026-Intern---Information-Technology",
+        "company_name": "HD Supply",
+        "title": "Information Technology",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a00eab9a-37e5-4cd3-bf5f-6cd6ca453830",
+        "date_posted": 1754649919,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754650040,
+        "url": "https://www.jumptrading.com/careers/7077897/?gh_jid=7077897",
+        "company_name": "Jump Trading",
+        "title": "Campus Tech Ops Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2025",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "3cfddb20-9413-4673-8768-3b6762519eb4",
+        "date_posted": 1754650040,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754650597,
+        "url": "https://www.jumptrading.com/careers/6900970/?gh_jid=6900970",
+        "company_name": "Jump Trading",
+        "title": "Campus Quantitative Trader",
+        "locations": [
+            "New York, NY",
+            ". Chicago, IL"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "3bde1631-d27d-4bbd-b332-3f90a23e35b2",
+        "date_posted": 1754650597,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754650657,
+        "url": "https://www.jumptrading.com/careers/7026718/?gh_jid=7026718",
+        "company_name": "Jump Trading",
+        "title": "Campus Quantitative Researcher",
+        "locations": [
+            "New York, NY",
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "55bfa307-343d-4880-a29c-a443a5f5c754",
+        "date_posted": 1754650657,
+        "company_url": "",
+        "is_visible": true
     }
 ]
