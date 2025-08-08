@@ -187590,7 +187590,7 @@
         "company_name": "Nokia",
         "id": "aea63ff3-bc4c-4097-884a-077491c09c08",
         "title": "Automation Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -203454,7 +203454,7 @@
         "company_name": "Audax Group",
         "id": "b4eca688-1c70-45b8-ad9f-b9dd65d7950d",
         "title": "Software Development Intern, Business Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -209931,23 +209931,23 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754358352,
+        "date_updated": 1754663442,
         "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Artificial-Intelligence-Machine-Learning-Associate-Internship_RQ204448",
         "company_name": "GDIT",
-        "title": "Artificial Intelligence/Machine Learning Associate Internship",
+        "title": "Data Science Associate Internship",
         "locations": [
-            "Falls Church, VA"
+            "Tampa, FL"
         ],
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "b4731746-4ba2-4ce8-8a7f-fd25038f9f74",
         "date_posted": 1754358352,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754360452,
@@ -210205,7 +210205,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754377883,
+        "date_updated": 1754663912,
         "url": "https://nbtbancorp.wd12.myworkdayjobs.com/en-US/epic/job/Rochester-New-York/Student-Associate---Software-Engineer---EPIC_JR3617",
         "company_name": "EPIC",
         "title": "Student Associate - Software Engineer",
@@ -210220,13 +210220,13 @@
             "Summer 2025",
             "Summer 2026"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "68a97b61-7e02-4e63-b578-00bb0a61420e",
         "date_posted": 1754377883,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754378083,
@@ -210253,7 +210253,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754378177,
+        "date_updated": 1754663970,
         "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2026_R218613-1",
         "company_name": "Capital One",
         "title": "Cyber Security Internship Program",
@@ -210264,13 +210264,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "7dc4bfa6-d1e8-466a-983a-3f81f926fe65",
         "date_posted": 1754378177,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -211140,20 +211140,20 @@
         "category": "Software",
         "company_name": "TikTok",
         "id": "213cf83e-b4b0-4179-9a19-d3e6c3e4518b",
-        "title": "Software Engineer Intern - Recommendation Infrastructure",
+        "title": "Software Engineer Intern (Recommendation Infrastructure)",
         "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
         ],
-        "date_updated": 1754554784,
+        "date_updated": 1754667450,
         "date_posted": 1754554784,
         "url": "https://lifeattiktok.com/search/7534878965941766408",
         "locations": [
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -213474,7 +213474,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754641504,
+        "date_updated": 1754664296,
         "url": "https://xantium.com/careers/interns_2026/",
         "company_name": "Xantium",
         "title": "Quantitative Developer",
@@ -213485,13 +213485,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Jacoblevy1999",
         "id": "4042e060-9e80-4d3c-ac52-7d36428ac488",
         "date_posted": 1754641489,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754641846,
@@ -213576,23 +213576,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754650597,
+        "date_updated": 1754664570,
         "url": "https://www.jumptrading.com/careers/6900970/?gh_jid=6900970",
         "company_name": "Jump Trading",
         "title": "Campus Quantitative Trader",
         "locations": [
             "New York, NY",
-            ". Chicago, IL"
+            "Chicago, IL"
         ],
         "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2025",
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "3bde1631-d27d-4bbd-b332-3f90a23e35b2",
@@ -213622,6 +213617,102 @@
         "source": "AlmondCroffle",
         "id": "55bfa307-343d-4880-a29c-a443a5f5c754",
         "date_posted": 1754650657,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754664637,
+        "url": "https://job-boards.greenhouse.io/xantium/jobs/7104184",
+        "company_name": "Xantium",
+        "title": "Quantitative Researcher Intern",
+        "locations": [
+            "New York, NY",
+            "London, UK"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2025",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0522e3ec-6b99-440c-b7d3-ac4d05720a6b",
+        "date_posted": 1754664637,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754675762,
+        "url": "https://www.tesla.com/careers/search/job/247659",
+        "company_name": "Tesla",
+        "title": "Machine Learning Engineer, Model Optimization & Deployment, Optimus",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2025",
+            "Summer 2025",
+            "Winter 2025",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "896c4b0a-56e1-4bc7-aeab-6b3b06fb9835",
+        "date_posted": 1754675762,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754675840,
+        "url": "https://www.tesla.com/careers/search/job/247595",
+        "company_name": "Tesla",
+        "title": "Automation Controls Engineer, Megapack",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0d7d3106-ea59-4f71-a6e2-af27575452cc",
+        "date_posted": 1754675840,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754676049,
+        "url": "https://www.tesla.com/careers/search/job/247480",
+        "company_name": "Tesla",
+        "title": "Systems Engineer, Collision Avoidance, Autonomy & Robotics",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "79082960-43be-40a2-9f64-c2c78545e405",
+        "date_posted": 1754676049,
         "company_url": "",
         "is_visible": true
     }
