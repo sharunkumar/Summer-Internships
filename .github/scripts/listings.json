@@ -91132,7 +91132,7 @@
         "company_name": "Databricks",
         "id": "3c4fd433-d0f1-4616-9949-70e4b7c5c452",
         "title": "Software Engineering Intern - 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -204200,7 +204200,7 @@
         "company_name": "WGU",
         "id": "efe3becb-c2ec-489d-9115-aa9b091adefa",
         "title": "Associate Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -207542,9 +207542,9 @@
             "Summer 2026"
         ],
         "sponsorship": "Other",
-        "active": false,
-        "source": "polinavishnev",
-        "id": "da8367ea-614f-485e-bca2-aa3a258fd0ee",
+        "active": true,
+        "source": "Simplify",
+        "id": "105f38b0-6409-4d1a-886a-78f95036951a",
         "date_posted": 1753832317,
         "company_url": "",
         "is_visible": false
@@ -207555,7 +207555,7 @@
         "company_name": "PNC Financial Services",
         "id": "47709a7c-a287-47c5-9780-ffedf6e22fc1",
         "title": "Technology Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -208660,7 +208660,7 @@
         "company_name": "Vanguard",
         "id": "6feb48ea-78ab-4a85-ab90-66862ecc00a6",
         "title": "IT Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -209504,7 +209504,7 @@
         "company_name": "Vanguard",
         "id": "32de91ea-8464-46ae-ad58-76366978ddef",
         "title": "IT Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -210299,7 +210299,7 @@
         "company_name": "Motorola",
         "id": "212dc499-a662-4704-9d3b-ac2080f5586a",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -213401,7 +213401,7 @@
         "company_name": "Dell Technologies",
         "id": "d8febde7-8223-4ce5-9483-e1a44005c713",
         "title": "Dell ISG Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -213773,6 +213773,331 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Perseus Group",
+        "id": "c5da6175-1c3c-42ec-89e4-74c588029c24",
+        "title": "Front End Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754704065,
+        "date_posted": 1754704065,
+        "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Markham-Ontario---CAN/Front-End-Intern_R46426",
+        "locations": [
+            "Markham, ON, Canada",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/86425b9a-a364-4749-8067-5d119318dae7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Navy Federal",
+        "id": "93286af5-50cb-488a-bbd4-809e1567dbf3",
+        "title": "Intern \u2013 Year Round - Marketing Data Science & Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754703514,
+        "date_posted": 1754703514,
+        "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/25975",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Navy-Federal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of New York Mellon",
+        "id": "cd96723e-4626-495c-bdd8-09aea96ddecf",
+        "title": "2026 BNY Summer Internship Program - Engineering - Data Science - Early Talent and University Programs",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754706385,
+        "date_posted": 1754706385,
+        "url": "https://bnymellon.eightfold.ai/careers/job/30606823",
+        "locations": [
+            "Pittsburgh, PA",
+            "Lake Mary, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-New-York-Mellon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of New York Mellon",
+        "id": "38fb236a-fc03-44a1-afd3-97a886b00239",
+        "title": "2026 BNY Summer Internship Program - Engineering - Developer - Early Talent and University Programs",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754706391,
+        "date_posted": 1754706391,
+        "url": "https://bnymellon.eightfold.ai/careers/job/30606533",
+        "locations": [
+            "Pittsburgh, PA",
+            "Lake Mary, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-New-York-Mellon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "025a1866-9b08-422d-9dbe-9f224b1bbb41",
+        "title": "ISM Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754706063,
+        "date_posted": 1754706063,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/ISM-Co-op_R25028993",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Belvedere Trading",
+        "id": "71cf7b01-0bb3-4b71-bbef-50a29e75910d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754707552,
+        "date_posted": 1754707552,
+        "url": "https://jobs.lever.co/belvederetrading/eddfd030-1b27-46db-9ef6-5b65e1e2484c/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Belvedere Trading",
+        "id": "1233ad35-102c-4555-8b84-1296f57eecbc",
+        "title": "Quantitative Trading Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754707551,
+        "date_posted": 1754707551,
+        "url": "https://jobs.lever.co/belvederetrading/ec52b73e-54b8-4f87-909d-a74cb288dc4d/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PNC Financial Services",
+        "id": "6db494bb-d721-494b-88f4-44282fcf2bc2",
+        "title": "Data Analytics Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1754708305,
+        "date_posted": 1754708305,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Analytics-Undergraduate-Intern_R196750",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Samsung",
+        "id": "7ab88450-5b0b-412a-8c11-59c63ef5e1bc",
+        "title": "Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754707932,
+        "date_posted": 1754707932,
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/XMLNAME-2026-Summer-Internship_R107280",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "220538b1-ce6b-425e-ab10-bfc5d8f05e35",
+        "title": "3D Advanced Heterogeneous Integration Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754711157,
+        "date_posted": 1754711157,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-3D-Advanced-Heterogeneous-Integration-Development-Intern--Summer-2026-_JR-2502800",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "0437bd10-bdd3-457b-a8dd-9d99b4d8c150",
+        "title": "3D Advanced Heterogeneous Integration Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754711157,
+        "date_posted": 1754711157,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-3D-Advanced-Heterogeneous-Integration-Development-Intern--Summer-2026-_JR-2502799",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nextiva",
+        "id": "ca9aa085-672f-467f-afe9-1ea438a7d115",
+        "title": "AI Engineer Intern - Go-to-Market - Part-time",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754711135,
+        "date_posted": 1754711135,
+        "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8106564002",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Nextiva",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WGU",
+        "id": "ae7b9acb-3d87-46c2-a4ea-cad85161e2d7",
+        "title": "Intern \u2013 Technical",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754712386,
+        "date_posted": 1754712386,
+        "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-Office/Intern---Technical_JR-022518",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "8b7487b4-2afb-4936-8fd5-58e6125750f0",
+        "title": "Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754714032,
+        "date_posted": 1754714032,
+        "url": "https://lifeattiktok.com/search/7534851658053830930",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "279a7df5-ceb2-4c32-9ec5-77f6d31d354a",
+        "title": "AI Effects Workflow Engineer Intern - Tiktok-Intelligent Creation-LLM Driven Creation - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754714032,
+        "date_posted": 1754714032,
+        "url": "https://lifeattiktok.com/search/7536323523712583954",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "21809924-cc40-4f2d-9f0e-6c096067ba32",
+        "title": "Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754714033,
+        "date_posted": 1754714033,
+        "url": "https://lifeattiktok.com/search/7535234137146444040",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other"
     }
