@@ -203863,7 +203863,7 @@
         "company_name": "Nokia",
         "id": "01593c1f-96ee-414d-84e9-47be3d0f7702",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -209775,7 +209775,7 @@
         "company_name": "Nokia",
         "id": "33b518b6-1cbc-425a-97c4-8fd3bca72a6b",
         "title": "Solutions Lab Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -212492,7 +212492,7 @@
         "company_name": "Cognitiv",
         "id": "feaf73fb-5980-43ec-bcea-9143c578ca0d",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -213715,5 +213715,65 @@
         "date_posted": 1754676049,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chamberlain Group",
+        "id": "e5433b62-9bcc-4d95-b781-0df543e6b03b",
+        "title": "Software Engineer 1 \u2013 Intern Conversion - Front End",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754703073,
+        "date_posted": 1754703073,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-1--Front-End--Intern-Conversion-_JR29338",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chamberlain Group",
+        "id": "a32b64d9-7f29-4b46-ae81-ddaca616dece",
+        "title": "Software Engineer 1 \u2013 Intern Conversion - Middleware",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754703073,
+        "date_posted": 1754703073,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-1--Middleware--Intern-Conversion-_JR29324",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Harris Computer",
+        "id": "2051e128-3f18-4a84-b15f-eb51b6b73d3f",
+        "title": "Software Developer \u2013 Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754702507,
+        "date_posted": 1754702507,
+        "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/British-Columbia-Canada/Software-Developer--Co-op-Intern_R0031202-2",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
