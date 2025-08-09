@@ -209912,7 +209912,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754358265,
+        "date_updated": 1754754902,
         "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-FL-Tampa/GDIT-Summer-Internship-Program---Summer-2026-Data-Science-Associate-Internship_RQ204451",
         "company_name": "GDIT",
         "title": "Data Science Associate Internship",
@@ -209922,13 +209922,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "a8a5d903-3816-4142-91fb-af11a6cfc7d9",
         "date_posted": 1754358265,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754663442,
@@ -210901,7 +210901,7 @@
         "company_name": "Otis",
         "id": "e18f467d-ae15-442d-b239-6eb0d2604b1d",
         "title": "Model-Based Design Algorithm Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -213474,8 +213474,28 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754664296,
+        "date_updated": 1754754628,
         "url": "https://xantium.com/careers/interns_2026/",
+        "company_name": "Xantium",
+        "title": "Quantitative Researcher Intern",
+        "locations": [
+            "New York, NY",
+            "London, UK"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": false,
+        "source": "Jacoblevy1999",
+        "id": "4042e060-9e80-4d3c-ac52-7d36428ac488",
+        "date_posted": 1754641489,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1754753848,
+        "url": "https://job-boards.greenhouse.io/xantium/jobs/7094436",
         "company_name": "Xantium",
         "title": "Quantitative Developer",
         "locations": [
@@ -213487,31 +213507,11 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "source": "Jacoblevy1999",
-        "id": "4042e060-9e80-4d3c-ac52-7d36428ac488",
-        "date_posted": 1754641489,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1754641846,
-        "url": "https://job-boards.greenhouse.io/xantium/jobs/7094436",
-        "company_name": "Xantium",
-        "title": "Quantitative Developer",
-        "locations": [
-            "New York, NY",
-            "London, UK"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
         "source": "AlmondCroffle",
         "id": "28633d41-9afb-4ed3-b8dc-e92c7c5025ff",
         "date_posted": 1754641765,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754642532,
@@ -213621,7 +213621,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754664637,
+        "date_updated": 1754754046,
         "url": "https://job-boards.greenhouse.io/xantium/jobs/7104184",
         "company_name": "Xantium",
         "title": "Quantitative Researcher Intern",
@@ -213637,16 +213637,16 @@
             "Winter 2026",
             "Spring 2026"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "0522e3ec-6b99-440c-b7d3-ac4d05720a6b",
         "date_posted": 1754664637,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1754675762,
+        "date_updated": 1754747262,
         "url": "https://www.tesla.com/careers/search/job/247659",
         "company_name": "Tesla",
         "title": "Machine Learning Engineer, Model Optimization & Deployment, Optimus",
@@ -213667,7 +213667,7 @@
         "id": "896c4b0a-56e1-4bc7-aeab-6b3b06fb9835",
         "date_posted": 1754675762,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754675840,
@@ -214098,6 +214098,51 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754746797,
+        "url": "https://careers.confluent.io/jobs/job/d9ebd50b-967e-4f35-8ebd-f0ce2705136a",
+        "company_name": "Cofluent",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Austin, Texas",
+            "Remote"
+        ],
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Aparna-Rajesh",
+        "id": "d9cc6bea-6ab5-4e36-a9c0-874801025833",
+        "date_posted": 1754746731,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "73f16b05-3c54-4e3d-8fa5-a72c93e3900a",
+        "title": "Hardware Systems Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1754752777,
+        "date_posted": 1753741017,
+        "url": "https://careers.formlabs.com/job/7095214/apply/?gh_jid=7095214",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
         "is_visible": true,
         "sponsorship": "Other"
     }
