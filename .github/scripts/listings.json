@@ -202547,7 +202547,7 @@
         ]
     },
     {
-        "date_updated": 1751938726,
+        "date_updated": 1754837304,
         "url": "https://careers.caterpillar.com/en/jobs/r0000312109/2026-summer-corporate-intern-engineering/?source=pookie",
         "locations": [
             "Tucson, AZ",
@@ -202571,7 +202571,7 @@
         "id": "988716ce-e506-45a7-ba9d-27bdad8f47ce",
         "date_posted": 1751938726,
         "company_url": "",
-        "is_visible": true,
+        "is_visible": false,
         "terms": [
             "Summer 2026"
         ]
