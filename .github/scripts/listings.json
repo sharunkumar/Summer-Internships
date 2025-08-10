@@ -213507,8 +213507,8 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "source": "AlmondCroffle",
-        "id": "28633d41-9afb-4ed3-b8dc-e92c7c5025ff",
+        "source": "Simplify",
+        "id": "4ff4add7-2071-49a4-af3f-2c630fdab6c5",
         "date_posted": 1754641765,
         "company_url": "",
         "is_visible": false
@@ -214143,6 +214143,27 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Polaris",
+        "id": "defafa26-ce2c-45ac-93df-6ec022f02b40",
+        "title": "Digital & Information Technology \u2013 Predictive Data Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754784061,
+        "date_posted": 1754784061,
+        "url": "https://polaris.wd5.myworkdayjobs.com/en-US/PolarisJobs/job/Plymouth-MN-USA/Digital---Information-Technology---Predictive-Data-Science-Internship---Summer-2026_R27021",
+        "locations": [
+            "Wayzata, MN",
+            "South Yankton, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/ad05a83e-f0ad-47b5-beeb-4c7bf3f50f64",
         "is_visible": true,
         "sponsorship": "Other"
     }
