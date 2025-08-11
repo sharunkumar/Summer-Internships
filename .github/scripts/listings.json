@@ -209837,7 +209837,7 @@
         "company_name": "U.S. Bank",
         "id": "036fbedd-299d-4b1b-b760-4e3aeb1164a9",
         "title": "Capital Markets Summer Intern-Investment Grade Sales & Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214166,5 +214166,24 @@
         "company_url": "https://simplify.jobs/c/ad05a83e-f0ad-47b5-beeb-4c7bf3f50f64",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754929539,
+        "url": "https://ats.rippling.com/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea",
+        "company_name": "Rippling",
+        "title": "Machine Learning Engineer Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Desmosy",
+        "id": "058f9bd6-e419-44f8-9a5f-6441591b6775",
+        "date_posted": 1754929475,
+        "company_url": "",
+        "is_visible": true
     }
 ]
