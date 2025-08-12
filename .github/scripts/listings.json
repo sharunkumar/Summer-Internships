@@ -161110,7 +161110,7 @@
         "company_name": "Tower Research Capital",
         "id": "c5ee72ae-f07d-450e-9e49-034e3504b9a6",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200350,7 +200350,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "54dd25b2-06ec-4b18-be48-48a8ad1d8d6b",
         "title": "Associate Software Developer \u2013 Co-op position - HP Anyware Endpoints System Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204136,7 +204136,7 @@
         "company_name": "Bot Auto",
         "id": "10bbc2fa-793d-42f9-9480-37170b3af54d",
         "title": "Full Stack Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -213742,7 +213742,7 @@
         "company_name": "Chamberlain Group",
         "id": "a32b64d9-7f29-4b46-ae81-ddaca616dece",
         "title": "Software Engineer 1 \u2013 Intern Conversion - Middleware",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -213762,7 +213762,7 @@
         "company_name": "Harris Computer",
         "id": "2051e128-3f18-4a84-b15f-eb51b6b73d3f",
         "title": "Software Developer \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -214027,7 +214027,7 @@
         "company_name": "WGU",
         "id": "ae7b9acb-3d87-46c2-a4ea-cad85161e2d7",
         "title": "Intern \u2013 Technical",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -214102,9 +214102,9 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754746797,
+        "date_updated": 1754961030,
         "url": "https://careers.confluent.io/jobs/job/d9ebd50b-967e-4f35-8ebd-f0ce2705136a",
-        "company_name": "Cofluent",
+        "company_name": "Confluent",
         "title": "Software Engineering Intern",
         "locations": [
             "Austin, Texas",
