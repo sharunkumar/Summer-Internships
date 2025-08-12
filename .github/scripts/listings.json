@@ -214248,5 +214248,166 @@
         "company_url": "https://simplify.jobs/c/Forrester",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Appliances",
+        "id": "276fca10-5c8d-4a4f-9b01-170901106898",
+        "title": "Digital Technology Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754985258,
+        "date_posted": 1754985258,
+        "url": "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Decatur-AL/Digital-Technology-Intern_REQ-23268-1",
+        "locations": [
+            "Decatur, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Appliances",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NBCUniversal",
+        "id": "bb764a46-d2b4-494f-9c39-9021e1c09ff9",
+        "title": "Data Analytics Intern - Academic Year",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754985131,
+        "date_posted": 1754985131,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000073817555",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/NBCUniversal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754989913,
+        "url": "https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421",
+        "company_name": "Notion",
+        "title": "Software Engineer, Mobile",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "5d62030f-954f-4830-ac99-5477fe8aa36e",
+        "date_posted": 1754989913,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754990024,
+        "url": "https://jobs.ashbyhq.com/notion/1bda6206-2258-4c1f-a585-ef31ee56f1d4",
+        "company_name": "Notion",
+        "title": "Software Engineer, Mobile",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "afe605ee-fd86-49a0-8390-b66d2f7678bd",
+        "date_posted": 1754990024,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754990141,
+        "url": "https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933",
+        "company_name": "Notion",
+        "title": "Software Engineer, AI",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f8806207-7c8f-4659-8b90-a189e94efa30",
+        "date_posted": 1754990141,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754990227,
+        "url": "https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644",
+        "company_name": "Notion",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9a15b416-c8ce-4962-9e26-ebc6cecf7e4b",
+        "date_posted": 1754990227,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754990373,
+        "url": "https://jobs.ashbyhq.com/notion/5bc8cbb9-4d08-4217-a968-d485d1b39905",
+        "company_name": "Notion",
+        "title": "Software Engineer, AI",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0295949e-0aca-486f-9891-c47cf646e91a",
+        "date_posted": 1754990373,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blizzard Entertainment",
+        "id": "19386311-1ca8-4bba-83eb-fcb40c8fe75b",
+        "title": "Graphics Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1755001032,
+        "date_posted": 1755001032,
+        "url": "https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Graphics-Engineering-Intern_R025849",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
