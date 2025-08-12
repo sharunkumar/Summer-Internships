@@ -199226,7 +199226,7 @@
         "company_name": "Western Digital",
         "id": "b14b632a-0bdd-4b18-92ba-ff887c70021b",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -200736,7 +200736,7 @@
         "company_name": "Cloudflare",
         "id": "73e8c1fc-1570-4e1e-9b65-2809522ca5cb",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -209133,7 +209133,7 @@
         "company_name": "DotDash Meredith",
         "id": "acb8c9a5-09d5-4a77-9d59-725ff8b89efb",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Spring 2026"
@@ -213967,7 +213967,7 @@
         "company_name": "GlobalFoundries",
         "id": "220538b1-ce6b-425e-ab10-bfc5d8f05e35",
         "title": "3D Advanced Heterogeneous Integration Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214185,5 +214185,68 @@
         "date_posted": 1754929475,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "f3e90278-9a1e-48a7-aca8-0572d97968c0",
+        "title": "Former Discover Intern - Technology Development Program Associate",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754972005,
+        "date_posted": 1754972005,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Former-Discover-Intern--Technology-Development-Program-Associate---August-2026_R221899-1",
+        "locations": [
+            "Plano, TX",
+            "McLean, VA",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HNTB",
+        "id": "d9271d06-8ee9-41ec-8e10-3e9cae792197",
+        "title": "Toll Technology Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1754978780,
+        "date_posted": 1754978780,
+        "url": "https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Ocoee-FL-FTE-Turnpike-Headquarters/Toll-Technology-Intern---Fall-2025-and-Spring-2026_R-26609-2",
+        "locations": [
+            "Winter Garden, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/HNTB",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Forrester",
+        "id": "0e9f97ab-9a3b-4966-84f3-ce98c6beac33",
+        "title": "Intern \u2013 Salesforce",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1754978713,
+        "date_posted": 1754978713,
+        "url": "https://forrester.wd501.myworkdayjobs.com/careers/job/Cambridge-MA/Intern---Salesforce_R-101186",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Forrester",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
