@@ -196613,7 +196613,7 @@
         "company_name": "Boston Consulting Group",
         "id": "a6728b9c-aa5b-4b52-a197-7a4d715d6d1d",
         "title": "Female Talent Internship - BCG Platinion",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206558,7 +206558,7 @@
         "company_name": "Ciena",
         "id": "1da66c59-4963-47db-8e28-5af910a96d72",
         "title": "Embedded Software Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025",
@@ -214407,6 +214407,200 @@
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citadel Securities",
+        "id": "1a44500b-c841-4121-ad65-9ed0746573db",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755002960,
+        "date_posted": 1755002960,
+        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755007169,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/data-science-intern-2026-start-6866538002?gh_jid=6866538002",
+        "company_name": "Databricks",
+        "title": "Data Science Intern",
+        "locations": [
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Spring 2026",
+            "Winter 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "e55c7b8e-c0cf-4693-b3ec-b426279d2557",
+        "date_posted": 1755007169,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755007340,
+        "url": "https://job-boards.greenhouse.io/motional/jobs/6670062003",
+        "company_name": "Motional AD",
+        "title": "Machine Learning Internship, Behaviors Research",
+        "locations": [
+            "Boston, MA",
+            "Pittsburgh, PA",
+            "Remote in USA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f4749e2f-6d78-4b72-b123-d21eeb3e36a1",
+        "date_posted": 1755007340,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755007425,
+        "url": "https://job-boards.greenhouse.io/kodiak/jobs/4006045009",
+        "company_name": "Kodiak Robotics",
+        "title": "Artificial Intelligence/Machine Learning",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "e9b4d4e5-52d5-42b6-be42-c8fc0f39be94",
+        "date_posted": 1755007425,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755007550,
+        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8067679002",
+        "company_name": "Samsung",
+        "title": "NLP",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "38bddc63-a4eb-4a49-8ce2-a768807f2650",
+        "date_posted": 1755007550,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755014015,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4807506007?gh_jid=4807506007&gh_src=",
+        "company_name": "Anduril Industries",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Atlanta, GA",
+            "Boston, MA",
+            "Costa Mesa, CA",
+            "Irvine, CA",
+            "Reston, VA",
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "8fce1537-f55c-48c6-926a-8c34b58e10ce",
+        "date_posted": 1755014015,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755014282,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond",
+        "company_name": "Microsoft",
+        "title": "Data Science",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Fall 2025",
+            "Winter 2026",
+            "Winter 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a773bb44-78a2-4c96-95c3-d194f1e22806",
+        "date_posted": 1755014282,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KBR",
+        "id": "24769184-a13a-4468-8fbe-e74dd1085b13",
+        "title": "Software/Firmware Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755018344,
+        "date_posted": 1755018344,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Moffett-Field-California/Software-Firmware-Development-Intern_R2110543",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RESPEC",
+        "id": "acfedfcf-7ac4-41b9-928a-b9eac0724b0e",
+        "title": "Student Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755021484,
+        "date_posted": 1755021484,
+        "url": "https://jobs.smartrecruiters.com/RESPECInc/744000012676985",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/RESPEC",
         "is_visible": true,
         "sponsorship": "Other"
     }
