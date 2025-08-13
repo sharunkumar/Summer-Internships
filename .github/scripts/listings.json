@@ -201540,7 +201540,7 @@
         "company_name": "Ciena",
         "id": "85964e4a-8693-4653-b1ef-cc40ee1e4bca",
         "title": "Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206257,7 +206257,7 @@
         "company_name": "CompScience",
         "id": "73899a9e-ce46-4fd5-880e-b47eca53da42",
         "title": "Engineering Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -214957,6 +214957,26 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tower Research Capital",
+        "id": "e7e30283-df3c-4082-b2b8-84380b809798",
+        "title": "Stagiaire en d\u00e9veloppement de logiciels \u2013 / Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755107034,
+        "date_posted": 1755107034,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=6653745",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
         "is_visible": true,
         "sponsorship": "Other"
     }
