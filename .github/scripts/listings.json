@@ -1993,7 +1993,7 @@
         "company_name": "Ekimetrics",
         "id": "97964cb8-fdda-4a97-a78d-19c194e59388",
         "title": "6 months Internship in Strategy & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -176279,7 +176279,7 @@
         "company_name": "RoviSys",
         "id": "1cd88f81-0a23-4640-81ac-5705d400fa0c",
         "title": "Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -176569,7 +176569,7 @@
         "company_name": "RoviSys",
         "id": "a4e89087-bab1-4c00-97ae-d0727495f79b",
         "title": "Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -183634,7 +183634,7 @@
         "company_name": "ByteDance",
         "id": "38fd1355-b788-437a-a469-1a3fab3d5086",
         "title": "Software Engineer Intern - AIGC Platform - Monetization GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -187323,7 +187323,7 @@
         "company_name": "Nokia",
         "id": "b90c25ce-d478-4208-b03d-3ba75dc4fe48",
         "title": "NW Automation Practice Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -200935,7 +200935,7 @@
         "company_name": "Emerson Electric",
         "id": "969f8d93-12b4-4ab6-8e8f-14b8bce2e1ba",
         "title": "Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -203054,7 +203054,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1752080600,
+        "date_updated": 1755041534,
         "url": "https://jobs.jobvite.com/careers/splunk-careers/job/oFhewfwq",
         "company_name": "Splunk",
         "title": "Site Reliability Engineer Intern",
@@ -203064,13 +203064,13 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Vitamoon",
         "id": "4ef69a7e-5eed-4888-8266-560682eba2db",
         "date_posted": 1752080600,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754478380,
@@ -203371,7 +203371,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1752139692,
+        "date_updated": 1755041506,
         "url": "https://jobs.ashbyhq.com/ramp/0f1c331d-21b6-44fb-a326-5357d6e30188",
         "company_name": "Ramp",
         "title": "Software Engineer Internship iOS",
@@ -203388,7 +203388,7 @@
         "id": "ec631329-50ef-458e-94be-87ad6775ab49",
         "date_posted": 1752139394,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1752139891,
@@ -207252,7 +207252,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753800498,
+        "date_updated": 1755041484,
         "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR103688",
         "company_name": "Copart",
         "title": "Software Engineering Intern",
@@ -207262,13 +207262,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "1d121ea9-1c36-4ed3-92b8-53ec2b8f7b92",
         "date_posted": 1753800498,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753800872,
@@ -210423,9 +210423,9 @@
         "title": "Manufacturing Excellence Co-op Student",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754440664,
+        "date_updated": 1755045146,
         "date_posted": 1754440664,
         "url": "https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-op-Student_R-52959-1",
         "locations": [
@@ -210883,9 +210883,9 @@
         "title": "Campus Software Engineer \u2013 Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754549018,
+        "date_updated": 1755041442,
         "date_posted": 1754549018,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7124769",
         "locations": [
@@ -211283,7 +211283,7 @@
         "company_name": "TikTok",
         "id": "934af5c3-dc30-411c-b864-9fcaed8b9f2d",
         "title": "Machine Learning Engineer Intern - E-commerce-Recommendation - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -212372,9 +212372,9 @@
         "title": "2026 Confluent Software Engineering Intern Opportunity",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754605769,
+        "date_updated": 1755045123,
         "date_posted": 1754605769,
         "url": "https://jobs.ashbyhq.com/confluent/974fa008-7174-4e6f-a89c-8c6cce70ae7e/application",
         "locations": [
@@ -212534,9 +212534,9 @@
         "title": "Mobile Software Developer Co-op",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754611837,
+        "date_updated": 1755045112,
         "date_posted": 1754611837,
         "url": "https://jobs.intuit.com/job/toronto/mobile-software-developer-co-op-4-months/27595/82954044144",
         "locations": [
@@ -213381,10 +213381,9 @@
         "title": "Dell ISG Hardware Engineering Undergraduate Intern",
         "active": true,
         "terms": [
-            "Winter 2026",
-            "Spring 2027"
+            "Summer 2026"
         ],
-        "date_updated": 1754625057,
+        "date_updated": 1755041495,
         "date_posted": 1754625057,
         "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Dell-ISG-Hardware-Engineering-Undergraduate-Intern_R275422-1",
         "locations": [
@@ -213724,9 +213723,9 @@
         "title": "Software Engineer 1 \u2013 Intern Conversion - Front End",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754703073,
+        "date_updated": 1755045100,
         "date_posted": 1754703073,
         "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-1--Front-End--Intern-Conversion-_JR29338",
         "locations": [
@@ -214603,5 +214602,169 @@
         "company_url": "https://simplify.jobs/c/RESPEC",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xylem",
+        "id": "3cfd22a3-7aac-4e87-9e19-2701bbbf0aef",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755027666,
+        "date_posted": 1755027666,
+        "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Mississauga/Data-Engineer-Intern_R43581",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Xylem",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "ccd9f420-e266-4129-8725-492d70b95d5d",
+        "title": "3D Avatar Research and Development Intern - PICO Perception",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755029021,
+        "date_posted": 1755029021,
+        "url": "https://jobs.bytedance.com/en/position/7535957617782147336/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cotiviti",
+        "id": "3d0a232d-9aa7-4e00-a5f3-9b83b0e5dc21",
+        "title": "Intern \u2013 Technology Research Assistant/Analyst",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755030150,
+        "date_posted": 1755030150,
+        "url": "https://careers-cotiviti.icims.com/jobs/16226/job",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cotiviti",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Radiant",
+        "id": "85fc699f-b0bb-47b1-9967-ec53e94deac1",
+        "title": "Internship - Software Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755033315,
+        "date_posted": 1755033315,
+        "url": "https://job-boards.greenhouse.io/radiant/jobs/4591921005",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Radiant",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "2d64ad09-45f3-41ed-83d4-34d2bc305a9d",
+        "title": "Former Discover Intern - Data Analyst Associate",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1755032839,
+        "date_posted": 1755032839,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Former-Discover-Intern--Data-Analyst-Associate---2026_R221876-1",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "a2f002eb-5013-4a4b-9fb4-3401655cd29c",
+        "title": "Former Discover Intern - Technology Development Program Associate",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1755032827,
+        "date_posted": 1755032827,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Former-Discover-Intern--Technology-Development-Program-Associate---February-2026_R221902-1",
+        "locations": [
+            "Plano, TX",
+            "McLean, VA",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755045050,
+        "url": "https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?fbclid=PAZXh0bgNhZW0CMTEAAacZmDKBbpt6Eic3DYCTf372rK812Efp_FC9Sle8J1TgYhTmQa52d0muxM0Vtg_aem_NgJJWd_yRRfgPncN8pXvNw",
+        "company_name": "Shopify",
+        "title": "Engineering Internship",
+        "locations": [
+            "New York, New York",
+            "Bellevue, Washington"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "aaditghai",
+        "id": "1a908f90-d94a-4df2-91ec-f245e007600b",
+        "date_posted": 1755045050,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755049413,
+        "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c9401959580867801e4&id=8a7883a89881bb7201988638b55055cf",
+        "company_name": "Nicolet National Bank",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Green Bay, WI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9dc83977-d7a5-4cae-bbe7-a05cfe11d45f",
+        "date_posted": 1755049413,
+        "company_url": "",
+        "is_visible": true
     }
 ]
