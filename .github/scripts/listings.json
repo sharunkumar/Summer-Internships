@@ -156712,7 +156712,7 @@
         "company_name": "ByteDance",
         "id": "9b7f21fe-b5c7-417d-8a69-bb3310f23998",
         "title": "Frontend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce - 2025 Start Summer - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -184478,7 +184478,7 @@
         "company_name": "Atomic Semi",
         "id": "b595adfe-7a2e-439f-95d5-5fe49ca7312a",
         "title": "Embedded Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -195827,7 +195827,7 @@
         "company_name": "ByteDance",
         "id": "f2800390-ace4-4621-8f74-37d6e4672a2c",
         "title": "Backend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Customer Business - 2025 Fall - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -201398,7 +201398,7 @@
         "company_name": "ByteDance",
         "id": "e5d09b9b-d149-4b31-b702-af8c1b5f952f",
         "title": "Backend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Content",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -215370,7 +215370,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755167452,
+        "date_updated": 1755192124,
         "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=316815",
         "company_name": "Oklahoma City Thunder",
         "title": "Software Engineer Intern / Basketball Operations",
@@ -215384,13 +215384,13 @@
             "Fall 2025",
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "e9d47e16-c9a3-46ca-8741-464512bd5290",
         "date_posted": 1755167452,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755167523,
@@ -215470,8 +215470,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "AlmondCroffle",
-        "id": "c7c62fd7-1e37-4330-a500-08cecc1f0ee1",
+        "source": "Simplify",
+        "id": "8fdfa7b0-df95-4009-a3b8-e433466c825f",
         "date_posted": 1755167935,
         "company_url": "",
         "is_visible": true
@@ -215647,6 +215647,66 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/WW-Grainger",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KeyCorp",
+        "id": "d7c27e55-5d95-4a37-9112-7d2e20e52e4f",
+        "title": "2026 Summer Key's Technology \u2013 Internship - Operations & Services - Data Track",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755182699,
+        "date_posted": 1755182699,
+        "url": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Brooklyn-OH/XMLNAME-2026-Summer-Key-s-Technology--Operations---Services--Data-Track--Internship---Cleveland_R-33880",
+        "locations": [
+            "Brooklyn, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/KeyCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KeyCorp",
+        "id": "b898c057-356e-473d-902b-7a385c7281c9",
+        "title": "2026 Summer Key's Technology \u2013 Internship - Operations & Services - Technology Track",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755182691,
+        "date_posted": 1755182691,
+        "url": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Brooklyn-OH/XMLNAME-2026-Summer-Key-s-Technology--Operations---Services--Technology-Track--Internship---Cleveland_R-33877",
+        "locations": [
+            "Brooklyn, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/KeyCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Draper",
+        "id": "03401322-87dd-48d6-811c-4baf37dd0a2e",
+        "title": "Data Analysis Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755188238,
+        "date_posted": 1755188238,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Data-Analysis-Intern_JR001649",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
         "is_visible": true,
         "sponsorship": "Other"
     }
