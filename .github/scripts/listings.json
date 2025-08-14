@@ -203137,7 +203137,7 @@
         "company_name": "Hello Fresh",
         "id": "c8ba022c-aec8-402c-b5d5-ce9685b7a004",
         "title": "Intern \u2013 Executive Analytics & Tools",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -214397,7 +214397,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "19386311-1ca8-4bba-83eb-fcb40c8fe75b",
         "title": "Graphics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -214500,7 +214500,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755007550,
+        "date_updated": 1755166210,
         "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8067679002",
         "company_name": "Samsung",
         "title": "NLP",
@@ -214510,13 +214510,13 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "38bddc63-a4eb-4a49-8ce2-a768807f2650",
         "date_posted": 1755007550,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755014015,
@@ -214594,9 +214594,9 @@
         "title": "Student Software Engineering Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2025"
         ],
-        "date_updated": 1755021484,
+        "date_updated": 1755166259,
         "date_posted": 1755021484,
         "url": "https://jobs.smartrecruiters.com/RESPECInc/744000012676985",
         "locations": [
@@ -214988,9 +214988,9 @@
         "title": "AI Enablement Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755113501,
+        "date_updated": 1755166371,
         "date_posted": 1755113501,
         "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014102",
         "locations": [
@@ -215008,9 +215008,9 @@
         "title": "Investment & Trading \u2013 Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755113465,
+        "date_updated": 1755166226,
         "date_posted": 1755113465,
         "url": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
         "locations": [
@@ -215029,9 +215029,9 @@
         "title": "2026 Data Science Internship",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755112908,
+        "date_updated": 1755166238,
         "date_posted": 1755112908,
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4793185007",
         "locations": [
@@ -215049,9 +215049,9 @@
         "title": "Software Engineer \u2013 Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755117174,
+        "date_updated": 1755166402,
         "date_posted": 1755117174,
         "url": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
         "locations": [
@@ -215218,6 +215218,435 @@
             "Vandalia, OH"
         ],
         "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755155751,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1860947",
+        "company_name": "Microsoft",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Ibrahim-t39",
+        "id": "fd67a8ae-43fa-492a-bc2a-ef78e3442409",
+        "date_posted": 1755155751,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stoneridge",
+        "id": "753e359c-7c68-4a7c-a013-8479caed144a",
+        "title": "Business Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1755159142,
+        "date_posted": 1755159142,
+        "url": "https://stoneridge.wd5.myworkdayjobs.com/careers/job/Novi-MI/Stoneridge-Impact-Program-Intern_JR101043",
+        "locations": [
+            "Novi, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/e52e17c7-c352-40d3-85c1-94d7be1df9e7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755166358,
+        "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042",
+        "company_name": "TetraMem",
+        "title": "Software - Embedded Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "7c193c8a-fc5e-4613-b0e8-fa805000d058",
+        "date_posted": 1755166358,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755166544,
+        "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3404209",
+        "company_name": "TetraMem",
+        "title": "Software - Machine Learning Intern",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "8ce6bc8d-6494-40aa-947d-cd0a1d8ec6aa",
+        "date_posted": 1755166544,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755166637,
+        "url": "https://shusa.wd5.myworkdayjobs.com/en-US/External/job/Dallas-TX/Cache-Software-Development_REQ-033017",
+        "company_name": "Sonic Healthcare USA",
+        "title": "Cache Software Development Intern",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c0b724f8-afea-43bd-bf40-1d75e6334c74",
+        "date_posted": 1755166637,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755166768,
+        "url": "https://careers.newyorklife.com/careers?location=New%20York%2C%20New%20York%2C%20US&pid=30591072&domain=newyorklife.com&sort_by=relevance",
+        "company_name": "New York Life",
+        "title": "Investments AI & Data Summer Internship Program - AI & DS Team",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f815eb2f-0dff-4c16-98d8-a584b9969bc9",
+        "date_posted": 1755166768,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755166896,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Software-Engineering-Intern--Summer-2026-_JR-2502857?src=JB-10100%E2%80%89%E2%80%89%E2%80%89%E2%80%89%E2%80%89",
+        "company_name": "GlobalFoundries",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Malta, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "aa7fa6b8-477d-4b49-87ab-dbe7db6b8a86",
+        "date_posted": 1755166896,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755167452,
+        "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=316815",
+        "company_name": "Oklahoma City Thunder",
+        "title": "Software Engineer Intern / Basketball Operations",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "e9d47e16-c9a3-46ca-8741-464512bd5290",
+        "date_posted": 1755167452,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755167523,
+        "url": "https://job-boards.greenhouse.io/domo/jobs/7099526",
+        "company_name": "Domo",
+        "title": "Software Engineer",
+        "locations": [
+            "American Fork, UT"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "6491b7d4-5e16-4c86-81db-d6f17130b8ae",
+        "date_posted": 1755167523,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755167694,
+        "url": "https://halma.wd3.myworkdayjobs.com/en-US/halma/job/Rochester/Software-Engineering-Co-op_JR25_000871",
+        "company_name": "Ocean Optics",
+        "title": "Software Engineering Co-op",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "6262d9ea-74a7-4f1b-9808-0f793754f7f2",
+        "date_posted": 1755167694,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755167776,
+        "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/7073180",
+        "company_name": "PDT Partners",
+        "title": "Software Engineering Internship",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b7077af9-122c-4af7-92ea-d23344684ddb",
+        "date_posted": 1755167776,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755167935,
+        "url": "https://ncino.wd5.myworkdayjobs.com/en-US/nCinoCareers/job/US---Utah---Lehi/Part-time-Software-Engineer-Intern_R5724",
+        "company_name": "nCino",
+        "title": "Part-time Software Engineer Intern",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c7c62fd7-1e37-4330-a500-08cecc1f0ee1",
+        "date_posted": 1755167935,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755168209,
+        "url": "https://gdmissionsystems.com/careers/intern-engineer-ft-wayne-in-usa-2025-66946-opportunity",
+        "company_name": "General Dynamics",
+        "title": "Intern Engineer",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "7f91410f-24f0-4287-bcd9-74fca28fce4d",
+        "date_posted": 1755168209,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755168311,
+        "url": "https://job-boards.eu.greenhouse.io/nice/jobs/4654114101?gh_jid=4654114101",
+        "company_name": "NiCE",
+        "title": "AI Solutions Intern",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a03759ad-6326-43a2-9b9e-1b1a4207bd8a",
+        "date_posted": 1755168311,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755169190,
+        "url": "https://www.jumptrading.com/careers/7141699/?gh_jid=7141699",
+        "company_name": "Jump Trading",
+        "title": "Campus AI Researcher (Intern)",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "bd019fd0-d553-4104-99db-ccd9a77311e4",
+        "date_posted": 1755169190,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755169376,
+        "url": "https://www.jumptrading.com/careers/6916776/?gh_jid=6916776",
+        "company_name": "Jump Trading",
+        "title": "Campus ML Engineer (Intern)",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2acb692f-50fe-4fd1-9c2d-8351b722c37d",
+        "date_posted": 1755169376,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "W.W. Grainger",
+        "id": "eb6d1b50-8f9a-416d-8844-94ac41192728",
+        "title": "Data Science Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755171914,
+        "date_posted": 1755171914,
+        "url": "https://jobs.grainger.com/job/LAKE-FOREST-Data-Science-Apprentice-(Summer-2026)-IL-60045-5202/1315740400/?ats=successfactors",
+        "locations": [
+            "Highland Park, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/WW-Grainger",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "W.W. Grainger",
+        "id": "8724872d-b788-422e-abb7-bc0ffb1eec54",
+        "title": "GTG Intern - Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1755171829,
+        "date_posted": 1755171829,
+        "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Analyst-IL-60661-4555/1316068000/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/WW-Grainger",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "W.W. Grainger",
+        "id": "85b92c21-5915-47f0-bc98-dd24b91f0bfb",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755171779,
+        "date_posted": 1755171779,
+        "url": "https://jobs.grainger.com/job/LAKE-FOREST-Data-Science-Intern-(Summer-2026)-IL-60045-5202/1315732800/?ats=successfactors",
+        "locations": [
+            "Highland Park, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/WW-Grainger",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "W.W. Grainger",
+        "id": "2468b606-f34c-4162-a2ae-52a22c7c3cc2",
+        "title": "GTG Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1755171525,
+        "date_posted": 1755171525,
+        "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1316063500/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/WW-Grainger",
         "is_visible": true,
         "sponsorship": "Other"
     }
