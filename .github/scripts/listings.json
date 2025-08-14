@@ -215160,5 +215160,65 @@
         "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nelnet",
+        "id": "b98d72ab-224e-4b09-a98c-8075d615fdad",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755145746,
+        "date_posted": 1755145746,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Intern---Software-Engineer_R21509",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/3f188829-d8f5-44a4-aa08-07856114fe30",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "insightsoftware",
+        "id": "e1fb60fb-25e2-4b31-ac25-3bbd657d0316",
+        "title": "Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755146914,
+        "date_posted": 1755146914,
+        "url": "https://jobs.smartrecruiters.com/Insightsoftware/744000062500486",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Insightsoftware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Regal Rexnord",
+        "id": "8e5afc51-e33d-4302-8aeb-102811b40f6d",
+        "title": "Application Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755149115,
+        "date_posted": 1755149115,
+        "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Engineer-Co-op_R25_04012",
+        "locations": [
+            "Vandalia, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
