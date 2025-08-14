@@ -27651,7 +27651,7 @@
         "company_name": "Kepler Communications",
         "id": "885f601c-ee24-4bda-b176-d5ceda71f7fd",
         "title": "Embedded Software Engineer Intern - Winter 2024 - 4 - Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -163077,7 +163077,7 @@
         "company_name": "Point72",
         "id": "f6c82347-3f0e-4229-b426-670569fe7f12",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -176317,7 +176317,7 @@
         "company_name": "RoviSys",
         "id": "08c8f8de-61e9-4547-b8c6-fbe14b2a223f",
         "title": "Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -201217,7 +201217,7 @@
         "company_name": "Autodesk",
         "id": "72c96fbc-f8cd-4977-9bf9-93929c6e2ac8",
         "title": "Intern \u2013 Software Developer/ Stagiaire en d\u00e9veloppement logiciels",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -203884,7 +203884,7 @@
         "company_name": "Airbus",
         "id": "b1770f91-4912-4ed0-a1a1-28a99dc54101",
         "title": "Stage D\u00e9veloppeur Full Stack / Internship Full Stack Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205976,7 +205976,7 @@
         "company_name": "McKesson",
         "id": "839bdd2c-1074-4967-973f-0d0ff562e9ce",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -209837,7 +209837,7 @@
         "company_name": "U.S. Bank",
         "id": "036fbedd-299d-4b1b-b760-4e3aeb1164a9",
         "title": "Capital Markets Summer Intern-Investment Grade Sales & Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -213379,7 +213379,7 @@
         "company_name": "Dell Technologies",
         "id": "d7201f8d-9bbe-4f64-b1be-08b5fb17579b",
         "title": "Dell ISG Hardware Engineering Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -213721,7 +213721,7 @@
         "company_name": "Chamberlain Group",
         "id": "e5433b62-9bcc-4d95-b781-0df543e6b03b",
         "title": "Software Engineer 1 \u2013 Intern Conversion - Front End",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214493,8 +214493,8 @@
         ],
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
-        "source": "AlmondCroffle",
-        "id": "e9b4d4e5-52d5-42b6-be42-c8fc0f39be94",
+        "source": "Simplify",
+        "id": "0679493b-6252-4971-8752-e6d6a84f1000",
         "date_posted": 1755007425,
         "company_url": "",
         "is_visible": true
@@ -214977,6 +214977,187 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": " CCC Intelligent Solutions",
+        "id": "1d03240a-7916-421b-b354-cd16f85f6ed5",
+        "title": "AI Enablement Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755113501,
+        "date_posted": 1755113501,
+        "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014102",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "78885859-7ae3-42cc-a2db-f5d8aff6bfc7",
+        "title": "Investment & Trading \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755113465,
+        "date_posted": 1755113465,
+        "url": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
+        "locations": [
+            "London, UK",
+            "Paris, France"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Trade Desk",
+        "id": "dec4fd9e-09b9-487f-9890-d5445f7be779",
+        "title": "2026 Data Science Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755112908,
+        "date_posted": 1755112908,
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4793185007",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citadel",
+        "id": "1ea0ca0e-e61d-4b8d-92fd-4a97c6ba9d82",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755117174,
+        "date_posted": 1755117174,
+        "url": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kodiak Robotics",
+        "id": "4702b97e-44a0-4576-a028-50a9fe02887c",
+        "title": "Winter 2026 Intern - Controls",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755133829,
+        "date_posted": 1755133829,
+        "url": "https://job-boards.greenhouse.io/kodiak/jobs/4009143009",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kodiak Robotics",
+        "id": "b0fe1d37-d79b-4e0c-b7c8-aa1c7b130e9f",
+        "title": "Winter 2026 Intern - Motion Planning",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755133754,
+        "date_posted": 1755133754,
+        "url": "https://job-boards.greenhouse.io/kodiak/jobs/4009148009",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kodiak Robotics",
+        "id": "a5accd9f-ab44-4ca1-aa4c-0f85f1481637",
+        "title": "Winter 2026 Intern - Perception",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755133792,
+        "date_posted": 1755133792,
+        "url": "https://job-boards.greenhouse.io/kodiak/jobs/4006047009",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kodiak Robotics",
+        "id": "9ed07d6f-c0f7-49f3-89d9-62b8579e1d2f",
+        "title": "Fall 2025 Intern - Controls",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755133636,
+        "date_posted": 1755133636,
+        "url": "https://job-boards.greenhouse.io/kodiak/jobs/4006128009",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kodiak Robotics",
+        "id": "394700ef-6e9b-4e63-bbf3-a1f9d57f88eb",
+        "title": "Intern - Perception",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755133675,
+        "date_posted": 1755133675,
+        "url": "https://job-boards.greenhouse.io/kodiak/jobs/4006046009",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
     }
