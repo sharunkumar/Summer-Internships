@@ -189446,7 +189446,7 @@
         "company_name": "American Axle & Manufacturing",
         "id": "3b1775c2-f21c-4262-a51e-b1e5d11c61a4",
         "title": "Product Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746080177,
         "date_posted": 1746080177,
@@ -203597,7 +203597,7 @@
         "company_name": "Altera Corporation",
         "id": "2cacb2ef-372d-4678-a272-55b9883ce113",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204200,7 +204200,7 @@
         "company_name": "WGU",
         "id": "efe3becb-c2ec-489d-9115-aa9b091adefa",
         "title": "Associate Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -207501,14 +207501,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754509520,
+        "date_updated": 1755280564,
         "date_posted": 1753831333,
         "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Software-Engineer-Co-op_JR103892",
         "locations": [
             "Audubon, PA"
         ],
         "company_url": "https://simplify.jobs/c/Globus-Medical",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -210820,7 +210820,7 @@
         "company_name": "Wurl",
         "id": "dc49de1f-c56b-4912-92a6-d240db6835c1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -211570,11 +211570,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754554597,
+        "date_updated": 1755282075,
         "date_posted": 1754554597,
         "url": "https://lifeattiktok.com/search/7533130221324994823",
         "locations": [
-            "LA"
+            "Los Angeles, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
@@ -212820,11 +212820,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754621401,
+        "date_updated": 1755282161,
         "date_posted": 1754621401,
         "url": "https://lifeattiktok.com/search/7533132837038819591",
         "locations": [
-            "LA"
+            "Los Angeles, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
@@ -214009,7 +214009,7 @@
         "company_name": "Nextiva",
         "id": "ca9aa085-672f-467f-afe9-1ea438a7d115",
         "title": "AI Engineer Intern - Go-to-Market - Part-time",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -215167,7 +215167,7 @@
         "company_name": "Nelnet",
         "id": "b98d72ab-224e-4b09-a98c-8075d615fdad",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215469,7 +215469,7 @@
             "Summer 2026"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "8fdfa7b0-df95-4009-a3b8-e433466c825f",
         "date_posted": 1755167935,
@@ -215721,12 +215721,12 @@
             "Summer 2026",
             "Fall 2026"
         ],
-        "date_updated": 1755205214,
+        "date_updated": 1755271494,
         "date_posted": 1755205214,
         "url": "https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6/application",
         "locations": [
-            "SF",
-            "NYC"
+            "San Francisco, CA",
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Notion",
         "is_visible": true,
@@ -215786,12 +215786,12 @@
             "Summer 2026",
             "Fall 2026"
         ],
-        "date_updated": 1755205181,
+        "date_updated": 1755271513,
         "date_posted": 1755205181,
         "url": "https://jobs.ashbyhq.com/notion/1bda6206-2258-4c1f-a585-ef31ee56f1d4/application",
         "locations": [
-            "SF",
-            "NYC"
+            "San Francisco, CA",
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Notion",
         "is_visible": true,
@@ -215830,12 +215830,12 @@
             "Summer 2026",
             "Fall 2026"
         ],
-        "date_updated": 1755205141,
+        "date_updated": 1755271656,
         "date_posted": 1755205141,
         "url": "https://jobs.ashbyhq.com/notion/5bc8cbb9-4d08-4217-a968-d485d1b39905/application",
         "locations": [
-            "SF",
-            "NYC"
+            "San Francisco, CA",
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Notion",
         "is_visible": true,
@@ -215995,6 +215995,158 @@
         "source": "AlmondCroffle",
         "id": "2a37dedc-5c88-43c3-9a99-e9bef2a4160f",
         "date_posted": 1755248292,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755264321,
+        "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f03044b2dac6/spa-1/candidate/so/pm/1/pl/1/opp/19975-2026-Firmwide-AI-Strategy-Solutions-Summer-Analyst-Program-New-York/en-GB",
+        "company_name": "Morgan Stanley",
+        "title": "Firmwide AI Strategy & Solutions Summer Analyst Program",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f133ed79-6713-4cef-8760-180dd54447c5",
+        "date_posted": 1755264321,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755264404,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/XMLNAME-2025-Software-Engineer-Intern---Rome--NY-_R10204079",
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Rome, NY"
+        ],
+        "terms": [
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "47344b22-9c07-45c2-b3f1-b79b9e388de6",
+        "date_posted": 1755264404,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755264461,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Intern--Summer-2026---Onsite-_01786507",
+        "company_name": "RTX",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "d98006af-1b44-46d1-9a3d-960e0494ec5f",
+        "date_posted": 1755264461,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755264595,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2026_R218620-1",
+        "company_name": "Capital One",
+        "title": "Current Master's - Data Science Internship",
+        "locations": [
+            "McLean, VA",
+            "Cambridge, MA",
+            "Chicago, IL",
+            "Richmond, VA",
+            "Plano, TX",
+            "San Francisco, CA",
+            "San Jose, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b63beac3-07c6-4869-9a9c-0e53bff6aba6",
+        "date_posted": 1755264595,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755264732,
+        "url": "https://apply.workable.com/connectprep/j/BDD172BF52/",
+        "company_name": "ConnectPrep",
+        "title": "Data Analyst Internship",
+        "locations": [
+            "Westport, CT"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ff619f9d-bd86-4c70-b19e-1b2bbac7dd63",
+        "date_posted": 1755264732,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755265063,
+        "url": "https://transperfect.wd5.myworkdayjobs.com/en-US/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-242116",
+        "company_name": "TransPerfect",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2025",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "cd8a53a5-daa7-4793-b752-5fd191eb4f78",
+        "date_posted": 1755265063,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755265165,
+        "url": "https://automatedsystemsoftacoma.applytojob.com/apply/MfHgBZerZd/Software-Engineering-Intern-2026",
+        "company_name": "Automated Systems of Tacoma",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Tacoma, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0cb65a62-bd96-4720-9472-145fa41c4047",
+        "date_posted": 1755265165,
         "company_url": "",
         "is_visible": true
     }
