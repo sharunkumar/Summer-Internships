@@ -203842,7 +203842,7 @@
         "company_name": "Sanofi",
         "id": "4f2d3d82-a4c9-4616-9b13-13964ec80c5c",
         "title": "Co-op-Intern - Msat - Data Science - Process Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -205471,7 +205471,7 @@
         "company_name": "Tenstorrent",
         "id": "4ccd3cc1-f196-4041-996c-f33e4728a6fe",
         "title": "CPU Core Performance Verification Intern - CPU/AI Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2025",
@@ -209837,7 +209837,7 @@
         "company_name": "U.S. Bank",
         "id": "036fbedd-299d-4b1b-b760-4e3aeb1164a9",
         "title": "Capital Markets Summer Intern-Investment Grade Sales & Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -212512,7 +212512,7 @@
         "company_name": "Intuit",
         "id": "e3119991-3859-4734-936c-1cc1c8296582",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -212532,7 +212532,7 @@
         "company_name": "Intuit",
         "id": "09f7e50b-2449-4e7e-8eb4-6a125a224464",
         "title": "Mobile Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215847,7 +215847,7 @@
         "company_name": "Option Care Health",
         "id": "c3f94ab2-28aa-4a1c-8ebe-bd4791af45bc",
         "title": "Business Intelligence \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -215960,5 +215960,42 @@
         "company_url": "https://simplify.jobs/c/ABB",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755248292,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1448534",
+        "company_name": "Cisco",
+        "title": "Software Engineer I (Intern)",
+        "locations": [
+            "San Jose, CA",
+            "Remote, USA",
+            "Milpitas, CA",
+            "New York, NY",
+            "RTP, NC",
+            "Atlanta, GA",
+            "Alpharetta, GA",
+            "Austin, TX",
+            "Dallas, TX",
+            "Knoxville, TN",
+            "Fulton, MD",
+            "Maynard, MA",
+            "Boston, MA",
+            "Hillsboro, OR"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2026",
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2a37dedc-5c88-43c3-9a99-e9bef2a4160f",
+        "date_posted": 1755248292,
+        "company_url": "",
+        "is_visible": true
     }
 ]
