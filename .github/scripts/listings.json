@@ -22153,7 +22153,7 @@
         "company_name": "Garda Capital Partners",
         "id": "cfc5c938-5953-4e6d-afc2-63f245937f94",
         "title": "Trading Analyst Intern - Rates",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -156673,7 +156673,7 @@
         "company_name": "ByteDance",
         "id": "0a500311-6fef-408a-97a6-31cc0241ce54",
         "title": "Mobile App Engineering Intern - Product RD and Infrastructure - Global E-Commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -169854,7 +169854,7 @@
         "company_name": "Genies",
         "id": "51dadaab-4a53-4690-abaa-8a100a534c1d",
         "title": "Backend Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -195541,7 +195541,7 @@
         "company_name": "ByteDance",
         "id": "1370609f-94b6-47cf-bdba-63cdfb8801f3",
         "title": "Frontend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Content - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -195562,7 +195562,7 @@
         "company_name": "ByteDance",
         "id": "190aa9ea-f702-40d4-8ab8-0a3ecc7b8be0",
         "title": "Frontend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Seller Business - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -195583,7 +195583,7 @@
         "company_name": "ByteDance",
         "id": "f5bc0e9d-d051-4a2b-b4c1-3eaf9361647d",
         "title": "Backend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Seller Business",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -200084,7 +200084,7 @@
         "company_name": "Mercedes-Benz",
         "id": "b3e5a9c8-5692-44c5-9363-7b413b530683",
         "title": "Software Developer \u2013 AIX Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -203535,7 +203535,7 @@
         "company_name": "Altera Digital Health",
         "id": "1030159f-0fa3-4cab-b158-cb74139e0fa2",
         "title": "Intern \u2013 Operational Innovation & Digital Solutions",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -205685,7 +205685,7 @@
         "company_name": "Five Rings Capital",
         "id": "1c9ad46a-3060-4def-9979-2154b31b7e19",
         "title": "Summer Intern - Quantitative Research Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206518,7 +206518,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "6d4e59b1-765c-4c09-9833-47d5c3bc7922",
         "title": "Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -207397,7 +207397,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "1b55e4c6-d1d8-4f1d-afbc-52357b131ae9",
         "title": "Software Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210115,7 +210115,7 @@
             "Summer 2026"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "10c6a34e-045d-49ae-8c16-438ff31f6929",
         "date_posted": 1754364082,
@@ -213077,7 +213077,7 @@
         "company_name": "TikTok",
         "id": "4c23ad4b-2c5a-4f4c-b563-bd1f4df49d07",
         "title": "Software Engineer Intern - Tiktok-Social-Product Innovation - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -214612,7 +214612,7 @@
         "company_name": "Xylem",
         "id": "3cfd22a3-7aac-4e87-9e19-2701bbbf0aef",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214833,7 +214833,7 @@
         "company_name": "Nokia",
         "id": "a6fc5f38-1fa8-4f07-b8ad-d03b96d9cee9",
         "title": "Database Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -215409,8 +215409,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "AlmondCroffle",
-        "id": "6491b7d4-5e16-4c86-81db-d6f17130b8ae",
+        "source": "Simplify",
+        "id": "fe4e7ffc-53c2-47b3-a6c2-9a3877197d7e",
         "date_posted": 1755167523,
         "company_url": "",
         "is_visible": true
@@ -215707,6 +215707,257 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Notion",
+        "id": "d2e75901-15a0-4ebf-9226-2a7f4e1091f4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1755205214,
+        "date_posted": 1755205214,
+        "url": "https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Notion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Notion",
+        "id": "b3628741-9565-40c4-80ec-5836fcbf57d6",
+        "title": "Software Engineer \u2013 AI Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755205164,
+        "date_posted": 1755205164,
+        "url": "https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Notion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Notion",
+        "id": "8b767bda-722a-4c79-8ef0-95830440c329",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1755205215,
+        "date_posted": 1755205215,
+        "url": "https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Notion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Notion",
+        "id": "7dcd07dc-a76a-42a7-bbff-794b750eb3db",
+        "title": "Software Engineer \u2013 Mobile Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1755205181,
+        "date_posted": 1755205181,
+        "url": "https://jobs.ashbyhq.com/notion/1bda6206-2258-4c1f-a585-ef31ee56f1d4/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Notion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Notion",
+        "id": "007ec7b2-bc2c-4a9c-b5b9-7991136be576",
+        "title": "Software Engineer \u2013 Mobile Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1755205172,
+        "date_posted": 1755205172,
+        "url": "https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Notion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Notion",
+        "id": "2fd037fd-ff5e-46be-9ddc-49a5743d83cd",
+        "title": "Software Engineer \u2013 AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1755205141,
+        "date_posted": 1755205141,
+        "url": "https://jobs.ashbyhq.com/notion/5bc8cbb9-4d08-4217-a968-d485d1b39905/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Notion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Option Care Health",
+        "id": "c3f94ab2-28aa-4a1c-8ebe-bd4791af45bc",
+        "title": "Business Intelligence \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755220748,
+        "date_posted": 1755220748,
+        "url": "https://optioncare.wd1.myworkdayjobs.com/optioncare/job/Bannockburn-IL/Business-Intelligence---Intern_R32228",
+        "locations": [
+            "Highland Park, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/5affdda5-35ac-40d1-896d-68e3c2525d51",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ABB",
+        "id": "6655f32f-2a2a-4bd8-aa1e-1daa45c364dd",
+        "title": "Data Scientist & AI Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755220583,
+        "date_posted": 1755220583,
+        "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-NC-Cary/Data-Scientist---AI-Intern---Fall-2025_96762664-1",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Covestro",
+        "id": "3bf0335a-8980-4bed-9418-3770fd882b50",
+        "title": "Intern \u2013 m/f/d - Optimization & Data Analysis",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755220616,
+        "date_posted": 1755220616,
+        "url": "https://covestro.wd3.myworkdayjobs.com/cov_external/job/Leverkusen/Praktikant-in--m-w-d--im-Bereich-Verfahrenstechnik---Chemieingenieurwesen-zu-Prozesssimulation--Optimierung---Datenanalyse---mit-Gehaltsangabe_JR-2025-01801",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/a64ca911-92ef-4bce-99ec-a890a343a30c",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ABB",
+        "id": "005e03ad-b5d5-44cc-8d86-78305e4c0a8e",
+        "title": "Product Data Management Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755220457,
+        "date_posted": 1755220457,
+        "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Dorval-Quebec-Canada/Product-Data-Management-Intern_JR00007769",
+        "locations": [
+            "Pointe-Claire, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ABB",
+        "id": "a6891109-0a87-41d2-b9da-604b8d74654f",
+        "title": "Intern \u2013 IT Programming and Projects",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755220449,
+        "date_posted": 1755220449,
+        "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Pointe-Claire-Quebec-Canada/Intern---IT-Programming-and-Projects_JR00007776",
+        "locations": [
+            "Pointe-Claire, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ABB",
+        "id": "14102ec6-f6f0-449c-a1f3-602e7f45ee98",
+        "title": "Information Systems \u2013 Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755220551,
+        "date_posted": 1755220551,
+        "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-NC-Cary/Information-Systems---Machine-Learning-Intern_96939910",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
         "is_visible": true,
         "sponsorship": "Other"
     }
