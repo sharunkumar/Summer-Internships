@@ -161110,7 +161110,7 @@
         "company_name": "Tower Research Capital",
         "id": "c5ee72ae-f07d-450e-9e49-034e3504b9a6",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -180406,7 +180406,7 @@
         "company_name": "Nuro",
         "id": "9faa9a73-cb36-427a-917b-46fa9595ef99",
         "title": "Mapping & Localization \u2013 Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1743787056,
         "date_posted": 1743787056,
@@ -189446,7 +189446,7 @@
         "company_name": "American Axle & Manufacturing",
         "id": "3b1775c2-f21c-4262-a51e-b1e5d11c61a4",
         "title": "Product Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1746080177,
         "date_posted": 1746080177,
@@ -203597,7 +203597,7 @@
         "company_name": "Altera Corporation",
         "id": "2cacb2ef-372d-4678-a272-55b9883ce113",
         "title": "Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -203842,7 +203842,7 @@
         "company_name": "Sanofi",
         "id": "4f2d3d82-a4c9-4616-9b13-13964ec80c5c",
         "title": "Co-op-Intern - Msat - Data Science - Process Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -206933,7 +206933,7 @@
         "company_name": "Sony Pictures Entertainment",
         "id": "35a41d86-7366-4f13-a92b-4ae229251df7",
         "title": "Intern \u2013 IT Business Analysis - TV Networks",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -207497,7 +207497,7 @@
         "company_name": "Globus Medical",
         "id": "97f40342-4b82-4bae-b1d4-e95c5ab11c37",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -207542,7 +207542,7 @@
             "Summer 2026"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "105f38b0-6409-4d1a-886a-78f95036951a",
         "date_posted": 1753832317,
@@ -209504,7 +209504,7 @@
         "company_name": "Vanguard",
         "id": "32de91ea-8464-46ae-ad58-76366978ddef",
         "title": "IT Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -214945,7 +214945,7 @@
         "company_name": "Nokia",
         "id": "ff58d3ad-8682-4ba8-9364-8d427ce7df7b",
         "title": "Firmware Engineering Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -215867,7 +215867,7 @@
         "company_name": "ABB",
         "id": "6655f32f-2a2a-4bd8-aa1e-1daa45c364dd",
         "title": "Data Scientist & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -215992,8 +215992,8 @@
         ],
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
-        "source": "AlmondCroffle",
-        "id": "2a37dedc-5c88-43c3-9a99-e9bef2a4160f",
+        "source": "Simplify",
+        "id": "4193bd89-d8b8-4e02-aab3-7f2a5dd6f423",
         "date_posted": 1755248292,
         "company_url": "",
         "is_visible": true
@@ -216149,5 +216149,1103 @@
         "date_posted": 1755265165,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BlackEdge Capital",
+        "id": "3dde963f-a642-4bcc-88a5-22c9b473b23c",
+        "title": "Quantitative Trader Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755285248,
+        "date_posted": 1755285248,
+        "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4590418005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackEdge-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "6d96aa80-fe21-4029-a47a-a8d594fb3f62",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1755285171,
+        "date_posted": 1755285171,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2025-17674",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": " CCC Intelligent Solutions",
+        "id": "5a7e9c18-5ee9-4e82-9280-778afd179e7e",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755285245,
+        "date_posted": 1755285245,
+        "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Software-Engineer-Intern_0014134",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Ontario Teachers' Pension Plan",
+        "id": "c5757b72-6f8d-41e6-b11b-fef564d2bdc5",
+        "title": "Intern \u2013 Investments - Total Fund Management - Global Trading",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1755288009,
+        "date_posted": 1755288009,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Investments--Total-Fund-Management--Global-Trading--Winter-2026---4-Month-Contract-_6561",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Space Kinetic",
+        "id": "b91d1b8c-98f8-4dad-8b55-0398ca8daac5",
+        "title": "Internship-Software Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1755287416,
+        "date_posted": 1755287416,
+        "url": "https://job-boards.greenhouse.io/spacekinetic/jobs/4885803008",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Space-Kinetic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brunswick",
+        "id": "ef6b0d12-6ba3-417b-8407-2ac818829d00",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1755289082,
+        "date_posted": 1755289082,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Development-Intern_JR-047200",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "a2fd8ebf-4290-4605-b9df-b1313064b3bc",
+        "title": "Software Engineer Intern - Relational Database",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755288936,
+        "date_posted": 1755288936,
+        "url": "https://jobs.bytedance.com/en/position/7535645811629508871/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "37310669-b6cd-4a52-beeb-e261bc5f3c1b",
+        "title": "Software Engineer Intern - Nosql Databases",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755288943,
+        "date_posted": 1755288943,
+        "url": "https://jobs.bytedance.com/en/position/7535621760088901895/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Montenson",
+        "id": "b9c2271b-8c8d-4425-a511-de3cb60f5fe0",
+        "title": "Investment Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755288649,
+        "date_posted": 1755288649,
+        "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/19439",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Montenson",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Montenson",
+        "id": "4c971642-b3d0-49bb-93ce-44b516cb2895",
+        "title": "ITS Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755288657,
+        "date_posted": 1755288657,
+        "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/19438",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Montenson",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "c34e985f-d69d-4e2d-86e3-4795691dcf92",
+        "title": "Ism Co-Op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755287314,
+        "date_posted": 1755287314,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/ISM-Co-Op_R25028023",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "0deb1be4-864f-4b1e-b532-19c144d341f9",
+        "title": "2026 Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1755288558,
+        "date_posted": 1755288558,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Software-Engineer_R158531",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Austin, TX",
+            "San Jose, CA",
+            "NYC",
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rothschild & Co",
+        "id": "e8dd3cf3-fb49-4029-8cf5-cccfb4bdc9a3",
+        "title": "Five Arrows Talent Data Analytics Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755289294,
+        "date_posted": 1755289294,
+        "url": "https://rothschildandco.tal.net/vx/mobile-0/appcentre-ext/brand-4/spa-1/candidate/so/pm/1/pl/2/opp/825-2025-Five-Arrows-Talent-Data-Analytics-Internship/en-GB",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Rothschild",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "a3ea962f-b9c2-4816-9100-7ac7ceafe70a",
+        "title": "Software Engineer Intern - Media Network Global Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755289243,
+        "date_posted": 1755289243,
+        "url": "https://jobs.bytedance.com/en/position/7533770198839773458/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "8d981cf1-c610-41cc-84d1-800ea078fd37",
+        "title": "Software Development Engineer Intern - Network Automation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755289246,
+        "date_posted": 1755289246,
+        "url": "https://jobs.bytedance.com/en/position/7537152632018012424/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ByteDance",
+        "id": "877cc09a-f438-41ca-8b36-0e10e6a8ed2d",
+        "title": "Software Development Engineer Intern - Storage-HDFS - BS/ MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755289237,
+        "date_posted": 1755289237,
+        "url": "https://jobs.bytedance.com/en/position/7538216145381492999/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ByteDance",
+        "id": "45f439c5-48ee-4f58-a636-14a5e0912e61",
+        "title": "Network Software Development Engineer Intern - Network Switch",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755289255,
+        "date_posted": 1755289255,
+        "url": "https://jobs.bytedance.com/en/position/7537117266451171592/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brunswick",
+        "id": "678d4019-7221-4f9b-a4d1-dbab1501f754",
+        "title": "Front-End Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1755290731,
+        "date_posted": 1755290731,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Front-End-Development-Intern_JR-047199",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Link Logistics",
+        "id": "55c25f29-d66f-41c5-b049-6cc111eb5323",
+        "title": "Research & Analytics Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1755290784,
+        "date_posted": 1755290784,
+        "url": "https://linklogistics.wd5.myworkdayjobs.com/en-US/Link/job/New-York-New-York/Research---Analytics-Summer-Intern_JR101481",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/6239df36-c310-4d81-9f43-abc34b0fc63e",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ontario Teachers' Pension Plan",
+        "id": "137cbc5a-c7cf-4ecb-b1d4-39bee26e6365",
+        "title": "Intern \u2013 Product & Data Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Summer 2027"
+        ],
+        "date_updated": 1755289642,
+        "date_posted": 1755289642,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product---Data-Engineering--May-2026---16-months-_6581",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GlobalFoundries",
+        "id": "dab37c8a-b85b-43a1-8756-6f237583bdc2",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755290999,
+        "date_posted": 1755290999,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Software-Engineering-Intern--Summer-2026-_JR-2502857",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Ontario Teachers' Pension Plan",
+        "id": "b5d61b47-93ad-4171-8802-269f7e64aa00",
+        "title": "Intern \u2013 Investments - Total Fund Management - Global Trading",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755289732,
+        "date_posted": 1755289732,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Investments--Total-Fund-Management--Global-Trading--Summer-2026---4-Month-Contract-_6562",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "8d2d3d28-6b4c-4a8d-a48f-d49ad620a133",
+        "title": "Software Engineer Intern - Nosql Databases",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755289239,
+        "date_posted": 1755289239,
+        "url": "https://jobs.bytedance.com/en/position/7535878806051473671/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "0cea3673-3f7d-4725-8596-4d2f9be71d02",
+        "title": "Network Software Development Engineer Intern - Network Observation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755289248,
+        "date_posted": 1755289248,
+        "url": "https://jobs.bytedance.com/en/position/7537153828938352914/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flowserve",
+        "id": "3668b3a9-c496-4f6a-bfeb-286e6e1e9524",
+        "title": "Application Engineer COOP",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1755285293,
+        "date_posted": 1755285293,
+        "url": "https://flowserve.wd1.myworkdayjobs.com/applied/job/Pasadena-Texas-US/On-Site-Application-Engineer-COOP_R-15896",
+        "locations": [
+            "South Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Flowserve",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NXP Semiconductors",
+        "id": "51a27002-0cc8-4eb9-bfb3-d69fa784ab95",
+        "title": "Data Science / Structured Problem Solving Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755293189,
+        "date_posted": 1755293189,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Science---Structured-Problem-Solving-Intern---Fall-2025_R-10059789",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "a8e74e82-891f-4ce9-9759-3376c8dea0b6",
+        "title": "Software Development Engineer Intern - Network Automation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755293755,
+        "date_posted": 1755293755,
+        "url": "https://jobs.bytedance.com/en/position/7537152240618195208/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "7688a603-bfe4-420f-bffc-2e44b3729936",
+        "title": "Software Engineer Intern - Traffic Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755296415,
+        "date_posted": 1755296415,
+        "url": "https://jobs.bytedance.com/en/position/7537845175444670727/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Brunswick",
+        "id": "f96feaf6-30c2-4675-8d2c-3b60328a24c5",
+        "title": "Computer Graphics Software Development Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1755296339,
+        "date_posted": 1755296339,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Software-Development-Intern_JR-047197",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TransPerfect",
+        "id": "e35c0971-3e34-4c02-8104-7ab6d256de17",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755295902,
+        "date_posted": 1755295902,
+        "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-242116",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TransPerfect",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "a1c7885d-70c0-4181-8237-3b20443307f3",
+        "title": "Software Engineer Intern - AI Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755296256,
+        "date_posted": 1755296256,
+        "url": "https://jobs.bytedance.com/en/position/7537377558908963090/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sonic Healthcare USA",
+        "id": "98fdfc6f-a02a-4eb5-8321-6251bc50c9a1",
+        "title": "Cache Software Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755296303,
+        "date_posted": 1755296303,
+        "url": "https://shusa.wd5.myworkdayjobs.com/External/job/Dallas-TX/Cache-Software-Development_REQ-033017",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonic-Healthcare-USA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mill",
+        "id": "07d56369-bb63-4dda-8706-342d24480c3d",
+        "title": "Firmware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755295601,
+        "date_posted": 1755295601,
+        "url": "https://job-boards.greenhouse.io/mill/jobs/4597024005",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mill",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GlobalFoundries",
+        "id": "52bb8c17-2aeb-442e-b288-5bd5f71fd3de",
+        "title": "Process & Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755296732,
+        "date_posted": 1755296732,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Process---Data-Engineering-Intern--Summer-2026-_JR-2503107",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "1f0023d8-0bb1-4476-9c42-26c5487c0fc6",
+        "title": "2025 Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755298112,
+        "date_posted": 1755298112,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/XMLNAME-2025-Software-Engineer-Intern---Rome--NY-_R10204079",
+        "locations": [
+            "Rome, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "7b42a423-a7a9-4a0c-9d06-1febef6f1933",
+        "title": "Software Engineer Intern - Edge Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755297887,
+        "date_posted": 1755297887,
+        "url": "https://jobs.bytedance.com/en/position/7538121437628221703/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "4a0ce674-2654-4f36-875c-9dc3145edb17",
+        "title": "Software Engineer Intern - Relational Database",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755297879,
+        "date_posted": 1755297879,
+        "url": "https://jobs.bytedance.com/en/position/7535874373627971848/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Atomic Semi",
+        "id": "3b896ce5-4e65-4264-8794-611e8c42f2d4",
+        "title": "Embedded Software Engineering Intern - Winter",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1755297351,
+        "date_posted": 1755297351,
+        "url": "https://jobs.ashbyhq.com/atomicsemi/13e95284-dbcf-4cf2-8151-c9687dfc1889/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Atomic-Semi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "376e0186-7335-4062-a867-ed14c6d78206",
+        "title": "GE Vernova Engineering Intern Artificial Intelligence Tool Developer",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1755298886,
+        "date_posted": 1755298886,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Engineering-Intern-Artificial-Intelligence-Tool-Developer---2026-Spring_R5015736-1",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "70bba92f-73c2-4227-bd7f-581e73f55e97",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755298787,
+        "date_posted": 1755298787,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineering-Intern_1192961",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nuro",
+        "id": "ee4d3442-846c-47b6-92ac-14448b24e980",
+        "title": "Systems Engineering Intern - Scenario Taxonomy",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755298670,
+        "date_posted": 1755298670,
+        "url": "https://nuro.ai/careersitem?gh_jid=7169069",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nuro",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prosidian Consulting",
+        "id": "dcb43b20-f4ea-42c4-8b16-e25c67d6321b",
+        "title": "Apprenticeship Data Analyst",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755299327,
+        "date_posted": 1755299327,
+        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999686536316",
+        "locations": [
+            "Washington, DC",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fannie Mae",
+        "id": "a346eab8-ea29-4146-a595-25eee688a407",
+        "title": "Campus \u2013 Intern - Data Science - Analytics and Modeling Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755298828,
+        "date_posted": 1755298828,
+        "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Midtown-Center/Campus---Data-Science--Analytics-and-Modeling-Program--Intern_JR1260",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fannie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mosaic",
+        "id": "5cb339fd-a86b-43f7-80fa-6910fd76b40d",
+        "title": "Operations Technology Co-Op/Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755297226,
+        "date_posted": 1755297226,
+        "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Operations-Technology-Co-Op-Intern---Summer-2026_60324",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Mosaic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ByteDance",
+        "id": "177bb84f-7b60-4fcb-9b6c-41d6de9f102f",
+        "title": "Network Software Development Engineer Intern - Network Switch",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755301109,
+        "date_posted": 1755301109,
+        "url": "https://jobs.bytedance.com/en/position/7537156195199551751/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EQ Bank",
+        "id": "50ec8240-90e2-456d-8f29-c04b291cf524",
+        "title": "Software Engineer I - Full-Stack",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755296935,
+        "date_posted": 1755296935,
+        "url": "https://jobs.lever.co/eqbank/a3bdaa20-8106-48fa-8940-a93ee7c7e7c5/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/EQ-Bank",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ocean Optics",
+        "id": "4df70ddd-a56c-47ae-bb3e-f4ab70797811",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755295462,
+        "date_posted": 1755295462,
+        "url": "https://halma.wd3.myworkdayjobs.com/halma/job/Rochester/Software-Engineering-Co-op_JR25_000871",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Ocean-Optics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Synnex",
+        "id": "651dd3c4-759a-4a85-b907-d318180836a4",
+        "title": "Internship - Technical Scholar Program",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755295243,
+        "date_posted": 1755295243,
+        "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Greenville-SC/Greenville--SC---2023-Technical-Scholar-Program_R23785",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Synnex",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Verkada",
+        "id": "b35f91ad-c38c-4364-900b-0caafa2215a7",
+        "title": "Hardware Engineer",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1755295060,
+        "date_posted": 1755295060,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4321158007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "cf3b2175-fef3-4491-be0d-bddb34d2dc35",
+        "title": "Software Engineer Intern - Financial Product - Global Payment",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755291832,
+        "date_posted": 1755291832,
+        "url": "https://jobs.bytedance.com/en/position/7533002244305848584/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hitachi",
+        "id": "657f21d2-8d39-4d31-a185-7d00152348b2",
+        "title": "PMO Analyst and Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1755292725,
+        "date_posted": 1755292725,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/PMO-Analyst-and-Business-Intelligence-Intern_R1010308",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fundamental Research Labs",
+        "id": "d0f37477-e67e-4555-b132-301c5a4ee167",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755293797,
+        "date_posted": 1755293797,
+        "url": "https://jobs.ashbyhq.com/fundamentalresearchlabs/fccaee31-5a39-4978-837e-577f74a4d9b5/application",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fundamental-Research-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "7dd4e8a7-ee3b-479d-b08a-7c3dbe34c420",
+        "title": "Data Analyst/Scientist Intern - HR",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755306496,
+        "date_posted": 1755306496,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Winter---HR--Data-Analyst-Scientist-Intern--4-Months-_R-0000136794",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "247df49d-57d7-4cde-b1ca-eeee3214a95b",
+        "title": "Intern - Vehicle Embedded Engineer - Dbw",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755307692,
+        "date_posted": 1755307692,
+        "url": "https://jobs.lever.co/weride/32871b7d-f424-422f-af2c-615c59ff44cd/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
