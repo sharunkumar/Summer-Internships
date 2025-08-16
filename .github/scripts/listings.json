@@ -203178,7 +203178,7 @@
         "company_name": "Rippling",
         "id": "3d40df7f-0692-4e9b-a273-74728052bf81",
         "title": "Frontend/Full Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -217245,6 +217245,197 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "66d624a4-bf98-4f02-b127-38342b345cff",
+        "title": "Software Engineer Intern - Multi-Cloud CDN Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755313164,
+        "date_posted": 1755313164,
+        "url": "https://jobs.bytedance.com/en/position/7538139519473092882/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "38e9b155-826a-49f7-a431-a689d10c579e",
+        "title": "Machine Learning Engineer Intern - Global E-commerce Risk Control - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755313167,
+        "date_posted": 1755313167,
+        "url": "https://jobs.bytedance.com/en/position/7535953226975054098/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WEC Energy Group",
+        "id": "47ffa3a8-d666-40f2-bfbb-2f23e8fb8ce2",
+        "title": "Renewables Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755315029,
+        "date_posted": 1755315029,
+        "url": "https://careers.wecenergygroup.com/Wisconsin_Public_Service/job/Milwaukee-Renewables-Data-Analytics-Intern-WI-53203/1317609200/?ats=successfactors",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OneMain Financial",
+        "id": "4fdf538d-216b-420b-b185-938552d4e348",
+        "title": "Analytics Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755315552,
+        "date_posted": 1755315552,
+        "url": "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Analytics-Analyst-Intern_R2508-47528",
+        "locations": [
+            "Charlotte, NC",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/b4966f20-7ca2-4e09-9e76-ea8708e860ec",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "66d3d3bf-1746-4e5a-8d3a-b6e2b4b504af",
+        "title": "Financial Data Analyst Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755317031,
+        "date_posted": 1755317031,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2026_R256283",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ameren",
+        "id": "e06f01ed-c41a-417d-8ef8-1277023d153c",
+        "title": "Application Development Co-Op",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1755312596,
+        "date_posted": 1755312596,
+        "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Application-Development-Co-Op_031806-1",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Ameren",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "9f14aaca-3fd3-4859-aff7-41f71a5520d2",
+        "title": "Business Intelligence Developer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755312630,
+        "date_posted": 1755312630,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2026_R256541",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ConnectPrep",
+        "id": "77cb3c56-8756-48cd-a185-c345440af69c",
+        "title": "Data Analyst Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755321145,
+        "date_posted": 1755321145,
+        "url": "https://apply.workable.com/connectprep/j/DFBFC5045A/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ConnectPrep",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ConnectPrep",
+        "id": "18a96e4c-2f48-4388-a17b-3127e516ed49",
+        "title": "Data Analyst Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755321143,
+        "date_posted": 1755321143,
+        "url": "https://apply.workable.com/connectprep/j/80CC49930B/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/ConnectPrep",
         "is_visible": true,
         "sponsorship": "Other"
     }
