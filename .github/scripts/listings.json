@@ -209504,7 +209504,7 @@
         "company_name": "Vanguard",
         "id": "32de91ea-8464-46ae-ad58-76366978ddef",
         "title": "IT Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -214257,7 +214257,7 @@
         "company_name": "GE Appliances",
         "id": "276fca10-5c8d-4a4f-9b01-170901106898",
         "title": "Digital Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215451,8 +215451,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "AlmondCroffle",
-        "id": "b7077af9-122c-4af7-92ea-d23344684ddb",
+        "source": "Simplify",
+        "id": "a2911035-3a66-4719-ab56-55f7c142ce93",
         "date_posted": 1755167776,
         "company_url": "",
         "is_visible": true
@@ -217722,6 +217722,106 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Flow Traders",
+        "id": "dc19cba3-10ca-4fa4-a242-47ceb5b37399",
+        "title": "Trading Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755300805,
+        "date_posted": 1755300805,
+        "url": "https://job-boards.greenhouse.io/flowtraders/jobs/7166435",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Flow-Traders",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "860f82b8-0562-4605-b9a7-3cac835a34c7",
+        "title": "Software Engineer Intern - Video-on-Demand Algorithm - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755303661,
+        "date_posted": 1755303661,
+        "url": "https://lifeattiktok.com/search/7538304000404244743",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "208b0ad1-830d-48f9-b9bd-98f5a7d06cc1",
+        "title": "Software Engineer Intern - Media Engine",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755303673,
+        "date_posted": 1755303673,
+        "url": "https://lifeattiktok.com/search/7538304108715198727",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "3b44967e-536c-43a3-9ceb-440d6b0dfa8d",
+        "title": "Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755301295,
+        "date_posted": 1755301295,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1192958",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "f431232f-2573-4a89-be1a-a86037f9325f",
+        "title": "Waveserver Platform Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755302056,
+        "date_posted": 1755302056,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Waveserver-Platform-Software-Developer-Co-op--Fall-2025-_R028647",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
         "is_visible": true,
         "sponsorship": "Other"
     }
