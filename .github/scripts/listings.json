@@ -216851,7 +216851,7 @@
         "company_name": "Northrop Grumman",
         "id": "1f0023d8-0bb1-4476-9c42-26c5487c0fc6",
         "title": "2025 Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
