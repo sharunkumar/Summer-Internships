@@ -210012,7 +210012,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754360928,
+        "date_updated": 1755498859,
         "url": "https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37",
         "company_name": "Baseten",
         "title": "Software Engineering Intern",
@@ -210028,13 +210028,13 @@
             "Summer 2025",
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "f0f2ef0d-a3cb-4c08-8af4-fbc26cb9fa85",
         "date_posted": 1754360928,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754505204,
@@ -218043,7 +218043,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755421578,
+        "date_updated": 1755498731,
         "url": "https://www.uline.jobs/JobDetails?jobid=R256032",
         "company_name": "Uline",
         "title": "Software Developer Internship",
@@ -218054,12 +218054,12 @@
             "Summer 2026"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "89fe88ab-dcf7-4f12-8546-1ca545d7e336",
         "date_posted": 1755421578,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755421724,
