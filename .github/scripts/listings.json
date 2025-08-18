@@ -218164,5 +218164,25 @@
         "company_url": "https://simplify.jobs/c/Cleveland-Clinic",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MKS Instruments",
+        "id": "183518a7-5db7-4124-954d-a80b982c5f66",
+        "title": "IT Analytics and Dashboards Intern/co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755502747,
+        "date_posted": 1755502747,
+        "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Andover-MA/XMLNAME-2025-IT-Analytics-and-Dashboards-Intern-co-op_R15468",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
