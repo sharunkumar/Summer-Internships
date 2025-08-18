@@ -207599,7 +207599,7 @@
         "company_name": "Hitachi",
         "id": "7eba3b00-8e3f-4b55-87be-233c620da9fe",
         "title": "Research Internship - AI Agents for Industrial Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -218182,6 +218182,50 @@
             "Andover, MA"
         ],
         "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "7660e5d2-40da-4127-b60b-36490497ad02",
+        "title": "Walt Disney World Transportation Logistics & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1755522659,
+        "date_posted": 1755522659,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2026_10129286",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ecolab",
+        "id": "c8f7bdbe-3548-4a34-9594-9a5f978e8bd2",
+        "title": "Digital Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755540278,
+        "date_posted": 1755540278,
+        "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital-Technology-Intern_R00272283-1",
+        "locations": [
+            "Naperville, IL",
+            "Eagan, MN",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Ecolab",
         "is_visible": true,
         "sponsorship": "Other"
     }
