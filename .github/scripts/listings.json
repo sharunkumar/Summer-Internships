@@ -218143,5 +218143,26 @@
         "company_url": "https://simplify.jobs/c/Skyworks",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cleveland Clinic",
+        "id": "7bf99e81-a8d2-4fe0-a19a-1bc41542cf89",
+        "title": "Investment Operations \u2013 And Data Analytics Intern - Risk",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1755472176,
+        "date_posted": 1755472176,
+        "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Administrative-Campus/Investment-Operations--Risk--and-Data-Analytics-Intern_305665",
+        "locations": [
+            "Orange, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Cleveland-Clinic",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
