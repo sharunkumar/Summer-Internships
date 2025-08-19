@@ -187226,7 +187226,7 @@
         "company_name": "Lumentum",
         "id": "a9621a7e-b43d-4797-be6a-fd4c9f8e463d",
         "title": "Process Automation Software Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -208417,7 +208417,7 @@
         "company_name": "DataVisor",
         "id": "0c963e33-ad50-4d13-a647-6fa3fcee563f",
         "title": "Software Engineer - 3 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -210400,7 +210400,7 @@
         "company_name": "Moog Inc",
         "id": "f64afbd4-decb-48c2-843c-156da8aeee65",
         "title": "Intern \u2013 Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -214009,7 +214009,7 @@
         "company_name": "Nextiva",
         "id": "ca9aa085-672f-467f-afe9-1ea438a7d115",
         "title": "AI Engineer Intern - Go-to-Market - Part-time",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -215304,7 +215304,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755166637,
+        "date_updated": 1755567773,
         "url": "https://shusa.wd5.myworkdayjobs.com/en-US/External/job/Dallas-TX/Cache-Software-Development_REQ-033017",
         "company_name": "Sonic Healthcare USA",
         "title": "Cache Software Development Intern",
@@ -215325,7 +215325,7 @@
         "id": "c0b724f8-afea-43bd-bf40-1d75e6334c74",
         "date_posted": 1755166637,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755166768,
@@ -215351,7 +215351,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755166896,
+        "date_updated": 1755567810,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Software-Engineering-Intern--Summer-2026-_JR-2502857?src=JB-10100%E2%80%89%E2%80%89%E2%80%89%E2%80%89%E2%80%89",
         "company_name": "GlobalFoundries",
         "title": "Software Engineering Intern",
@@ -215361,13 +215361,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "aa7fa6b8-477d-4b49-87ab-dbe7db6b8a86",
         "date_posted": 1755166896,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755192124,
@@ -215656,7 +215656,7 @@
         "company_name": "KeyCorp",
         "id": "d7c27e55-5d95-4a37-9112-7d2e20e52e4f",
         "title": "2026 Summer Key's Technology \u2013 Internship - Operations & Services - Data Track",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -216039,7 +216039,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755264461,
+        "date_updated": 1755567834,
         "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Intern--Summer-2026---Onsite-_01786507",
         "company_name": "RTX",
         "title": "Software Engineering Intern",
@@ -216049,13 +216049,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "d98006af-1b44-46d1-9a3d-960e0494ec5f",
         "date_posted": 1755264461,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755264595,
@@ -217876,7 +217876,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755419710,
+        "date_updated": 1755567869,
         "url": "https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/Software-Engineer-Intern_0014134",
         "company_name": "CCC Intelligent Solutions",
         "title": "Software Engineer Intern",
@@ -217890,13 +217890,13 @@
             "Fall 2025",
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "88ac5f94-c72c-45ec-8268-15fc0a9f4277",
         "date_posted": 1755419710,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755419842,
@@ -218150,7 +218150,7 @@
         "company_name": "Cleveland Clinic",
         "id": "7bf99e81-a8d2-4fe0-a19a-1bc41542cf89",
         "title": "Investment Operations \u2013 And Data Analytics Intern - Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -218171,7 +218171,7 @@
         "company_name": "MKS Instruments",
         "id": "183518a7-5db7-4124-954d-a80b982c5f66",
         "title": "IT Analytics and Dashboards Intern/co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -218884,8 +218884,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "moibra05",
-        "id": "e4413262-d333-4d7f-b4a1-efad8576d6ef",
+        "source": "Simplify",
+        "id": "afc74390-93b7-42a2-9b8f-57146a9a6079",
         "date_posted": 1755563302,
         "company_url": "",
         "is_visible": true
@@ -218929,6 +218929,249 @@
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/Shopify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blizzard Entertainment",
+        "id": "2ec556c6-b8fc-4c99-9fa8-4695be423675",
+        "title": "Graphics Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1755568868,
+        "date_posted": 1755568868,
+        "url": "https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Graphics-Engineering-Intern_R025871",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Altera Corporation",
+        "id": "cf5dbc2c-f0e6-4fc5-82f0-8f136c40f323",
+        "title": "AI Software Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755569668,
+        "date_posted": 1755569668,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Intern_R01166",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ameren",
+        "id": "357b8b87-82f2-4ca6-8e69-86478b7fa2ec",
+        "title": "Data Analytics Co-Op",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1755570431,
+        "date_posted": 1755570431,
+        "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Data-Analytics-Co-Op_031708-2",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Ameren",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "a4e6ba2b-297c-4b75-af32-682737aad907",
+        "title": "Audit & Assurance Intern - Data & Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755570196,
+        "date_posted": 1755570196,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Data-Analytics-Summer-2026/309450",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Freddie Mac",
+        "id": "d62e466b-7873-4898-8d18-ca08fa2344aa",
+        "title": "Multifamily Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755529231,
+        "date_posted": 1755529231,
+        "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern_JR15981",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Freddie-Mac",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ByteDance",
+        "id": "7ce623f7-258e-4baf-8e05-fb37b6e3c0e8",
+        "title": "Software Development Engineer Intern - Storage-HDFS - BS/ MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755572411,
+        "date_posted": 1755572411,
+        "url": "https://jobs.bytedance.com/en/position/7539978900564281618/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "f95b6d4c-8d48-4544-8aa2-612c7211106c",
+        "title": "Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755572161,
+        "date_posted": 1755572161,
+        "url": "https://aexp.eightfold.ai/careers/job/30702546",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "1a638e09-e313-47e4-90bf-92b6362c5111",
+        "title": "Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755572162,
+        "date_posted": 1755572162,
+        "url": "https://aexp.eightfold.ai/careers/job/30702556",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "006bf013-2ac3-4cf1-8f83-99ac30b9fc89",
+        "title": "Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755572159,
+        "date_posted": 1755572159,
+        "url": "https://aexp.eightfold.ai/careers/job/30702550",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FNBO",
+        "id": "960bc9b7-5a6f-4a2c-b1b8-200149bba0da",
+        "title": "Internship - Data Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755571824,
+        "date_posted": 1755571824,
+        "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Internship---Data-Analytics--Omaha--NE-_R-20250987-1",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/FNBO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emerson Electric",
+        "id": "2c50f9ca-dce1-4a0c-8bea-24f9072e735e",
+        "title": "Software Development Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755573823,
+        "date_posted": 1755573823,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25024741",
+        "locations": [
+            "Elyria, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fifth Third Bank",
+        "id": "9f42792e-7698-40f3-ae98-e34722295fc3",
+        "title": "Enterprise Data Office Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1755551713,
+        "date_posted": 1755551713,
+        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Enterprise-Data-Office-Co-op---Spring-2026---Cincinnati_R61093",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
         "is_visible": true,
         "sponsorship": "Other"
     }
