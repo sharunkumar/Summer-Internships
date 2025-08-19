@@ -165985,7 +165985,7 @@
         "company_name": "ByteDance",
         "id": "90c9f9f7-a9d9-4bd6-828a-74fce48ab352",
         "title": "Software Engineer Intern - User Product - Global Payment",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195907,7 +195907,7 @@
         "company_name": "Ciena",
         "id": "21a470dd-2545-4ea0-8e55-423dc488e32e",
         "title": "Optical Modem Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204905,17 +204905,17 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752703034,
+        "date_updated": 1755593220,
         "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008",
         "company_name": "Five Rings",
         "title": "Software Developer",
         "locations": [
-            "New York"
+            "New York, NY"
         ],
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "a3ede5ec-a866-47e7-a243-533274b64baa",
@@ -206709,12 +206709,12 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1753324260,
+        "date_updated": 1755593282,
         "date_posted": 1753324260,
         "url": "https://job-boards.greenhouse.io/virtu/jobs/7848570002",
         "locations": [
             "Austin, TX",
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Virtu-Financial",
         "is_visible": true,
@@ -206897,11 +206897,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1753745538,
+        "date_updated": 1755593187,
         "date_posted": 1753745538,
         "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6998786",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
         "is_visible": true,
@@ -207359,11 +207359,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1753986339,
+        "date_updated": 1755593160,
         "date_posted": 1753815260,
         "url": "https://job-boards.greenhouse.io/harmonic/jobs/4591178005",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/HarmonicAI",
         "is_visible": true,
@@ -207899,12 +207899,12 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753895888,
+        "date_updated": 1755593132,
         "url": "https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e",
         "company_name": "Allium",
         "title": "Engineering Intern - AI",
         "locations": [
-            "New York"
+            "New York, NY"
         ],
         "terms": [
             "Summer 2026",
@@ -207914,7 +207914,7 @@
             "Winter 2026",
             "Spring 2026"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "d1ae8439-77a5-4545-a92d-a994cfe2603a",
@@ -208174,12 +208174,12 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754346489,
+        "date_updated": 1755593090,
         "date_posted": 1753914653,
         "url": "https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37/application",
         "locations": [
-            "SF",
-            "NYC"
+            "San Francisco, CA",
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Baseten",
         "is_visible": true,
@@ -208807,11 +208807,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754346251,
+        "date_updated": 1755593009,
         "date_posted": 1754075665,
         "url": "https://jobs.ashbyhq.com/sentry/a5ce699d-b1a8-4b93-9217-33d16d77ccd6/application",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Sentry",
         "is_visible": true,
@@ -209258,11 +209258,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754086266,
+        "date_updated": 1755592969,
         "date_posted": 1754086266,
         "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589611005",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/DV-Trading",
         "is_visible": true,
@@ -209338,11 +209338,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754346211,
+        "date_updated": 1755592866,
         "date_posted": 1754087215,
         "url": "https://jobs.ashbyhq.com/ramp/c50962b5-c641-4d44-bbe5-7f1d6e7ce51f/application",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Ramp",
         "is_visible": true,
@@ -209530,11 +209530,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754089499,
+        "date_updated": 1755592833,
         "date_posted": 1754089499,
         "url": "https://altruist.com/join-altruist/5601815004?gh_jid=5601815004",
         "locations": [
-            "LA"
+            "Los Angeles, CA"
         ],
         "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
         "is_visible": true,
@@ -209731,11 +209731,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754102255,
+        "date_updated": 1755592723,
         "date_posted": 1754102255,
         "url": "https://altruist.com/join-altruist/5601833004?gh_jid=5601833004",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
         "is_visible": true,
@@ -210321,9 +210321,9 @@
         "title": "Forward Deployed Software Engineer \u2013 Internship - Commercial",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754429794,
+        "date_updated": 1755594700,
         "date_posted": 1754429794,
         "url": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply",
         "locations": [
@@ -210822,9 +210822,9 @@
         "title": "Software Engineer Intern",
         "active": false,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754545547,
+        "date_updated": 1755594730,
         "date_posted": 1754545547,
         "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4552288006",
         "locations": [
@@ -210885,7 +210885,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755041442,
+        "date_updated": 1755594890,
         "date_posted": 1754549018,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7124769",
         "locations": [
@@ -212031,11 +212031,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754584665,
+        "date_updated": 1755592664,
         "date_posted": 1754584665,
         "url": "https://lifeattiktok.com/search/7533130855972702472",
         "locations": [
-            "LA"
+            "Los Angeles, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
@@ -212352,9 +212352,11 @@
         "title": "2026 Confluent Software Engineering Intern Opportunity",
         "active": true,
         "terms": [
-            "Summer 2026"
+            "Fall 2025",
+            "Summer 2026",
+            "Spring 2026"
         ],
-        "date_updated": 1755049883,
+        "date_updated": 1755594949,
         "date_posted": 1754605779,
         "url": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a/application",
         "locations": [
@@ -212372,9 +212374,11 @@
         "title": "2026 Confluent Software Engineering Intern Opportunity",
         "active": true,
         "terms": [
-            "Summer 2026"
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2025"
         ],
-        "date_updated": 1755045123,
+        "date_updated": 1755594916,
         "date_posted": 1754605769,
         "url": "https://jobs.ashbyhq.com/confluent/974fa008-7174-4e6f-a89c-8c6cce70ae7e/application",
         "locations": [
@@ -212435,12 +212439,12 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754606441,
+        "date_updated": 1755592625,
         "date_posted": 1754606441,
         "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b/application",
         "locations": [
-            "SF",
-            "NYC"
+            "San Francisco, CA",
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Ramp",
         "is_visible": true,
@@ -212536,7 +212540,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755045112,
+        "date_updated": 1755595133,
         "date_posted": 1754611837,
         "url": "https://jobs.intuit.com/job/toronto/mobile-software-developer-co-op-4-months/27595/82954044144",
         "locations": [
@@ -212598,11 +212602,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755049990,
+        "date_updated": 1755590288,
         "date_posted": 1754614445,
         "url": "https://jobs.ashbyhq.com/Intellistack/0b5662ad-85ac-4d15-a291-f66b396d6c68/application",
         "locations": [
-            "SF",
+            "San Francisco, CA",
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/Intellistack",
@@ -212639,7 +212643,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755049836,
+        "date_updated": 1755595152,
         "date_posted": 1754618954,
         "url": "https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Mississauga-ON-CAN/Developer-Co-Op_R0050520",
         "locations": [
@@ -212860,11 +212864,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754621355,
+        "date_updated": 1755590341,
         "date_posted": 1754621355,
         "url": "https://lifeattiktok.com/search/7533673691735361799",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
@@ -213416,7 +213420,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754641088,
+        "date_updated": 1755595117,
         "url": "https://careers.confluent.io/jobs/job/66fb00d4-6988-48c2-81a3-f3d397dd2c2a",
         "company_name": "Confluent",
         "title": "Cloud Infrastructure Engineer Intern",
@@ -213426,7 +213430,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Aparna-Rajesh",
         "id": "5d43c056-4132-4f0d-b3c8-4937dc52a311",
@@ -213435,7 +213439,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754641158,
+        "date_updated": 1755595097,
         "url": "https://careers.confluent.io/jobs/job/974fa008-7174-4e6f-a89c-8c6cce70ae7e",
         "company_name": "Confluent",
         "title": "Confluent Software Engineering Intern",
@@ -213445,7 +213449,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Aparna-Rajesh",
         "id": "0d184a3a-096c-4cb5-8d63-97e011fa04ac",
@@ -213454,7 +213458,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754641197,
+        "date_updated": 1755595065,
         "url": "https://careers.confluent.io/jobs/job/095d92fe-7534-4f49-a846-b63ca229731b",
         "company_name": "Confluent",
         "title": "Software Engineering Intern",
@@ -213464,7 +213468,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Aparna-Rajesh",
         "id": "417bc8bf-397c-415a-9f30-ebe7d2007e4e",
@@ -213532,7 +213536,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754649919,
+        "date_updated": 1755595051,
         "url": "https://hdsupply.jobs/us/en/job/R25003763/Summer-2026-Intern---Information-Technology",
         "company_name": "HD Supply",
         "title": "Information Technology",
@@ -213551,7 +213555,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754650040,
+        "date_updated": 1755594987,
         "url": "https://www.jumptrading.com/careers/7077897/?gh_jid=7077897",
         "company_name": "Jump Trading",
         "title": "Campus Tech Ops Engineer",
@@ -213559,14 +213563,9 @@
             "Chicago, IL"
         ],
         "terms": [
-            "Summer 2026",
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2025",
-            "Winter 2026",
-            "Spring 2026"
+            "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "3cfddb20-9413-4673-8768-3b6762519eb4",
@@ -213692,7 +213691,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754676049,
+        "date_updated": 1755594972,
         "url": "https://www.tesla.com/careers/search/job/247480",
         "company_name": "Tesla",
         "title": "Systems Engineer, Collision Avoidance, Autonomy & Robotics",
@@ -213700,14 +213699,9 @@
             "Palo Alto, CA"
         ],
         "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2025",
             "Summer 2026"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "79082960-43be-40a2-9f64-c2c78545e405",
@@ -213725,7 +213719,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755045100,
+        "date_updated": 1755595178,
         "date_posted": 1754703073,
         "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-1--Front-End--Intern-Conversion-_JR29338",
         "locations": [
@@ -213829,13 +213823,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754706385,
+        "date_updated": 1755590471,
         "date_posted": 1754706385,
         "url": "https://bnymellon.eightfold.ai/careers/job/30606823",
         "locations": [
             "Pittsburgh, PA",
             "Lake Mary, FL",
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Bank-Of-New-York-Mellon",
         "is_visible": true,
@@ -213873,7 +213867,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755049770,
+        "date_updated": 1755595205,
         "date_posted": 1754706063,
         "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/ISM-Co-op_R25028993",
         "locations": [
@@ -214422,7 +214416,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755049724,
+        "date_updated": 1755595219,
         "date_posted": 1755002960,
         "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/",
         "locations": [
@@ -215680,14 +215674,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755182691,
+        "date_updated": 1755591737,
         "date_posted": 1755182691,
         "url": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Brooklyn-OH/XMLNAME-2026-Summer-Key-s-Technology--Operations---Services--Technology-Track--Internship---Cleveland_R-33877",
         "locations": [
             "Brooklyn, OH"
         ],
         "company_url": "https://simplify.jobs/c/KeyCorp",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -217173,7 +217167,7 @@
         "company_name": "Hitachi",
         "id": "657f21d2-8d39-4d31-a185-7d00152348b2",
         "title": "PMO Analyst and Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -219174,5 +219168,25 @@
         "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755594678,
+        "url": "https://careers.datadoghq.com/detail/7127832/?gh_jid=7127832",
+        "company_name": "Datadog",
+        "title": "Product Management Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b27bdc40-4499-425a-8ffe-cc391c150128",
+        "date_posted": 1755594678,
+        "company_url": "",
+        "is_visible": true
     }
 ]
