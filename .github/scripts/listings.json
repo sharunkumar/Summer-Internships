@@ -103711,7 +103711,7 @@
         "company_name": "Clio",
         "id": "23548c7d-01ff-437f-ae9c-07e51f4c86b4",
         "title": "Software Developer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -198520,7 +198520,7 @@
         "company_name": "Capital One",
         "id": "375ab227-8362-4cb7-9a0d-a675e86f8fbc",
         "title": "Intern \u2013 Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -200815,7 +200815,7 @@
         "company_name": "Boston Consulting Group",
         "id": "502917c2-1890-4d56-9c5c-ac941efd78f2",
         "title": "Data Scientist \u2013 Internship - Bcg X",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -213779,7 +213779,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755049800,
+        "date_updated": 1755615045,
         "date_posted": 1754704065,
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Markham-Ontario---CAN/Front-End-Intern_R46426",
         "locations": [
@@ -214708,7 +214708,7 @@
         "company_name": "Capital One",
         "id": "a2f002eb-5013-4a4b-9fb4-3401655cd29c",
         "title": "Former Discover Intern - Technology Development Program Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -219188,5 +219188,88 @@
         "date_posted": 1755594678,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WEC Energy Group",
+        "id": "a66bb355-5de2-4615-8542-b8693dee0449",
+        "title": "Power Generation Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "date_updated": 1755625195,
+        "date_posted": 1755625195,
+        "url": "https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Power-Generation-Data-Analyst-Intern-WI-53203/1318168900/?ats=successfactors",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Skyworks",
+        "id": "1161a0e6-4941-44f8-91db-1045105adb12",
+        "title": "Product Engineering Co-Op",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1755627546,
+        "date_posted": 1755627546,
+        "url": "https://careers.skyworksinc.com/job/Irvine-Product-Engineering-Co-Op-(WinterSpring-2026)-CA-92602/1318285600/?ats=successfactors",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyworks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ZOLL Medical Corporation",
+        "id": "5706f9ef-4f17-48e3-93e5-de16063adb36",
+        "title": "Test Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1755627140,
+        "date_posted": 1755627140,
+        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Test-Engineering-Intern_R16477",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoll",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "b850c614-7275-4dc5-a523-03de74d25beb",
+        "title": "Intern \u2013 Data Analytics Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1755626863,
+        "date_posted": 1755626863,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering_R223472-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
