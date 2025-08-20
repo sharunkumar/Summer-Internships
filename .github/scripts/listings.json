@@ -204675,7 +204675,7 @@
         "company_name": "Integra FEC",
         "id": "c50a2a65-255b-4e7f-b3a7-c823855372d6",
         "title": "Fall \u2013 Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206750,7 +206750,7 @@
         "company_name": "Ciena",
         "id": "2cd5d5fc-61c2-42ad-b056-79b99fa3a9f0",
         "title": "Embedded Software Engineer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -207563,7 +207563,7 @@
         "company_name": "PNC Financial Services",
         "id": "47709a7c-a287-47c5-9780-ffedf6e22fc1",
         "title": "Technology Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -214654,7 +214654,7 @@
         "company_name": "Cotiviti",
         "id": "3d0a232d-9aa7-4e00-a5f3-9b83b0e5dc21",
         "title": "Intern \u2013 Technology Research Assistant/Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -219509,9 +219509,9 @@
         "title": "BCG X AI Engineer Internship",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755614899,
+        "date_updated": 1755655434,
         "date_posted": 1755614899,
         "url": "https://careers.bcg.com/global/en/job/52453",
         "locations": [
@@ -219521,8 +219521,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -221532,7 +221531,7 @@
         "company_name": "Capital One",
         "id": "e996ece3-bf1c-47c0-a2d2-ebfc763b61a3",
         "title": "Former Discover Intern - Product Development Program Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223229,7 +223228,7 @@
         "company_name": "TikTok",
         "id": "42e37931-a099-446c-a920-c903b21b7e18",
         "title": "Data Scientist Intern - E-commerce Governance Algorithms - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -228422,6 +228421,122 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Figma",
+        "id": "5cd05981-28e8-4654-8a6d-11adc58e4f04",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755637169,
+        "date_posted": 1755637169,
+        "url": "https://boards.greenhouse.io/figma/jobs/5614980004",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Figma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "2c1046a7-cf40-410a-bf96-843e6e4db629",
+        "title": "Software Engineer \u2013 Internship - Production Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755620304,
+        "date_posted": 1755620304,
+        "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "4abe20f7-ff1f-4abb-b3c8-057f1c812bc9",
+        "title": "Motion Generation Algorithm Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755670232,
+        "date_posted": 1755670232,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/UK-London/Motion-Generation-Algorithm-Intern_R105947",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Procter & Gamble (P&G)",
+        "id": "a31572d0-4183-4e53-b967-1c004ebc715a",
+        "title": "AI \u2013 PhD Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755621573,
+        "date_posted": 1755621573,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/AI---PhD-Intern_R000136807",
+        "locations": [
+            "Mason, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "4b0a0a22-ba97-43e6-b131-336344fb7fe6",
+        "title": "Software Engineer \u2013 Internship - Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755620304,
+        "date_posted": 1755620304,
+        "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
