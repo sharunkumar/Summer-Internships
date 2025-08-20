@@ -197329,7 +197329,7 @@
         "company_name": "LiveRamp",
         "id": "b7d2e5a0-5c5d-4ca7-b2db-59d9366661d1",
         "title": "Co-Op \u2013 Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -213428,7 +213428,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755595117,
+        "date_updated": 1755703768,
         "url": "https://careers.confluent.io/jobs/job/66fb00d4-6988-48c2-81a3-f3d397dd2c2a",
         "company_name": "Confluent",
         "title": "Cloud Infrastructure Engineer Intern",
@@ -213444,7 +213444,10 @@
         "id": "5d43c056-4132-4f0d-b3c8-4937dc52a311",
         "date_posted": 1754641088,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1755595097,
@@ -218181,7 +218184,7 @@
         "company_name": "MKS Instruments",
         "id": "183518a7-5db7-4124-954d-a80b982c5f66",
         "title": "IT Analytics and Dashboards Intern/co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -220937,18 +220940,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755295324,
+        "date_updated": 1755703784,
         "date_posted": 1755295324,
         "url": "https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/Cyber-Security-Intern--Summer-2026_R-264014",
         "locations": [
             "Edison, NJ"
         ],
         "company_url": "https://simplify.jobs/c/CS-Wholesale-Grocers",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -226776,7 +226778,7 @@
         "company_name": "Samsung",
         "id": "d96182df-43bd-4f78-b27e-f5525b42d95f",
         "title": "2025 Fall Intern - Computer Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -228930,5 +228932,408 @@
         "date_posted": 1755681520,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755695074,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/cocodelivery/16c75d81-08af-4d95-8dfe-15fc0516b57a",
+        "company_name": "COCO Robotics",
+        "title": "ML Engineer Internship",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "82cb4a58-7bb5-4860-b77a-141136f2bed3",
+        "date_posted": 1755695074,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755695170,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/asteraearlycareer/jobs/4598303005",
+        "company_name": "Astera Labs",
+        "title": "Applied AI Engineer Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Fall 2025",
+            "Fall 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "5640e43e-ae0c-4712-9d7a-078a09af6d93",
+        "date_posted": 1755695170,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755695554,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://joinbytedance.com/search/7537121176616847624",
+        "company_name": "ByteDance",
+        "title": "Research Intern (IaaS AI Infra)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "2c3d75c8-f66c-4baf-a852-655eabd2068c",
+        "date_posted": 1755695481,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755695626,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://joinbytedance.com/search/7537118884496312584",
+        "company_name": "ByteDance",
+        "title": "Research Intern (IaaS AI Infra)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "f0694642-879b-4cd5-bd5e-45dc35bbabcb",
+        "date_posted": 1755695626,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755695700,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://Research Intern (RDMA/High Speed Network)",
+        "company_name": "ByteDance",
+        "title": "Research Intern (RDMA/High Speed Network)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "04d6bb0b-97c1-4f4d-85d9-b9e0e0cfe74e",
+        "date_posted": 1755695700,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755695787,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://joinbytedance.com/search/7540025509111990546",
+        "company_name": "ByteDance",
+        "title": "Research Intern (RDMA/High Speed Network)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "7d111830-0e1e-414b-ac2d-f3e29b7f88ef",
+        "date_posted": 1755695787,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755695918,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://joinbytedance.com/search/7539991964504017170",
+        "company_name": "ByteDance",
+        "title": "Research Intern (AI/LLM Network)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "ee53bda4-539c-415b-8cc6-cd6ffeba8181",
+        "date_posted": 1755695918,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755695996,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://joinbytedance.com/search/7539992380817639687",
+        "company_name": "ByteDance",
+        "title": "Research Intern (AI/LLM Network)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "feecfe41-1528-4e5e-af25-edad4e3c9fbf",
+        "date_posted": 1755695996,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755696231,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024741",
+        "company_name": "Emerson",
+        "title": "Software Development Co-op",
+        "locations": [
+            "Elyria, OH"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "17503340-ead6-4146-bf1b-022d9b580585",
+        "date_posted": 1755696231,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "82e82e13-2d1f-4697-904b-029423b70366",
+        "title": "Intern \u2013 Backend Software Engineer - Customer Acquisitions",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1755701275,
+        "date_posted": 1755701275,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Customer-Acquisitions---Winter-2025_R223400",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1755703734,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.newyorklife.com/careers?query=2026%20Technology%2C%20Data%2C%20AI%20%26%20Ventures%20Summer%20Internship%20Program%20-%20Technology%20Analyst%20Intern&pid=30149944&domain=newyorklife.com",
+        "company_name": "New York Life",
+        "title": "Technology Analyst Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "c77f532d-d66e-4d3b-89a0-12036b5a76c7",
+        "date_posted": 1755703734,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "4fe9e709-f66f-4255-a3c6-326b07acfe6c",
+        "title": "Intern \u2013 Full Stack Software Engineer - Team Sprout",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755701280,
+        "date_posted": 1755701280,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Sprout---Winter-2026_R223395",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "3fd93944-f4ab-4a73-adac-51fb85911195",
+        "title": "Intern \u2013 Mobile Software Engineer - Capital One Travel",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755701270,
+        "date_posted": 1755701270,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Blue-Jays---Winter-2026_R223402",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "5fe61f2e-4706-4668-a0d3-a52e6ee5a4d6",
+        "title": "Intern \u2013 Backend Software Engineer - Team Planet Express",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755701274,
+        "date_posted": 1755701274,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Planet-Express---Winter-2026_R223398",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "48ef5f56-1982-41a5-aa2f-36cd3ad167ca",
+        "title": "Intern \u2013 Full Stack Software Engineer - Integrated Storefront",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1755701273,
+        "date_posted": 1755701273,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Integrated-Storefront---Winter-2025_R223399",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Skyworks",
+        "id": "8f7c04de-8ede-4e97-9e50-6c3d9cf1ae60",
+        "title": "Product Engineer Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1755701828,
+        "date_posted": 1755701828,
+        "url": "https://careers.skyworksinc.com/job/Irvine-Product-Engineer-Co-Op-(SummerFall-2026)-CA-92602/1318613700/?ats=successfactors",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]

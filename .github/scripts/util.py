@@ -13,8 +13,8 @@ SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
 SHORT_APPLY_BUTTON = "https://i.imgur.com/fbjwDvo.png"
 SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/6cFAMUo.png"
-NON_SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 4
-SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 8
+NON_SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 3
+SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 6
 
 # Set of Simplify company URLs to block from appearing in the README
 # Add Simplify company URLs to block them (e.g., "https://simplify.jobs/c/Jerry")
