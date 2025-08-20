@@ -197776,7 +197776,7 @@
         "company_name": "Ciena",
         "id": "74e6aaf3-7129-45a9-adc5-e29c671626f4",
         "title": "Photonics Program Management Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -220143,7 +220143,7 @@
         "company_name": "Hartford Financial Services",
         "id": "5c246b68-5eaf-4fdb-9eae-2851f24c2613",
         "title": "Fall Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -228538,5 +228538,397 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Truist",
+        "id": "ea19b811-d38b-4e17-a2fe-5ae97da9a10b",
+        "title": "2026 Technology and Innovation Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755671502,
+        "date_posted": 1755671502,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2026-Technology-and-Innovation-Internship_R0105789-1",
+        "locations": [
+            "Charlotte, NC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Solutions",
+        "id": "0c7a2fad-67b3-4a71-9e8c-a57abfd3d62b",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755673558,
+        "date_posted": 1755673558,
+        "url": "https://job-boards.greenhouse.io/cadencesolutions/jobs/4427513006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ATPCO",
+        "id": "afaa3511-512f-4c6b-a0e1-53e86bff8ad6",
+        "title": "Software Engineer Intern - Fall",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755641112,
+        "date_posted": 1755641112,
+        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000076912475",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integra FEC",
+        "id": "42f4a77d-8bf3-412c-b11e-ac97053d0ccc",
+        "title": "Spring \u2013 Data Scientist Intern - PhD",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1755644579,
+        "date_posted": 1755644579,
+        "url": "https://job-boards.greenhouse.io/integra/jobs/4823176008",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Integra-FEC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anduril",
+        "id": "c21b04fe-29ad-4078-9ab0-fe132833c029",
+        "title": "Operations Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755609634,
+        "date_posted": 1755609634,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4829860007",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integra FEC",
+        "id": "7a995379-3bba-4bca-ad03-0ea5adaf5f38",
+        "title": "Spring \u2013 Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1755644581,
+        "date_posted": 1755644581,
+        "url": "https://job-boards.greenhouse.io/integra/jobs/4826292008",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Integra-FEC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Skyworks",
+        "id": "44b34be5-ae62-4db8-a400-934b273ac533",
+        "title": "IC Development \u2013 Summer Intern - Software",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755642448,
+        "date_posted": 1755642448,
+        "url": "https://careers.skyworksinc.com/job/Austin-IC-Development-(Software)-Summer-Intern-(May-'26-Aug-'26)-TX-73301/1318385200/?ats=successfactors",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Xcel Energy",
+        "id": "168b88be-d350-4049-b769-85793b02b50e",
+        "title": "Compute & Converged Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755642628,
+        "date_posted": 1755642628,
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Golden-CO-80401/Compute---Converged-Intern_JR109805-1",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Xcel-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dominion Energy",
+        "id": "d5a109a8-c579-4c67-bfd5-1f121b3fc0ab",
+        "title": "Graduate Intern - Load Forecasting - Engineering Analytics & Modeling",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755641516,
+        "date_posted": 1755641516,
+        "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Graduate-Intern-Load-Forecasting-Engineering-Analytics-&-Modeling-VA-23060/1318438700/?ats=successfactors",
+        "locations": [
+            "Glen Allen, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dominion-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integra FEC",
+        "id": "1e85e0d8-5672-481a-a48d-bf56bce876b8",
+        "title": "Spring \u2013 Data Scientist Intern - PhD",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1755644570,
+        "date_posted": 1755644570,
+        "url": "https://job-boards.greenhouse.io/integrainterns/jobs/4823178008",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Integra-FEC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "date_updated": 1755680707,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.cargill.com/en/job/atlanta/software-engineer-intern-summer-2026-atlanta-ga/23251/85180324464",
+        "company_name": "Cargill",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0c455cfa-eaa1-4ad8-ba55-43850a899e97",
+        "date_posted": 1755680707,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755680941,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5614980004",
+        "company_name": "Figma",
+        "title": "Data Science Intern",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "99d08aec-4300-4ff4-b7a5-9ff782263595",
+        "date_posted": 1755680941,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755681110,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5616453004",
+        "company_name": "Figma",
+        "title": "Product Design Intern",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "bc7b875f-fda2-4ea8-8c95-34c44be93c6c",
+        "date_posted": 1755681110,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755681191,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5617444004",
+        "company_name": "Figma",
+        "title": "Product Research Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "c01e0a6d-5266-4269-9475-e60797f4f5f2",
+        "date_posted": 1755681191,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755681330,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.qorvo.com/job/Greensboro-Software-Characterization-Engineering-Intern-NC-27409/1318261400",
+        "company_name": "Qorvo",
+        "title": "Software Characterization Engineering Intern",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "5e0838e2-664a-40e0-8e4c-d49b1f3896f2",
+        "date_posted": 1755681330,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755681520,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://seagatecareers.com/job/Shakopee-Summer-Intern-Software-Engineer-MN/1318324100",
+        "company_name": "Seagate",
+        "title": "Software Engineer",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f97ea670-3357-438e-ab4e-203b032c7255",
+        "date_posted": 1755681520,
+        "company_url": "",
+        "is_visible": true
     }
 ]
