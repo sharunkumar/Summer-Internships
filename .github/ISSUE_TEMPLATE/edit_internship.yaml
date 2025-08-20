@@ -89,6 +89,30 @@ body:
       description: Only check this box if this internship is fake, does not fit the theme of the repo, or is offensive.
       options:
         - label: "Yes, remove this internship"
+  - type: dropdown
+    id: category
+    attributes:
+      label: What category does this internship belong to?
+      description: |
+        Select the primary category that best describes this internship role.
+        Only fill this if you want to change the category.
+      multiple: false
+      options:
+        - Software Engineering
+        - Product Management
+        - Data Science, AI & Machine Learning
+        - Quantitative Finance
+        - Hardware Engineering
+        - Other
+    validations:
+      required: false
+  - type: checkboxes
+    id: advanced_degree
+    attributes:
+      label: Advanced Degree Requirements
+      description: Check this box if the internship specifically requires or strongly prefers Master's, MBA, or PhD degrees. Only check if you want to change this setting.
+      options:
+        - label: "This internship requires or strongly prefers advanced degrees (Master's/MBA/PhD)"
   - type: input
     id: email
     attributes:

@@ -16,11 +16,28 @@ LONG_APPLY_BUTTON = "https://i.imgur.com/6cFAMUo.png"
 NON_SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 4
 SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 8
 
+# Set of Simplify company URLs to block from appearing in the README
+# Add Simplify company URLs to block them (e.g., "https://simplify.jobs/c/Jerry")
+BLOCKED_COMPANIES = {
+    "https://simplify.jobs/c/Jerry",
+}
+
+# FAANG+ companies - will be marked with fire emoji
+FAANG_PLUS = {
+    "airbnb", "adobe", "amazon", "apple", "asana", "atlassian", "bytedance", "cloudflare","coinbase", "databricks", "datadog",
+    "doordash", "dropbox", "duolingo", "figma", "google", "ibm", "instacart", "linkedin", "lyft", "meta", "microsoft",
+    "netflix", "notion", "nvidia", "openai", "oracle", "palantir", "paypal", "pinterest", "ramp", "reddit","rippling", "robinhood", "roblox",
+    "salesforce", "samsara", "shopify", "slack", "snap", "snapchat", "splunk","snowflake", "stripe", "square", "tesla", "tinder","tiktok", "uber",
+    "visa","waymo", "x"
+}
+
 CATEGORIES = {
     "Software": {"name": "Software Engineering", "emoji": "💻"},
+    "Product": {"name": "Product Management", "emoji": "📱"},
     "AI/ML/Data": {"name": "Data Science, AI & Machine Learning", "emoji": "🤖"},
     "Quant": {"name": "Quantitative Finance", "emoji": "📈"},
-    "Hardware": {"name": "Hardware Engineering", "emoji": "🔧"}
+    "Hardware": {"name": "Hardware Engineering", "emoji": "🔧"},
+    "Other": {"name": "Other", "emoji": "💼"}
 }
 
 def setOutput(key, value):
@@ -94,11 +111,43 @@ def create_md_table(listings, offSeason=False):
     prev_days_active = None  # FIXED: previously incorrectly using date_posted
 
     for listing in listings:
+        # Add fire emoji for FAANG+ companies
+        company_name = listing["company_name"]
+        if company_name.lower() in FAANG_PLUS:
+            company_name = f"🔥 {company_name}"
+            listing["company_name"] = company_name  # Update the listing as well
+        
         raw_url = listing.get("company_url", "").strip()
         company_url = raw_url + '?utm_source=GHList&utm_medium=company' if raw_url.startswith("http") else ""
-        company = f"**[{listing['company_name']}]({company_url})**" if company_url else listing["company_name"]
+        company = f"**[{company_name}]({company_url})**" if company_url else f"**{company_name}**"
         location = getLocations(listing)
-        position = listing["title"] + getSponsorship(listing)
+        
+        # Check for advanced degree requirements and add graduation cap emoji
+        title_with_degree_emoji = listing["title"]
+        
+        # Check degrees field for advanced degree requirements
+        degrees = listing.get("degrees", [])
+        if degrees:
+            # Check if only advanced degrees are required (no Bachelor's or Associate's)
+            has_bachelors_or_associates = any(
+                degree.lower() in ["bachelor's", "associate's"]
+                for degree in degrees
+            )
+            has_advanced_degrees = any(
+                degree.lower() in ["master's", "phd", "mba"]
+                for degree in degrees
+            )
+            
+            if has_advanced_degrees and not has_bachelors_or_associates:
+                title_with_degree_emoji += " 🎓"
+        
+        # Also check title text for degree mentions
+        title_lower = listing["title"].lower()
+        if any(term in title_lower for term in ["master's", "masters", "master", "mba", "phd", "ph.d", "doctorate", "doctoral"]):
+            if "🎓" not in title_with_degree_emoji:
+                title_with_degree_emoji += " 🎓"
+        
+        position = title_with_degree_emoji + getSponsorship(listing)
         terms = ", ".join(listing["terms"])
         link = getLink(listing)
 
@@ -112,10 +161,10 @@ def create_md_table(listings, offSeason=False):
         )
             
         # FIXED: comparison to see if same company and same days active
-        if prev_company == listing['company_name'] and prev_days_active == days_active:
+        if prev_company == company_name and prev_days_active == days_active:
             company = "↳"
         else:
-            prev_company = listing['company_name']
+            prev_company = company_name
             prev_days_active = days_active
         
         if offSeason:
@@ -145,18 +194,40 @@ def classifyJobCategory(job):
             return "Quantitative Finance"
         elif category in ["ai/ml/data", "data & analytics", "ai & machine learning", "data science"]:
             return "Data Science, AI & Machine Learning"
+        elif category in ["product", "product management"]:
+            return "Product Management"
         elif category in ["software", "software engineering"]:
             return "Software Engineering"
+        elif category in ["other"]:
+            return "Other"
     
     # If no category exists or it's not recognized, classify by title
+    # Order of filtering based on title: hardware -> quant -> data science -> software eng -> product -> other
     title = job.get("title", "").lower()
-    if any(term in title for term in ["hardware", "embedded", "fpga", "circuit", "chip", "silicon", "asic"]):
+    
+    # Hardware (first priority)
+    if any(term in title for term in ["hardware", "embedded", "fpga", "circuit", "chip", "silicon", "asic", "robotics", "firmware", "manufactur"]):
         return "Hardware Engineering"
+    
+    # Quant (second priority)
     elif any(term in title for term in ["quant", "quantitative", "trading", "finance", "investment"]):
         return "Quantitative Finance"
-    elif any(term in title for term in ["data science", "data engineer", "data scientist", "data engineering", "ai &", "machine learning", "ml", "analytics", "analyst" ]):
+    
+    # Data Science (third priority)
+    elif any(term in title for term in ["data science", "artificial intelligence", "data scientist", "ai &", "machine learning", "ml", "data analytics", "data analyst", "research eng", "nlp", "computer vision", "research sci", "data eng"]):
         return "Data Science, AI & Machine Learning"
-    return "Software Engineering"
+    
+    # Software Engineering (fourth priority)
+    elif any(term in title for term in ["forward deployed", "forward-deployed","software", "software eng", "software dev", "product engineer", "fullstack", "full-stack", "full stack", "frontend", "front end", "front-end", "backend", "back end", "back-end", "founding engineer", "mobile dev", "mobile engineer"]):
+        return "Software Engineering"
+    
+    # Product (fifth priority)
+    elif any(term in title for term in ["product manag", "product analyst", "apm"]) or ("product" in title and "analyst" in title):
+        return "Product Management"
+    
+    # Other (everything else)
+    else:
+        return "Other"
 
 def ensureCategories(listings):
     for listing in listings:
@@ -170,12 +241,12 @@ def create_category_table(listings, category_name):
 
     emoji = next((cat["emoji"] for cat in CATEGORIES.values() if cat["name"] == category_name), "")
     header = f"\n\n## {emoji} {category_name} Internship Roles\n\n"
-    header += "[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)\n\n"
+    header += "[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)\n\n"
 
     # Optional callout under Data Science section
     if category_name == "Data Science, AI & Machine Learning":
         header += (
-            "> 🎓 Here's the [resume template](https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing) used by Stanford CS and Pitt CSC for internship prep.\n"
+            "> 📄 Here's the [resume template](https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing) used by Stanford CS and Pitt CSC for internship prep.\n"
             "\n"
             "> 🧠 Want to know what keywords your resume is missing for a job? Use the blue Simplify application link to instantly compare your resume to any job description.\n\n"
         )
@@ -213,12 +284,17 @@ def embedTable(listings, filepath, offSeason=False):
         category_counts[category_info["name"]] = count
 
     # Build the category summary for the Browse section
+    # Order: Software, Product, Data, Quant, Hardware, Other
+    category_order = ["Software", "Product", "AI/ML/Data", "Quant", "Hardware", "Other"]
     category_links = []
-    for category_info in CATEGORIES.values():
-        name = category_info["name"]
-        emoji = category_info["emoji"]
-        anchor = name.lower().replace(" ", "-").replace(",", "").replace("&", "")
-        category_links.append(f"{emoji} **[{name}](#-{anchor}-internship-roles)** ({category_counts[name]})")
+    for category_key in category_order:
+        if category_key in CATEGORIES:
+            category_info = CATEGORIES[category_key]
+            name = category_info["name"]
+            emoji = category_info["emoji"]
+            count = category_counts[name]
+            anchor = name.lower().replace(" ", "-").replace(",", "").replace("&", "")
+            category_links.append(f"{emoji} **[{name}](#-{anchor}-internship-roles)** ({count})")
     category_counts_str = "\n\n".join(category_links)
 
     newText = ""
@@ -244,11 +320,14 @@ def embedTable(listings, filepath, offSeason=False):
                 in_table_section = True
                 newText += line
                 newText += "\n---\n\n"
-                for category_info in CATEGORIES.values():
-                    name = category_info["name"]
-                    table = create_category_table(listings, name)
-                    if table:
-                        newText += table
+                # Add tables for each category in order
+                category_order = ["Software", "Product", "AI/ML/Data", "Quant", "Hardware", "Other"]
+                for category_key in category_order:
+                    if category_key in CATEGORIES:
+                        category_info = CATEGORIES[category_key]
+                        table = create_category_table(listings, category_info["name"])
+                        if table:
+                            newText += table
                 continue
 
             if in_table_section:
@@ -274,7 +353,18 @@ def customFilter(listings):
             not is_canada_only(listing["locations"])]
 
 def filterSummer(listings, year, earliest_date):
-    return [listing for listing in listings if listing["is_visible"] and any(f"Summer {year}" in item for item in listing["terms"]) and listing['date_posted'] > earliest_date]
+    # Convert blocked URLs to lowercase for case-insensitive comparison
+    blocked_urls_lower = {url.lower() for url in BLOCKED_COMPANIES}
+    
+    final_listings = []
+    for listing in listings:
+        if listing["is_visible"] and any(f"Summer {year}" in item for item in listing["terms"]) and listing['date_posted'] > earliest_date:
+            # Check if listing is from a blocked company
+            company_url = listing.get("company_url", "").lower()
+            if not any(blocked_url in company_url for blocked_url in blocked_urls_lower):
+                final_listings.append(listing)
+    
+    return final_listings
 
 
 def filterOffSeason(listings):
