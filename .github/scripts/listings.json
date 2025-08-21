@@ -201301,7 +201301,7 @@
         "company_name": "EVgo",
         "id": "24b1fd12-a786-4d02-a61c-fbe07beec087",
         "title": "Intern \u2013 Hardware Compliance",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -201969,7 +201969,7 @@
         ]
     },
     {
-        "date_updated": 1751938726,
+        "date_updated": 1755782670,
         "url": "https://jobs.apple.com/en-us/details/200606141/engineering-program-management-internships?team=STDNT",
         "locations": [
             "United States"
@@ -201985,6 +201985,10 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
+        ],
+        "category": "Product Management",
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -205428,7 +205432,7 @@
         "company_name": "Tenstorrent",
         "id": "2a159136-4b54-47ea-841a-cd9da6e2ed19",
         "title": "CPU Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2025",
@@ -205520,7 +205524,7 @@
         "company_name": "Tenstorrent",
         "id": "090d7464-14d7-468a-af4c-53506f99815c",
         "title": "Scaleout Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205541,7 +205545,7 @@
         "company_name": "Tenstorrent",
         "id": "125dfd48-ec38-40b4-90de-7514665e2a46",
         "title": "Design Verification Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206180,7 +206184,7 @@
         "company_name": "Signify",
         "id": "e5f9a242-713c-401f-9aba-c68cadc4f923",
         "title": "Digital & Technology Solutions Degree Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -207318,7 +207322,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753801436,
+        "date_updated": 1755793142,
         "url": "https://careers-gdms.icims.com/jobs/67268/embedded-software-engineering-co-op/job?mobile=false&width=1117&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420",
         "company_name": "General Dynamics",
         "title": "Embedded Software Engineering Co-Op",
@@ -207334,7 +207338,10 @@
         "id": "eb29a32a-e4c3-4bbc-8c2a-3f2706aaaee7",
         "date_posted": 1753801436,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -207907,7 +207914,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755593132,
+        "date_updated": 1755782563,
         "url": "https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e",
         "company_name": "Allium",
         "title": "Engineering Intern - AI",
@@ -207928,7 +207935,11 @@
         "id": "d1ae8439-77a5-4545-a92d-a994cfe2603a",
         "date_posted": 1753895888,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1753897997,
@@ -208199,7 +208210,7 @@
         "company_name": "HarbourVest",
         "id": "bcf459e6-8c48-4c98-8acc-7425e5de6630",
         "title": "Portfolio Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210701,7 +210712,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754541165,
+        "date_updated": 1755783388,
         "url": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a",
         "company_name": "Confluent",
         "title": "Software Engineering Intern",
@@ -210722,7 +210733,10 @@
         "id": "bf8470b1-93c2-48a9-aa09-782423815cbb",
         "date_posted": 1754541165,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1754541336,
@@ -213856,7 +213870,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754706391,
+        "date_updated": 1755783402,
         "date_posted": 1754706391,
         "url": "https://bnymellon.eightfold.ai/careers/job/30606533",
         "locations": [
@@ -213865,8 +213879,11 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Bank-Of-New-York-Mellon",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -213898,15 +213915,19 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754707552,
+        "date_updated": 1755783417,
         "date_posted": 1754707552,
         "url": "https://jobs.lever.co/belvederetrading/eddfd030-1b27-46db-9ef6-5b65e1e2484c/apply",
         "locations": [
-            "Chicago, IL"
+            "Chicago, IL",
+            "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/Belvedere-Trading",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -214737,7 +214758,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755045050,
+        "date_updated": 1755782829,
         "url": "https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?fbclid=PAZXh0bgNhZW0CMTEAAacZmDKBbpt6Eic3DYCTf372rK812Efp_FC9Sle8J1TgYhTmQa52d0muxM0Vtg_aem_NgJJWd_yRRfgPncN8pXvNw",
         "company_name": "Shopify",
         "title": "Engineering Internship",
@@ -214746,7 +214767,7 @@
             "Bellevue, Washington"
         ],
         "terms": [
-            "Spring 2026"
+            "Summer 2026"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -214754,7 +214775,11 @@
         "id": "1a908f90-d94a-4df2-91ec-f245e007600b",
         "date_posted": 1755045050,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1755049413,
@@ -214799,7 +214824,7 @@
         ]
     },
     {
-        "date_updated": 1755051509,
+        "date_updated": 1755782350,
         "url": "https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?keyword=intern",
         "company_name": "Shopify",
         "title": "USA Engineering Internships",
@@ -214807,7 +214832,7 @@
             "Remote in USA"
         ],
         "terms": [
-            "Summer 2026"
+            "Summer 2025"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -214815,7 +214840,11 @@
         "id": "45a3af04-962c-480e-aa2e-0da6eaf26ed2",
         "date_posted": 1755051209,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1755637992,
@@ -215490,7 +215519,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755168209,
+        "date_updated": 1755782470,
         "url": "https://gdmissionsystems.com/careers/intern-engineer-ft-wayne-in-usa-2025-66946-opportunity",
         "company_name": "General Dynamics",
         "title": "Intern Engineer",
@@ -215510,10 +215539,14 @@
         "id": "7f91410f-24f0-4287-bcd9-74fca28fce4d",
         "date_posted": 1755168209,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
-        "date_updated": 1755168311,
+        "date_updated": 1755782510,
         "url": "https://job-boards.eu.greenhouse.io/nice/jobs/4654114101?gh_jid=4654114101",
         "company_name": "NiCE",
         "title": "AI Solutions Intern",
@@ -215533,10 +215566,14 @@
         "id": "a03759ad-6326-43a2-9b9e-1b1a4207bd8a",
         "date_posted": 1755168311,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
-        "date_updated": 1755169190,
+        "date_updated": 1755782636,
         "url": "https://www.jumptrading.com/careers/7141699/?gh_jid=7141699",
         "company_name": "Jump Trading",
         "title": "Campus AI Researcher (Intern)",
@@ -215557,7 +215594,11 @@
         "id": "bd019fd0-d553-4104-99db-ccd9a77311e4",
         "date_posted": 1755169190,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1755169376,
@@ -216012,7 +216053,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755264321,
+        "date_updated": 1755782446,
         "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f03044b2dac6/spa-1/candidate/so/pm/1/pl/1/opp/19975-2026-Firmwide-AI-Strategy-Solutions-Summer-Analyst-Program-New-York/en-GB",
         "company_name": "Morgan Stanley",
         "title": "Firmwide AI Strategy & Solutions Summer Analyst Program",
@@ -216028,7 +216069,11 @@
         "id": "f133ed79-6713-4cef-8760-180dd54447c5",
         "date_posted": 1755264321,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1755264404,
@@ -217866,7 +217911,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755419368,
+        "date_updated": 1755797244,
         "url": "https://www.amentumcareers.com/jobs/ai-and-robotics-intern-huntsville-alabama-united-states-4fa685a1-2e01-42fa-8597-b9f54e5818be",
         "company_name": "Amentum",
         "title": "AI and Robotics Intern",
@@ -217881,12 +217926,15 @@
             "Summer 2026"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "e9b83d0f-c590-4676-984b-811868e12236",
         "date_posted": 1755419368,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1755567869,
@@ -218017,7 +218065,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755421235,
+        "date_updated": 1755782610,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-AI-Intern---Summer-Internship-2026_R56902",
         "company_name": "Motorola Solutions",
         "title": "Supply Chain AI Intern",
@@ -218034,7 +218082,11 @@
         "id": "f7c76d8d-22ea-479f-9ff4-19f32a52d743",
         "date_posted": 1755421235,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1755421399,
@@ -218593,15 +218645,18 @@
         "terms": [
             "Fall 2025"
         ],
-        "date_updated": 1755554934,
+        "date_updated": 1755782870,
         "date_posted": 1755554934,
         "url": "https://jobs.l3harris.com/job/Rochester-Software-Engineering-Intern-(Rochester,-NY)-NY-14610/1317193300/?ats=successfactors",
         "locations": [
             "Rochester, NY"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -220268,18 +220323,17 @@
         "terms": [
             "Fall 2025"
         ],
-        "date_updated": 1755292969,
+        "date_updated": 1755782484,
         "date_posted": 1755292969,
         "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/IT-Engineer-Intern_R105820",
         "locations": [
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -225830,7 +225884,7 @@
         "company_name": "Samsung",
         "id": "a9ab2c72-561b-41c1-bcbd-b214263ebb35",
         "title": "Intern - XR Graphics Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -228480,9 +228534,9 @@
         "title": "Motion Generation Algorithm Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755670232,
+        "date_updated": 1755782801,
         "date_posted": 1755670232,
         "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/UK-London/Motion-Generation-Algorithm-Intern_R105947",
         "locations": [
@@ -228492,7 +228546,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -228740,9 +228794,9 @@
         "title": "Graduate Intern - Load Forecasting - Engineering Analytics & Modeling",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755641516,
+        "date_updated": 1755782697,
         "date_posted": 1755641516,
         "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Graduate-Intern-Load-Forecasting-Engineering-Analytics-&-Modeling-VA-23060/1318438700/?ats=successfactors",
         "locations": [
@@ -228752,7 +228806,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's"
+            "Master's"
         ]
     },
     {
@@ -228781,8 +228835,8 @@
         ]
     },
     {
-        "date_updated": 1755680707,
-        "sponsorship": "U.S. Citizenship is Required",
+        "date_updated": 1755782194,
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
             "Bachelor's"
@@ -228804,7 +228858,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755680941,
+        "date_updated": 1755782733,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -228818,9 +228872,6 @@
             "New York, NY"
         ],
         "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
             "Summer 2026"
         ],
         "category": "Data Science, AI & Machine Learning",
@@ -228961,7 +229012,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755695170,
+        "date_updated": 1755782841,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -228985,11 +229036,11 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755695554,
+        "date_updated": 1755782208,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ],
         "url": "https://joinbytedance.com/search/7537121176616847624",
         "company_name": "ByteDance",
@@ -229004,7 +229055,7 @@
             "Fall 2025",
             "Summer 2026"
         ],
-        "category": "Other",
+        "category": "Data Science, AI & Machine Learning",
         "source": "AlmondCroffle",
         "id": "2c3d75c8-f66c-4baf-a852-655eabd2068c",
         "date_posted": 1755695481,
@@ -229012,11 +229063,11 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755695626,
+        "date_updated": 1755782421,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ],
         "url": "https://joinbytedance.com/search/7537118884496312584",
         "company_name": "ByteDance",
@@ -229031,37 +229082,10 @@
             "Fall 2025",
             "Summer 2026"
         ],
-        "category": "Other",
+        "category": "Data Science, AI & Machine Learning",
         "source": "AlmondCroffle",
         "id": "f0694642-879b-4cd5-bd5e-45dc35bbabcb",
         "date_posted": 1755695626,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755695700,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://Research Intern (RDMA/High Speed Network)",
-        "company_name": "ByteDance",
-        "title": "Research Intern (RDMA/High Speed Network)",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "04d6bb0b-97c1-4f4d-85d9-b9e0e0cfe74e",
-        "date_posted": 1755695700,
         "company_url": "",
         "is_visible": true
     },
@@ -229093,11 +229117,11 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755695918,
+        "date_updated": 1755782391,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ],
         "url": "https://joinbytedance.com/search/7539991964504017170",
         "company_name": "ByteDance",
@@ -229112,7 +229136,7 @@
             "Fall 2025",
             "Summer 2026"
         ],
-        "category": "Other",
+        "category": "Data Science, AI & Machine Learning",
         "source": "AlmondCroffle",
         "id": "ee53bda4-539c-415b-8cc6-cd6ffeba8181",
         "date_posted": 1755695918,
@@ -229120,11 +229144,11 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755695996,
+        "date_updated": 1755782458,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ],
         "url": "https://joinbytedance.com/search/7539992380817639687",
         "company_name": "ByteDance",
@@ -229139,7 +229163,7 @@
             "Fall 2025",
             "Summer 2026"
         ],
-        "category": "Other",
+        "category": "Data Science, AI & Machine Learning",
         "source": "AlmondCroffle",
         "id": "feecfe41-1528-4e5e-af25-edad4e3c9fbf",
         "date_posted": 1755695996,
@@ -229872,15 +229896,18 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
+        "category": "Data Science, AI & Machine Learning",
         "company_name": "Cisco",
         "id": "dc1f6c17-5e19-4b7d-9365-fedeed4af6b0",
         "title": "Data Analyst I \u2013 Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2025",
+            "Summer 2026"
         ],
-        "date_updated": 1755741301,
+        "date_updated": 1755783212,
         "date_posted": 1755741301,
         "url": "https://jobs.cisco.com/jobs/ProjectDetail/Data-Analyst-I-Intern-United-States/1449162",
         "locations": [
@@ -229890,21 +229917,20 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Bootcamp"
+            "Bachelor's"
         ]
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
+        "category": "Data Science, AI & Machine Learning",
         "company_name": "WeRide",
         "id": "08ab1083-f977-4e20-95a6-c89556b7f931",
-        "title": "Intern - Data Scientist",
+        "title": "Data Scientist",
         "active": true,
         "terms": [
             "Fall 2025"
         ],
-        "date_updated": 1755741252,
+        "date_updated": 1755783358,
         "date_posted": 1755741252,
         "url": "https://jobs.lever.co/weride/339696d7-10bf-4f62-a74b-bc24b59e1826/apply",
         "locations": [
@@ -229912,9 +229938,9 @@
         ],
         "company_url": "https://simplify.jobs/c/WeRide",
         "is_visible": true,
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -230083,5 +230109,175 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1755784587,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5624/winter-2026---data-science-department-intern/job",
+        "company_name": "Mackenzie Investments",
+        "title": "Data Science Department Intern",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "2a49b7ec-bdfb-4023-9cb8-461e07718fcb",
+        "date_posted": 1755784587,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755784995,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://churchdwight.wd1.myworkdayjobs.com/en-US/chdcareers/job/USA-Ewing-NJ/XMLNAME-2026-Master-s-Data-Science-Co-op_R2025-14136",
+        "company_name": "Church & Dwight",
+        "title": "Master's Data Science Co-op",
+        "locations": [
+            "Ewing, NJ"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "abe2309c-b33c-417a-afec-387d562c88f2",
+        "date_posted": 1755784995,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755785170,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Multifamily-Software-Development-Intern_JR15981",
+        "company_name": "Freddie Mac",
+        "title": "Multifamily Software Development Intern",
+        "locations": [
+            "McLean, VA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f05314a8-0cb3-4cac-9b38-ef78ce4ce564",
+        "date_posted": 1755785170,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755785352,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-Intern_R99561",
+        "company_name": "RELX",
+        "title": "Data Engineer Intern",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "b1648b1d-3f06-480c-9f81-424c47c3a7b1",
+        "date_posted": 1755785352,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755785537,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://globusmedical.wd5.myworkdayjobs.com/en-US/gmed_careers/job/Methuen-MA/Co-Op_JR104162",
+        "company_name": "Globus Medical",
+        "title": "Software Engineer Co-Op",
+        "locations": [
+            "Methuen, MA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "51357e2a-7728-48f8-8d8a-1c9053e63ee4",
+        "date_posted": 1755785537,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755786253,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://apply.workable.com/al-warren-oil-company-inc/j/BF3D5FB442/",
+        "company_name": "Al Warren Oil Company",
+        "title": "Software Developer",
+        "locations": [
+            "Bensenville, IL"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "dd6b89c3-497d-4326-85cd-4174f9bccd46",
+        "date_posted": 1755785629,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755785687,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.ixl.com/company/careers?gh_jid=8128629002",
+        "company_name": "IXL Learning",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "charliec05",
+        "id": "d72bb524-0cc1-426e-9be8-40ead983aed5",
+        "date_posted": 1755785687,
+        "company_url": "",
+        "is_visible": true
     }
 ]
