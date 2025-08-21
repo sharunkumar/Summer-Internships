@@ -288,6 +288,12 @@ def create_category_table(listings, category_name, offSeason=False):
             "\n"
             "> 🧠 Want to know what keywords your resume is missing for a job? Use the blue Simplify application link to instantly compare your resume to any job description.\n\n"
         )
+        
+    if category_name == 'Product Management':
+        header += (
+            "> 📅 Curious when Big Tech product internships typically open? Simplify put together an [openings tracker](https://simplify.jobs/top-list/Associate-Product-Manager-Intern?utm_source=GHList&utm_medium=ot) based on historical data for those companies.\n"
+            "\n"
+        )
 
     # Sort and format
     active = sorted([l for l in category_listings if l["active"]], key=lambda l: l["date_posted"], reverse=True)
@@ -306,6 +312,75 @@ def create_category_table(listings, category_name, offSeason=False):
         )
 
     return result
+
+# GitHub README file size limit (500 KiB = 512,000 bytes)
+GITHUB_FILE_SIZE_LIMIT = 512000
+# Smaller buffer to show warning closer to actual cutoff (5 KiB buffer)
+SIZE_BUFFER = 5120
+
+def check_and_insert_warning(content, repo_name="Summer2026-Internships"):
+    """Insert warning notice before GitHub cutoff point while preserving full content"""
+    content_size = len(content.encode('utf-8'))
+    
+    if content_size <= (GITHUB_FILE_SIZE_LIMIT - SIZE_BUFFER):
+        return content
+    
+    # Find insertion point before the GitHub cutoff
+    target_size = GITHUB_FILE_SIZE_LIMIT - SIZE_BUFFER - 1000  # Extra buffer for the notice
+    
+    # Convert to bytes for accurate measurement
+    content_bytes = content.encode('utf-8')
+    
+    # Find the last complete table row before the limit
+    insertion_bytes = content_bytes[:target_size]
+    insertion_content = insertion_bytes.decode('utf-8', errors='ignore')
+    
+    # Find the last complete </tr> tag to ensure clean insertion
+    last_tr_end = insertion_content.rfind('</tr>')
+    if last_tr_end != -1:
+        # Find the end of this row
+        next_tr_start = insertion_content.find('\n', last_tr_end)
+        if next_tr_start != -1:
+            insertion_point = next_tr_start
+        else:
+            insertion_point = last_tr_end + 5  # After </tr>
+    else:
+        insertion_point = len(insertion_content)
+    
+    # Create the warning notice with anchor link
+    warning_notice = f"""
+</tbody>
+</table>
+
+---
+
+<div align="center" id="github-cutoff-warning">
+  <h2>🔗 See Full List</h2>
+  <p><strong>⚠️ GitHub preview cuts off around here due to file size limits.</strong></p>
+  <p>📋 <strong><a href="https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-see-full-list">Click here to view the complete list with all internship opportunities!</a></strong> 📋</p>
+  <p><em>To find even more internships in tech, check out <a href="https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security&jobId=2ac81173-86b5-4dbd-a7a9-260847c259cc&jobType=Internship?utm_source=GHList">Simplify's website</a>.</em></p>
+</div>
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>
+<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>
+<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>
+<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
+<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
+</tr>
+</thead>
+<tbody>
+"""
+    
+    # Split content at insertion point and insert warning
+    before_insertion = content[:insertion_point]
+    after_insertion = content[insertion_point:]
+    
+    return before_insertion + warning_notice + after_insertion
 
 def embedTable(listings, filepath, offSeason=False):
     # Ensure all listings have a category
@@ -377,8 +452,11 @@ def embedTable(listings, filepath, offSeason=False):
             if not in_browse_section and not in_table_section:
                 newText += line
 
+    # Check content size and insert warning if necessary
+    final_content = check_and_insert_warning(newText)
+    
     with open(filepath, "w") as f:
-        f.write(newText)
+        f.write(final_content)
 
 
 def customFilter(listings):
