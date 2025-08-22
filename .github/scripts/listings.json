@@ -201241,7 +201241,7 @@
         "company_name": "Autodesk",
         "id": "0bb01ae4-945e-4186-8ae4-50d75040979b",
         "title": "Intern \u2013 Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -214900,7 +214900,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755052640,
+        "date_updated": 1755871678,
         "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Moffett-Field-California/Software-Firmware-Development-Intern_R2110543",
         "company_name": "KBR",
         "title": "Software/Firmware Development Intern",
@@ -214921,7 +214921,10 @@
         "id": "84dd66c2-902f-451e-bd5d-8842f06b8fa6",
         "date_posted": 1755052640,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -225185,7 +225188,7 @@
         "company_name": "Sezzle",
         "id": "17f81185-2cb2-4e3d-a36f-3765e76a1fe8",
         "title": "Product Intern - Quality & Feature Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -228403,7 +228406,7 @@
         "company_name": "Walmart",
         "id": "aab83ec2-807e-492c-964b-f83f5ccb98c1",
         "title": "2025 Intern Conversion: 2026 FT Sr Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -230192,7 +230195,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755785352,
+        "date_updated": 1755871638,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -230216,7 +230219,7 @@
         "id": "b1648b1d-3f06-480c-9f81-424c47c3a7b1",
         "date_posted": 1755785352,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755785537,
@@ -230510,22 +230513,21 @@
         "company_name": "Arch Capital Group",
         "id": "c7c63ff7-6a89-468a-bcbf-6e6c8acec893",
         "title": "Database Engineering Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755815533,
+        "date_updated": 1755871596,
         "date_posted": 1755815533,
         "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Database-Engineering-Summer-Intern_R25_712",
         "locations": [
             "Greensboro, NC"
         ],
         "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -231825,6 +231827,251 @@
             "Carmel, IN"
         ],
         "company_url": "https://simplify.jobs/c/Merchants-Bank-Of-Indiana",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1755868137,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us",
+        "company_name": "Amazon",
+        "title": "Systems Development Engineer Internship",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "bde53f7a-e4cd-4b45-80c7-7a7c07dbbd3a",
+        "date_posted": 1755868137,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755868224,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.amazon.jobs/en/jobs/3059793/security-engineer-internship-2026-us",
+        "company_name": "Amazon",
+        "title": "Security Engineer Internship",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "b1c1b1f1-d107-4607-a6fb-a8454c48a3ef",
+        "date_posted": 1755868224,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755868448,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.loreal.com/en_US/jobs/JobDetail/2026-L-Or-al-USA-Summer-Internship-Program-Information-Technology-IT-Undergraduate/215820",
+        "company_name": "L'Or\u00e9al",
+        "title": "Information Technology",
+        "locations": [
+            "Berkeley Heights, NJ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "e2c77757-66fd-4e4c-9bea-2a72f1a0e751",
+        "date_posted": 1755868448,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755868570,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.shopify.com/careers/canada-engineering-internships-winter-2026_04cf2b87-6660-45c7-95f2-e734b7844612",
+        "company_name": "Shopify",
+        "title": "Canada Engineering Internships",
+        "locations": [
+            "Remote in Canada",
+            "Montreal, CA",
+            "Ottawa, CA",
+            "Toronto, CA"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0aa61a34-00a2-4752-b439-07d138f52073",
+        "date_posted": 1755868570,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755868668,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-gtsx.icims.com/jobs/1562/quantitative-trading-internship---summer-2026/job",
+        "company_name": "GTS",
+        "title": "Quantitative Trading Internship",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "cf4d72f3-8098-4f5e-a2c3-da817dd9a75b",
+        "date_posted": 1755868668,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755868835,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://activision.wd1.myworkdayjobs.com/en-US/blizzard_external_careers/job/Irvine---Blizzard---Blizzard-Way/AI-Localization-Intern_R025877",
+        "company_name": "Blizzard",
+        "title": "AI Localization Intern",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "terms": [
+            "Fall 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "d4758b48-d0a9-467b-9e5d-09c76c60313e",
+        "date_posted": 1755868835,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755868947,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5628/summer-2026---investment-management---fixed-income-software-developer-platform-intern/job",
+        "company_name": "Mackenzie Investments",
+        "title": "Investment Management - Fixed Income Software Developer Platform Intern",
+        "locations": [
+            "Toronto, ON, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "24b8860a-8954-4f28-b8fa-a505de114725",
+        "date_posted": 1755868947,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "5e4ecea4-0e16-4a5f-a1f7-d5f910d163fc",
+        "title": "Platform Hardware and Systems Engineering \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1755870522,
+        "date_posted": 1755870522,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0276776",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Folsom, CA",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "HARMAN International",
+        "id": "e67d23cd-9fa2-4f7b-bee9-3756383f9fd8",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755874346,
+        "date_posted": 1755874346,
+        "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Northridge---California-USA/Product-Management-Intern_R-47677-2025",
+        "locations": [
+            "Northridge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/HARMAN-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Investment Management Corporation of Ontario",
+        "id": "c80ea4be-c4e7-413f-86ad-c3050c6148de",
+        "title": "Intern \u2013 Business Systems Analyst",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755882523,
+        "date_posted": 1754978818,
+        "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Business-Systems-Analyst--Fall-2025-_R25-116-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Investment-Management-Corporation-Of-Ontario",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
