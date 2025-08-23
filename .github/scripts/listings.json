@@ -214027,7 +214027,7 @@
         "company_name": "GlobalFoundries",
         "id": "0437bd10-bdd3-457b-a8dd-9d99b4d8c150",
         "title": "3D Advanced Heterogeneous Integration Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -217393,7 +217393,7 @@
         "company_name": "OneMain Financial",
         "id": "4fdf538d-216b-420b-b185-938552d4e348",
         "title": "Analytics Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -217438,7 +217438,7 @@
         "company_name": "Ameren",
         "id": "e06f01ed-c41a-417d-8ef8-1277023d153c",
         "title": "Application Development Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Summer 2025",
@@ -219988,7 +219988,7 @@
         "company_name": "Tencent",
         "id": "5b9ccd8e-4f2a-4117-b696-9a8e34774279",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -220297,7 +220297,7 @@
         "company_name": "Medtronic",
         "id": "d989f52f-7531-4b7a-a20b-783021be6dc6",
         "title": "IT Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -221786,7 +221786,7 @@
         "company_name": "HD Supply",
         "id": "f3205736-6f35-46d6-bb02-f17647ebb2a6",
         "title": "Summer 2026 Intern - Information Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -225436,7 +225436,7 @@
         "company_name": "Castleton Commodities International",
         "id": "f6c79e8e-621d-4554-a33d-9161e3a32806",
         "title": "Ph.D. Research Internship - Data Science & Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -225672,7 +225672,7 @@
         "company_name": "Tencent",
         "id": "592641dc-4582-4f46-ad07-fd89ada70c7c",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -226524,7 +226524,7 @@
         "company_name": "Tencent",
         "id": "b8a292aa-2a08-4fd5-93cb-3b989c419818",
         "title": "Speech Synthesis Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -229751,7 +229751,7 @@
         "company_name": "Brunswick",
         "id": "6e46de3d-f3e8-45a2-a763-30ed8b21f41a",
         "title": "Engineering Intern-BI Design Lab",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -232757,7 +232757,7 @@
         "company_name": "Crowdstrike",
         "id": "c5e5b669-87bb-45d4-a5f4-e73feaaaf39e",
         "title": "IT Service Desk Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
