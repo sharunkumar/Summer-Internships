@@ -214047,7 +214047,7 @@
         "company_name": "Nextiva",
         "id": "ca9aa085-672f-467f-afe9-1ea438a7d115",
         "title": "AI Engineer Intern - Go-to-Market - Part-time",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -219213,7 +219213,7 @@
         "company_name": "FNBO",
         "id": "960bc9b7-5a6f-4a2c-b1b8-200149bba0da",
         "title": "Internship - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -221862,7 +221862,7 @@
         "company_name": "Roc Nation",
         "id": "2b431345-ec22-442e-8f40-5d92a6a995c3",
         "title": "Fall 2025 Intern - IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -230469,7 +230469,7 @@
         "company_name": "Activision-Blizzard",
         "id": "26b9c1d1-8c1a-49d9-ad71-ca0efced8ff1",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -231674,7 +231674,7 @@
         "company_name": "Merchants Bank of Indiana",
         "id": "bbf63b20-d066-4111-b240-60f7ff79e55f",
         "title": "Capital Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231772,7 +231772,7 @@
         "company_name": "Merchants Bank of Indiana",
         "id": "08d3d9af-17d4-4a2a-9d03-57037606b2c5",
         "title": "Risk Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231819,7 +231819,7 @@
         "company_name": "Merchants Bank of Indiana",
         "id": "da25d9a4-381f-4ff1-bc0c-4240b1bbc1fe",
         "title": "Information Security Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -233128,5 +233128,97 @@
         "date_posted": 1755912037,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ChargePoint",
+        "id": "1bf75679-dcdc-4eab-9c7e-86800069d198",
+        "title": "Power Electronics Controls and Firmware Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755915462,
+        "date_posted": 1755915462,
+        "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=8128543002",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ChargePoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BitGo",
+        "id": "85795dd1-9105-4331-acbb-6f7f27749028",
+        "title": "Winter 2026 Internship - Wallet Core",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755929347,
+        "date_posted": 1755929347,
+        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133819002",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BitGo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BitGo",
+        "id": "d708ee93-5aea-458d-9de8-30594edfebdd",
+        "title": "Internship - Crypto as a Service & Staking",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755929340,
+        "date_posted": 1755929340,
+        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133823002",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BitGo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BitGo",
+        "id": "34d9d7c5-a28e-40ae-b54e-39eea673438d",
+        "title": "Winter 2026 Internship - Hsm Team",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755929341,
+        "date_posted": 1755929341,
+        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133783002",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BitGo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
