@@ -189446,7 +189446,7 @@
         "company_name": "American Axle & Manufacturing",
         "id": "3b1775c2-f21c-4262-a51e-b1e5d11c61a4",
         "title": "Product Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746080177,
         "date_posted": 1746080177,
@@ -192051,7 +192051,7 @@
         "company_name": "QuEra Computing",
         "id": "8aad3bdd-ad9d-4911-acbf-ea62e562ed98",
         "title": "Scientific Software Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746688460,
         "date_posted": 1746688460,
@@ -194144,7 +194144,7 @@
         "company_name": "Brex",
         "id": "81d7ccda-dfee-4208-92db-ed4f57441699",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -206991,7 +206991,7 @@
         "company_name": "Castleton Commodities International",
         "id": "ab503099-db29-422b-93b0-f3417d7518d5",
         "title": "Data Science Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -207055,7 +207055,7 @@
         "company_name": "Castleton Commodities International",
         "id": "09491847-511e-461e-8a2a-b4108caaf627",
         "title": "Front Office Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214027,7 +214027,7 @@
         "company_name": "GlobalFoundries",
         "id": "0437bd10-bdd3-457b-a8dd-9d99b4d8c150",
         "title": "3D Advanced Heterogeneous Integration Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -216831,15 +216831,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755418863,
+        "date_updated": 1755945844,
         "date_posted": 1755295902,
         "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-242116",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/TransPerfect",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -217390,7 +217393,7 @@
         "company_name": "OneMain Financial",
         "id": "4fdf538d-216b-420b-b185-938552d4e348",
         "title": "Analytics Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -217435,7 +217438,7 @@
         "company_name": "Ameren",
         "id": "e06f01ed-c41a-417d-8ef8-1277023d153c",
         "title": "Application Development Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Summer 2025",
@@ -217457,7 +217460,7 @@
         "company_name": "Uline",
         "id": "9f14aaca-3fd3-4859-aff7-41f71a5520d2",
         "title": "Business Intelligence Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -219469,7 +219472,7 @@
         "company_name": "Hitachi Energy",
         "id": "05e7f5b6-07fc-49fc-b269-8c000d0812c7",
         "title": "AI Research Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2026"
@@ -219985,7 +219988,7 @@
         "company_name": "Tencent",
         "id": "5b9ccd8e-4f2a-4117-b696-9a8e34774279",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -220294,7 +220297,7 @@
         "company_name": "Medtronic",
         "id": "d989f52f-7531-4b7a-a20b-783021be6dc6",
         "title": "IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -221389,7 +221392,7 @@
         "company_name": "UNLV",
         "id": "7a71c255-6a29-458e-b7a7-99840a54d39a",
         "title": "Public Service Intern 1 - Information Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -221783,7 +221786,7 @@
         "company_name": "HD Supply",
         "id": "f3205736-6f35-46d6-bb02-f17647ebb2a6",
         "title": "Summer 2026 Intern - Information Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -224477,7 +224480,7 @@
         "company_name": "Sensata",
         "id": "427626a1-d94c-4df9-8714-04eebb92d6aa",
         "title": "Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -225433,7 +225436,7 @@
         "company_name": "Castleton Commodities International",
         "id": "f6c79e8e-621d-4554-a33d-9161e3a32806",
         "title": "Ph.D. Research Internship - Data Science & Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -225669,7 +225672,7 @@
         "company_name": "Tencent",
         "id": "592641dc-4582-4f46-ad07-fd89ada70c7c",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -226521,7 +226524,7 @@
         "company_name": "Tencent",
         "id": "b8a292aa-2a08-4fd5-93cb-3b989c419818",
         "title": "Speech Synthesis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -228289,7 +228292,7 @@
         "company_name": "Arch Capital Group",
         "id": "ac219976-5af4-4ae0-a202-86cf0320112e",
         "title": "Systems Engineering Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -228553,7 +228556,7 @@
         "company_name": "Tencent",
         "id": "4abe20f7-ff1f-4abb-b3c8-057f1c812bc9",
         "title": "Motion Generation Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -228790,7 +228793,7 @@
         "company_name": "Xcel Energy",
         "id": "168b88be-d350-4049-b769-85793b02b50e",
         "title": "Compute & Converged Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -229507,7 +229510,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "1584fc93-77a7-42ee-9192-74c39f836282",
         "title": "AI Localization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -229748,7 +229751,7 @@
         "company_name": "Brunswick",
         "id": "6e46de3d-f3e8-45a2-a763-30ed8b21f41a",
         "title": "Engineering Intern-BI Design Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -230303,11 +230306,11 @@
         "company_name": "Geico",
         "id": "a358a158-c7da-4b07-b4f3-8522a4863a45",
         "title": "Technology Development Program - Software Engineer Development track - Sdp",
-        "active": true,
+        "active": false,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755812995,
+        "date_updated": 1755941622,
         "date_posted": 1755812995,
         "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Technology-Development-Program---Software-Engineer-Development-track--SDP---Current-Interns-Only_R0059605",
         "locations": [
@@ -230317,8 +230320,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -230352,9 +230354,9 @@
         "title": "Technology Development Program - AI Engineer Development track - Tdp-AI",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755812999,
+        "date_updated": 1755942829,
         "date_posted": 1755812999,
         "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Technology-Development-Program---AI-Engineer-Development-track--TDP-AI---Current-Interns-Only_R0059606",
         "locations": [
@@ -230364,8 +230366,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -230398,12 +230399,11 @@
         "company_name": "Johnson & Johnson",
         "id": "fadfdcac-5759-4e2b-9617-66c4e0409fa9",
         "title": "Digital Transformation Co-op - Healthcare Distribution - Sdc",
-        "active": true,
+        "active": false,
         "terms": [
-            "Fall 2025",
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755813775,
+        "date_updated": 1755942803,
         "date_posted": 1755813775,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Markham-Ontario-Canada/Digital-Transformation-Co-op--Healthcare-Distribution--SDC-_R-028638",
         "locations": [
@@ -230448,9 +230448,9 @@
         "title": "Software Engineering Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755814692,
+        "date_updated": 1755941486,
         "date_posted": 1755814692,
         "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR104426",
         "locations": [
@@ -230541,9 +230541,9 @@
         "title": "Hardware Engineer intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755816161,
+        "date_updated": 1755943881,
         "date_posted": 1755816161,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Engineer-intern_1192886",
         "locations": [
@@ -230635,9 +230635,9 @@
         "title": "Full Stack Developer Co-op",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755816843,
+        "date_updated": 1755941450,
         "date_posted": 1755816843,
         "url": "https://jobs.l3harris.com/job/Niagara-on-the-Lake-Full-Stack-Developer-Co-op-ON/1319062300/?ats=successfactors",
         "locations": [
@@ -230708,9 +230708,9 @@
         "title": "Firmware Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755817603,
+        "date_updated": 1755943850,
         "date_posted": 1755817603,
         "url": "https://jobs-legrand.icims.com/jobs/9473/job",
         "locations": [
@@ -230856,7 +230856,7 @@
         "company_name": "Intel",
         "id": "699d13e3-ba18-4652-8c28-bcc7d371017c",
         "title": "Silicon Hardware Engineering \u2013 Intern - Bachelors",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -230967,9 +230967,9 @@
         "title": "Quantitative Researcher Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755820615,
+        "date_updated": 1755943535,
         "date_posted": 1755820615,
         "url": "https://job-boards.greenhouse.io/engineersgate/jobs/7182973",
         "locations": [
@@ -230979,8 +230979,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -231040,9 +231039,9 @@
         "title": "Supply Chain Data Analyst Internship 2026",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755822935,
+        "date_updated": 1755942121,
         "date_posted": 1755822935,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2026_R56900",
         "locations": [
@@ -231063,9 +231062,9 @@
         "title": "Intern Software Engineer II",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755822675,
+        "date_updated": 1755941363,
         "date_posted": 1755822675,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--2025-Intern-Conversion--2026-Corporate-Intern-Software-Engineer-II---Sunnyvale--CA_R-2273398",
         "locations": [
@@ -231178,9 +231177,9 @@
         "title": "Tech Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755823045,
+        "date_updated": 1755941250,
         "date_posted": 1755823045,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Tech-Intern_1192880",
         "locations": [
@@ -231224,9 +231223,9 @@
         "title": "Research Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755824704,
+        "date_updated": 1755942030,
         "date_posted": 1755824704,
         "url": "https://edzt.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/28438",
         "locations": [
@@ -231236,7 +231235,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -231247,9 +231246,9 @@
         "title": "Data Scientist Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755823944,
+        "date_updated": 1755942075,
         "date_posted": 1755823944,
         "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Remote---USA/Data-Scientist-Intern_J2424986",
         "locations": [
@@ -231439,9 +231438,9 @@
         "title": "Information Security Generalist Internship",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755821254,
+        "date_updated": 1755944001,
         "date_posted": 1755821254,
         "url": "https://methodisthealth.wd5.myworkdayjobs.com/en-US/MLH/job/5865-Shelby-Oaks-Circle/Information-Security-Generalist-Internship_R-11915",
         "locations": [
@@ -231462,10 +231461,9 @@
         "title": "Fixed Income Software Developer Platform Intern - Investment Management",
         "active": true,
         "terms": [
-            "Winter 2026",
-            "Spring 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1755821899,
+        "date_updated": 1755943181,
         "date_posted": 1755821899,
         "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5628/job",
         "locations": [
@@ -231509,9 +231507,9 @@
         "title": "Firmware Engineer Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755837512,
+        "date_updated": 1755943687,
         "date_posted": 1755837512,
         "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000077455500",
         "locations": [
@@ -231521,8 +231519,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -231699,9 +231696,9 @@
         "title": "API Developer Intern",
         "active": false,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755847338,
+        "date_updated": 1755941218,
         "date_posted": 1755847338,
         "url": "https://vetsez.breezy.hr/p/bc2397bb62ae01/apply",
         "locations": [
@@ -231726,7 +231723,7 @@
         "terms": [
             "Fall 2025"
         ],
-        "date_updated": 1755847310,
+        "date_updated": 1755941792,
         "date_posted": 1755847310,
         "url": "https://www.metacareers.com/jobs/1166376528712896",
         "locations": [
@@ -231739,7 +231736,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -231750,9 +231747,9 @@
         "title": "Product Engineering Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755848709,
+        "date_updated": 1755943609,
         "date_posted": 1755848709,
         "url": "https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1319275800/?ats=successfactors",
         "locations": [
@@ -231762,8 +231759,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -231961,11 +231957,11 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755868835,
+        "date_updated": 1755943912,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
-            "Bachelor's"
+            "Master's"
         ],
         "url": "https://activision.wd1.myworkdayjobs.com/en-US/blizzard_external_careers/job/Irvine---Blizzard---Blizzard-Way/AI-Localization-Intern_R025877",
         "company_name": "Blizzard",
@@ -231974,7 +231970,7 @@
             "Irvine, CA"
         ],
         "terms": [
-            "Fall 2026"
+            "Summer 2025"
         ],
         "category": "Data Science, AI & Machine Learning",
         "source": "AlmondCroffle",
@@ -232042,9 +232038,9 @@
         "title": "Product Management Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755874346,
+        "date_updated": 1755941718,
         "date_posted": 1755874346,
         "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Northridge---California-USA/Product-Management-Intern_R-47677-2025",
         "locations": [
@@ -232054,8 +232050,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -232311,11 +232306,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755900761,
+        "date_updated": 1755941194,
         "date_posted": 1755900761,
         "url": "https://job-boards.greenhouse.io/metronome/jobs/4894044008",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Metronome",
         "is_visible": true,
@@ -232690,7 +232685,7 @@
         "company_name": "RSM",
         "id": "b7a73e13-64dc-485d-b5b6-e0147339ed11",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
