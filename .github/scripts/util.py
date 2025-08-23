@@ -325,8 +325,9 @@ def check_and_insert_warning(content, repo_name="Summer2026-Internships"):
     if content_size <= (GITHUB_FILE_SIZE_LIMIT - SIZE_BUFFER):
         return content
     
-    # Find insertion point before the GitHub cutoff
-    target_size = GITHUB_FILE_SIZE_LIMIT - SIZE_BUFFER - 1000  # Extra buffer for the notice
+    # Find insertion point well before the GitHub cutoff to warn users early
+    # This leaves ~200KB of content after the warning that GitHub will actually cut off
+    target_size = GITHUB_FILE_SIZE_LIMIT - (2* SIZE_BUFFER)  # 500000 KB - very early warning to leave plenty of space for more internships
     
     # Convert to bytes for accurate measurement
     content_bytes = content.encode('utf-8')
