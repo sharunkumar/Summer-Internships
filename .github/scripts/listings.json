@@ -189446,7 +189446,7 @@
         "company_name": "American Axle & Manufacturing",
         "id": "3b1775c2-f21c-4262-a51e-b1e5d11c61a4",
         "title": "Product Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1746080177,
         "date_posted": 1746080177,
@@ -206991,7 +206991,7 @@
         "company_name": "Castleton Commodities International",
         "id": "ab503099-db29-422b-93b0-f3417d7518d5",
         "title": "Data Science Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -207055,7 +207055,7 @@
         "company_name": "Castleton Commodities International",
         "id": "09491847-511e-461e-8a2a-b4108caaf627",
         "title": "Front Office Software Engineer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -214192,7 +214192,7 @@
         "company_name": "Polaris",
         "id": "defafa26-ce2c-45ac-93df-6ec022f02b40",
         "title": "Digital & Information Technology \u2013 Predictive Data Science Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -217460,7 +217460,7 @@
         "company_name": "Uline",
         "id": "9f14aaca-3fd3-4859-aff7-41f71a5520d2",
         "title": "Business Intelligence Developer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -219472,7 +219472,7 @@
         "company_name": "Hitachi Energy",
         "id": "05e7f5b6-07fc-49fc-b269-8c000d0812c7",
         "title": "AI Research Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Spring 2026"
@@ -221392,7 +221392,7 @@
         "company_name": "UNLV",
         "id": "7a71c255-6a29-458e-b7a7-99840a54d39a",
         "title": "Public Service Intern 1 - Information Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -221865,7 +221865,7 @@
         "company_name": "Roc Nation",
         "id": "2b431345-ec22-442e-8f40-5d92a6a995c3",
         "title": "Fall 2025 Intern - IT",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -224480,7 +224480,7 @@
         "company_name": "Sensata",
         "id": "427626a1-d94c-4df9-8714-04eebb92d6aa",
         "title": "Product Marketing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -228292,7 +228292,7 @@
         "company_name": "Arch Capital Group",
         "id": "ac219976-5af4-4ae0-a202-86cf0320112e",
         "title": "Systems Engineering Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -228556,7 +228556,7 @@
         "company_name": "Tencent",
         "id": "4abe20f7-ff1f-4abb-b3c8-057f1c812bc9",
         "title": "Motion Generation Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -228793,7 +228793,7 @@
         "company_name": "Xcel Energy",
         "id": "168b88be-d350-4049-b769-85793b02b50e",
         "title": "Compute & Converged Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -230306,7 +230306,7 @@
         "company_name": "Geico",
         "id": "a358a158-c7da-4b07-b4f3-8522a4863a45",
         "title": "Technology Development Program - Software Engineer Development track - Sdp",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -230856,7 +230856,7 @@
         "company_name": "Intel",
         "id": "699d13e3-ba18-4652-8c28-bcc7d371017c",
         "title": "Silicon Hardware Engineering \u2013 Intern - Bachelors",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -233214,6 +233214,82 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "352060c4-ea0f-46d1-b57f-c3874eb6edd5",
+        "title": "Embedded Systems Software Intern - Linux and Jetson",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755959561,
+        "date_posted": 1755959561,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Embedded-Systems-Software-Intern--Linux-and-Jetson---Winter-2026_JR2001802-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Polaris",
+        "id": "87baaaf6-144f-4b54-98c0-33150ffc1ff7",
+        "title": "Digital & Information Technology \u2013 Infrastructure & Information Security Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755958630,
+        "date_posted": 1755958630,
+        "url": "https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Plymouth-MN-USA/Digital---Information-Technology---Infrastructure---Information-Security-Internship---Summer-2026_R27030",
+        "locations": [
+            "Wayzata, MN",
+            "South Yankton, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/8c8aedb9-7273-4dee-9f66-0b575d5c1da1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Polaris",
+        "id": "4b60573c-6fdb-4dc0-8f91-7b4ba3aeb91a",
+        "title": "Digital & Information Technology \u2013 Digital Product Development Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755958631,
+        "date_posted": 1755958631,
+        "url": "https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Plymouth-MN-USA/Digital---Information-Technology---Digital-Product-Development-Internship---Summer-2026_R27027",
+        "locations": [
+            "Wayzata, MN",
+            "South Yankton, NE",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/8c8aedb9-7273-4dee-9f66-0b575d5c1da1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]

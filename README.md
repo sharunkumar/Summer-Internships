@@ -194,7 +194,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Campus Software Engineer – Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">London, UK</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=6946008&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d2b759b7-e0f7-48ec-9dc9-1ae840067950?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">21d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">22d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Penn-State?utm_source=GHList&utm_medium=company">PennState University</a></strong></td>
@@ -2059,7 +2059,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Campus FPGA Engineer – Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">London, UK</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=6959800&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/14b8c2af-a3a6-4902-bcf1-68dd3e6aad38?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">21d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">22d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Komatsu</strong></td>
@@ -2198,7 +2198,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Cloud Media Services Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Palo Alto, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R105781?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">23d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">24d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Allium?utm_source=GHList&utm_medium=company">Allium</a></strong></td>
