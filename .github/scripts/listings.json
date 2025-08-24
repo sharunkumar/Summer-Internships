@@ -232983,7 +232983,7 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "Northrop Grumman",
         "id": "6d42c839-2b71-4070-928a-d5d0b3de0ce7",
         "title": "Intern Software Engineer",
@@ -232991,7 +232991,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755907785,
+        "date_updated": 1756048149,
         "date_posted": 1755907785,
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Intern-Software-Engineer_R10204604",
         "locations": [
@@ -232999,10 +232999,9 @@
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
-        "sponsorship": "Other",
+        "sponsorship": "U.S. Citizenship is Required",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -233291,5 +233290,28 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1756048129,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Enterprise-Quality-Management-Summer-Intern_REQ-4364?source=Linkedin",
+        "company_name": "OCC",
+        "title": "Enterprise Quality Management Summer Intern",
+        "locations": [
+            "Chicago , IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "Ronitsabhaya75",
+        "id": "07b0f5e7-99c8-4570-a141-ed3bf673ae1b",
+        "date_posted": 1756048129,
+        "company_url": "",
+        "is_visible": true
     }
 ]
