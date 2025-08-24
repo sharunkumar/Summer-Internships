@@ -228387,7 +228387,7 @@
         "company_name": "Walmart",
         "id": "b54bfe56-45a4-47c1-a2d5-3c9309bf0c06",
         "title": "2025 Intern Conversion: 2026 FT Data Scientist III",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -232255,7 +232255,7 @@
         "company_name": "Bright Machines",
         "id": "e280d30f-8693-4b2e-83e2-80194e05b74d",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
