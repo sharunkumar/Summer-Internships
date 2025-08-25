@@ -201345,7 +201345,7 @@
         "company_name": "Lendbuzz",
         "id": "980fbaf2-ceb5-4abd-9aa8-40665ba0bf28",
         "title": "Co-op \u2013 Machine Learning Engineer - Portuguese / Spanish",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -205184,7 +205184,7 @@
         "company_name": "Lactalis",
         "id": "29d95b44-7fe1-4b45-a48f-6035bb8f33c3",
         "title": "Digital Assets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -207606,7 +207606,7 @@
         "company_name": "PNC Financial Services",
         "id": "47709a7c-a287-47c5-9780-ffedf6e22fc1",
         "title": "Technology Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -209046,7 +209046,7 @@
         "company_name": "Otis",
         "id": "0dde2b0d-74e5-4394-8832-154407fa73ed",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215816,7 +215816,7 @@
         "company_name": "Draper",
         "id": "03401322-87dd-48d6-811c-4baf37dd0a2e",
         "title": "Data Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218656,7 +218656,7 @@
         "company_name": "Walmart",
         "id": "71d5d70e-4167-4edf-a9dd-a03a39d4ca03",
         "title": "2025 Intern Conversion: 2026 FT Software Engineer II",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -221988,7 +221988,7 @@
         "company_name": "Continental",
         "id": "aa82a930-7858-4500-ab0e-5518a5dee123",
         "title": "Intern \u2013 IT Operations - Year-Round",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -228437,7 +228437,7 @@
         "company_name": "Walmart",
         "id": "b54bfe56-45a4-47c1-a2d5-3c9309bf0c06",
         "title": "2025 Intern Conversion: 2026 FT Data Scientist III",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -232662,7 +232662,7 @@
         "company_name": "Nokia",
         "id": "118b1aad-617d-4aec-8587-55a7af626c2a",
         "title": "Deepfield Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -234085,5 +234085,415 @@
         "date_posted": 1756114144,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "e97c9c58-1516-48e1-8212-0d15f8082628",
+        "title": "Software Engineer Spring 2026 Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1756134456,
+        "date_posted": 1756134456,
+        "url": "https://jobs.l3harris.com/job/Greenville-Software-Engineer-Spring-2026-Intern-(Greenville,-TX)-TX-75402/1319759400/?ats=successfactors",
+        "locations": [
+            "Greenville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Arrowstreet Capital",
+        "id": "a2c236a0-e8fa-4b7c-9b43-f10356184549",
+        "title": "Quantitative Researcher Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756136521,
+        "date_posted": 1756136521,
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2026_R1340-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Markel Group, Inc.",
+        "id": "41b39b9b-800e-4d3c-8c0d-8adbbd236eb3",
+        "title": "IT Internship Program",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756136442,
+        "date_posted": 1756136442,
+        "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/XMLNAME-2026-IT-Internship-Program_R0021409",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Markel-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Arrowstreet Capital",
+        "id": "22e7c000-9052-433e-9baa-a490abf5fe73",
+        "title": "Quantitative Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756136525,
+        "date_posted": 1756136525,
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer-Intern--Summer-2026_R1338-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "date_updated": 1756137558,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.google.com/about/careers/applications/jobs/results/75808725415142086-software-engineering-intern-bs-summer-2026",
+        "company_name": "Google",
+        "title": "Software Engineering Intern, BS",
+        "locations": [
+            "Mountain View, CA",
+            "Atlanta, GA",
+            "Austin, TX",
+            "Boulder, CO",
+            "Cambridge, MA",
+            "Bellevue, WA",
+            "Chicago, IL",
+            "Irvine, CA",
+            "Kirkland, WA",
+            "Los Angeles, CA",
+            "Madison, WI",
+            "New York, NY",
+            "Palo Alto, CA",
+            "Portland, OR",
+            "Pittsburgh, PA",
+            "Raleigh, NC",
+            "Durham, NC",
+            "Reston, VA",
+            "Redmond, WA",
+            "Redwood City, CA",
+            "San Diego, CA",
+            "Goleta, CA",
+            "San Bruno, CA",
+            "Seattle, WA",
+            "San Francisco, CA",
+            "San Jose, CA",
+            "Santa Cruz, CA",
+            "South San Francisco, CA",
+            "Sunnyvale, CA",
+            "Washington D.C., DC"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "Simplify",
+        "id": "46a8b488-31c2-455c-b48d-e8f23f8b0e67",
+        "date_posted": 1756137558,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State Street",
+        "id": "763e90ca-f42e-40b1-868a-471f9d15be99",
+        "title": "Audit Data Analyst Internship - Part Time",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756137886,
+        "date_posted": 1756137886,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/global/job/Boston-Massachusetts/Audit-Data-Analyst-Internship---Part-Time_R-777176",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/b1ace7d2-f176-42c0-aae7-5a77e601e7ff",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LPL Financial Holdings",
+        "id": "e2fa42af-3aa1-4293-bee7-abd916607158",
+        "title": "FAR Program Internship - Internal Audit-Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756137675,
+        "date_posted": 1756137675,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/Fort-MillCharlotte/FAR-Program--Summer-2026-Internship---Internal-Audit--Data-Analytics--DA-_R-045692-2",
+        "locations": [
+            "Fort Mill, SC",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LPL Financial Holdings",
+        "id": "7ffb801b-bfa4-469e-b5b3-a20c384d5f15",
+        "title": "FAR Program: Internship - Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756137673,
+        "date_posted": 1756137673,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/FAR-Program--Summer-2026-Internship---Data-Analytics_R-045030-2",
+        "locations": [
+            "Fort Mill, SC",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "LPL Financial Holdings",
+        "id": "5332eca4-7a1f-4e49-ac7d-f3249b4ee54e",
+        "title": "FAR Program: Summer 2026 Internship - Internal Audit-Information Technology - IT",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756137680,
+        "date_posted": 1756137680,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/Fort-MillCharlotte/FAR-Program--Summer-2026-Internship---Internal-Audit--Information-Technology--IT-_R-045695-1",
+        "locations": [
+            "Fort Mill, SC",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Federal Reserve System",
+        "id": "8dce2a3e-1794-4397-9615-0cd7fd341c0d",
+        "title": "Technical Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756140381,
+        "date_posted": 1756140381,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2026-Technical-Internship_R-0000030022",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "204eb4f0-7cf2-4da5-872c-e0cfb6f8b2cb",
+        "title": "Digital Assurance & Transparency \u2013 Data Intern - Dat",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756140062,
+        "date_posted": 1756140062,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Digital-Assurance---Transparency--DAT--Data-Intern---Summer-2026_555212WD",
+        "locations": [
+            "Boston, MA",
+            "SF",
+            "LA",
+            "Dallas, TX",
+            "Norridge, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eos Energy Storage",
+        "id": "e6897854-bdc0-4430-8c5b-7e1dd53df405",
+        "title": "Summer Internship Program 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756141179,
+        "date_posted": 1756141179,
+        "url": "https://eosenergystorage.wd1.myworkdayjobs.com/eos/job/PA-Turtle-Creek/Summer-Internship-Program-2026_R4381",
+        "locations": [
+            "Monroeville, PA",
+            "Edison, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Eos-Energy-Storage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zip",
+        "id": "cd7462f0-57f5-450f-95bc-e239f9bb31d5",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756140762,
+        "date_posted": 1756140762,
+        "url": "https://jobs.ashbyhq.com/zip/83c0a4d8-7a88-4921-be8e-347ba3f3bedd/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zip",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "8a5bbad0-a015-40f8-8b1d-96c051cf214f",
+        "title": "Embedded Software Developer Co-op 1",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756140550,
+        "date_posted": 1756140550,
+        "url": "https://jobs.l3harris.com/job/Waterdown-Embedded-Software-Developer-Co-op-1-ON-L9H-0C5/1319814300/?ats=successfactors",
+        "locations": [
+            "Hamilton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "94026152-6958-481a-8353-37159d46d766",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756143277,
+        "date_posted": 1756143277,
+        "url": "https://jobs.l3harris.com/job/Rochester-Software-Engineering-Internship-(Rochester,-NY)-NY-14610/1319851900/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Elf Beauty",
+        "id": "c7dc52e3-0844-49d8-9a0f-02d24980d0f2",
+        "title": "Intern \u2013 Product Development",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756143179,
+        "date_posted": 1756143179,
+        "url": "https://jobs.lever.co/elfbeauty/3261e545-0f4f-4775-b99f-1d3eaa1cb44c/apply",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Elf-Beauty",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
