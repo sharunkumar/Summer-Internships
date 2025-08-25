@@ -222618,7 +222618,7 @@
         "company_name": "TikTok",
         "id": "9eb66d1e-57ff-4f8d-861c-99bbe32e21ba",
         "title": "Product Manager Intern - Tiktok-Product-Social and Creation - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -222738,7 +222738,7 @@
         "company_name": "TikTok",
         "id": "99fec3ca-a3bd-49b8-b1ff-a2e5cc357b75",
         "title": "Product Manager Intern - Tiktok-Product-Content Ecosystem - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -222834,7 +222834,7 @@
         "company_name": "TikTok",
         "id": "d033966d-16f0-432a-961b-17b6e02f9944",
         "title": "Product Manager Intern - Tiktok-Product-Social and Creation - 2025 Fall Starts - MBA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -224032,7 +224032,7 @@
         "company_name": "TikTok",
         "id": "6462db98-c5ac-42f9-bb80-68e0b54f46de",
         "title": "Product Manager Intern - Tiktok-Product-Content Ecosystem - Fall Starts - MBA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -232987,7 +232987,7 @@
         "company_name": "Northrop Grumman",
         "id": "6d42c839-2b71-4070-928a-d5d0b3de0ce7",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -233313,5 +233313,29 @@
         "date_posted": 1756048129,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "df0d29e3-c6f3-49d6-96ec-eb7ff567d037",
+        "title": "Global Monetization Strategy and Analytics Intern - Mso - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756090671,
+        "date_posted": 1756090671,
+        "url": "https://jobs.bytedance.com/en/position/7533673691735361799/detail",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
