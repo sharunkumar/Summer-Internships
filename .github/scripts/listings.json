@@ -221661,7 +221661,7 @@
         "company_name": "Meta",
         "id": "63c2dba9-dfdb-4cbe-b33a-74cb419ed766",
         "title": "Research Scientist Intern - Computational Optics & Optimization - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -222053,7 +222053,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "9e2be13c-a5bc-4b19-8c3a-5151e2c71f10",
         "title": "Scitls Coop/Dr Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
