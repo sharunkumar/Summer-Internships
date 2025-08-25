@@ -202071,10 +202071,10 @@
         ]
     },
     {
-        "date_updated": 1751938726,
+        "date_updated": 1756117742,
         "url": "https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6",
         "locations": [
-            "New York"
+            "New York, NY"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -202087,13 +202087,16 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
-        "date_updated": 1751938726,
+        "date_updated": 1756117687,
         "url": "https://jobs.ashbyhq.com/n1/b531e33f-d1c2-4892-b6b7-13ce22569578",
         "locations": [
-            "New York"
+            "New York, NY"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -202106,6 +202109,9 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -203632,15 +203638,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1752191638,
+        "date_updated": 1756119334,
         "date_posted": 1752191638,
         "url": "https://www.tower-research.com/open-positions/?gh_jid=7062358",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -203939,15 +203948,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1752285798,
+        "date_updated": 1756117646,
         "date_posted": 1752285798,
         "url": "https://www.tower-research.com/open-positions/?gh_jid=6790327",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -204105,7 +204117,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "598fd8eb-41e5-46a3-8c9c-754ae20faa07",
         "title": "2026 Summer Corporate Intern - Digital and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -205769,15 +205781,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1753118206,
+        "date_updated": 1756119298,
         "date_posted": 1753118206,
         "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565272006",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Walleye-Capital",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -206217,15 +206232,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754507809,
+        "date_updated": 1756118380,
         "date_posted": 1753418703,
         "url": "https://jobs.ashbyhq.com/chainlink-labs/203f6551-100f-42a5-90a6-3bb29e58a9f6/application",
         "locations": [
-            "Remote in the USA"
+            "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Chainlink-Labs",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -206704,17 +206722,20 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1753324262,
+        "date_updated": 1756119280,
         "date_posted": 1753324262,
         "url": "https://job-boards.greenhouse.io/virtu/jobs/7848562002",
         "locations": [
             "Austin, TX",
             "Chicago, IL",
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Virtu-Financial",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -206934,15 +206955,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1753745521,
+        "date_updated": 1756119390,
         "date_posted": 1753745521,
         "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6998811",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -207159,17 +207183,20 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1753754633,
+        "date_updated": 1756118432,
         "date_posted": 1753754633,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2026-_R1103",
         "locations": [
             "Houston, TX",
             "Stamford, CT",
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -207698,12 +207725,12 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1753885793,
+        "date_updated": 1756119250,
         "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853",
         "company_name": "Squarepoint",
         "title": "Intern Quant Researcher",
         "locations": [
-            "New York"
+            "New York, NY"
         ],
         "terms": [
             "Summer 2026",
@@ -207719,7 +207746,10 @@
         "id": "90b18f30-a2fb-4d61-9c01-ebce10eeca83",
         "date_posted": 1753885793,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1753886304,
@@ -209246,15 +209276,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754086268,
+        "date_updated": 1756119222,
         "date_posted": 1754086268,
         "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589597005",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/DV-Trading",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -209909,15 +209942,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754348643,
+        "date_updated": 1756119161,
         "date_posted": 1754348643,
         "url": "https://altruist.com/join-altruist/5601805004?gh_jid=5601805004",
         "locations": [
-            "LA"
+            "Los Angeles, CA"
         ],
         "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -209929,15 +209965,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754348643,
+        "date_updated": 1756119192,
         "date_posted": 1754348643,
         "url": "https://altruist.com/join-altruist/5601829004?gh_jid=5601829004",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1754754902,
@@ -210391,16 +210430,19 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754431449,
+        "date_updated": 1756118698,
         "date_posted": 1754431449,
         "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4593772005",
         "locations": [
             "Chicago, IL",
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -212452,16 +212494,19 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754606442,
+        "date_updated": 1756118721,
         "date_posted": 1754606442,
         "url": "https://jobs.ashbyhq.com/ramp/8c155b55-3e7e-48a8-ac98-f988a2b6f4da/application",
         "locations": [
-            "SF",
-            "NYC"
+            "San Francisco, CA",
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Ramp",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -212657,15 +212702,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754618266,
+        "date_updated": 1756119207,
         "date_posted": 1754618266,
         "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7063975",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -217814,15 +217862,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755300805,
+        "date_updated": 1756119102,
         "date_posted": 1755300805,
         "url": "https://job-boards.greenhouse.io/flowtraders/jobs/7166435",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Flow-Traders",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -218605,7 +218656,7 @@
         "company_name": "Walmart",
         "id": "71d5d70e-4167-4edf-a9dd-a03a39d4ca03",
         "title": "2025 Intern Conversion: 2026 FT Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -219013,16 +219064,19 @@
             "Winter 2026",
             "Summer 2026"
         ],
-        "date_updated": 1755566558,
+        "date_updated": 1756118614,
         "date_posted": 1755566558,
         "url": "https://www.shopify.com/careers/data-internships-2026-usa_661cbf62-51e6-49d9-815e-3d4fa31803e5",
         "locations": [
-            "NYC",
+            "New York, NY",
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/Shopify",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -219180,15 +219234,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755572162,
+        "date_updated": 1756117622,
         "date_posted": 1755572162,
         "url": "https://aexp.eightfold.ai/careers/job/30702556",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -219823,18 +219880,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755572166,
+        "date_updated": 1756118795,
         "date_posted": 1755572166,
         "url": "https://aexp.eightfold.ai/careers/job/30702558",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "MBA"
+            "Bachelor's"
         ]
     },
     {
@@ -220277,18 +220333,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755303676,
+        "date_updated": 1756118335,
         "date_posted": 1755303676,
         "url": "https://lifeattiktok.com/search/7532876733516040455",
         "locations": [
-            "LA"
+            "Los Angeles, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -220496,11 +220551,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755313814,
+        "date_updated": 1756117792,
         "date_posted": 1755313814,
         "url": "https://aexp.eightfold.ai/careers/job/30749813",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
@@ -220787,24 +220842,23 @@
             "Summer 2026",
             "Fall 2026"
         ],
-        "date_updated": 1755299289,
+        "date_updated": 1756118589,
         "date_posted": 1755299289,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493",
         "locations": [
             "Seattle, WA",
-            "SF",
+            "San Francisco, CA",
             "Austin, TX",
             "San Jose, CA",
             "Waltham, MA",
-            "NYC",
+            "New York, NY",
             "Lehi, UT"
         ],
         "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -221589,20 +221643,20 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755121600,
+        "date_updated": 1756118554,
         "date_posted": 1755121600,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2026_R218606-1",
         "locations": [
             "Cambridge, MA",
             "San Jose, CA",
             "McLean, VA",
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -221737,24 +221791,24 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755062545,
+        "date_updated": 1756118508,
         "date_posted": 1755062545,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2026_R218625-1",
         "locations": [
             "Cambridge, MA",
-            "SF",
+            "San Francisco, CA",
             "San Jose, CA",
             "Plano, TX",
             "McLean, VA",
             "Richmond, VA",
             "Chicago, IL",
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -221767,11 +221821,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755062464,
+        "date_updated": 1756118881,
         "date_posted": 1755062464,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Product-Growth_JR307642-1",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Salesforce",
         "is_visible": true,
@@ -221814,25 +221868,24 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755047939,
+        "date_updated": 1756118478,
         "date_posted": 1755047939,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2026_R218620-1",
         "locations": [
             "Cambridge, MA",
-            "SF",
+            "San Francisco, CA",
             "San Jose, CA",
             "Plano, TX",
             "McLean, VA",
             "Richmond, VA",
             "Chicago, IL",
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "MBA"
+            "Bachelor's"
         ]
     },
     {
@@ -222221,11 +222274,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754705086,
+        "date_updated": 1756118684,
         "date_posted": 1754705086,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6883068002",
         "locations": [
-            "SF",
+            "San Francisco, CA",
             "Bellevue, WA",
             "Mountain View, CA"
         ],
@@ -223168,17 +223221,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754618271,
+        "date_updated": 1756119128,
         "date_posted": 1754618271,
         "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7142685",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -224694,19 +224747,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754364178,
+        "date_updated": 1756118448,
         "date_posted": 1754364178,
         "url": "https://altruist.com/join-altruist/5601855004?gh_jid=5601855004",
         "locations": [
-            "SF",
+            "San Francisco, CA",
             "Culver City, CA"
         ],
         "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -224719,19 +224771,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754364180,
+        "date_updated": 1756118648,
         "date_posted": 1754364180,
         "url": "https://altruist.com/join-altruist/5601854004?gh_jid=5601854004",
         "locations": [
-            "SF",
+            "San Francisco, CA",
             "Culver City, CA"
         ],
         "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -224792,11 +224843,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754348637,
+        "date_updated": 1756118272,
         "date_posted": 1754348637,
         "url": "https://altruist.com/join-altruist/5601755004?gh_jid=5601755004",
         "locations": [
-            "LA"
+            "Los Angeles, CA"
         ],
         "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
         "is_visible": true,
@@ -224815,11 +224866,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754348637,
+        "date_updated": 1756118920,
         "date_posted": 1754348637,
         "url": "https://altruist.com/join-altruist/5601875004?gh_jid=5601875004",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
         "is_visible": true,
@@ -225817,19 +225868,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755344283,
+        "date_updated": 1756118667,
         "date_posted": 1752887787,
         "url": "https://ats.rippling.com/rippling/jobs/640fcf7b-a12b-4b34-8a6b-633b40453fe0",
         "locations": [
-            "SF",
-            "NYC"
+            "San Francisco, CA",
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Rippling",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "MBA"
+            "Bachelor's"
         ]
     },
     {
@@ -226743,17 +226793,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1749721202,
+        "date_updated": 1756118400,
         "date_posted": 1749541677,
         "url": "https://jobs.lever.co/scanlinevfx/85f377ad-a38e-48f5-8a04-0a53ba584064/apply",
         "locations": [
-            "LA"
+            "Los Angeles, CA"
         ],
         "company_url": "https://simplify.jobs/c/Scanline-VFX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -229925,14 +229975,14 @@
             "Fall 2025",
             "Summer 2026"
         ],
-        "date_updated": 1755783212,
+        "date_updated": 1756117599,
         "date_posted": 1755741301,
         "url": "https://jobs.cisco.com/jobs/ProjectDetail/Data-Analyst-I-Intern-United-States/1449162",
         "locations": [
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -230969,11 +231019,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755943535,
+        "date_updated": 1756119081,
         "date_posted": 1755820615,
         "url": "https://job-boards.greenhouse.io/engineersgate/jobs/7182973",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/EngineersGate",
         "is_visible": true,
@@ -231064,14 +231114,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755941363,
+        "date_updated": 1756117585,
         "date_posted": 1755822675,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--2025-Intern-Conversion--2026-Corporate-Intern-Software-Engineer-II---Sunnyvale--CA_R-2273398",
         "locations": [
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -231156,11 +231206,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755823332,
+        "date_updated": 1756117776,
         "date_posted": 1755823332,
         "url": "https://aexp.eightfold.ai/careers/job/30790235",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
@@ -232077,9 +232127,9 @@
         ]
     },
     {
-        "date_updated": 1755890647,
+        "date_updated": 1756117568,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -232097,7 +232147,7 @@
         "id": "4ad3092f-6113-41d8-8b4e-a71658d913e7",
         "date_posted": 1755890647,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755890805,
@@ -232352,18 +232402,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755900428,
+        "date_updated": 1756119058,
         "date_posted": 1755900428,
         "url": "https://careers-gtsx.icims.com/jobs/1562/job",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/GTS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -233060,11 +233109,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755909708,
+        "date_updated": 1756117759,
         "date_posted": 1755909708,
         "url": "https://aexp.eightfold.ai/careers/job/30873716",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
@@ -233324,18 +233373,717 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756090671,
+        "date_updated": 1756118990,
         "date_posted": 1756090671,
         "url": "https://jobs.bytedance.com/en/position/7533673691735361799/detail",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "fae3ac45-3929-4b91-b778-ac0866ea8b29",
+        "title": "Technology Fall Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1756104407,
+        "date_posted": 1756104407,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/US174-NJ-New-Brunswick---410-George-St/Technology-2026-Fall-Co-Op_R-029591",
+        "locations": [
+            "New Hope, PA",
+            "West Chester, PA",
+            "Bridgewater Township, NJ",
+            "Horsham, PA",
+            "Irvine, CA",
+            "Santa Clara, CA",
+            "Edison, NJ",
+            "Ambler, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "c8b989a3-4021-4c2b-9251-971f46e60e4f",
+        "title": "Technology Co-Op",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1756104408,
+        "date_posted": 1756104408,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2026-Spring-Co-Op_R-029603",
+        "locations": [
+            "New Hope, PA",
+            "West Chester, PA",
+            "Bridgewater Township, NJ",
+            "Horsham, PA",
+            "Irvine, CA",
+            "Santa Clara, CA",
+            "Edison, NJ",
+            "Ambler, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "71e87491-1545-4f98-bfca-5c4330d53e09",
+        "title": "Technology 2026 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756104409,
+        "date_posted": 1756104409,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2026-Summer-Internship_R-029613",
+        "locations": [
+            "New Hope, PA",
+            "West Chester, PA",
+            "Bridgewater Township, NJ",
+            "Horsham, PA",
+            "Irvine, CA",
+            "Santa Clara, CA",
+            "Edison, NJ",
+            "Ambler, PA",
+            "Jacksonville, FL",
+            "Palm Beach Gardens, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "c3ea53dc-beee-4386-9065-290eecc30c86",
+        "title": "Cybersecurity Consulting Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756105433,
+        "date_posted": 1756105433,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cybersecurity-Consulting-Intern---Summer-2026_658983WD",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Houston, TX",
+            "Washington, DC",
+            "SF",
+            "LA",
+            "Dallas, TX",
+            "Philadelphia, PA",
+            "Chicago, IL",
+            "Norridge, IL",
+            "NYC",
+            "Minneapolis, MN",
+            "Mountain View, CA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "1ef4b751-e996-4bbc-8671-afb7e3781026",
+        "title": "Deals \u2013 Technology and Data Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756105437,
+        "date_posted": 1756105437,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Deals---Technology-and-Data-Solutions-Intern---Summer-2026_658670WD",
+        "locations": [
+            "Washington, DC",
+            "SF",
+            "Norridge, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "1187e0ac-9ebe-4c67-84c4-c08208f0fab0",
+        "title": "Commercial Technology & Innovation Office \u2013 AI Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756105433,
+        "date_posted": 1756105433,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Commercial-Technology---Innovation-Office---AI-Data-Science-Intern---Summer-2026_659028WD",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Houston, TX",
+            "Washington, DC",
+            "Dallas, TX",
+            "Philadelphia, PA",
+            "Chicago, IL",
+            "Norridge, IL",
+            "NYC",
+            "Minneapolis, MN",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qorvo",
+        "id": "a9832475-137f-4a9a-9c51-391e5ac7f213",
+        "title": "Product Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756104730,
+        "date_posted": 1756104730,
+        "url": "https://careers.qorvo.com/job/Hillsboro-Product-Engineering-Intern-OR-97124/1319685000/?ats=successfactors",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Qorvo",
+        "id": "9119c904-fd06-4fbb-9fdc-bc478329eb4c",
+        "title": "Portfolio Management Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756104736,
+        "date_posted": 1756104736,
+        "url": "https://careers.qorvo.com/job/Greensboro-Portfolio-Management-Intern-NC-27409/1319684100/?ats=successfactors",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Walt Disney Company",
+        "id": "be416f56-071c-4b52-a199-6bd031ce6736",
+        "title": "WDW Computer Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1756104631,
+        "date_posted": 1756104631,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Engineering-Intern-Spring-2026_10128688",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "380658dc-9e3f-41de-8be6-a66121b41cb5",
+        "title": "Financial Crimes Unit Data & Analytics Tech Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756118959,
+        "date_posted": 1756106354,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Financial-Crimes-Unit-Data---Analytics-Tech-Intern---Summer-2026_658969WD",
+        "locations": [
+            "Norridge, IL",
+            "New York, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "54adf01a-c62e-40d5-b5ac-122f19ae59b0",
+        "title": "Cloud Engineering \u2013 Data Science Intern - Data & Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756107209,
+        "date_posted": 1756107209,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cloud-Engineering--Data---Analytics----Data-Science-Intern---Summer-2026_658436WD",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Houston, TX",
+            "Washington, DC",
+            "SF",
+            "LA",
+            "Dallas, TX",
+            "Philadelphia, PA",
+            "Chicago, IL",
+            "Norridge, IL",
+            "NYC",
+            "Minneapolis, MN",
+            "Mountain View, CA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "9e0ee1f7-506f-4b51-8418-7d6bc9f30ac5",
+        "title": "Deals \u2013 Diligence Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756106864,
+        "date_posted": 1756106864,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Deals---Diligence-Analytics-Intern---Summer-2026_658678WD",
+        "locations": [
+            "SF",
+            "Norridge, IL",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Williams",
+        "id": "c1c95394-2ca9-49de-8956-bf506175eef6",
+        "title": "Summer 2026 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756106675,
+        "date_posted": 1756106675,
+        "url": "https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2026-Internship---University-of-Oklahoma_R110758",
+        "locations": [
+            "Salt Lake City, UT",
+            "Houston, TX",
+            "Pittsburgh, PA",
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Williams",
+        "id": "be91cc94-ecfe-4d92-8cd9-d4f8b00b15d3",
+        "title": "Summer 2026 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756106673,
+        "date_posted": 1756106673,
+        "url": "https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2026-Internship---University-of-Tulsa_R110759",
+        "locations": [
+            "Salt Lake City, UT",
+            "Houston, TX",
+            "Pittsburgh, PA",
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "babf9eea-59bd-4e8b-83f5-6d39483cd42d",
+        "title": "Data & Analytics Technology Consulting Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756107568,
+        "date_posted": 1756107568,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Data---Analytics-Technology-Consulting-Intern---Summer-2026_658980WD",
+        "locations": [
+            "Boston, MA",
+            "Washington, DC",
+            "Chicago, IL",
+            "Norridge, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "87600012-fe9b-444d-be93-06426be1b725",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756107515,
+        "date_posted": 1756107515,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Software-Engineering-Intern_1193025",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "975e8623-3425-43a6-b9e9-d45f0e267245",
+        "title": "Commercial Technology & Innovation Office \u2013 Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756107392,
+        "date_posted": 1756107392,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Commercial-Technology---Innovation-Office---Software-Engineering-Intern---Summer-2026_659026WD",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Houston, TX",
+            "Washington, DC",
+            "Dallas, TX",
+            "Philadelphia, PA",
+            "Chicago, IL",
+            "Norridge, IL",
+            "NYC",
+            "Minneapolis, MN",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1756111635,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2026_R56900",
+        "company_name": "Motorola Solutions",
+        "title": "Supply Chain Data Analyst Internship",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "f14d6fc0-ec6c-40ab-9998-dd4c4970c0b3",
+        "date_posted": 1756111635,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756111885,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Suwanee-GA/Summer-2026--Enterprise-Applications-Intern_R2025-0973",
+        "company_name": "QTS",
+        "title": "Enterprise Applications Intern",
+        "locations": [
+            "Suwanee, GA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "e3fc4320-562c-40a0-a251-2158620c682f",
+        "date_posted": 1756111846,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756111965,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Atlanta-GA/Summer-2026-Development-Project-Intern_R2025-0951",
+        "company_name": "QTS",
+        "title": "Development Project Intern",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "b2719784-85b4-4670-8778-6df32f8f103b",
+        "date_posted": 1756111965,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756112164,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Summer-2026-Internship--IT-Asset-Management_R2025-0980",
+        "company_name": "QTS",
+        "title": "IT Asset Management",
+        "locations": [
+            "Suwanee, GA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "268d220f-5826-4389-bc04-738dcd8e743c",
+        "date_posted": 1756112164,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756112273,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Summer-2026-Internship--Technology-Project-Management_R2025-0981-1",
+        "company_name": "QTS",
+        "title": "Technology Project Management",
+        "locations": [
+            "Suwanee, GA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "6d061905-d565-42a8-8f7f-20e21be092d2",
+        "date_posted": 1756112273,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756112433,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.eu.lever.co/cirrus/61217b55-e2f9-410d-8758-4847fbf80720",
+        "company_name": "Cirrus Logic",
+        "title": "Software Tools Developer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "e34a2c74-63a5-4d4e-a109-1992e42bfbea",
+        "date_posted": 1756112433,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756113973,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.tesla.com/careers/search/job/248805",
+        "company_name": "Tesla",
+        "title": "Commercial UI Software Engineer, Energy Engineering",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f52291a1-98fd-4a87-838d-74f8200e857f",
+        "date_posted": 1756113973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756114044,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.tesla.com/careers/search/job/248920",
+        "company_name": "Tesla",
+        "title": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/5677",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "e234c95d-5eec-4042-a20e-79da80592a12",
+        "date_posted": 1756114044,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756114144,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/zip/83c0a4d8-7a88-4921-be8e-347ba3f3bedd",
+        "company_name": "Zip",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "aceec36b-e052-461c-a4de-be76d84735c8",
+        "date_posted": 1756114144,
+        "company_url": "",
+        "is_visible": true
     }
 ]
