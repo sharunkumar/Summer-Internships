@@ -207047,15 +207047,18 @@
             "Spring 2026",
             "Summer 2026"
         ],
-        "date_updated": 1753754670,
+        "date_updated": 1756213782,
         "date_posted": 1753754670,
         "url": "https://jobs.lever.co/Arcade/1c849dd0-e3b5-4f73-bb56-1dc159ec6820/apply",
         "locations": [
-            "South Bay, SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Arcade-AI",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -228685,7 +228688,7 @@
         "company_name": "Truist",
         "id": "ea19b811-d38b-4e17-a2fe-5ae97da9a10b",
         "title": "2026 Technology and Innovation Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -230081,14 +230084,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755864113,
+        "date_updated": 1756214622,
         "date_posted": 1755744517,
         "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/jobs/job/7692",
         "locations": [
             "St. John's, NL, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Standard-Aero",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -230412,7 +230415,7 @@
         "company_name": "Geico",
         "id": "26ec5f43-a839-4a3e-9c83-a0a4a06a298d",
         "title": "Technology Development Program - AI Engineer Development track - Tdp-AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231308,14 +231311,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755942075,
+        "date_updated": 1756214102,
         "date_posted": 1755823944,
         "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Remote---USA/Data-Scientist-Intern_J2424986",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -236103,5 +236106,28 @@
         "date_posted": 1756211812,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "AcreTrader",
+        "id": "f3634b2e-affe-4e41-b4be-489ee679bb13",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756213228,
+        "date_posted": 1755569178,
+        "url": "https://ats.rippling.com/acretrader-jobs/jobs/eaa92dd2-bad2-485a-827a-d3ad8cb4630a",
+        "locations": [
+            "Fayetteville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/AcreTrader",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
