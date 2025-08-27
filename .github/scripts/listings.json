@@ -207457,7 +207457,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "1b55e4c6-d1d8-4f1d-afbc-52357b131ae9",
         "title": "Software Developer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -209554,7 +209554,7 @@
         "company_name": "Contoro",
         "id": "4242a2c5-0ba9-4566-9b73-c66efc1770ad",
         "title": "Software Engineer Intern - Cloud Platform and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -215981,7 +215981,7 @@
         "company_name": "Option Care Health",
         "id": "c3f94ab2-28aa-4a1c-8ebe-bd4791af45bc",
         "title": "Business Intelligence \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -219450,7 +219450,7 @@
         "company_name": "Salesforce",
         "id": "0001fa98-99f4-49f7-b16e-23981a73574f",
         "title": "Fall 2025 Intern - Strategic Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -222120,7 +222120,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "9e2be13c-a5bc-4b19-8c3a-5151e2c71f10",
         "title": "Scitls Coop/Dr Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -235400,9 +235400,9 @@
         "title": "Application Developer Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756167194,
+        "date_updated": 1756301260,
         "date_posted": 1756167194,
         "url": "https://jobs.l3harris.com/job/Melbourne-Application-Developer-Intern-(Melbourne,-FL)-FL-32919/1320080300/?ats=successfactors",
         "locations": [
@@ -236138,9 +236138,9 @@
         "title": "Data Analytics Internship",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756219976,
+        "date_updated": 1756301725,
         "date_posted": 1756219976,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Data-Analytics-Internship_R5018345-2",
         "locations": [
@@ -236150,7 +236150,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -236308,9 +236308,9 @@
         "title": "Intern \u2013 ET Data Systems Analyst",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756246254,
+        "date_updated": 1756301682,
         "date_posted": 1756246254,
         "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Data-Systems-Analyst-VA-23060/1320230400/?ats=successfactors",
         "locations": [
@@ -236519,9 +236519,9 @@
         "title": "Machine Learning Internship",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756248181,
+        "date_updated": 1756301351,
         "date_posted": 1756248181,
         "url": "https://careers-sig.icims.com/jobs/9529/job",
         "locations": [
@@ -236531,7 +236531,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -236565,9 +236565,9 @@
         "title": "Machine Learning Internship",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756248180,
+        "date_updated": 1756301389,
         "date_posted": 1756248180,
         "url": "https://careers-sig.icims.com/jobs/9400/job",
         "locations": [
@@ -236577,7 +236577,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -236775,9 +236775,9 @@
         "title": "Device Engineering Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756248018,
+        "date_updated": 1756302237,
         "date_posted": 1756248018,
         "url": "https://careers.qorvo.com/job/Richardson-Device-Engineering-Intern-TX-75081/1320412100/?ats=successfactors",
         "locations": [
@@ -236787,9 +236787,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -236825,9 +236823,9 @@
         "title": "Database Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756248016,
+        "date_updated": 1756301574,
         "date_posted": 1756248016,
         "url": "https://careers.qorvo.com/job/Apopka-Database-Intern-FL-32703/1320409200/?ats=successfactors",
         "locations": [
@@ -236837,9 +236835,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -237226,9 +237222,9 @@
         "title": "AI Fluency Co-op",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756251954,
+        "date_updated": 1756301207,
         "date_posted": 1756251954,
         "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---AIR-GROUP-BUILDING-KYARP/AI-Fluency-Co-op_R25028843",
         "locations": [
@@ -237275,9 +237271,9 @@
         "title": "Software Engineering Intern Level D",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756252002,
+        "date_updated": 1756302075,
         "date_posted": 1756252002,
         "url": "https://jobs.l3harris.com/job/Sunrise-Software-Engineering-Intern-Level-D-(Sunrise,-FL)-FL-33323/1320434700/?ats=successfactors",
         "locations": [
@@ -237298,9 +237294,9 @@
         "title": "Part-time Business Information Technology Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756251696,
+        "date_updated": 1756302283,
         "date_posted": 1756251696,
         "url": "https://careers-peraton.icims.com/jobs/159198/job",
         "locations": [
@@ -237469,7 +237465,7 @@
         "company_name": "Hormel Foods",
         "id": "ca2d1674-71a6-4720-8128-037d52dfb4be",
         "title": "Hormel Foods \u2013 IT Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -238367,6 +238363,770 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "date_updated": 1756303141,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.janestreet.com/join-jane-street/position/8069279002/",
+        "company_name": "Jane Street",
+        "title": "Cybersecurity Analyst Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "XaJason",
+        "id": "616577bd-b756-4c8f-92e9-85ec46c6ee7a",
+        "date_posted": 1756303141,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756303207,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw",
+        "company_name": "Microsoft",
+        "title": "Data Engineer Intern",
+        "locations": [
+            "Redmond, Washington"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "XaJason",
+        "id": "ccbac61c-62e4-4387-9467-1479a883e075",
+        "date_posted": 1756303207,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756303281,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/abridge/5a73a97b-d2c4-4cf3-8fce-081b3cb92a3b",
+        "company_name": "Abridge",
+        "title": "Full Stack Engineering Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "XaJason",
+        "id": "d1eb948a-e3bc-4664-85d9-0472821618ca",
+        "date_posted": 1756303281,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756303320,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.zebra.com/careers/job/343627780597",
+        "company_name": "Zebra",
+        "title": "AVS Mobile Software Engineer",
+        "locations": [
+            "Lincolnshire, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "29cd8dba-9004-45a7-b2bf-5f5b976de78b",
+        "date_posted": 1756303320,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756303359,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.pepsicojobs.com/main/jobs/392034?lang=en-us",
+        "company_name": "PepsiCo",
+        "title": "Technology Software Development & Engineering Intern",
+        "locations": [
+            "Plano, TX",
+            "Purchase, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "dd8db7a7-1905-4fac-a810-4c32bb3d293e",
+        "date_posted": 1756303359,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756303382,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6867897",
+        "company_name": "Nuro",
+        "title": "Software Engineer, Performance - Intern",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "6d6d280e-231b-4d32-8a5c-6ed62e6a8dce",
+        "date_posted": 1756303382,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756303403,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6562194",
+        "company_name": "Nuro",
+        "title": "Mapping & Localization, Software Engineering Intern",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "91a80164-25d6-4d7e-ac9c-7e2340872abe",
+        "date_posted": 1756303403,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756303435,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7169069",
+        "company_name": "Nuro",
+        "title": "Systems Engineering Intern, Scenario Taxonomy",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "d04060a8-4131-4a9b-8c4a-e0551690708f",
+        "date_posted": 1756303435,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756304916,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-dev-ops-engineer/4673/85430606768",
+        "company_name": "Spectrum",
+        "title": "Associate Dev Ops Engineer",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "db2c974d-070d-4386-8a56-a71675a948e2",
+        "date_posted": 1756304817,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756304979,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.spectrum.com/job/charlotte/2026-summer-intern-associate-dev-ops-engineer/4673/85279001840",
+        "company_name": "Spectrum",
+        "title": "Associate Dev Ops Engineer",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "27fc1d0f-5167-44cb-b707-9e65b497fc70",
+        "date_posted": 1756304979,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756305021,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-software-developer/4673/85449990864",
+        "company_name": "Spectrum",
+        "title": "Associate Software Developer",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "54828c78-cc17-49f7-ae09-7da6d1f33042",
+        "date_posted": 1756305021,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756305299,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.dayforcehcm.com/en-US/thg/ALLCAREERS/jobs/38827",
+        "company_name": "The Hanover",
+        "title": "Associate Solutions Developer",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "57753940-d9ac-49d9-9f95-6e813b9be0cf",
+        "date_posted": 1756305299,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756305421,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256913",
+        "company_name": "Vertiv",
+        "title": "Firmware Engineering Internship",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "73747729-9ba8-476f-89a1-4d34cb09db4d",
+        "date_posted": 1756305421,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756305476,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256957",
+        "company_name": "Vertiv",
+        "title": "Software Engineering Internship",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "ee451cd5-f3e1-42b7-8e99-1745c40256fa",
+        "date_posted": 1756305476,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756305572,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20258307",
+        "company_name": "Vertiv",
+        "title": "Design Engineering Internship",
+        "locations": [
+            "Delaware, OH",
+            "Fort Lauderdale, FL",
+            "Huntsville, AL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "71a9c78e-7360-41fb-9d40-ef0ce59b389e",
+        "date_posted": 1756305572,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756305726,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.zebra.com/careers/job/343627851934",
+        "company_name": "Zebra",
+        "title": "Software Engineering, Handheld Mobile Computer",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "93b5890b-162e-4ec6-902a-b564432c1c03",
+        "date_posted": 1756305726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756305902,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.workatastartup.com/jobs/80516",
+        "company_name": "CrowdVolt",
+        "title": "Full-Stack Engineer Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2534a912-911f-4008-a891-36daeef029e5",
+        "date_posted": 1756305902,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756306146,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-gdms.icims.com/jobs/67789/software-engineer-%e2%80%93-intern-conversion/job",
+        "company_name": "General Dynamics",
+        "title": "Software Engineer \u2013 Intern Conversion",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "3e66b01b-bfcc-45a9-ad69-06e37ad688a8",
+        "date_posted": 1756306146,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756306447,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-gdms.icims.com/jobs/67794/intern-software-engineer---embedded/job",
+        "company_name": "General Dynamics",
+        "title": "Intern Software Engineer - Embedded Posted Date",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "5b473ad6-7b9d-4be5-99a0-55f9a508836e",
+        "date_posted": 1756306447,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756312000,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Firmware-Engineering-Intern_JR9249",
+        "company_name": "Generac",
+        "title": "Firmware Engineering Intern",
+        "locations": [
+            "Waukesha, WI"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7e58cd50-4a4d-4434-89c2-1850c927d8e4",
+        "date_posted": 1756312000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Grant Thornton",
+        "id": "84f20555-6220-48a2-b688-70e26ee47fce",
+        "title": "Cybersecurity and Privacy Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756313921,
+        "date_posted": 1756313921,
+        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/112913",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Grant-Thornton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "JD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Grant Thornton",
+        "id": "74bbaa18-d8ab-4b6c-bc23-667bf1fff73f",
+        "title": "Cybersecurity and Privacy Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756313926,
+        "date_posted": 1756313926,
+        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/112852",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Grant-Thornton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "JD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Grant Thornton",
+        "id": "43059adf-8ba5-420b-8809-29d3a211ecfc",
+        "title": "Cybersecurity and Privacy Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756313923,
+        "date_posted": 1756313923,
+        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/112955",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Grant-Thornton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Securian Financial Group",
+        "id": "dedcb1aa-d93d-475a-9797-94a5bcfd493f",
+        "title": "Engineering Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756312157,
+        "date_posted": 1756312157,
+        "url": "https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Engineering-Analyst-Intern--Hybrid-_R-010131",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Securian-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MKS Instruments",
+        "id": "d12ae003-3558-4103-935f-ed7aaac8a22b",
+        "title": "IT BA/Data Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756311751,
+        "date_posted": 1756311751,
+        "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Andover-MA/XMLNAME-2026-Summer-IT-BA-Data-Intern_R14779",
+        "locations": [
+            "Andover, MA",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aflac",
+        "id": "75be6c03-a75f-49a7-bd67-095493d7a6e2",
+        "title": "2026 Digital Services Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756310779,
+        "date_posted": 1756310779,
+        "url": "https://careers.aflac.com/job/2026-Digital-Services-Intern-GA-31999/1320691100/?ats=successfactors",
+        "locations": [
+            "Columbus, GA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aflac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aflac",
+        "id": "591abff1-9929-4c74-8f92-fabb0bdee9bb",
+        "title": "IT Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756310789,
+        "date_posted": 1756310789,
+        "url": "https://careers.aflac.com/job/Remote-2026-IT-Apprentice-31999/1081339400/?ats=successfactors",
+        "locations": [
+            "Remote in USA",
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aflac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Aflac",
+        "id": "1f0108cd-df97-4684-9647-5e61b7cedc8d",
+        "title": "IT Co-Op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756310781,
+        "date_posted": 1756310781,
+        "url": "https://careers.aflac.com/job/IT-Co-Op-GA/1320692000/?ats=successfactors",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aflac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aflac",
+        "id": "16d1b979-76db-48cb-9a2f-2dca8dad154b",
+        "title": "2026 Summer-Aflac Corporate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756310776,
+        "date_posted": 1756310776,
+        "url": "https://careers.aflac.com/job/2026-Summer-Aflac-Corporate-Intern-GA/1320690100/?ats=successfactors",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aflac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Royal Bank of Canada",
+        "id": "c6e2eda0-bf4b-4d8f-870b-6b284ad0dcc6",
+        "title": "2026 Capital Markets \u2013 Global Markets Quantitative Trading Summer Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756314389,
+        "date_posted": 1756314389,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/New-York-New-York-United-States-of-America/XMLNAME-2026-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000101066-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/de12bd0c-8c45-4a57-8bc7-a686a35ac41f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cognex",
+        "id": "ae9049d7-f777-4bdb-b710-158394798380",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1756314567,
+        "date_posted": 1756314567,
+        "url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0010384-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/6223a3c8-d5e0-47cb-a64c-2cf512c65e98",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Delta Dental",
+        "id": "44273aaf-dc3b-437f-9f92-7f9e880b73be",
+        "title": "Internship - Application Development",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756315654,
+        "date_posted": 1756315654,
+        "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR100958-1",
+        "locations": [
+            "East Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Delta-Dental",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
