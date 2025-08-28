@@ -216125,7 +216125,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "4193bd89-d8b8-4e02-aab3-7f2a5dd6f423",
         "date_posted": 1755248292,
@@ -217872,7 +217872,7 @@
         "company_name": "Flow Traders",
         "id": "dc19cba3-10ca-4fa4-a242-47ceb5b37399",
         "title": "Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -225089,7 +225089,7 @@
         "company_name": "Roku",
         "id": "d9e4de67-83a7-4c7e-becf-25942774cff4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -229981,7 +229981,7 @@
         "company_name": "Cisco",
         "id": "dc1f6c17-5e19-4b7d-9365-fedeed4af6b0",
         "title": "Data Analyst I \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -234150,7 +234150,7 @@
         "company_name": "Markel Group, Inc.",
         "id": "41b39b9b-800e-4d3c-8c0d-8adbbd236eb3",
         "title": "IT Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237292,7 +237292,7 @@
         "company_name": "Peraton",
         "id": "ae77377b-0b77-4438-8424-fe192b119d33",
         "title": "Part-time Business Information Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237580,7 +237580,7 @@
         "company_name": "RTX",
         "id": "86e8b93d-5ecd-4eab-8713-6aaf24a349eb",
         "title": "Stage \u2013 M\u00e9thodes Num\u00e9riques / Internship - D\u00e9veloppement Logiciel Avanc\u00e9 - Numerical Methods",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -237725,7 +237725,7 @@
         "company_name": "Dell Technologies",
         "id": "fa4d3625-1ec1-49cd-8588-99e81060473d",
         "title": "Dell Summer Internship - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -238156,7 +238156,7 @@
         "company_name": "SNC-Lavalin",
         "id": "dfba301b-fe87-44ea-98a7-7b0bf5494173",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -238838,8 +238838,8 @@
             "Summer 2026"
         ],
         "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "7e58cd50-4a4d-4434-89c2-1850c927d8e4",
+        "source": "Simplify",
+        "id": "da1f2c2b-c2ed-48f9-b0b6-9011e3365dbd",
         "date_posted": 1756312000,
         "company_url": "",
         "is_visible": true
@@ -239351,7 +239351,7 @@
         "company_name": "Activision-Blizzard",
         "id": "e1475ea4-e84d-4e90-940a-3a95be925ffd",
         "title": "Summer Internships - Game Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -240134,6 +240134,459 @@
             "Anaheim, CA"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "afcf94d6-906a-4c33-8975-9a9e7557ed36",
+        "title": "Web Developer \u2013 Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1756346091,
+        "date_posted": 1756346091,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24014",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "a376bf9b-a85c-4d3e-aac1-771e68c7783c",
+        "title": "Software Designer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756346095,
+        "date_posted": 1756346095,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24011",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "81c0770c-d22a-4d09-904f-e8118d52c46a",
+        "title": "Software Developer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1756346100,
+        "date_posted": 1756346100,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24090",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "75a45b91-c1a9-475d-a81b-2552fd62070c",
+        "title": "Software Designer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1756346101,
+        "date_posted": 1756346101,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24156",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "45aa7346-c08a-4a96-bb58-683158f4a925",
+        "title": "Software Test Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1756346102,
+        "date_posted": 1756346102,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24018",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "04ad9e88-83a6-4a57-b9a3-70683004bf0f",
+        "title": "Support Software Developer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1756346096,
+        "date_posted": 1756346096,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24091",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Geico",
+        "id": "164f9aae-acb5-4256-8bf0-cd65ba76ab86",
+        "title": "TDP Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756313336,
+        "date_posted": 1756313336,
+        "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/TDP-Software-Intern_R0059640",
+        "locations": [
+            "Springfield, VA",
+            "Indianapolis, IN",
+            "Cheektowaga, NY",
+            "Lakeland, FL",
+            "Coralville, IA",
+            "Fredericksburg, VA",
+            "Virginia Beach, VA",
+            "Woodbury, NY",
+            "Tukwila, WA",
+            "Mt Laurel Township, NJ",
+            "Macon, GA",
+            "Lenexa, KS",
+            "Jacksonville, FL",
+            "Sorrento Valley, San Diego, CA",
+            "Richardson, TX",
+            "Tucson, AZ",
+            "Katy, TX",
+            "Anchorage, AK",
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Geico",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qorvo",
+        "id": "0c276859-68a3-419d-9a44-b18f6796333d",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756344461,
+        "date_posted": 1756344461,
+        "url": "https://careers.qorvo.com/job/Greensboro-Software-Developer-Intern-NC-27409/1320964700/?ats=successfactors",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BitGo",
+        "id": "6b36c2bf-03fa-41ec-9bbd-ab104d66eac5",
+        "title": "Software Engineer Intern - Go Accounts",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756343493,
+        "date_posted": 1756343493,
+        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8141876002",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BitGo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Navy Federal",
+        "id": "3e89f693-7e89-49a5-aca1-b59458255a96",
+        "title": "Intern \u2013 Year Round - Desktop Support",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1756303023,
+        "date_posted": 1756303023,
+        "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/26659",
+        "locations": [
+            "Pensacola, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Navy-Federal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Leidos",
+        "id": "17e73055-56c6-4dcb-acce-4e8a54097aca",
+        "title": "Computer/Electrical/IT Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756309379,
+        "date_posted": 1756309379,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/White-Sands-NM/Computer-Electrical-IT-Engineering-Intern_R-00165417",
+        "locations": [
+            "Las Cruces, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "d23e4d27-4627-4759-8bf3-ec3dcd5823da",
+        "title": "Research Scientist Intern - Anisotropic Optics and Photonics - PhD",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1756339867,
+        "date_posted": 1756339867,
+        "url": "https://www.metacareers.com/jobs/1455625889019477",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Commure",
+        "id": "61e8edc5-c449-4818-951d-28ada489ac0d",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756339841,
+        "date_posted": 1756339841,
+        "url": "https://jobs.ashbyhq.com/Commure-Athelas/566a84fb-d93e-4177-ac07-3c16d3ae8e8d/application",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Commure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hormel Foods",
+        "id": "277f7dcc-8440-4819-8b8c-d7c4aa3d52d0",
+        "title": "Hormel Foods \u2013 IT Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756339794,
+        "date_posted": 1756339794,
+        "url": "https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/jobs/job/30544",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Hormel-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Nokia",
+        "id": "a064c121-6d4b-4762-971f-f401dedcf2ed",
+        "title": "IT Network Development \u2013 Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1756304912,
+        "date_posted": 1756304912,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24008",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vera Institute of Justice",
+        "id": "f2a9dfa8-e2fe-4c4c-8c51-2cf3754422cb",
+        "title": "Data Science Intern - Incarceration and Inequality Project",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756339074,
+        "date_posted": 1756339074,
+        "url": "https://job-boards.greenhouse.io/verainstituteofjustice/jobs/4602244005",
+        "locations": [
+            "Brooklyn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/VeraInstitute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marmon Holdings",
+        "id": "2767d6cf-4d78-4be5-9d74-3a879f9e6306",
+        "title": "AI Coding & Process Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756339080,
+        "date_posted": 1756339080,
+        "url": "https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Remote---United-States-of-America/AI-Coding---Process-Intern_JR0000036525-2",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marmon-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hormel Foods",
+        "id": "b7cf12eb-3a6a-4c17-a949-93242a0e8b2e",
+        "title": "Hormel Foods \u2013 IT Application Development Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756338877,
+        "date_posted": 1756338877,
+        "url": "https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/jobs/job/30545",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Hormel-Foods",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
