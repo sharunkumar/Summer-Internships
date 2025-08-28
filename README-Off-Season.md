@@ -23,38 +23,6 @@
 </thead>
 <tbody>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Applications Co-op/Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Canada</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2026, Spring 2026</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24207?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/76c688b2-ffb9-4347-9675-49ef5fb17385?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Designer Co-op/Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Canada</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2026, Spring 2026</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24200?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ad7c2329-1dc5-41e1-8de4-7b9e4f94589a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Web Developer Co-op/Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Canada</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2026, Spring 2026</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24203?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4570e3c3-ca73-4620-a0cc-14deaef6abcf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Corpay?utm_source=GHList&utm_medium=company">Corpay</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Developer – Co-op</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Vancouver, BC, Canada</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---PayByPhone/Software-Developer--Co-op-_R05866?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3f608301-24e9-44cc-a414-5e9d5f26a2d3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
-</tr>
-<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Crowe?utm_source=GHList&utm_medium=company">Crowe</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Technology and Automation Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Chicago, IL</td>
@@ -849,7 +817,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Needham, MA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025, Winter 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4588373006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ee50630d-1604-4933-bd4b-375625774834?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">29d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">30d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Arcade-AI?utm_source=GHList&utm_medium=company">Arcade AI</a></strong></td>
@@ -967,22 +935,6 @@
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Intact?utm_source=GHList&utm_medium=company">Intact</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Data Scientist I-4 Month Co-op/Internship</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Toronto, ON, Canada</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2026, Spring 2026</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Data-Scientist-I--4-Month-Co-op-Internship--Winter-2026-_R148368?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e0cbaf75-8ce2-4613-ae61-80da17c2259c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Data Science Internship</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Montreal, QC, Canada</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2026</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Science---4-months-Internship-Coop--Winter-2026--_R148600?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0824e197-bbaf-4419-964b-1deae142abdf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Scientist I</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Vancouver, British Columbia, CAN</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2026</td>
@@ -1635,7 +1587,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533925369424316680?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/25aab3eb-76be-48f7-a368-f6d679d5eb76?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">20d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">21d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
@@ -2110,14 +2062,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2mo</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company">GE Aerospace</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">GE Aerospace Research – AI/Computer Vision Fellow Internship 🎓</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Schenectady, NY</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025, Winter 2025</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Niskayuna/GE-Aerospace-Research---AI-Computer-Vision-Fellow-Internship_R5012527-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b43612b3-8387-412f-9535-cf89be304e9e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2mo</td>
-</tr>
-<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Toyota-Research-Institute?utm_source=GHList&utm_medium=company">Toyota Research Institute</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Future Product Innovation Research Intern - HCI Creativity 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Mountain View, CA</td>
@@ -2420,6 +2364,14 @@
 </thead>
 <tbody>
 <tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Voyant-Photonics?utm_source=GHList&utm_medium=company">Voyant Photonics</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Internship - Lidar Test Engineering</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">NYC</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.ashbyhq.com/voyant-photonics/2b39c5b6-4ef5-4891-8ae9-65c21b10769f/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d78cd560-fb92-454c-a948-b9599498e394?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company">Hewlett Packard Enterprise</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">WIFI Hardware Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
@@ -2489,7 +2441,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Irvine, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Winter 2026, Spring 2026</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.skyworksinc.com/job/Irvine-Product-Engineering-Co-Op-(WinterSpring-2026)-CA-92602/1318285600/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1161a0e6-4941-44f8-91db-1045105adb12?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">9d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
@@ -2753,7 +2705,7 @@
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Crowe?utm_source=GHList&utm_medium=company">Crowe</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Cybersecurity Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>4 locations</strong></summary>Indianapolis, IN</br>Dallas, TX</br>Chicago, IL</br>NYC</details></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Indianapolis, IN</br>Dallas, TX</br>Chicago, IL</br>NYC</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Fall 2025</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Cybersecurity-Intern_R-50106?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/87f40511-b6f9-4347-b665-cd4d1435369d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
