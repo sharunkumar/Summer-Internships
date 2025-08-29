@@ -221011,7 +221011,7 @@
         "company_name": "Roche",
         "id": "117b7ea1-48a5-455f-86fc-7cd935113ad3",
         "title": "Delivery Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -226590,7 +226590,7 @@
         "company_name": "Tencent",
         "id": "b8a292aa-2a08-4fd5-93cb-3b989c419818",
         "title": "Speech Synthesis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -240292,7 +240292,7 @@
         "company_name": "Geico",
         "id": "164f9aae-acb5-4256-8bf0-cd65ba76ab86",
         "title": "TDP Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242601,6 +242601,55 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GeoComply",
+        "id": "70ff6516-59b6-474e-9cbd-da2111a9dce4",
+        "title": "ML Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1756433563,
+        "date_posted": 1756433563,
+        "url": "https://jobs.lever.co/geocomply-2/f1966597-b6cd-4742-a5d1-6b58d3de25f4/apply",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/GeoComply",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Roche",
+        "id": "2d2236fa-8762-4982-b009-de0ee3cb6d63",
+        "title": "Pharma Technical Analyst Internship",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756434458,
+        "date_posted": 1756434458,
+        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/Pharma-Technical-Analyst-Internship_202508-121404-1",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Roche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
