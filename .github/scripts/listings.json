@@ -189449,7 +189449,7 @@
         "company_name": "American Axle & Manufacturing",
         "id": "3b1775c2-f21c-4262-a51e-b1e5d11c61a4",
         "title": "Product Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746080177,
         "date_posted": 1746080177,
@@ -206341,7 +206341,7 @@
         "company_name": "JP Morgan Chase",
         "id": "1b806319-cc33-48f2-b80c-72890a2eb4ec",
         "title": "Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -207993,7 +207993,7 @@
         ]
     },
     {
-        "date_updated": 1753897997,
+        "date_updated": 1756460537,
         "url": "https://asana.com/jobs/apply/7078152?gh_jid=7078152",
         "company_name": "Asana",
         "title": "Data Science Intern",
@@ -208009,10 +208009,13 @@
         "id": "81e07779-67eb-4cc6-b58d-38fd96a0f54e",
         "date_posted": 1753897997,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
-        "date_updated": 1753898058,
+        "date_updated": 1756460559,
         "url": "https://asana.com/jobs/apply/7078192?gh_jid=7078192",
         "company_name": "Asana",
         "title": "Data Science Intern",
@@ -208028,7 +208031,10 @@
         "id": "2106be07-d00e-471c-82e2-941a6a192557",
         "date_posted": 1753898058,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1753972941,
@@ -208240,7 +208246,7 @@
         "company_name": "Baseten",
         "id": "513fb75b-6101-4a0f-96ad-e809fb8e0916",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -213655,7 +213661,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755594987,
+        "date_updated": 1756460492,
         "url": "https://www.jumptrading.com/careers/7077897/?gh_jid=7077897",
         "company_name": "Jump Trading",
         "title": "Campus Tech Ops Engineer",
@@ -213671,7 +213677,10 @@
         "id": "3cfddb20-9413-4673-8768-3b6762519eb4",
         "date_posted": 1754650040,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1755223695,
@@ -213694,7 +213703,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754650657,
+        "date_updated": 1756460571,
         "url": "https://www.jumptrading.com/careers/7026718/?gh_jid=7026718",
         "company_name": "Jump Trading",
         "title": "Campus Quantitative Researcher",
@@ -213716,7 +213725,10 @@
         "id": "55bfa307-343d-4880-a29c-a443a5f5c754",
         "date_posted": 1754650657,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1754754046,
@@ -214030,7 +214042,7 @@
         "company_name": "PNC Financial Services",
         "id": "6db494bb-d721-494b-88f4-44282fcf2bc2",
         "title": "Data Analytics Undergraduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -215656,7 +215668,7 @@
         ]
     },
     {
-        "date_updated": 1755782636,
+        "date_updated": 1756460512,
         "url": "https://www.jumptrading.com/careers/7141699/?gh_jid=7141699",
         "company_name": "Jump Trading",
         "title": "Campus AI Researcher (Intern)",
@@ -215677,7 +215689,7 @@
         "id": "bd019fd0-d553-4104-99db-ccd9a77311e4",
         "date_posted": 1755169190,
         "company_url": "",
-        "is_visible": true,
+        "is_visible": false,
         "category": "Data Science, AI & Machine Learning",
         "degrees": [
             "Bachelor's"
@@ -215984,7 +215996,7 @@
         "company_name": "Option Care Health",
         "id": "c3f94ab2-28aa-4a1c-8ebe-bd4791af45bc",
         "title": "Business Intelligence \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -217938,7 +217950,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "3b44967e-536c-43a3-9ceb-440d6b0dfa8d",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -218653,7 +218665,7 @@
         "company_name": "Walmart",
         "id": "e9c858c3-bc85-4c52-9fc1-0d42544907cd",
         "title": "2025 Intern Conversion: 2026 FT Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218673,7 +218685,7 @@
         "company_name": "Walmart",
         "id": "71d5d70e-4167-4edf-a9dd-a03a39d4ca03",
         "title": "2025 Intern Conversion: 2026 FT Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -218713,7 +218725,7 @@
         "company_name": "L3Harris Technologies",
         "id": "b39edc21-92d1-48f1-b853-f08c3f588334",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -218956,7 +218968,7 @@
         "company_name": "L3Harris Technologies",
         "id": "1b6b7fba-c441-441b-a67e-fce247c37718",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -219476,7 +219488,7 @@
         "company_name": "Magna",
         "id": "e78a009e-7b5b-496e-8faa-1fd0256a7ef5",
         "title": "Machine Vision Co op Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -219570,7 +219582,7 @@
         "company_name": "Walmart",
         "id": "ca0d6d86-c182-4c3b-976a-01af1107cc60",
         "title": "Sr Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -220391,7 +220403,7 @@
         "company_name": "Roche",
         "id": "eb39f25d-5691-476c-9323-80741ab944e7",
         "title": "Devsecops Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -231125,7 +231137,7 @@
         "company_name": "Walmart",
         "id": "669dba4b-b9d9-45b6-bcc4-53a879842058",
         "title": "Intern Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235261,7 +235273,7 @@
         "company_name": "RTX",
         "id": "3667531e-c43a-4159-8a6c-759f29868a0a",
         "title": "Summer Intern - Modeling and Simulation Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237222,7 +237234,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "f9d4a2d2-38fc-44ad-b91f-78f3fe207afe",
         "title": "AI Fluency Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -239275,9 +239287,9 @@
         "title": "Technology Product Analyst Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756334021,
+        "date_updated": 1756459967,
         "date_posted": 1756334021,
         "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR104571",
         "locations": [
@@ -239379,9 +239391,9 @@
         "title": "Cybersecurity Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756332969,
+        "date_updated": 1756460434,
         "date_posted": 1756332969,
         "url": "https://mobius-llc.com/careers?gh_jid=4841777007",
         "locations": [
@@ -239520,9 +239532,9 @@
         "title": "Intern \u2013 ET Operations Analytics",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756332631,
+        "date_updated": 1756459990,
         "date_posted": 1756332631,
         "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Operations-Analytics-VA-23060/1320758400/?ats=successfactors",
         "locations": [
@@ -239810,9 +239822,9 @@
         "title": "IT Intern \u2013 Cybersecurity",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756336280,
+        "date_updated": 1756460463,
         "date_posted": 1756336280,
         "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/IT-Intern---Cybersecurity_JR9352",
         "locations": [
@@ -239822,8 +239834,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -240072,7 +240083,7 @@
         "company_name": "Nokia",
         "id": "1c611599-db48-4b8d-afc2-a9acbfe97232",
         "title": "Research Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -240123,9 +240134,9 @@
         "title": "Digital Hardware Engineering Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756338356,
+        "date_updated": 1756460107,
         "date_posted": 1756338356,
         "url": "https://jobs.l3harris.com/job/Anaheim-Digital-Hardware-Engineering-Intern-(Anaheim,-CA)-CA-92805/1320797500/?ats=successfactors",
         "locations": [
@@ -240336,9 +240347,9 @@
         "title": "Software Developer Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756344461,
+        "date_updated": 1756459580,
         "date_posted": 1756344461,
         "url": "https://careers.qorvo.com/job/Greensboro-Software-Developer-Intern-NC-27409/1320964700/?ats=successfactors",
         "locations": [
@@ -240408,9 +240419,9 @@
         "title": "Computer/Electrical/IT Engineering Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756309379,
+        "date_updated": 1756460404,
         "date_posted": 1756309379,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/White-Sands-NM/Computer-Electrical-IT-Engineering-Intern_R-00165417",
         "locations": [
@@ -240420,8 +240431,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Associate's"
+            "Bachelor's"
         ]
     },
     {
@@ -240552,9 +240562,9 @@
         "title": "AI Coding & Process Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756339080,
+        "date_updated": 1756459948,
         "date_posted": 1756339080,
         "url": "https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Remote---United-States-of-America/AI-Coding---Process-Intern_JR0000036525-2",
         "locations": [
@@ -240564,8 +240574,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -240911,9 +240920,9 @@
         "title": "WIFI Hardware Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756366890,
+        "date_updated": 1756460255,
         "date_posted": 1756366890,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/WIFI-Hardware-Intern_1193060",
         "locations": [
@@ -241032,9 +241041,9 @@
         "title": "Cybersecurity Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756393759,
+        "date_updated": 1756460483,
         "date_posted": 1756393759,
         "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Cybersecurity-Intern_R-50106",
         "locations": [
@@ -241081,9 +241090,9 @@
         "title": "Third Party Risk Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756393758,
+        "date_updated": 1756460474,
         "date_posted": 1756393758,
         "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Third-Party-Risk-Intern_R-50127",
         "locations": [
@@ -241093,8 +241102,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -241105,9 +241113,9 @@
         "title": "D365 ERP Technical Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756393761,
+        "date_updated": 1756459709,
         "date_posted": 1756393761,
         "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/D365-ERP-Technical-Intern_R-50104",
         "locations": [
@@ -241129,9 +241137,9 @@
         "title": "GRC Technology Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756393752,
+        "date_updated": 1756459823,
         "date_posted": 1756393752,
         "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/GRC-Technology-Intern_R-50113",
         "locations": [
@@ -241141,8 +241149,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -241153,9 +241160,9 @@
         "title": "Technology and Automation Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756393748,
+        "date_updated": 1756459519,
         "date_posted": 1756393748,
         "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Technology-and-Automation-Intern_R-50122",
         "locations": [
@@ -241165,8 +241172,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -241221,11 +241227,11 @@
         "company_name": "IQVIA",
         "id": "286a2e4f-29f4-4bf4-9cfa-14fab7f7c92b",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756393407,
+        "date_updated": 1756459908,
         "date_posted": 1756393407,
         "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/London-United-Kingdom/Data-Science-Intern_R1498677",
         "locations": [
@@ -241235,7 +241241,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -241316,9 +241322,9 @@
         "title": "Data Analyst Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756399274,
+        "date_updated": 1756459643,
         "date_posted": 1756399274,
         "url": "https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Data-Analyst-Intern--Pittsburgh_JR-2025-01977",
         "locations": [
@@ -241339,9 +241345,9 @@
         "title": "Intern \u2013 TPG Global IE",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756398972,
+        "date_updated": 1756459664,
         "date_posted": 1756398972,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR81902",
         "locations": [
@@ -241351,8 +241357,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -241363,9 +241368,9 @@
         "title": "Internship - Lidar Test Engineering",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756398655,
+        "date_updated": 1756460378,
         "date_posted": 1756398655,
         "url": "https://jobs.ashbyhq.com/voyant-photonics/2b39c5b6-4ef5-4891-8ae9-65c21b10769f/application",
         "locations": [
@@ -241375,8 +241380,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -241557,9 +241561,9 @@
         "title": "Research Scientist Intern - Optimization - Privacy and Inference - PhD",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756403791,
+        "date_updated": 1756459598,
         "date_posted": 1756403791,
         "url": "https://www.metacareers.com/jobs/1749914882396573",
         "locations": [
@@ -241570,7 +241574,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -242652,5 +242656,314 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ankura Consulting Group",
+        "id": "bbf4532c-557e-4810-b016-a5cea3704459",
+        "title": "University Intern - Analytics & Data Strategy",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1756449911,
+        "date_posted": 1756449911,
+        "url": "https://ankura.wd5.myworkdayjobs.com/ankura/job/New-York-NY/University-Intern--Analytics---Data-Strategy_R104248",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ankura-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "9fb54bcc-d560-4fbe-b501-66d7bd9acb0f",
+        "title": "Intern \u2013 Product Architecture",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756447974,
+        "date_posted": 1756447974,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Product-Architecture_JR81924",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "NiSource",
+        "id": "c5a19a8e-cbb1-40b9-ba38-387741e076d3",
+        "title": "Intern IT-Cybersecurity",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1756451427,
+        "date_posted": 1756451427,
+        "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---155-Nationwide/Intern-IT--Cybersecurity_R00940542",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/NiSource",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GeoComply",
+        "id": "a08b57dc-77a5-4695-a2b6-d5e7d93f4b6b",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756452855,
+        "date_posted": 1756452855,
+        "url": "https://jobs.lever.co/geocomply-2/0e5f97b7-e32f-469d-90a8-231a9e0d036f/apply",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/GeoComply",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "date_updated": 1756457827,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/Intern--Analytics-Modelling_R2045298",
+        "company_name": "Brookfield Asset Management",
+        "title": "Intern, Analytics Modelling",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "XaJason",
+        "id": "396e8075-5229-49e7-a988-4b3efa913903",
+        "date_posted": 1756457827,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756457878,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/305998",
+        "company_name": "Oracle",
+        "title": "Undergrad Software Engineer Intern - Oracle Cloud Infrastructure (OCI)",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "XaJason",
+        "id": "12ec3579-017f-425b-9750-f6ce3d64a509",
+        "date_posted": 1756457878,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756457929,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/305996",
+        "company_name": "Oracle",
+        "title": "Undergrad Software Engineer Intern \u2013 Oracle Cloud Infrastructure (OCI)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "XaJason",
+        "id": "88e6ad9e-4838-4b61-97ba-6b50d21e03dd",
+        "date_posted": 1756457929,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756458725,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2026_R1340?fbclid=PAZXh0bgNhZW0CMTEAAaeQ4tVVTZGig6gCLidSU-FlMueJG5foN3ohVFCcg09xvKxxQtCLasl4Achi_g_aem_WdZBr39C767rzINPT9XWrQ",
+        "company_name": "Arrowstreet Capital",
+        "title": "Quantitative Researcher Intern",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "XaJason",
+        "id": "1c6aee70-64f5-4dd4-97d5-a1e6b0eb113d",
+        "date_posted": 1756458630,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1756458777,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2026_R1340",
+        "company_name": "Arrowstreet Capital",
+        "title": "Quantitative Researcher Intern",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "41561536-73a8-40ac-9e3e-1267edc2bb2b",
+        "date_posted": 1756458777,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756458805,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2026_R1338",
+        "company_name": "Arrowstreet Capital",
+        "title": "Quantitative Developer Intern",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "XaJason",
+        "id": "46f82f8c-a70d-43e8-9b7d-c069e79fbc94",
+        "date_posted": 1756458805,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756458829,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Investment-Processes-Intern--Summer-2026_R1355",
+        "company_name": "Arrowstreet Capital",
+        "title": "Investment Processes Intern",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "XaJason",
+        "id": "0cc3c153-927c-4cf6-93dc-2c4eafd6169f",
+        "date_posted": 1756458829,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756458860,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.santandercareers.com/job/-/-/1771/85497363568",
+        "company_name": "Santander Holdings USA",
+        "title": "Information Security Intern",
+        "locations": [
+            "Dallas, TX",
+            "Boston, MA",
+            "New York, NY",
+            "Quincy, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Other",
+        "source": "XaJason",
+        "id": "75c0276f-9a95-4a41-8c44-f25b0295735d",
+        "date_posted": 1756458860,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756459495,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4662186101",
+        "company_name": "Altman Solon",
+        "title": "Summer Data Analyst Intern",
+        "locations": [
+            "Boston, MA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "XaJason",
+        "id": "3406baee-abc2-4be5-823a-10999e00d48f",
+        "date_posted": 1756459495,
+        "company_url": "",
+        "is_visible": true
     }
 ]
