@@ -169857,7 +169857,7 @@
         "company_name": "Genies",
         "id": "51dadaab-4a53-4690-abaa-8a100a534c1d",
         "title": "Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -220050,7 +220050,7 @@
         "company_name": "Chime",
         "id": "51276a1d-aecb-494a-8f0e-fb05ec91bc3a",
         "title": "IT Helpdesk Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -234882,7 +234882,7 @@
         "company_name": "Equitable Holdings",
         "id": "dc67bb50-4caa-410c-baf4-8f197e0cf9fc",
         "title": "2026 Summer Intern - Information Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235034,7 +235034,7 @@
         "company_name": "Entrust",
         "id": "94f59f77-7cb1-4f72-810a-310488135b4d",
         "title": "Intern \u2013 Pki Pqc",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -245718,6 +245718,31 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "98376bc6-4fb7-4b5d-bb42-3b8f9acf74f6",
+        "title": "Intern \u2013 Yield Technology Equipment",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1756550330,
+        "date_posted": 1756160120,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Yield-Technology-Equipment-Intern_JR81576",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
