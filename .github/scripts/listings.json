@@ -235485,7 +235485,7 @@
         "company_name": "Walmart",
         "id": "2b1ba663-de7f-4bc1-b8d1-e2df24c27128",
         "title": "2025 Intern Conversion - 2026 FT: Data Analyst II - Transportation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -245340,6 +245340,380 @@
             "Moscow, ID"
         ],
         "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wavetronix",
+        "id": "ec6c76f6-ca7b-44c5-b160-b3ada8567cee",
+        "title": "Computer Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756518108,
+        "date_posted": 1756518108,
+        "url": "https://wavetronix.breezy.hr/p/b89da1eae7f3/apply",
+        "locations": [
+            "Springville, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Wavetronix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Geotab",
+        "id": "e7e7633a-5aef-4e61-b01b-177af306ce73",
+        "title": "Embedded Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756520269,
+        "date_posted": 1756520269,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4808709008",
+        "locations": [
+            "Oakville, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Geotab",
+        "id": "6d947b27-e43e-4d3a-8b9d-be5602755df7",
+        "title": "Embedded Developer Intern - IOX Works & Go Focus",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756520268,
+        "date_posted": 1756520268,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4808699008",
+        "locations": [
+            "Oakville, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PIMCO",
+        "id": "ec49df5b-6aa3-48c5-b0c3-a1811603b70b",
+        "title": "PhD Summer Intern - Portfolio Management - Quantitative Research Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756520120,
+        "date_posted": 1756520120,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2026-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R105638",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PIMCO",
+        "id": "758b483d-b3a4-4313-b01c-51ee1bffc397",
+        "title": "2026 Summer Intern - Client Solutions & Analytics Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756520123,
+        "date_posted": 1756520123,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2026-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R105618",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PIMCO",
+        "id": "710e9602-28c5-4812-b3e5-0f53c51ed211",
+        "title": "Intern - Technology Analyst - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756520127,
+        "date_posted": 1756520127,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2026-Summer-Intern---Technology-Analyst--Software-Engineering_R105630",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PIMCO",
+        "id": "63ad86c6-0bee-4ed2-b01b-05581c4de028",
+        "title": "Summer Internship - PhD Quant Research Analyst - Client Solutions & Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756521090,
+        "date_posted": 1756521090,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2026-Summer-Internship---PhD-Quant-Research-Analyst--Client-Solutions---Analytics_R105639",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Walmart",
+        "id": "9656a6b9-e36c-4b57-acb4-b3a7345cf7e8",
+        "title": "2025 Intern Conversion - 2026 FT: Product Manager III",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756521574,
+        "date_posted": 1756521574,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2025-Intern-Conversion---2026-FT--Product-Manager-III_R-2266147",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "06c04f3d-f1ab-475a-9cfa-b958c6fbe704",
+        "title": "Software Engineer Intern - Business Integrity - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756522946,
+        "date_posted": 1756522946,
+        "url": "https://lifeattiktok.com/search/7543420658085185799",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics UK",
+        "id": "b87e2353-babd-4d9b-bb00-db68fc13a8de",
+        "title": "Co-op - Software Development and Test",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756528643,
+        "date_posted": 1756528643,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079048584",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics UK",
+        "id": "8e4588bd-686b-4725-a852-9fcfe4a64c9d",
+        "title": "Co-op - Software Developer",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756528648,
+        "date_posted": 1756528648,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079047471",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "83b18715-3030-46d9-bd7f-8083173d1824",
+        "title": "Co-op - Firmware Development and Test",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756528638,
+        "date_posted": 1756528638,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079049454",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "7d7d8281-6e4f-4f56-8ee6-013f574bbb49",
+        "title": "Co-op - Embedded Software Developer",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756528673,
+        "date_posted": 1756528673,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079029886",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics UK",
+        "id": "6edd936f-76a2-488b-bab8-11395e2a2f65",
+        "title": "Co-op - Software/Systems Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756528652,
+        "date_posted": 1756528652,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079047292",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "5f88ae1b-d78c-4658-888e-b6ecb45a123d",
+        "title": "Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756528661,
+        "date_posted": 1756528661,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079044549",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "5bcb4de2-aa1f-4fc7-ae32-244a8e5b9961",
+        "title": "Co-op - Embedded Software Test",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756528670,
+        "date_posted": 1756528670,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079034324",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
