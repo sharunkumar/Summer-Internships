@@ -163118,7 +163118,7 @@
         "company_name": "ByteDance",
         "id": "61a548e1-3afc-4fd6-a6f2-b87912103984",
         "title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -242285,9 +242285,9 @@
         "title": "Research Scientist Intern - Applied Machine Learning-Enterprise - PhD",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756424463,
+        "date_updated": 1756660311,
         "date_posted": 1756424463,
         "url": "https://jobs.bytedance.com/en/position/7539697151993268488/detail",
         "locations": [
@@ -242297,7 +242297,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -242308,9 +242308,9 @@
         "title": "IT Engineer Co-Op",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756424243,
+        "date_updated": 1756660139,
         "date_posted": 1756424243,
         "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/2536564",
         "locations": [
@@ -242320,8 +242320,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Associate's"
+            "Bachelor's"
         ]
     },
     {
@@ -242618,10 +242617,9 @@
         "title": "ML Data Scientist Intern",
         "active": true,
         "terms": [
-            "Fall 2025",
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1756433563,
+        "date_updated": 1756660261,
         "date_posted": 1756433563,
         "url": "https://jobs.lever.co/geocomply-2/f1966597-b6cd-4742-a5d1-6b58d3de25f4/apply",
         "locations": [
@@ -242632,8 +242630,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -245840,5 +245837,54 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1756659984,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/113405",
+        "company_name": "Honeywell",
+        "title": "Software Engineer & Computer Science",
+        "locations": [
+            "USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "XaJason",
+        "id": "6258bf6c-f75a-4578-a674-7813c7ec4566",
+        "date_posted": 1756659984,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756660023,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6865687002",
+        "company_name": "Databricks",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Bellevue, WA",
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "XaJason",
+        "id": "6fca312c-e13a-4e2c-9c2c-aaf40f96b2e2",
+        "date_posted": 1756660023,
+        "company_url": "",
+        "is_visible": true
     }
 ]
