@@ -245886,5 +245886,146 @@
         "date_posted": 1756660023,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756665248,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs-childrensmercykc.icims.com/jobs/34857/data-science-intern/job",
+        "company_name": "The Children's Mercy Hospital",
+        "title": "Data Science Intern",
+        "locations": [
+            "Kansas, MO"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "21f68649-16d9-4ef6-82a3-f30e5df87b63",
+        "date_posted": 1756665248,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756665389,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/306144",
+        "company_name": "Oracle",
+        "title": "Undergrad Software Engineer Intern - Global Industries",
+        "locations": [
+            "USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "583647d0-e6ae-4c7b-91c7-6bffe365cb6e",
+        "date_posted": 1756665389,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756665487,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---Summer-2026-Internship_R57239",
+        "company_name": "Motorola Solutions",
+        "title": "Mission Critical Networks Software Engineer",
+        "locations": [
+            "Schaumburg, IL",
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7b483987-1aeb-4455-bc70-6bbcabc665ea",
+        "date_posted": 1756665487,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756665687,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US115639BREXTERNAL/Software-Engineering-CO-OP-Summer-Fall-2026",
+        "company_name": "BAE Systems",
+        "title": "Software Engineering CO-OP",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "18565871-af95-4e49-846b-85bec4fe25d1",
+        "date_posted": 1756665687,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756665758,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/netic/1242d448-bce2-4328-81ac-4b1080460b00",
+        "company_name": "Netic",
+        "title": "Software Engineer, Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6a4d63f9-1c03-43e4-a618-c0767412f575",
+        "date_posted": 1756665758,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Children's Mercy Hospital",
+        "id": "aa2961d1-61c0-4711-8918-abc301e5ac95",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756684980,
+        "date_posted": 1756684980,
+        "url": "https://jobs-childrensmercykc.icims.com/jobs/34857/job",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Childrens-Mercy-Hospital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
