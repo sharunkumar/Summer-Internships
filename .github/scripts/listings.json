@@ -201975,10 +201975,10 @@
         ]
     },
     {
-        "date_updated": 1755782670,
+        "date_updated": 1756729574,
         "url": "https://jobs.apple.com/en-us/details/200606141/engineering-program-management-internships?team=STDNT",
         "locations": [
-            "United States"
+            "USA"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -212746,15 +212746,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755595152,
+        "date_updated": 1756729401,
         "date_posted": 1754618954,
         "url": "https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Mississauga-ON-CAN/Developer-Co-Op_R0050520",
         "locations": [
-            "Mississauga, ON, Canada"
+            "Mississauga, ON, CAN"
         ],
         "company_url": "https://simplify.jobs/c/Holman",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -213545,12 +213548,12 @@
         ]
     },
     {
-        "date_updated": 1755595097,
+        "date_updated": 1756729374,
         "url": "https://careers.confluent.io/jobs/job/974fa008-7174-4e6f-a89c-8c6cce70ae7e",
         "company_name": "Confluent",
         "title": "Confluent Software Engineering Intern",
         "locations": [
-            "Toronto, Canada"
+            "Toronto, CAN"
         ],
         "terms": [
             "Summer 2026"
@@ -213561,7 +213564,10 @@
         "id": "0d184a3a-096c-4cb5-8d63-97e011fa04ac",
         "date_posted": 1754641158,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1755595065,
@@ -216708,15 +216714,18 @@
             "Summer 2026",
             "Summer 2027"
         ],
-        "date_updated": 1755289642,
+        "date_updated": 1756729849,
         "date_posted": 1755289642,
         "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product---Data-Engineering--May-2026---16-months-_6581",
         "locations": [
-            "Toronto, ON, Canada"
+            "Toronto, ON, CAN"
         ],
         "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -217693,15 +217702,18 @@
             "Summer 2026",
             "Summer 2027"
         ],
-        "date_updated": 1755294987,
+        "date_updated": 1756729830,
         "date_posted": 1755294987,
         "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Enterprise-Architecture-and-Emerging-Technologies--May-2026---16-months-_6582",
         "locations": [
-            "Toronto, ON, Canada"
+            "Toronto, ON, CAN"
         ],
         "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -224400,7 +224412,7 @@
         "company_name": "TikTok",
         "id": "c78c63c0-0747-41bb-9083-f3d119a0fd77",
         "title": "Machine Learning Engineer Intern - Tiktok-Content Ecology - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -233371,11 +233383,11 @@
         ]
     },
     {
-        "date_updated": 1756048129,
+        "date_updated": 1756728545,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ],
         "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Enterprise-Quality-Management-Summer-Intern_REQ-4364?source=Linkedin",
         "company_name": "OCC",
@@ -233391,7 +233403,7 @@
         "id": "07b0f5e7-99c8-4570-a141-ed3bf673ae1b",
         "date_posted": 1756048129,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -234581,9 +234593,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756147337,
+        "date_updated": 1756728618,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -234601,7 +234613,7 @@
         "id": "ebeb50cb-79fd-406e-980f-541b11d822bb",
         "date_posted": 1756147337,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756147376,
@@ -236303,18 +236315,17 @@
             "Spring 2026",
             "Summer 2026"
         ],
-        "date_updated": 1756246286,
+        "date_updated": 1756729794,
         "date_posted": 1756246286,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Data-Strategy-Co-op---New-York---College-Program-2026_R_321381",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -236538,17 +236549,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756301351,
+        "date_updated": 1756729769,
         "date_posted": 1756248181,
         "url": "https://careers-sig.icims.com/jobs/9529/job",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Susquehanna",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -236991,18 +237002,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756249065,
+        "date_updated": 1756729311,
         "date_posted": 1756249065,
         "url": "https://db.recsolu.com/external/requisitions/Bw7mjFK6IZkEJB1Wtse0YA",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Deutsche-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -237509,11 +237519,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756255848,
+        "date_updated": 1756729755,
         "date_posted": 1756255848,
         "url": "https://aexp.eightfold.ai/careers/job/30918568",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
@@ -238751,7 +238761,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756305902,
+        "date_updated": 1756728832,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [
@@ -238775,7 +238785,7 @@
         "id": "2534a912-911f-4008-a891-36daeef029e5",
         "date_posted": 1756305902,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756306146,
@@ -239246,17 +239256,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756334600,
+        "date_updated": 1756729550,
         "date_posted": 1756334600,
         "url": "https://wonder.wd1.myworkdayjobs.com/WG/job/New-York-NY/Ops-Product-Intern---Summer-2026_JR100463",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Wonder",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -239341,21 +239351,19 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756333372,
+        "date_updated": 1756729281,
         "date_posted": 1756333372,
         "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/2158",
         "locations": [
             "Holmdel, NJ",
-            "NYC",
+            "New York, NY",
             "Lehi, UT"
         ],
         "company_url": "https://simplify.jobs/c/Verisk",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Bootcamp"
+            "Bachelor's"
         ]
     },
     {
@@ -240651,9 +240659,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756364983,
+        "date_updated": 1756728861,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -240671,7 +240679,7 @@
         "id": "e871066a-9836-434e-98b2-9d02ad2fe8af",
         "date_posted": 1756364983,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756367844,
@@ -240697,7 +240705,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756367994,
+        "date_updated": 1756722118,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -240717,7 +240725,7 @@
         "id": "b50eb88d-275b-4607-900f-1df191697f17",
         "date_posted": 1756367994,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756368098,
@@ -241118,11 +241126,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756459709,
+        "date_updated": 1756729706,
         "date_posted": 1756393761,
         "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/D365-ERP-Technical-Intern_R-50104",
         "locations": [
-            "SF",
+            "San Francisco, CA",
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Crowe",
@@ -241211,11 +241219,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756430750,
+        "date_updated": 1756729901,
         "date_posted": 1756393789,
         "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---PayByPhone/Software-Developer--Co-op-_R05866",
         "locations": [
-            "Vancouver, BC, Canada"
+            "Vancouver, CAN"
         ],
         "company_url": "https://simplify.jobs/c/Corpay",
         "is_visible": true,
@@ -241566,12 +241574,12 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756459598,
+        "date_updated": 1756729733,
         "date_posted": 1756403791,
         "url": "https://www.metacareers.com/jobs/1749914882396573",
         "locations": [
             "Menlo Park, CA",
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Meta",
         "is_visible": true,
@@ -243426,7 +243434,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756493926,
+        "date_updated": 1756721782,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -243436,7 +243444,7 @@
         "company_name": "Verkada",
         "title": "Security Software Engineering Intern",
         "locations": [
-            "San Mateo"
+            "San Mateo, CA"
         ],
         "terms": [
             "Summer 2026"
@@ -244281,18 +244289,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756508301,
+        "date_updated": 1756729682,
         "date_posted": 1756508301,
         "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/US-Territory-Field-based/IT-Data-Engineer-Intern--Summer-2026-_R0023204",
         "locations": [
-            "United States"
+            "USA"
         ],
         "company_url": "https://simplify.jobs/c/Elanco",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -244693,11 +244700,11 @@
             "Spring 2026",
             "Summer 2026"
         ],
-        "date_updated": 1756509672,
+        "date_updated": 1756721742,
         "date_posted": 1756509672,
         "url": "https://job-boards.greenhouse.io/semgrep/jobs/4842323007",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Semgrep",
         "is_visible": true,
@@ -244763,11 +244770,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756511239,
+        "date_updated": 1756729636,
         "date_posted": 1756511239,
         "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/New-York-City/Summer-2026-Internship---Enterprise-Application-Intern_Job_Req_48496",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Dow-Jones",
         "is_visible": true,
@@ -244786,17 +244793,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756511236,
+        "date_updated": 1756729663,
         "date_posted": 1756511236,
         "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/New-York-City/Summer-2026-Internship---Research-Intern_Job_Req_48498",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Dow-Jones",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Associate's"
+            "Bachelor's"
         ]
     },
     {
@@ -244832,11 +244839,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756511237,
+        "date_updated": 1756729647,
         "date_posted": 1756511237,
         "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/New-York-City/Summer-2026-Internship---Data-Analyst-Intern_Job_Req_48497",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Dow-Jones",
         "is_visible": true,
@@ -244998,11 +245005,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756511661,
+        "date_updated": 1756729617,
         "date_posted": 1756511661,
         "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/New-York-City/Summer-2026-Internship---SAP-Intern_Job_Req_48495",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Dow-Jones",
         "is_visible": true,
@@ -245021,12 +245028,12 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756511660,
+        "date_updated": 1756729224,
         "date_posted": 1756511660,
         "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/New-York-City/Summer-2026-Internship---OPIS-Software-Development-Intern_Job_Req_48502",
         "locations": [
             "Gaithersburg, MD",
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Dow-Jones",
         "is_visible": true,
@@ -245307,11 +245314,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756513556,
+        "date_updated": 1756729125,
         "date_posted": 1756513556,
         "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/New-York-City/Summer-2026-Internship---Software-Engineering-Intern_Job_Req_48494",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Dow-Jones",
         "is_visible": true,
@@ -245799,19 +245806,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756595817,
+        "date_updated": 1756729104,
         "date_posted": 1756595817,
         "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/6828427003",
         "locations": [
-            "LA"
+            "Los Angeles, CA"
         ],
         "company_url": "https://simplify.jobs/c/FreeformFuture",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -245824,12 +245829,12 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756595824,
+        "date_updated": 1756729523,
         "date_posted": 1756595824,
         "url": "https://santander.wd3.myworkdayjobs.com/santandercareers/job/Miami/Digital-Product-and-Innovation-Intern_Req1486536-1",
         "locations": [
             "Miami, FL",
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/9a775ea7-e29a-4fa8-963a-761444b7066a",
         "is_visible": true,
@@ -246290,6 +246295,480 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lumentum",
+        "id": "f19bfb5f-5800-4dce-b18b-d27307685b09",
+        "title": "Embedded Software Engineer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1756708097,
+        "date_posted": 1756708097,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/lite/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20251387",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/496a9be6-21c5-4da6-a624-02dfaf540d25",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sysco",
+        "id": "b5614448-7599-4040-a93d-c153d3550627",
+        "title": "Functional Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1756708115,
+        "date_posted": 1756708115,
+        "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Functional-Analyst-Intern_R215840",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sysco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lumentum",
+        "id": "b0b49cc2-f140-4ac1-a66f-48b3e88f45f9",
+        "title": "Process Software Automation Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1756708111,
+        "date_posted": 1756708111,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/lite/job/Canada---Ottawa-Bill-Leathem/Process-Software-Automation-Co-op-Intern_20251390",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/496a9be6-21c5-4da6-a624-02dfaf540d25",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lumentum",
+        "id": "8af67ab3-9511-466f-9062-0feeb8a0483f",
+        "title": "Embedded Software Devsecops Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1756708104,
+        "date_posted": 1756708104,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/lite/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Co-op-Intern_20251384-1",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/496a9be6-21c5-4da6-a624-02dfaf540d25",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sysco",
+        "id": "67e3b577-b5bd-41c4-922c-e6197c1f5650",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1756708107,
+        "date_posted": 1756708107,
+        "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Data-Engineer-Intern_R215839",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sysco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lumentum",
+        "id": "6d34e4fe-2782-4656-bb30-d0cc45512827",
+        "title": "Embedded Software Engineer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1756708099,
+        "date_posted": 1756708099,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/lite/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20251410",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/496a9be6-21c5-4da6-a624-02dfaf540d25",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lumentum",
+        "id": "4cb9b544-8464-4937-9093-c60f596f7747",
+        "title": "Calibration and Test Software Engineer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1756708097,
+        "date_posted": 1756708097,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/lite/job/Canada---Ottawa-Bill-Leathem/Calibration-and-Test-Software-Engineer-Co-op-Intern_20251385",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/496a9be6-21c5-4da6-a624-02dfaf540d25",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Xcel Energy",
+        "id": "f4576f35-6b11-4be0-879a-cd90bf962a84",
+        "title": "IT Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756709194,
+        "date_posted": 1756709194,
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/IT-Intern_JR110023-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Xcel-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xcel Energy",
+        "id": "21ee864c-95b1-488d-8a72-d9bb39746ca8",
+        "title": "Geospatial Technical Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756709195,
+        "date_posted": 1756709195,
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Geospatial-Technical-Intern_JR110173-1",
+        "locations": [
+            "Minneapolis, MN",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Xcel-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xcel Energy",
+        "id": "c50f9cb2-3cab-4ee4-bb36-e6b54accd768",
+        "title": "Commercial Operations Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756709197,
+        "date_posted": 1756709197,
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Commercial-Operations-Intern_JR110218-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Xcel-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Xcel Energy",
+        "id": "58ca206a-4fec-433f-b868-444cd18fc4d1",
+        "title": "IT Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756709199,
+        "date_posted": 1756709199,
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/IT-Analyst-Intern_JR109800",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Xcel-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "84.51 Degrees",
+        "id": "02220fc3-ea97-4d51-8b59-d63476b37587",
+        "title": "Product Owner",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756711344,
+        "date_posted": 1756711344,
+        "url": "https://job-boards.greenhouse.io/8451university/jobs/8086960002",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/84-51",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "84.51 Degrees",
+        "id": "00c78cdf-03b5-412e-b6e9-6f063c8b9369",
+        "title": "Software Engineer \u2013 Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756712417,
+        "date_posted": 1756712417,
+        "url": "https://job-boards.greenhouse.io/8451university/jobs/8086857002",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/84-51",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Caterpillar Inc.",
+        "id": "f6ab6637-ef68-43db-bca5-d9d68052c960",
+        "title": "2026 Summer Corporate Intern - Information Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756711011,
+        "date_posted": 1756711011,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/East-Peoria-Illinois/XMLNAME-2026-Summer-Corporate-Intern---Information-Technology_R0000321876",
+        "locations": [
+            "West Chester, PA",
+            "Peoria, IL",
+            "Morrisville, NC",
+            "Irving, TX",
+            "Tucson, AZ",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "ea411bc7-604f-4026-b91b-33bfa16f7b38",
+        "title": "Product Manager Intern - Tiktok LIVE-Ecosystem Governance - MBA",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756713521,
+        "date_posted": 1756713521,
+        "url": "https://lifeattiktok.com/search/7533907343470840072",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "953b0af9-52dc-4bfe-9dce-76fe4258cddd",
+        "title": "Product Manager Intern - Tiktok LIVE-Recommend Product",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756713517,
+        "date_posted": 1756713517,
+        "url": "https://lifeattiktok.com/search/7538067880584153362",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TC Energy",
+        "id": "8f6c9572-fbe2-49d8-88d4-0995e5a96d7a",
+        "title": "Computer Science Interns",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756711437,
+        "date_posted": 1756711437,
+        "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Computer-Science-Interns---Calgary--May-2026-_JR-08889",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TC-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ByteDance",
+        "id": "3465e9d0-1c45-44ed-b5fd-f89be91364eb",
+        "title": "Global Product Strategist Intern - Mso - MBA",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756729431,
+        "date_posted": 1756713452,
+        "url": "https://jobs.bytedance.com/en/position/7534767099475478802/detail",
+        "locations": [
+            "New York, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "84.51 Degrees",
+        "id": "89436fad-7bb5-4035-9ae5-1997447a95ca",
+        "title": "Data Scientist \u2013 Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756710462,
+        "date_posted": 1756710462,
+        "url": "https://job-boards.greenhouse.io/8451university/jobs/8086801002",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/84-51",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "aba87d08-1d33-49c8-9641-f2d665bef101",
+        "title": "New York, NY",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756729590,
+        "date_posted": 1756713214,
+        "url": "https://aexp.eightfold.ai/careers/job/30932038",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
