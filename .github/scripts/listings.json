@@ -184890,7 +184890,7 @@
         "company_name": "Tencent",
         "id": "c60f94ed-8d10-4db9-9a64-6571ec5c95c8",
         "title": "Applied Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1744703193,
         "date_posted": 1744703193,
@@ -233660,7 +233660,7 @@
         "company_name": "The Walt Disney Company",
         "id": "be416f56-071c-4b52-a199-6bd031ce6736",
         "title": "WDW Computer Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -235943,7 +235943,7 @@
         "company_name": "The Walt Disney Company",
         "id": "e28a505c-7867-4dcf-b3bb-1f221d3b24c0",
         "title": "WDW Geographical Information Systems \u2013 Intern - GIS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -244349,7 +244349,7 @@
         "company_name": "Veralto",
         "id": "a2485e7f-fac5-40f8-af04-280ba3eae8d0",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -246021,6 +246021,270 @@
             "Kansas City, MO"
         ],
         "company_url": "https://simplify.jobs/c/The-Childrens-Mercy-Hospital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "c45a311b-d634-4f9e-add2-4819df357f6f",
+        "title": "2026 Data Science Analyst \u2013 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756693062,
+        "date_posted": 1756693062,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210658282",
+        "locations": [
+            "London, UK",
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "9d6a2179-74cf-4e00-87c2-e1b7ed9a5638",
+        "title": "2026 Software Engineer Immersion Program \u2013 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756693059,
+        "date_posted": 1756693059,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210653529",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stryker",
+        "id": "f7a2ee6f-6eed-4622-9d43-bbec9c35c9a7",
+        "title": "2026 Summer Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756707488,
+        "date_posted": 1756707488,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/XMLNAME-2026-Summer-Intern---Software-Engineering---Michigan_R549763",
+        "locations": [
+            "Portage, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stryker",
+        "id": "b7b8e488-bdc3-46e1-b216-ba3d15bcde37",
+        "title": "2026 Summer Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756707487,
+        "date_posted": 1756707487,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/XMLNAME-2026-Summer-Intern---Software-Engineering---Indiana_R549765",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stryker",
+        "id": "b3f56aba-1dc2-49b5-b630-ed37efc7e306",
+        "title": "2026 Summer Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756707486,
+        "date_posted": 1756707486,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/XMLNAME-2026-Summer-Intern---Software-Engineering---Texas_R549794",
+        "locations": [
+            "Flower Mound, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stryker",
+        "id": "07a6ba14-b0f8-498d-8e24-c8d5fd0d4be6",
+        "title": "2026 Summer Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756707487,
+        "date_posted": 1756707487,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/XMLNAME-2026-Summer-Intern---Software-Engineering---Florida_R549793",
+        "locations": [
+            "Fort Lauderdale, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stryker",
+        "id": "e9db0359-fcfc-4ede-9785-53dba01f7258",
+        "title": "2026 Summer Intern - Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756707480,
+        "date_posted": 1756707480,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/XMLNAME-2026-Summer-Intern---Data-Analytics---Michigan_R548703",
+        "locations": [
+            "Portage, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Stryker",
+        "id": "db8fd81b-ba14-454a-8fa8-e86286754943",
+        "title": "2026 Summer Intern - Information Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756707480,
+        "date_posted": 1756707480,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/XMLNAME-2026-Summer-Intern---Information-Technology---New-Jersey_R548764",
+        "locations": [
+            "Mahwah, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stryker",
+        "id": "c9389197-4749-40f6-930b-015044a4d2ad",
+        "title": "2026 Summer Intern - Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756707481,
+        "date_posted": 1756707481,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/XMLNAME-2026-Summer-Intern---Data-Analytics---New-Jersey_R548706",
+        "locations": [
+            "Mahwah, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Stryker",
+        "id": "0c43f92a-07fc-4aa2-891a-56698b35304e",
+        "title": "2026 Summer Intern - Information Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756707481,
+        "date_posted": 1756707481,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Kalamazoo-Michigan/XMLNAME-2026-Summer-Intern---Information-Technology---Michigan_R548761",
+        "locations": [
+            "Kalamazoo, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Duke Energy",
+        "id": "689de357-ae2f-4c65-bf1e-d0ba555aa735",
+        "title": "Information Technology Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756706909,
+        "date_posted": 1756706909,
+        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Information-Technology-Internship-Summer-2026_R36430",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
