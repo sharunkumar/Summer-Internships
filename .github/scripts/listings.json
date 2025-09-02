@@ -222149,7 +222149,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "9e2be13c-a5bc-4b19-8c3a-5151e2c71f10",
         "title": "Scitls Coop/Dr Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -247778,6 +247778,208 @@
             "Bloomington, MN"
         ],
         "company_url": "https://simplify.jobs/c/b0914ae0-67cc-4a7d-ba1c-d8731e2f59a4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stryker",
+        "id": "c43bdedc-7cac-498c-8491-107fc98e7978",
+        "title": "2026 Summer Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756735649,
+        "date_posted": 1756735649,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Diego-California/XMLNAME-2026-Summer-Intern---Software-Engineering---California_R549795",
+        "locations": [
+            "San Jose, CA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Textron",
+        "id": "f5cb290a-8623-4472-bd81-0ac66dd420ee",
+        "title": "2026 Textron Leadership Development Internship Program - Information Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756736003,
+        "date_posted": 1756736003,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=333861",
+        "locations": [
+            "New Orleans, LA",
+            "Augusta, GA",
+            "Providence, RI",
+            "Sparks, MD",
+            "Wichita, KS",
+            "Troy, MI",
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Textron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Guardian Life",
+        "id": "eb0cabc1-7042-4041-9941-411016c3470f",
+        "title": "2026 Guardian Summer Intern - Digital & Technology - Cybersecurity",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756793584,
+        "date_posted": 1756793584,
+        "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2026-Guardian-Summer-Intern--Digital---Technology---Cybersecurity_R000107666",
+        "locations": [
+            "Holmdel, NJ",
+            "NYC",
+            "Bethlehem, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guardian-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Guardian Life",
+        "id": "56463e4f-14a9-4d2c-a3a4-35fc5fe699a7",
+        "title": "Guardian Summer Intern - Digital & Technology - Application Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756793584,
+        "date_posted": 1756793584,
+        "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2026-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000107663",
+        "locations": [
+            "Holmdel, NJ",
+            "NYC",
+            "Bethlehem, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guardian-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guardian Life",
+        "id": "d773d525-7ef7-4917-9c40-37bc852f4bf0",
+        "title": "Summer Intern - Digital & Technology - AI & Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756793572,
+        "date_posted": 1756793572,
+        "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2026-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000107664",
+        "locations": [
+            "Holmdel, NJ",
+            "NYC",
+            "Bethlehem, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guardian-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guardian Life",
+        "id": "78fea446-98b3-4c40-9638-e76fcd5f5f17",
+        "title": "2026 Guardian Summer Intern - Digital & Technology - Data Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756793573,
+        "date_posted": 1756793573,
+        "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2026-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000107667",
+        "locations": [
+            "Holmdel, NJ",
+            "NYC",
+            "Bethlehem, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guardian-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guardian Life",
+        "id": "4379cbc8-ee5a-4631-a975-3fc85cc322a1",
+        "title": "Summer Intern - Artificial Intelligence Business Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756793568,
+        "date_posted": 1756793568,
+        "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Holmdel/XMLNAME-2026-Guardian-Summer-Intern--Artificial-Intelligence-Business-Analyst_R000107476",
+        "locations": [
+            "Holmdel, NJ",
+            "Bethlehem, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guardian-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Dominion Energy",
+        "id": "b939304e-4f78-4f9b-a35c-7785b8337188",
+        "title": "Intern \u2013 IT Database Monitoring",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1756793341,
+        "date_posted": 1756793341,
+        "url": "https://careers.dominionenergy.com/job/CAYCE-Intern-IT-Database-Monitoring-Richmond,-VA-or-Columbia,-SC-SC-29033/1321558500/?ats=successfactors",
+        "locations": [
+            "Richmond, VA",
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dominion-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
