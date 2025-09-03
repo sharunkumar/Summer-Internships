@@ -202922,7 +202922,7 @@
         "company_name": "McKinney",
         "id": "c1594392-5219-4bdb-9f4c-6bbfe93e804e",
         "title": "Intern \u2013 Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -206585,7 +206585,7 @@
         "company_name": "Eight Sleep",
         "id": "f661f3e1-e3bd-4e3b-921a-87a50652d0be",
         "title": "Hardware Support & Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -213896,7 +213896,7 @@
         "company_name": "Perseus Group",
         "id": "c5da6175-1c3c-42ec-89e4-74c588029c24",
         "title": "Front End Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214340,7 +214340,7 @@
         "company_name": "HNTB",
         "id": "d9271d06-8ee9-41ec-8e10-3e9cae792197",
         "title": "Toll Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -221661,7 +221661,7 @@
         "company_name": "Horizon Development Group",
         "id": "20c828f7-c19a-41ef-b04b-7dd400907f7a",
         "title": "IT Support Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -225886,7 +225886,7 @@
         "company_name": "Tenstorrent",
         "id": "6f9321d4-c651-4adf-bed1-1ff6ee4fbbe9",
         "title": "AI Hardware Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -237659,7 +237659,7 @@
         "company_name": "GeoComply",
         "id": "ac82ebc2-4f30-4424-af0b-990bc521a63e",
         "title": "Data Scientist - Anti-spoofing ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -249657,7 +249657,7 @@
         "company_name": "cencora",
         "id": "07fdf50a-d696-433a-be4a-fbf904c71de7",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -253553,7 +253553,7 @@
         "company_name": "Arch Capital Group",
         "id": "773a39eb-e8d5-46e9-9bc7-423b194bce83",
         "title": "Technology Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -255315,5 +255315,157 @@
         "date_posted": 1756902806,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gensyn",
+        "id": "f77cdfb9-e8db-45de-82ea-2c529cd2f8f8",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1756904223,
+        "date_posted": 1746064726,
+        "url": "https://job-boards.eu.greenhouse.io/gensyn/jobs/4579609101",
+        "locations": [
+            "Remote in Germany",
+            "Remote in USA",
+            "Remote in Spain",
+            "Remote in Italy",
+            "Remote in France"
+        ],
+        "company_url": "https://simplify.jobs/c/Gensyn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GeoComply",
+        "id": "8f3cb358-f1b8-4688-9e6b-7989d8892911",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756906319,
+        "date_posted": 1756424046,
+        "url": "https://jobs.lever.co/geocomply-2/4257b75f-980a-4aec-aeab-a86d3a1eff0b/apply",
+        "locations": [
+            "Seattle, WA",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/GeoComply",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "date_updated": 1756907922,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://interdigital.wd5.myworkdayjobs.com/en-US/InterDigital_Intern/job/LosAltos_CA/Intern--Deep-Learning-for-Image-and-Video-Processing_REQ25-1014",
+        "company_name": "InterDigital",
+        "title": "Deep Learning for Image and Video Processing",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2025",
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "ee0379ef-c1e4-42e8-a423-0a7c99314e64",
+        "date_posted": 1756907922,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756908502,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/Cloud-Developer-Associate--Intern-_RQ205801",
+        "company_name": "GDIT",
+        "title": "Cloud Developer Associate",
+        "locations": [
+            "Bossier City, LA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "3013a6b5-07d8-4678-a461-3932a14ab861",
+        "date_posted": 1756908502,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "49943157-2491-4f93-bafd-07f0d55e97d5",
+        "title": "UPS Technology Group Summer 2026 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756908472,
+        "date_posted": 1756908472,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/UPS-Technology-Group-Summer-2026-Internship---NJ_R25031060",
+        "locations": [
+            "Mahwah, NJ",
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "0136df5a-b107-4bf9-8903-03cab92ec4f0",
+        "title": "GE Vernova Gas Power Aeroderivative Commercial Internship",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1756852878,
+        "date_posted": 1756852878,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/GE-Vernova-Gas-Power-Aeroderivative-Commercial-Internship---Summer-2026_R5017365-3",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
