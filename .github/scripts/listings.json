@@ -199034,7 +199034,7 @@
         "company_name": "ByteDance",
         "id": "4126330c-823d-4312-856e-55a2b0e44924",
         "title": "Strategic Analysis Intern - AI Innovation Business - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -201634,7 +201634,7 @@
         "id": "33ff25a9-0363-4486-acfd-48422c94be84",
         "title": "ERP Internship: Rising Senior Technology",
         "category": "AI/ML/Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -212875,7 +212875,7 @@
         "company_name": "TikTok",
         "id": "2b16e951-2f34-4151-9329-106950b31ab0",
         "title": "Backend Software Engineer Intern - Tiktok-Global Live-Foundation - 2026 Summer - BS/MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -228179,7 +228179,7 @@
         "company_name": "HeyGen",
         "id": "f1f4fc09-05bb-40ce-9cff-8f8017ebcd66",
         "title": "AI Research Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -229519,7 +229519,7 @@
         "company_name": "Seagate Technology ",
         "id": "adb0210a-18d3-43e3-b82b-b3ebb9bf0635",
         "title": "Summer Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -231772,7 +231772,7 @@
         "company_name": "Merchants Bank of Indiana",
         "id": "bbf63b20-d066-4111-b240-60f7ff79e55f",
         "title": "Capital Markets Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -231869,7 +231869,7 @@
         "company_name": "Merchants Bank of Indiana",
         "id": "08d3d9af-17d4-4a2a-9d03-57037606b2c5",
         "title": "Risk Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -231916,7 +231916,7 @@
         "company_name": "Merchants Bank of Indiana",
         "id": "da25d9a4-381f-4ff1-bc0c-4240b1bbc1fe",
         "title": "Information Security Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -237402,7 +237402,7 @@
         "company_name": "RTX",
         "id": "bcc56bb2-7be0-484f-a78a-719371a51424",
         "title": "D\u00e9veloppeur Full-Stack Junior - Junior Full-Stack Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -239356,7 +239356,7 @@
         "company_name": "Verisk",
         "id": "ee80474f-0dd7-402f-a546-7e6cb19b2530",
         "title": "Tech Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -239840,7 +239840,7 @@
         "company_name": "Generac",
         "id": "79e3cbec-8481-42cc-9909-fda4a887f312",
         "title": "IT Intern \u2013 Cybersecurity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242632,7 +242632,7 @@
         "company_name": "GeoComply",
         "id": "70ff6516-59b6-474e-9cbd-da2111a9dce4",
         "title": "ML Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252556,7 +252556,7 @@
         "company_name": "RoboForce",
         "id": "13b5c091-bc63-48c9-9ba4-702fabb6939c",
         "title": "Robotics Hardware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -255350,7 +255350,7 @@
         "company_name": "GeoComply",
         "id": "8f3cb358-f1b8-4688-9e6b-7989d8892911",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -258313,6 +258313,1011 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lennar Corporation",
+        "id": "aa6c6330-b78f-4b38-a2d3-898c9fda7032",
+        "title": "Future Builders Internship Program: Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1756966914,
+        "date_posted": 1756966914,
+        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-Internship-Program--Software-Engineering_R25_0000003647",
+        "locations": [
+            "Bentonville, AR",
+            "Miami, FL",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Merchants Bank of Indiana",
+        "id": "6a53c0ff-edd4-4cd8-80bc-8602c66f4bf1",
+        "title": "Business Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756967052,
+        "date_posted": 1756967052,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3548675",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Merchants-Bank-Of-Indiana",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Merchants Bank of Indiana",
+        "id": "42a1a934-128a-4ecf-bff0-2f465deea1dc",
+        "title": "Business Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756967041,
+        "date_posted": 1756967041,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3519373",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Merchants-Bank-Of-Indiana",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Geotab",
+        "id": "c17f680d-d8e7-40b7-8ed5-7b267458a25c",
+        "title": "Product Marketing Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756942202,
+        "date_posted": 1756942202,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4880789008",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Meijer",
+        "id": "eb4a2d58-78a6-4f46-80de-f29f72094748",
+        "title": "Information Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756945483,
+        "date_posted": 1756945483,
+        "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Information-Technology-Intern--Summer-2026_R000606587",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/64266d7e-3396-4232-b0e2-6d27da163273",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Inmar Intelligence",
+        "id": "d77ca99a-a69e-4020-9293-456c6cd5ea96",
+        "title": "Software Engineering Internships",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756945612,
+        "date_posted": 1756945612,
+        "url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Software-Engineering-Internships--Summer-2026_JY2526509",
+        "locations": [
+            "Winston-Salem, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Inmar-Intelligence",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lennar Corporation",
+        "id": "d0decfe0-7b2b-4617-8fdf-1c020bed984e",
+        "title": "Future Builders Internship Program - Data Analysis",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1756969634,
+        "date_posted": 1756969634,
+        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-Internship-Program---Data-Analysis_R25_0000003650",
+        "locations": [
+            "Bentonville, AR",
+            "Miami, FL",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sonatus",
+        "id": "317d8fc2-0ea0-4f0e-a6f5-13d203f20ed0",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Winter 2026"
+        ],
+        "date_updated": 1756969412,
+        "date_posted": 1756969412,
+        "url": "https://job-boards.greenhouse.io/sonatus/jobs/4854696007",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonatus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BlueCross BlueShield of Nebraska",
+        "id": "a064e617-0a49-438c-a6dc-c28dc5b95a2c",
+        "title": "Data Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756970536,
+        "date_posted": 1756970536,
+        "url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern_JR100875",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/BlueCross-BlueShield-Of-Nebraska",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Al Warren Oil Company",
+        "id": "72ba587a-90a9-4462-a659-982eb9067c6a",
+        "title": "Software Developer",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756939101,
+        "date_posted": 1756939101,
+        "url": "https://apply.workable.com/al-warren-oil-company-inc/j/FD7A052283/apply",
+        "locations": [
+            "Elk Grove Village, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Al-Warren-Oil-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "DIRECTV",
+        "id": "d28d901d-a74a-425e-85b2-c1450fcb876c",
+        "title": "2026 DIRECTV Customer Operations Product Management Internship - MBA",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756945675,
+        "date_posted": 1756945675,
+        "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/XMLNAME-2026-DIRECTV-Customer-Operations-Product-Management-Internship--MBA-_R250247",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/DIRECTV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hoffman Construction",
+        "id": "5330b659-6ec0-4daf-91a5-1af37c21f08a",
+        "title": "Data Analyst Intern Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756972313,
+        "date_posted": 1756972313,
+        "url": "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/969",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Hoffman-Construction",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Activision-Blizzard",
+        "id": "cdb63a2b-dc3c-4c29-a3f5-67b77d532406",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756973533,
+        "date_posted": 1756973533,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Santa-Monica/Data-Analyst-Intern_R025896",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "64c2a3d3-ac89-4cb8-a736-2f1491c2f37a",
+        "title": "Intern \u2013 Product Line Data Analyst",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1756973199,
+        "date_posted": 1756973199,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/MTI---California---Remote-C/Intern---Product-Line-Data-Analyst_JR81982",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DIRECTV",
+        "id": "751437dc-886b-4b02-a9db-5c05d9115340",
+        "title": "DIRECTV FOR BUSINESS\u00ae Engineering and Product Development Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756945678,
+        "date_posted": 1756945678,
+        "url": "https://directv.wd1.myworkdayjobs.com/careers/job/Clarksburg-MD/XMLNAME-2026-DIRECTV-FOR-BUSINESS--Engineering-and-Product-Development-Internship_R250253",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/DIRECTV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meijer",
+        "id": "25bbb8a5-897a-477e-8ce2-d0449bb2146f",
+        "title": "Data Science and Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756945481,
+        "date_posted": 1756945481,
+        "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Data-Science-and-Analytics-Intern--Summer-2026_R000606580",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/64266d7e-3396-4232-b0e2-6d27da163273",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vercel",
+        "id": "49ade646-339f-4c7d-b18a-b4cbeee9566d",
+        "title": "Engineering Summer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1756976042,
+        "date_posted": 1756976042,
+        "url": "https://job-boards.greenhouse.io/vercel/jobs/5628292004",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vercel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1756976957,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Irving---US--2026_25840226",
+        "company_name": "Citi",
+        "title": "Functions - Quantitative Risk Management",
+        "locations": [
+            "Irving, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "efbfb1ce-d474-47df-9a95-e12e3cccef47",
+        "date_posted": 1756976957,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756977021,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Tampa---US--2026_25839797",
+        "company_name": "Citi",
+        "title": "Functions - Quantitative Risk Management",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "a9ed3739-a385-4a97-b657-c79e73a0ad48",
+        "date_posted": 1756977021,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "cf902aea-acc6-4735-8bff-bb131ab95cf2",
+        "title": "UTG \u2013 Software Engineer Internships",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756979764,
+        "date_posted": 1756979764,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000079813875",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eluvio",
+        "id": "1f0509b9-4976-44da-865d-8b144d7d72ec",
+        "title": "Machine Learning / Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1756981625,
+        "date_posted": 1756981625,
+        "url": "https://apply.workable.com/eluvio/j/247DF877DF/apply",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eluvio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "date_updated": 1756982564,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://pg.wd5.myworkdayjobs.com/en-US/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Masters-Degree--Internship_R000137918",
+        "company_name": "P&G",
+        "title": "Data Scientist (Masters Degree) Internship",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "f918afe3-6003-4415-a0e3-65ec2103093e",
+        "date_posted": 1756982564,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756982713,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Data-Analyst--Regulatory-Data---Systems---Winter-2026--Co-op-Internship----4-Months_R250021478",
+        "company_name": "BMO",
+        "title": "Data Analyst, Regulatory Data & Systems",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "e1ae8c2e-2dfd-4211-b5b4-ec214d6570f0",
+        "date_posted": 1756982713,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756982796,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://myhrabc.wd5.myworkdayjobs.com/en-US/Global/job/Orange-CA/InSite-Data-Analyst-Intern_R2515584",
+        "company_name": "Cencora",
+        "title": "InSite Data Analyst",
+        "locations": [
+            "Orange, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "58410c56-1603-4cbf-b6c6-017ea651b8dd",
+        "date_posted": 1756982796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756983017,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-spscommerce.icims.com/jobs/9785/software-engineer-intern-%28talent-pool%29/job",
+        "company_name": "SPS Commerce",
+        "title": "Software Engineer Intern (Talent Pool)",
+        "locations": [
+            "Rogers, AR"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "05e8ae04-19d2-404a-a7a0-ec625c9d3eb8",
+        "date_posted": 1756983017,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756983081,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-spscommerce.icims.com/jobs/9793/software-engineer-intern-%28talent-pool%29/job",
+        "company_name": "SPS Commerce",
+        "title": "Software Engineer Intern (Talent Pool)",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0937c192-2e78-4411-b091-509574071974",
+        "date_posted": 1756983081,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756983177,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/01-Building-01-Windsor-Locks-One-Hamilton-Road-Windsor-Locks-CT-06096-USA/EACS-SDE-Project-Engineer-Co-Op--Spring-Summer-2026--Onsite-_01787837",
+        "company_name": "RTX",
+        "title": "EACS SDE Project Engineer Co-Op",
+        "locations": [
+            "Windsor Locks, CT,"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "fb9eb52e-0a30-41e7-8e6b-c3173d305b14",
+        "date_posted": 1756983177,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756983311,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-gdms.icims.com/jobs/67921/software-engineering-intern/job",
+        "company_name": "General Dynamics",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Canonsburg, PA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "71b12a2f-2062-4024-bf3b-65abd6891fce",
+        "date_posted": 1756983311,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756983421,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/TSS-Software-Tester-Associate--Intern-_RQ204605",
+        "company_name": "GDIT",
+        "title": "TSS Software Tester Associate",
+        "locations": [
+            "Bossier City, LA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c5f1deea-00cf-45df-b85c-3fd7093b6af1",
+        "date_posted": 1756983421,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756983632,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4597539006",
+        "company_name": "Visier",
+        "title": "Software Developer Co-op",
+        "locations": [
+            "Vancouver, BC, CAN"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1772edc4-93ba-4b69-893a-5ec2088d6d3b",
+        "date_posted": 1756983632,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756983721,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersExternal/job/Rosemont-IL/Intern---Data-Engineer--M-A--Hybrid--Onsite---Remote-_R271233",
+        "company_name": "US Foods",
+        "title": "Data Engineer, M&A",
+        "locations": [
+            "Rosemont, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "1f7a408e-efa9-45d7-80f7-adc212aa35cc",
+        "date_posted": 1756983721,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756983809,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersExternal/job/Rosemont-IL/Intern---Software-Engineer--Hybrid--Onsite---Remote-_R271111",
+        "company_name": "US Foods",
+        "title": "Software Engineer",
+        "locations": [
+            "Rosemont, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f5b190b7-841b-4a48-b1e1-ac702b4ea510",
+        "date_posted": 1756983809,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756983909,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Intern---Software-Quality-Assurance_R12533",
+        "company_name": "Simon",
+        "title": "Software Quality Assurance",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "8cba827f-02a4-4568-b791-4a358257354a",
+        "date_posted": 1756983909,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756983979,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Intern---Azure-Cloud-Administration_R12531",
+        "company_name": "Simon",
+        "title": "Azure Cloud Administration",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "76801775-843c-4789-9b6a-50aa08de2593",
+        "date_posted": 1756983979,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756984194,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Co-Op--Summer-Fall-2026---Onsite-_01786610",
+        "company_name": "RTX",
+        "title": "Software Engineering Co-Op (Onsite)",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f7c3d1e6-1b8f-4c0f-91df-68ade7145971",
+        "date_posted": 1756984194,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756984246,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HMN03-SIS-Sensors---Burnsville-Ea-14300-Judicial-Rd-Burnsville-MN-55306-USA/Software-Engineer-Co-Op--Spring-Summer-2026--Hybrid-_01789800",
+        "company_name": "RTX",
+        "title": "Software Engineer Co-Op (Hybrid)",
+        "locations": [
+            "Burnsville, MN"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Spring 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d90b7631-08b3-4e14-8cb1-1d6b360c9796",
+        "date_posted": 1756984246,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756984285,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HFL34-Melbourne-FL-1100-W-Hibiscus-Blvd---Melbourne-FL-32902-2704-USA/Software-Engineer-Co-Op--Spring-Summer-2026--Hybrid-_01789464",
+        "company_name": "RTX",
+        "title": "Software Engineer Co-Op (Hybrid)",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Spring 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d9ad917e-3721-4e6a-9523-942fc4fac6c3",
+        "date_posted": 1756984285,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756985132,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Co-op--Summer-Fall-2026---Onsite-_01786576",
+        "company_name": "RTX",
+        "title": "Software Engineering Co-op (Onsite)",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c1b07ddb-3979-478d-aa31-022bf7adc344",
+        "date_posted": 1756985132,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amgen",
+        "id": "b485c770-9549-41a6-8d1d-f2b3fafd6797",
+        "title": "Grad Intern - Amgen Technology & Medical Organizations",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756953339,
+        "date_posted": 1756953339,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Amgen-Technology---Medical-Organizations--Summer-2026-_R-224644",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PharmD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medline",
+        "id": "42a57a5b-f77a-4ab4-a0c7-e0f3badfd740",
+        "title": "Vendor Operations & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756942562,
+        "date_posted": 1756942562,
+        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Vendor-Operations---Analytics-Intern---Summer-2026_R2514500",
+        "locations": [
+            "Northbrook, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanguard",
+        "id": "2e9f365d-6cdd-46bf-8577-bff7e1b6956b",
+        "title": "College to Corporate Internship - Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756942591,
+        "date_posted": 1756942591,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-Internship---Data-Scientist_168645",
+        "locations": [
+            "Malvern, PA",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medline",
+        "id": "db07b2e3-55fb-496b-8c90-df5c06e7f9fe",
+        "title": "IT Business Systems Analyst Intern - Source2Pay",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756942562,
+        "date_posted": 1756942562,
+        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Business-Systems-Analyst-Intern--Source2Pay----Summer-2026_R2514515",
+        "locations": [
+            "Northbrook, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
