@@ -223292,7 +223292,7 @@
         "company_name": "Breeze Airways",
         "id": "51086c32-d714-4b60-ac5c-2ee448032dbc",
         "title": "Information Security Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -240984,7 +240984,7 @@
         "company_name": "Intact",
         "id": "e0cbaf75-8ce2-4613-ae61-80da17c2259c",
         "title": "Data Scientist I-4 Month Co-op/Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -241293,7 +241293,7 @@
         "company_name": "GuideWell Mutual",
         "id": "4e8394d9-0876-405f-b6a1-dad843a541f3",
         "title": "Commercial Analytics Summer 2026 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -243110,7 +243110,7 @@
         "company_name": "CACI",
         "id": "04bdcb46-76de-40ed-be2e-dd10a0779a98",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -244913,7 +244913,7 @@
         "company_name": "NiSource",
         "id": "6d0283ba-f30e-4700-a834-d876919150f6",
         "title": "Cybersecurity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -247586,7 +247586,7 @@
         "company_name": "Comcast",
         "id": "bc975d9e-15fd-4b9b-9965-1a32141557c5",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -249011,8 +249011,8 @@
             "Summer 2026"
         ],
         "category": "Quantitative Finance",
-        "source": "XaJason",
-        "id": "91505614-1e0b-43d9-b915-9ee37cfd9975",
+        "source": "Simplify",
+        "id": "ae097e41-e8cf-4a9c-ac41-c468d8a38d2f",
         "date_posted": 1756801538,
         "company_url": "",
         "is_visible": true
@@ -257363,7 +257363,7 @@
         "company_name": "Ameriprise Financial",
         "id": "ce5fe1ff-bd45-42cd-99ed-dc2173a13963",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -258199,7 +258199,7 @@
         "company_name": "Lennar Corporation",
         "id": "58317332-6a09-4df7-8e4f-3f1db09b116e",
         "title": "Future Builders Internship Program - Security Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -259314,6 +259314,284 @@
             "Northbrook, IL"
         ],
         "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nike",
+        "id": "7f9390d8-f194-43a7-9411-1612e49ee6a1",
+        "title": "Software Engineering Undergraduate Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1756997561,
+        "date_posted": 1756997561,
+        "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineering-Undergraduate-Internship_R-68767",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Nike",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dow Jones",
+        "id": "247718cb-a4b2-4250-9bdc-df6bd43e6233",
+        "title": "Summer 2026 Internship - OPIS Strategic Insights Team - Chemical Market Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756998158,
+        "date_posted": 1756513550,
+        "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2026-Internship---OPIS-Strategic-Insights-Team--Chemical-Market-Analytics_Job_Req_48482",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dow-Jones",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pulse",
+        "id": "b22dc02a-4fa1-4467-beeb-25e0aeb45218",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757000495,
+        "date_posted": 1757000495,
+        "url": "https://jobs.ashbyhq.com/pulse/e9a43a34-1b7b-4ab8-b646-89f4db85d264/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Run-Pulse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Securian Financial Group",
+        "id": "71559c23-7792-4d00-92e9-b3a2e3347d6e",
+        "title": "Enterprise Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757003682,
+        "date_posted": 1757003682,
+        "url": "https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Enterprise-Data---Analytics-Intern--Hybrid-_R-010162",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Securian-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qorvo",
+        "id": "0407d5a2-ca28-46e6-b21c-b4542f0e7354",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757004347,
+        "date_posted": 1757004347,
+        "url": "https://careers.qorvo.com/job/Hillsboro-Software-Engineer-Intern-OR-97124/1322876900/?ats=successfactors",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marshall Wace",
+        "id": "02e0d8f6-9108-49c6-9488-5887adbf5ea7",
+        "title": "Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757004325,
+        "date_posted": 1757004325,
+        "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/7998360002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Marshall-Wace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OffDeal",
+        "id": "1587dbfa-8e2e-457c-ad5c-c83ab32150d8",
+        "title": "Full Stack Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757004101,
+        "date_posted": 1757004101,
+        "url": "https://jobs.ashbyhq.com/offdeal/241f9277-97d4-4587-988f-5f7044c5a62b/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/OffDeal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Generac",
+        "id": "a8616ca4-1cff-43dd-a738-3bfb48fc6820",
+        "title": "Marketing Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1757003803,
+        "date_posted": 1757003803,
+        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Pewaukee-WI---USA/Fall-2025-Marketing-Analytics-Intern_JR9623",
+        "locations": [
+            "Waukesha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Generac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GuideWell Mutual",
+        "id": "4a2d1362-296c-4a9d-b2c3-df023fd085d3",
+        "title": "Commercial Analytics Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757005175,
+        "date_posted": 1757005175,
+        "url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41010",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/GuideWell-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "f3319030-674a-4957-a1cd-043252565724",
+        "title": "UPS Global Finance Analytics Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757007839,
+        "date_posted": 1757007839,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Global-Finance-Summer-2026-Analytics-Internship_R25031235",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Western & Southern Financial Group",
+        "id": "80f17a69-26e2-47cf-bc6b-ca7f808fd21d",
+        "title": "Rotational Cybersecurity Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757006802,
+        "date_posted": 1757006802,
+        "url": "https://careers-westernsouthern.icims.com/jobs/23684/job",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Southern-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson & Johnson",
+        "id": "86b4d800-5234-4e19-89dd-3ef19775584e",
+        "title": "Software Engineering Intern/Co Op",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757005667,
+        "date_posted": 1757005667,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/MAKE-2026-Software-Engineering-Intern-Co-Op_R-031634",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
