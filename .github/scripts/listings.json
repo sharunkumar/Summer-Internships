@@ -244030,7 +244030,7 @@
         "company_name": "Netsmart",
         "id": "b31fbe44-e8f6-43dd-b46a-d66d9442b8bd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266034,7 +266034,7 @@
         "company_name": "Meta",
         "id": "8e746c54-7f40-42af-85a6-87f03c8c0ac2",
         "title": "Research Scientist Intern - Audio Presence - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -266798,7 +266798,7 @@
         "company_name": "AECOM",
         "id": "5e913439-654f-4841-86e1-f45f834a4f51",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
