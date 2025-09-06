@@ -182497,7 +182497,7 @@
         "company_name": "Bridgewater Associates",
         "id": "da0a3c5f-37ed-491e-aaa9-cf7e2d266557",
         "title": "Investment Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203558,7 +203558,7 @@
         "company_name": "Altera Digital Health",
         "id": "1030159f-0fa3-4cab-b158-cb74139e0fa2",
         "title": "Intern \u2013 Operational Innovation & Digital Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -211167,7 +211167,7 @@
         "company_name": "TikTok",
         "id": "a3e18a60-895e-46eb-88bf-17c691846864",
         "title": "Software Development Engineer in Test Intern - Tiktok-Global Live-Fundamental - 2026 Summer - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -244054,7 +244054,7 @@
         "company_name": "Netsmart",
         "id": "67c68ab9-09a9-4dd6-a013-251b25db2859",
         "title": "IT System Administrator Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -244078,7 +244078,7 @@
         "company_name": "Netsmart",
         "id": "55fda880-b60c-4d26-8355-5ff2da5334f5",
         "title": "Technical Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256246,7 +256246,7 @@
         "company_name": "NextEra Energy",
         "id": "01d278d0-19a4-4654-b05a-3bec75a07262",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262365,7 +262365,7 @@
         "company_name": "Meta",
         "id": "b4ca9c62-9e9f-4667-ac2d-4243366cff24",
         "title": "Research Scientist Intern - Switchable Optical Devices - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262717,7 +262717,7 @@
         "company_name": "Northrop Grumman",
         "id": "b601e5a4-7c31-4f34-a1dd-6a5d3b0f25f1",
         "title": "2026 Spring Cyber Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -267270,6 +267270,32 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "3cef4cbb-560d-4265-9198-be35cef07e54",
+        "title": "Research Scientist Intern - Large Foundation Models and Generative AI - PhD",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1757143153,
+        "date_posted": 1757143153,
+        "url": "https://www.metacareers.com/jobs/3219980721500186",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
