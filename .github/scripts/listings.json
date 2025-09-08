@@ -214782,7 +214782,7 @@
         "company_name": "Cotiviti",
         "id": "3d0a232d-9aa7-4e00-a5f3-9b83b0e5dc21",
         "title": "Intern \u2013 Technology Research Assistant/Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231872,7 +231872,7 @@
         "company_name": "Merchants Bank of Indiana",
         "id": "08d3d9af-17d4-4a2a-9d03-57037606b2c5",
         "title": "Risk Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -234766,7 +234766,7 @@
         "company_name": "Micron Technology",
         "id": "65704037-6262-44a5-8000-19faa3227d5f",
         "title": "Intern \u2013 Systems Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -244511,7 +244511,7 @@
         "company_name": "Santander",
         "id": "c5dca89f-1808-449e-92f3-12c222d94eda",
         "title": "IT Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257244,7 +257244,7 @@
         "company_name": "Sanofi",
         "id": "1c69ae71-4050-40fc-980d-2682ec12527a",
         "title": "Bioinformatic Data Scientist \u2013 Vaccine",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -266034,7 +266034,7 @@
         "company_name": "Meta",
         "id": "8e746c54-7f40-42af-85a6-87f03c8c0ac2",
         "title": "Research Scientist Intern - Audio Presence - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
