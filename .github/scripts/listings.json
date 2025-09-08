@@ -257549,7 +257549,7 @@
         "company_name": "RTX",
         "id": "23cd51b3-cd3a-4952-a232-4140dd3378d6",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257573,7 +257573,7 @@
         "company_name": "RTX",
         "id": "1623c01f-d90e-43df-ad45-f24b9a4f7d6b",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -259769,7 +259769,7 @@
         "company_name": "Heidi Health",
         "id": "78525e5e-ef83-4e20-ad71-f27d6a9a0e7a",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261766,7 +261766,7 @@
         "company_name": "RTX",
         "id": "b90d7608-8ab0-4273-a34a-ecb274d10f16",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261814,7 +261814,7 @@
         "company_name": "RTX",
         "id": "876517ea-e6fe-4b98-91eb-648723c85cf8",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -261864,7 +261864,7 @@
         "company_name": "RTX",
         "id": "28d88d1d-f766-4b2f-a0aa-833de5788d5e",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -261889,7 +261889,7 @@
         "company_name": "RTX",
         "id": "16b576e5-bba5-4dcf-afa8-362fa0bba907",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -267778,6 +267778,78 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Micron Technology",
+        "id": "b76dbe91-0033-4b60-aa96-cf6afa00caf3",
+        "title": "Intern \u2013 Mcbu Npi Manager",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757294382,
+        "date_posted": 1757294382,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---MCBU-NPI-Manager_JR82324",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boom Supersonic",
+        "id": "bf42600e-48c5-4715-8a69-9ff948000744",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757299585,
+        "date_posted": 1757299585,
+        "url": "https://job-boards.greenhouse.io/boomsupersonic/jobs/5643294004",
+        "locations": [
+            "Centennial, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boom-Supersonic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boom Supersonic",
+        "id": "19f6eb96-f28f-4504-96ce-83a467d83955",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757300428,
+        "date_posted": 1757300428,
+        "url": "https://job-boards.greenhouse.io/boomsupersonic/jobs/5643292004",
+        "locations": [
+            "Centennial, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boom-Supersonic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
