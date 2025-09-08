@@ -267656,5 +267656,128 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "6e949701-92f4-41fb-b849-5d4ed94e6b32",
+        "title": "Fall 2026 Co-Op Engineer",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1757272244,
+        "date_posted": 1757272244,
+        "url": "https://careers-peraton.icims.com/jobs/159303/job",
+        "locations": [
+            "Blacksburg, VA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "c9152c0d-18c8-435e-9d99-59196a1f736e",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757271309,
+        "date_posted": 1757271309,
+        "url": "https://careers-peraton.icims.com/jobs/158532/job",
+        "locations": [
+            "Blacksburg, VA",
+            "Reston, VA",
+            "West Lafayette, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "b47577f5-a83e-4103-8697-e5ddcdde8467",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757269706,
+        "date_posted": 1757269706,
+        "url": "https://careers-peraton.icims.com/jobs/158533/job",
+        "locations": [
+            "Blacksburg, VA",
+            "Reston, VA",
+            "West Lafayette, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Peraton",
+        "id": "cabc910b-6be7-4935-ad11-b18054c9b3b9",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757269703,
+        "date_posted": 1757269703,
+        "url": "https://careers-peraton.icims.com/jobs/158534/job",
+        "locations": [
+            "Blacksburg, VA",
+            "Reston, VA",
+            "West Lafayette, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Definity Financial",
+        "id": "63a940da-e269-490d-a033-94a70626dc51",
+        "title": "Technology Solutions",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1757285398,
+        "date_posted": 1757285398,
+        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/8584",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Definity-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
