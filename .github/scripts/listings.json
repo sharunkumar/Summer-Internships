@@ -216057,7 +216057,7 @@
         "company_name": "Covestro",
         "id": "3bf0335a-8980-4bed-9418-3770fd882b50",
         "title": "Intern \u2013 m/f/d - Optimization & Data Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -232452,7 +232452,7 @@
         "company_name": "GTS",
         "id": "f0060a66-81ed-4f2e-9ef6-c9058d04101f",
         "title": "Quantitative Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252229,7 +252229,7 @@
         "company_name": "Comcast",
         "id": "0925bdc1-1abe-435a-9022-ead199d4e626",
         "title": "ERP Internship: Rising Senior Cybersecurity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257338,7 +257338,7 @@
         "company_name": "RTX",
         "id": "1b735562-bea2-486e-9d19-3d787acabd83",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261790,7 +261790,7 @@
         "company_name": "RTX",
         "id": "9c83ce0c-2b1c-412e-9f36-1ed26fcbc323",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261840,7 +261840,7 @@
         "company_name": "RTX",
         "id": "7493fc46-5591-43d5-907d-ec55f7d78264",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261914,7 +261914,7 @@
         "company_name": "RTX",
         "id": "09c04b07-fc94-4e49-8586-55649acb8e8c",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261938,7 +261938,7 @@
         "company_name": "RTX",
         "id": "01230c26-f43c-4b26-938c-6774fa286dfb",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262388,7 +262388,7 @@
         "company_name": "Inventing for Life",
         "id": "4c7b5883-496d-4cab-af25-304985f77b9a",
         "title": "Future Talent Program \u2013 Co-Op - Chemical Biology Proteomics Data Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262411,7 +262411,7 @@
         "company_name": "Leidos",
         "id": "9dc39720-12d4-4e36-869d-c221e27e2f43",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262503,7 +262503,7 @@
         "company_name": "Inventing for Life",
         "id": "a157b0b9-72f7-451f-949f-d77c0b0922fc",
         "title": "IT Emerging Talent Summer Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267849,6 +267849,1378 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "date_updated": 1757314807,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://job-boards.greenhouse.io/perpay/jobs/4076978007",
+        "company_name": "Perpay",
+        "title": "Data Science Internship",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "21fb36d0-316b-4898-ad69-1d645850a8b1",
+        "date_posted": 1757314807,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757315035,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Quantitative-Pharmacology---Pharmacometrics---Intern_R362042",
+        "company_name": "Merck & Co.",
+        "title": "Quantitative Pharmacology & Pharmacometrics",
+        "locations": [
+            "West Point, PA",
+            "Rahway, NJ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "f2c035ed-1a14-4f71-ba69-8df322dc4c81",
+        "date_posted": 1757315035,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757315257,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R362134",
+        "company_name": "Merck & Co.",
+        "title": "AI/ML Computational Toxicology",
+        "locations": [
+            "West Point, PA",
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "07940033-bd8b-4ee8-9739-a91a74cf1b01",
+        "date_posted": 1757315257,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757315381,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/kensho_careers/job/New-York-NY/Machine-Learning-Intern---Summer-2026_319677-1",
+        "company_name": "Kensho",
+        "title": "Machine Learning Intern",
+        "locations": [
+            "New York, NY",
+            "Cambridge, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "5da79a66-5fd0-4618-8a63-6fdf30b06620",
+        "date_posted": 1757315381,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757315479,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Data-Science-Intern---Fall-2025_32955",
+        "company_name": "CME Group",
+        "title": "Data Science Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "586a2c73-200f-4bd8-9fa5-5f356ede88a9",
+        "date_posted": 1757315479,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757316678,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2026-Autonomy---Robotics-Engineering-Intern_5851",
+        "company_name": "AeroVironment",
+        "title": "Autonomy & Robotics Engineering Intern",
+        "locations": [
+            "Simi Valley, CA",
+            "Lawrence, KS",
+            "Huntsville, AL",
+            "Minneapolis, MN",
+            "Arlington, VA",
+            "Albuquerque, NM",
+            "Stevensville, MD",
+            "Germantown, MD",
+            "Sunrise, FL",
+            "Fairborn, OH",
+            "Melbourne, FL",
+            "Petaluma, CA",
+            "San Diego, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "f79964d7-981e-4a2a-8a1d-2adfc6636ec5",
+        "date_posted": 1757315681,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757315821,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/rsinternboard/jobs/8143483002",
+        "company_name": "Relativity Space",
+        "title": "Robotics Software Engineer Intern",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "392ec530-7c1b-4a8a-afc6-1a64b4209d6a",
+        "date_posted": 1757315821,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757316013,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/kensho_careers/job/New-York-NY/Software-Engineer-Intern---Summer-2026_319680-1",
+        "company_name": "Kensho",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York, NY",
+            "Cambridge, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "623b91aa-1799-4913-979e-e7d944cd1cd0",
+        "date_posted": 1757316013,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757316300,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Hague-Road-Technical-Center---Indianapolis--Indiana_JR33705-1",
+        "company_name": "Allegion",
+        "title": "Firmware Engineer",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "4c075956-66e2-4ef7-b595-d62f7868f7d4",
+        "date_posted": 1757316300,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Cboe",
+        "id": "c29c6bd4-3126-4649-bcd8-12cb808fe9a5",
+        "title": "IAM Analyst Intern - Identity & Access Management",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757318230,
+        "date_posted": 1757318230,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/IAM-Analyst-Intern---Identity---Access-Management_R-4161",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "98a014a8-f035-4a5a-acb5-43838a04d4e7",
+        "title": "Analytics Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1757318178,
+        "date_posted": 1757318178,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Analytics-Intern--Spring-2026_10129165",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cboe",
+        "id": "2b94ba73-3cc5-406e-b726-2b4d269ed10d",
+        "title": "Software Engineer Intern - Real-Time",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757318036,
+        "date_posted": 1757318036,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern---Real-Time_R-4149",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cboe",
+        "id": "9b5c47fb-c45b-4431-a0ff-4d70440d1ac7",
+        "title": "Full-Stack Software Engineer Intern - Ase",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757317847,
+        "date_posted": 1757317847,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Full-Stack-Software-Engineer-Intern---ASE_R-4136",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cboe",
+        "id": "7c86bec4-5242-4413-b44d-cdd368602509",
+        "title": "Software Engineer Intern - Bids",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757317851,
+        "date_posted": 1757317851,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/New-York-NY/Software-Engineer-Intern--BIDS_R-4145",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cboe",
+        "id": "354f597d-edec-4746-af49-2d6a0a737c26",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757317849,
+        "date_posted": 1757317849,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/New-York-NY/Quantitative-Research-Intern_R-4112",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rockwell Automation",
+        "id": "dc483479-857b-467f-becd-633d607b8bd0",
+        "title": "Intern \u2013 Scripting & Automation Support - Lcs",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757317645,
+        "date_posted": 1757317645,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Scripting---Automation-Support--LCS-_R25-5197-2",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cboe",
+        "id": "e81a9694-6bb8-4f2c-a6a3-47ad8b59b23c",
+        "title": "Machine Learning Intern - Regulatory",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757317339,
+        "date_posted": 1757317339,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Machine-Learning-Intern--Regulatory_R-4121",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Cboe",
+        "id": "39372531-165f-4b83-9e76-80623e114916",
+        "title": "Network Operations Center \u2013 Intern - Noc",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757317328,
+        "date_posted": 1757317328,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/Network-Operations-Center--NOC--Intern_R-4119",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cboe",
+        "id": "69150572-540e-4f04-818e-64b0dddf6921",
+        "title": "Software Engineer Intern - Data Vantage",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757317139,
+        "date_posted": 1757317139,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern--Data-Vantage_R-4116",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Williams",
+        "id": "60408756-31d6-4bdf-ac61-de1d621d5d69",
+        "title": "Information Technology Internship - General",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757316832,
+        "date_posted": 1757316832,
+        "url": "https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2026-Information-Technology-Internship---General_R110773",
+        "locations": [
+            "Houston, TX",
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Cboe",
+        "id": "b5c8a5cc-de23-48ee-aaf6-7e857adbdea6",
+        "title": "Cboe Labs Intern - Research and Product Development",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757316604,
+        "date_posted": 1757316604,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Cboe-Labs-Intern---Research-and-Product-Development_R-4123",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Cboe",
+        "id": "aa3405cd-1308-4597-821b-3a8da1e28664",
+        "title": "Cybersecurity Governance Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757316598,
+        "date_posted": 1757316598,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/Cybersecurity-Governance-Intern_R-4138",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Cboe",
+        "id": "0fa8d906-09f6-4e8e-9aef-412f769226eb",
+        "title": "End User Computing \u2013 Intern - Euc",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757316607,
+        "date_posted": 1757316607,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/End-User-Computing--EUC--Intern_R-4144",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cboe",
+        "id": "0d0d27cf-6fac-45f3-a737-1203b5c4e6d8",
+        "title": "Software Engineer Intern - Web",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757316598,
+        "date_posted": 1757316598,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern--Web_R-4130",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cboe",
+        "id": "7d8e9e7b-fbfa-4dd5-8255-78c2c940378d",
+        "title": "Enterprise Applications Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757316604,
+        "date_posted": 1757316604,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/Enterprise-Applications-Engineering-Intern_R-4148",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cboe",
+        "id": "7bb1885b-3d21-4791-b96e-a6f9526b2d8c",
+        "title": "Software Engineer in Test Intern - Data Vantage Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757316593,
+        "date_posted": 1757316593,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Software-Engineer-in-Test-Intern--Data-Vantage-Engineering_R-4157",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cboe",
+        "id": "4d001208-2741-4eeb-96b3-42508942d94a",
+        "title": "Software Engineer Intern - Cboe Clear US",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757316601,
+        "date_posted": 1757316601,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Software-Engineer-Intern---Cboe-Clear-US_R-4113",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cboe",
+        "id": "414dad14-9a8c-4667-8111-8aa4ad237e80",
+        "title": "Software Engineer Intern - Data Pipeline Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757316601,
+        "date_posted": 1757316601,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern---Data-Pipeline-Engineering_R-4143",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zurich Insurance",
+        "id": "2b30ba66-dfeb-4d1d-b330-9368e37dde26",
+        "title": "Predictive Analytics Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757316530,
+        "date_posted": 1757316530,
+        "url": "https://www.careers.zurich.com/job/Schaumburg-Predictive-Analytics-Internship-(Summer-2026)-IL-60159/828211602/?ats=successfactors",
+        "locations": [
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Zurich-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Cboe",
+        "id": "2501fddf-c655-406a-b1fc-5718989cb92d",
+        "title": "Vulnerability Management Intern - Cybersecurity",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757316600,
+        "date_posted": 1757316600,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Vulnerability-Management-Intern---Cybersecurity_R-4160",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rockwell Automation",
+        "id": "1cbd7c36-f2e4-45bc-8954-4581733d23c4",
+        "title": "Digital Data Science Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757315874,
+        "date_posted": 1757315874,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Houston-Texas-United-States/Digital-Data-Science-Analyst-Intern_R25-7558-2",
+        "locations": [
+            "Houston, TX",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "c8b0046f-24ae-44c1-a3be-9e6130c03476",
+        "title": "Tech Consultant intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757314874,
+        "date_posted": 1757314874,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Alpharetta-Georgia-United-States-of-America/Tech-Consultant-intern_1193054",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "LabCorp",
+        "id": "b109771a-b9e1-4fc6-aa77-5c0a7f112ae8",
+        "title": "Intern \u2013 IT Operations & Performance Management Specialist",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1757314172,
+        "date_posted": 1757314172,
+        "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Operations---Performance-Management-Specialist_2529513",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LabCorp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "ed66318e-50ba-4dfd-929c-fb0d5477a6ad",
+        "title": "Data Analyst Intern - Returns",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757313258,
+        "date_posted": 1757313258,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Analyst-Intern---Returns_JR109199",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "dbd5efb8-067b-444d-ae42-6e8c98f3774f",
+        "title": "Embedded Software Development Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757313267,
+        "date_posted": 1757313267,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Embedded-Software-Development-Intern_JR109180",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "be2e5517-ad6f-4a35-a452-0da289f35cf7",
+        "title": "GHG Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757313264,
+        "date_posted": 1757313264,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/GHG-Data-Analyst-Intern_JR109188",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "bc4b1baa-adad-4ae5-8b37-ce3e038a12d4",
+        "title": "Software Development Intern - Consumer Interactions",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757313272,
+        "date_posted": 1757313272,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Consumer-Interactions_JR109212",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "8d412b5c-6ef4-43c3-a810-7d5f3895219c",
+        "title": "Software Development Intern - Route Optimization",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757313272,
+        "date_posted": 1757313272,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Route-Optimization_JR109220",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "8cd76296-e609-465e-bc06-6d9be8dcfd6d",
+        "title": "Software Development Intern - Last Mile",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757313269,
+        "date_posted": 1757313269,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Last-Mile_JR109228",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "7c98f3fc-5882-4720-ab22-daec7614292a",
+        "title": "Software Development Intern - Business Platform",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757313272,
+        "date_posted": 1757313272,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern----Business-Platform_JR109219",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "7402997d-5ce8-4567-954f-849d746e90dc",
+        "title": "AI Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757313257,
+        "date_posted": 1757313257,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR109181",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "7163cee8-548b-471f-aabb-9e17d361ef12",
+        "title": "Information Technology Support Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757313260,
+        "date_posted": 1757313260,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Information-Technology-Support-Intern_JR109163",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "663c833f-b201-4662-898b-6bb99f14a699",
+        "title": "Software Development Intern - Client and Partner Integration",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757313275,
+        "date_posted": 1757313275,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Client-and-Partner-Integration_JR109218",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "5a4d4386-2c92-44b8-881b-73b7676c64b9",
+        "title": "Risk Management \u2013 Resilience & Compliance Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757313267,
+        "date_posted": 1757313267,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Risk-Management--Resilience---Compliance-Intern_JR109232",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "58f47fe9-1a8d-4aa3-a467-1df5f333b444",
+        "title": "Software Development Intern - Geocoding",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757313277,
+        "date_posted": 1757313277,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---GeoCoding_JR109221",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "4e33b195-7f65-4810-9077-8b5ee50ad584",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757313262,
+        "date_posted": 1757313262,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR109165",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "2238e90b-c8cb-453e-93e5-11d5a5deb79b",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757313261,
+        "date_posted": 1757313261,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Analyst-Intern_JR109229-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "0eaaf185-87d1-4c8b-bbe6-475cf1c68a47",
+        "title": "Software Development Intern - Mobile Application",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757313272,
+        "date_posted": 1757313272,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Mobile-Application_JR109217",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "d0581b4d-5d54-43f2-9dc5-faa961cd5b81",
+        "title": "Stagiaire en D\u00e9veloppement Logiciel \u2013 Intern Software Developer",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1757313028,
+        "date_posted": 1757313028,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Logiciel--Intern-Software-Developer-_25WD91259-2",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "c697d158-7bea-4748-8bed-20f68ba8a25e",
+        "title": "Stagiaire en D\u00e9veloppement Logiciel \u2013 Intern Software Developer",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1757313028,
+        "date_posted": 1757313028,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Logiciel--Intern-Software-Developer_25WD91266-2",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "afc1a7c1-8344-49a3-a47f-f3a423a06944",
+        "title": "Intern \u2013 Software Developer",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1757313028,
+        "date_posted": 1757313028,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_25WD91415-3",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "4726bb97-70ef-44dd-a753-6ca39945e9e3",
+        "title": "Intern \u2013 Software Developer",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1757313026,
+        "date_posted": 1757313026,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_25WD91421-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "229da406-64d2-4ea6-976c-b6535d63bd5e",
+        "title": "Intern \u2013 Software Developer",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1757313024,
+        "date_posted": 1757313024,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_25WD91424-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "SC Johnson",
+        "id": "fce836f4-26f9-4630-94d1-14c3f8c4e1c6",
+        "title": "Information Technology \u2013 Intern - IT",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757312813,
+        "date_posted": 1757312813,
+        "url": "https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---WI---Racine/Information-Technology--IT--Intern---Summer-2026_30821",
+        "locations": [
+            "Racine, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/SC-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Dell Technologies",
+        "id": "fac79590-c88c-4339-839f-da0d919af1ab",
+        "title": "Dell Technologies Product Marketing Graduate Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757312187,
+        "date_posted": 1757312187,
+        "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Dell-Technologies-Product-Marketing-Graduate-Intern_R277380-1",
+        "locations": [
+            "Round Rock, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dell Technologies",
+        "id": "fe08820a-c1ea-4431-94f1-027afd49fba7",
+        "title": "Services Graduate Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757312180,
+        "date_posted": 1757312180,
+        "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Services-Graduate-Data-Science-Intern_R277373-1",
+        "locations": [
+            "Round Rock, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dell Technologies",
+        "id": "02d3121e-ebc8-41a9-91bf-0c7aa162b375",
+        "title": "Graduate Analytics Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757312178,
+        "date_posted": 1757312178,
+        "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Graduate-Analytics-Intern_R277382-1",
+        "locations": [
+            "Round Rock, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
