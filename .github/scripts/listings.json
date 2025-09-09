@@ -207359,7 +207359,7 @@
         ]
     },
     {
-        "date_updated": 1754505531,
+        "date_updated": 1757385454,
         "url": "https://jobs.ashbyhq.com/unify/95113ca1-4f4a-4435-8636-5758ce0d155e",
         "company_name": "Unify",
         "title": "Software Engineering Intern",
@@ -207376,7 +207376,10 @@
         "id": "8348b8d0-7571-43c9-9c2d-de459ec7aa54",
         "date_posted": 1753801070,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1755793142,
@@ -232038,7 +232041,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755868668,
+        "date_updated": 1757385677,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -232058,7 +232061,7 @@
         "id": "cf4d72f3-8098-4f5e-a2c3-da817dd9a75b",
         "date_posted": 1755868668,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755943912,
@@ -257772,18 +257775,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756959884,
+        "date_updated": 1757390784,
         "date_posted": 1756959884,
         "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301415",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Tradeweb",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -257843,14 +257845,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1756959875,
+        "date_updated": 1757390767,
         "date_posted": 1756959875,
         "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301414",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Tradeweb",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -258927,7 +258929,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756983177,
+        "date_updated": 1757385793,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [
@@ -258948,7 +258950,7 @@
         "id": "fb9eb52e-0a30-41e7-8e6b-c3173d305b14",
         "date_posted": 1756983177,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757037897,
@@ -262547,7 +262549,7 @@
         ]
     },
     {
-        "date_updated": 1757092479,
+        "date_updated": 1757385150,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -262567,7 +262569,7 @@
         "id": "c4c652ad-afca-411b-bf78-7ee803834d2f",
         "date_posted": 1757092479,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -265624,9 +265626,9 @@
         "title": "Software Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757118888,
+        "date_updated": 1757388477,
         "date_posted": 1757118888,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineering-Intern---North-Hills--NY_R202566837",
         "locations": [
@@ -266228,9 +266230,9 @@
         "title": "Mobile Software Development Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757117113,
+        "date_updated": 1757388437,
         "date_posted": 1757117113,
         "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Mobile-Software-Development-Intern_R25_0000032849",
         "locations": [
@@ -266297,9 +266299,9 @@
         "title": "Intern \u2013 Software Engineering",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757117086,
+        "date_updated": 1757388408,
         "date_posted": 1757117086,
         "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/Intern--Software-Engineering_250003598-2",
         "locations": [
@@ -266440,9 +266442,9 @@
         "title": "Product Engineer \u2013 Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757116594,
+        "date_updated": 1757386819,
         "date_posted": 1757116594,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Redstone-Arsenal-Alabama/Product-Engineer---Intern_R2111743",
         "locations": [
@@ -266487,9 +266489,9 @@
         "title": "Customer Software Development Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757116340,
+        "date_updated": 1757388380,
         "date_posted": 1757116340,
         "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R25_0000032842",
         "locations": [
@@ -266657,9 +266659,9 @@
         "title": "Technology Internship Program - Cybersecurity",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757115766,
+        "date_updated": 1757386404,
         "date_posted": 1757115766,
         "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-6242",
         "locations": [
@@ -266669,8 +266671,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -266777,9 +266778,9 @@
         "title": "IT Administration Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757126076,
+        "date_updated": 1757386489,
         "date_posted": 1757126076,
         "url": "https://jobs.lever.co/nextgenfed/3b5f5b15-656e-4ea2-8331-385e7ec89ef6/apply",
         "locations": [
@@ -266850,9 +266851,9 @@
         "title": "Product and Application Security Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757122788,
+        "date_updated": 1757386472,
         "date_posted": 1757122788,
         "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Product-and-Application-Security-Intern_R277349-1",
         "locations": [
@@ -266873,9 +266874,9 @@
         "title": "Cybersecurity Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757122787,
+        "date_updated": 1757386433,
         "date_posted": 1757122787,
         "url": "https://dell.wd1.myworkdayjobs.com/External/job/Austin-Texas-United-States/Cybersecurity-Intern_R277348-1",
         "locations": [
@@ -267164,9 +267165,9 @@
         "title": "Product Implementation Management Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757115171,
+        "date_updated": 1757387812,
         "date_posted": 1757115171,
         "url": "https://jobs.lever.co/economicmodeling/58b020c9-c6cd-4c4f-80e7-ed40e4e72195/apply",
         "locations": [
@@ -267499,9 +267500,9 @@
         "title": "SW Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757231275,
+        "date_updated": 1757386849,
         "date_posted": 1757231275,
         "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/SW-Intern_J000685613",
         "locations": [
@@ -267548,9 +267549,9 @@
         "title": "Aiml \u2013 Data Analytics Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757230476,
+        "date_updated": 1757387356,
         "date_posted": 1757230476,
         "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/AIML---Data-Analytics-Engineering-Intern_J000685616",
         "locations": [
@@ -267571,9 +267572,9 @@
         "title": "Data Analytics Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757230476,
+        "date_updated": 1757387324,
         "date_posted": 1757230476,
         "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Data-Analytics-Engineering-Intern_J000685619",
         "locations": [
@@ -267583,8 +267584,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -267595,9 +267595,9 @@
         "title": "Autonomous Driving Algorithm Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757230481,
+        "date_updated": 1757387399,
         "date_posted": 1757230481,
         "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Autonomous-Driving-Algorithm-Intern_J000685579",
         "locations": [
@@ -267607,8 +267607,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -267642,9 +267641,9 @@
         "title": "Software Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757258246,
+        "date_updated": 1757386877,
         "date_posted": 1757258246,
         "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Engineering-Intern_J000686016",
         "locations": [
@@ -267788,9 +267787,9 @@
         "title": "Intern \u2013 Mcbu Npi Manager",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757294382,
+        "date_updated": 1757387853,
         "date_posted": 1757294382,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---MCBU-NPI-Manager_JR82324",
         "locations": [
@@ -267800,7 +267799,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
             "Master's"
         ]
     },
@@ -268237,9 +268235,9 @@
         "title": "Intern \u2013 Scripting & Automation Support - Lcs",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757317645,
+        "date_updated": 1757388699,
         "date_posted": 1757317645,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Scripting---Automation-Support--LCS-_R25-5197-2",
         "locations": [
@@ -268619,9 +268617,9 @@
         "title": "Tech Consultant intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757314874,
+        "date_updated": 1757388675,
         "date_posted": 1757314874,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Alpharetta-Georgia-United-States-of-America/Tech-Consultant-intern_1193054",
         "locations": [
@@ -268667,9 +268665,9 @@
         "title": "Data Analyst Intern - Returns",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757313258,
+        "date_updated": 1757387517,
         "date_posted": 1757313258,
         "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Analyst-Intern---Returns_JR109199",
         "locations": [
@@ -268679,8 +268677,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -268691,9 +268688,9 @@
         "title": "Embedded Software Development Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757313267,
+        "date_updated": 1757386901,
         "date_posted": 1757313267,
         "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Embedded-Software-Development-Intern_JR109180",
         "locations": [
@@ -268714,9 +268711,9 @@
         "title": "GHG Data Analyst Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757313264,
+        "date_updated": 1757387588,
         "date_posted": 1757313264,
         "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/GHG-Data-Analyst-Intern_JR109188",
         "locations": [
@@ -268726,8 +268723,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -268738,9 +268734,9 @@
         "title": "Software Development Intern - Consumer Interactions",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757313272,
+        "date_updated": 1757388635,
         "date_posted": 1757313272,
         "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Consumer-Interactions_JR109212",
         "locations": [
@@ -268761,9 +268757,9 @@
         "title": "Software Development Intern - Route Optimization",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757313272,
+        "date_updated": 1757388613,
         "date_posted": 1757313272,
         "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Route-Optimization_JR109220",
         "locations": [
@@ -268784,9 +268780,9 @@
         "title": "Software Development Intern - Last Mile",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757313269,
+        "date_updated": 1757388534,
         "date_posted": 1757313269,
         "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Last-Mile_JR109228",
         "locations": [
@@ -268807,9 +268803,9 @@
         "title": "Software Development Intern - Business Platform",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757313272,
+        "date_updated": 1757388593,
         "date_posted": 1757313272,
         "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern----Business-Platform_JR109219",
         "locations": [
@@ -268830,9 +268826,9 @@
         "title": "AI Data Analyst Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757313257,
+        "date_updated": 1757387492,
         "date_posted": 1757313257,
         "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR109181",
         "locations": [
@@ -268842,8 +268838,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -268854,9 +268849,9 @@
         "title": "Information Technology Support Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757313260,
+        "date_updated": 1757386522,
         "date_posted": 1757313260,
         "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Information-Technology-Support-Intern_JR109163",
         "locations": [
@@ -268877,9 +268872,9 @@
         "title": "Software Development Intern - Client and Partner Integration",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757313275,
+        "date_updated": 1757388648,
         "date_posted": 1757313275,
         "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Client-and-Partner-Integration_JR109218",
         "locations": [
@@ -268900,9 +268895,9 @@
         "title": "Risk Management \u2013 Resilience & Compliance Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757313267,
+        "date_updated": 1757386550,
         "date_posted": 1757313267,
         "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Risk-Management--Resilience---Compliance-Intern_JR109232",
         "locations": [
@@ -268923,9 +268918,9 @@
         "title": "Software Development Intern - Geocoding",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757313277,
+        "date_updated": 1757386578,
         "date_posted": 1757313277,
         "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---GeoCoding_JR109221",
         "locations": [
@@ -268946,9 +268941,9 @@
         "title": "Data Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757313262,
+        "date_updated": 1757387566,
         "date_posted": 1757313262,
         "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR109165",
         "locations": [
@@ -268958,8 +268953,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -268970,9 +268964,9 @@
         "title": "Data Analyst Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757313261,
+        "date_updated": 1757387544,
         "date_posted": 1757313261,
         "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Analyst-Intern_JR109229-1",
         "locations": [
@@ -268982,8 +268976,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -268994,9 +268987,9 @@
         "title": "Software Development Intern - Mobile Application",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757313272,
+        "date_updated": 1757388569,
         "date_posted": 1757313272,
         "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Mobile-Application_JR109217",
         "locations": [
@@ -269162,9 +269155,9 @@
         "title": "Dell Technologies Product Marketing Graduate Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757312187,
+        "date_updated": 1757387882,
         "date_posted": 1757312187,
         "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Dell-Technologies-Product-Marketing-Graduate-Intern_R277380-1",
         "locations": [
@@ -269174,7 +269167,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "MBA"
+            "Bachelor's"
         ]
     },
     {
@@ -269185,9 +269178,9 @@
         "title": "Services Graduate Data Science Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757312180,
+        "date_updated": 1757387450,
         "date_posted": 1757312180,
         "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Services-Graduate-Data-Science-Intern_R277373-1",
         "locations": [
@@ -269197,8 +269190,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -269209,9 +269201,9 @@
         "title": "Graduate Analytics Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757312178,
+        "date_updated": 1757387425,
         "date_posted": 1757312178,
         "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Graduate-Analytics-Intern_R277382-1",
         "locations": [
@@ -269221,7 +269213,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -269232,9 +269224,9 @@
         "title": "Software Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757358545,
+        "date_updated": 1757388721,
         "date_posted": 1757358545,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Intern---Raytheon-Software-Engineering-Intern--On-site-_01789901",
         "locations": [
@@ -269378,9 +269370,9 @@
         "title": "Product Engineering Co-Op",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757356734,
+        "date_updated": 1757386919,
         "date_posted": 1757356734,
         "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/114347",
         "locations": [
@@ -269401,9 +269393,9 @@
         "title": "Product Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757356736,
+        "date_updated": 1757386937,
         "date_posted": 1757356736,
         "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/114036",
         "locations": [
@@ -269451,9 +269443,9 @@
         "title": "Intern IT-Enterprise Architect",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757354557,
+        "date_updated": 1757386637,
         "date_posted": 1757354557,
         "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Intern-IT--Enterprise-Architect_R00940792",
         "locations": [
@@ -269569,9 +269561,9 @@
         "title": "Global Information Services Internship",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757353954,
+        "date_updated": 1757386616,
         "date_posted": 1757353954,
         "url": "https://careers.owenscorning.com/job/Toledo-Global-Information-Services-Internship-(2026)-OH-43659-0001/1323918100/?ats=successfactors",
         "locations": [
@@ -269639,9 +269631,9 @@
         "title": "Intern \u2013 Product Analytics Leadership Development Program",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757369179,
+        "date_updated": 1757387900,
         "date_posted": 1757369179,
         "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Intern--Product-Analytics-Leadership-Development-Program_R2522341",
         "locations": [
@@ -269687,9 +269679,9 @@
         "title": "Intern-System Field Analyst - Bot",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757367563,
+        "date_updated": 1757387624,
         "date_posted": 1757367563,
         "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-New-Braunfels-TX/Intern--System-Field-Analyst--BOT-_R5387",
         "locations": [
