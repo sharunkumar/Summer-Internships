@@ -229858,7 +229858,7 @@
         "company_name": "Brunswick",
         "id": "6e46de3d-f3e8-45a2-a763-30ed8b21f41a",
         "title": "Engineering Intern-BI Design Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -234439,7 +234439,7 @@
         "company_name": "Eos Energy Storage",
         "id": "e6897854-bdc0-4430-8c5b-7e1dd53df405",
         "title": "Summer Internship Program 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -234909,7 +234909,7 @@
         "company_name": "Equitable Holdings",
         "id": "dc67bb50-4caa-410c-baf4-8f197e0cf9fc",
         "title": "2026 Summer Intern - Information Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -240466,7 +240466,7 @@
         "company_name": "Meta",
         "id": "d23e4d27-4627-4759-8bf3-ec3dcd5823da",
         "title": "Research Scientist Intern - Anisotropic Optics and Photonics - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -244612,7 +244612,7 @@
         "company_name": "Charles Schwab",
         "id": "9eb9b769-4646-42eb-a195-533963237e4a",
         "title": "Technology Intern - Cybersecurity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257794,7 +257794,7 @@
         "company_name": "Tradeweb",
         "id": "a9dd7e3b-7f5a-481d-bde2-69a8193ce070",
         "title": "Quantitative Analytics Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262672,7 +262672,7 @@
         "company_name": "Wintrust",
         "id": "43c831db-9716-47af-af96-5e8bda792a71",
         "title": "IT Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -268593,9 +268593,9 @@
         "title": "Digital Data Science Analyst Intern",
         "active": true,
         "terms": [
-            "Summer 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757315874,
+        "date_updated": 1757510327,
         "date_posted": 1757315874,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Houston-Texas-United-States/Digital-Data-Science-Analyst-Intern_R25-7558-2",
         "locations": [
@@ -269489,9 +269489,9 @@
         "title": "Software Engineering Intern",
         "active": true,
         "terms": [
-            "Summer 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757354668,
+        "date_updated": 1757519683,
         "date_posted": 1757354668,
         "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-047534",
         "locations": [
@@ -269702,9 +269702,9 @@
         "title": "Intern-Machine Learning",
         "active": true,
         "terms": [
-            "Summer 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757367556,
+        "date_updated": 1757510278,
         "date_posted": 1757367556,
         "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Machine-Learning_R5401",
         "locations": [
@@ -269714,8 +269714,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -272581,9 +272580,9 @@
         "title": "Quant Tech Intern",
         "active": true,
         "terms": [
-            "Summer 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757383553,
+        "date_updated": 1757510589,
         "date_posted": 1757383553,
         "url": "https://job-boards.greenhouse.io/chathamfinancial/jobs/7184345",
         "locations": [
@@ -272593,7 +272592,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -272768,9 +272767,9 @@
         "title": "2026 Software Engineer Intern",
         "active": true,
         "terms": [
-            "Summer 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757383560,
+        "date_updated": 1757519482,
         "date_posted": 1757383560,
         "url": "https://job-boards.greenhouse.io/chathamfinancial/jobs/7183989",
         "locations": [
@@ -274111,9 +274110,9 @@
         "title": "Quantitative Risk Analyst Intern",
         "active": true,
         "terms": [
-            "Summer 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757407068,
+        "date_updated": 1757510653,
         "date_posted": 1757318044,
         "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Quantitative-Risk-Analyst_R-4141",
         "locations": [
@@ -274123,7 +274122,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -278586,6 +278585,590 @@
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/MasterControl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1757509252,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.lockheedmartinjobs.com/job/orlando/software-engineering-intern-orlando-fl/694/85711258464",
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "ae9bce4e-2e2f-43cc-b370-ba681bf683da",
+        "date_posted": 1757509252,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757509386,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careersus-shure.icims.com/jobs/4453/job",
+        "company_name": "Shure",
+        "title": "Mobile Applications (iOS) Intern",
+        "locations": [
+            "Niles, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9f4ab361-c7f1-42b6-8ede-81167db4e787",
+        "date_posted": 1757509386,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757509469,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careersus-shure.icims.com/jobs/4405/job",
+        "company_name": "Shure",
+        "title": "Cloud Applications Development Intern",
+        "locations": [
+            "Niles, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "cdaa119d-168e-4986-81f7-4991dc99cedd",
+        "date_posted": 1757509469,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757509517,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://careersus-shure.icims.com/jobs/4438/job",
+        "company_name": "Shure",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Niles, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f7784135-9257-4410-8f95-0b06d9ca45c7",
+        "date_posted": 1757509517,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757509568,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careersus-shure.icims.com/jobs/4454/job",
+        "company_name": "Shure",
+        "title": "Mobile Applications (Android) Intern",
+        "locations": [
+            "Niles, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "079aff16-25cf-46a9-ba2c-65e5d04c2319",
+        "date_posted": 1757509568,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757509612,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careersus-shure.icims.com/jobs/4426/job",
+        "company_name": "Shure",
+        "title": "Embedded Software Development Intern",
+        "locations": [
+            "Niles, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0883a689-4eb8-43cc-977d-b52eb82d73bf",
+        "date_posted": 1757509612,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757509701,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Salesforce-AI-Research-Intern---Summer-2025_JR268422",
+        "company_name": "Salesforce",
+        "title": "Salesforce AI Research",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "6711a556-8dff-4a1c-bf23-19da43519255",
+        "date_posted": 1757509701,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757509847,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://apply.workable.com/twg-global/j/95E27142C1/",
+        "company_name": "TWG Global",
+        "title": "AI/ML Scientist Intern (Natural Language Processing)",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "f281f00c-8d71-4722-9bb7-07cd8fed1ce9",
+        "date_posted": 1757509847,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757509912,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://apply.workable.com/twg-global/j/4458DA5457/",
+        "company_name": "TWG Global",
+        "title": "AI Engineering Intern",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f24f6eec-a297-437f-ba39-35917a3a3b71",
+        "date_posted": 1757509912,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757509964,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://apply.workable.com/twg-global/j/5FADB8A7EE/",
+        "company_name": "TWG Global",
+        "title": "AI/ML Scientist Intern (Simulation Optimization and Reinforcement Learning)",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "97384bdb-9204-4dcd-af39-7ad3f51ac1d3",
+        "date_posted": 1757509964,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757510016,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://apply.workable.com/twg-global/j/15B958D8CC/",
+        "company_name": "TWG Global",
+        "title": "AI/ML Scientist Intern (Quantitative Research & Data Science)",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2d7da431-74b7-40d9-9a29-3ab75cd7f557",
+        "date_posted": 1757510016,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757510072,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://apply.workable.com/twg-global/j/17D884D060/",
+        "company_name": "TWG Global",
+        "title": "AI/ML Scientist Intern (Graphs)",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "2fff8f90-e6ac-4636-95a7-ad9bed026de8",
+        "date_posted": 1757510072,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757510414,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Intern---AI-Enablement_R21650",
+        "company_name": "Nelnet",
+        "title": "Intern - AI Enablement",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "89edc589-b3bf-42b6-8be1-7abde3a9985a",
+        "date_posted": 1757510414,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757510544,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-ASIC-Design-and-Implementation-Automation-Intern---Summer-2026_R-10059947",
+        "company_name": "NXP Semiconductors",
+        "title": "AI/ML ASIC Design and Implementation Automation Intern",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "d7e0b5a2-6378-4c5a-99ad-2d505b223286",
+        "date_posted": 1757510544,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757510576,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2026-Quantitative-Investing-Internship-Program_77528",
+        "company_name": "T. Rowe Price",
+        "title": "Quantitative Investing",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "371115ac-7791-4b28-b256-8ed0cff99f96",
+        "date_posted": 1757510576,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757517861,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.american-equity.com/about/careers/openings?gh_jid=4865782007",
+        "company_name": "American Equity",
+        "title": "IT Intern, Data Science",
+        "locations": [
+            "West Des Moines, IA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "2e6a5e47-57a8-4402-b69d-2779255d4f68",
+        "date_posted": 1757517861,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757518392,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.jobvite.com/windriver/job/om4uvfw9",
+        "company_name": "Wind River",
+        "title": "Embedded Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "da40e370-df03-40bd-b26b-fb9375d5ce50",
+        "date_posted": 1757518392,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757519471,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-cobank.icims.com/jobs/7385/software-engineer-intern-%28denver%29/job",
+        "company_name": "CoBank",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Denver, CO"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0e371891-b439-49e7-bf91-87e16f8b5251",
+        "date_posted": 1757519471,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757519757,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.ti.com/en/sites/CX/job/25007033",
+        "company_name": "Texas Instruments",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2b333bfe-4859-44e0-9dff-cdcc222e390a",
+        "date_posted": 1757519757,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Continental",
+        "id": "a288d47a-8966-4462-b53e-98ccaf1e5b5e",
+        "title": "Intern \u2013 IT Operations - Year-Round",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757522390,
+        "date_posted": 1757522390,
+        "url": "https://jobs.smartrecruiters.com/Continental/744000080876626",
+        "locations": [
+            "Fort Mill, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Continental",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "23acdcba-6361-4c4d-97f0-44d62113edb9",
+        "title": "Software Development Internship",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757496895,
+        "date_posted": 1757496895,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000063043596",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "76d2ab1d-e665-451c-81e3-00adebb54771",
+        "title": "Automated Driving Intern - Simulation at Scale for RL",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757516577,
+        "date_posted": 1757516577,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000079058158",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "U.S. Venture",
+        "id": "b8b75e7c-f950-49bc-96f3-760267936c9f",
+        "title": "Software Engineer Intern - Igen",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757511079,
+        "date_posted": 1757511079,
+        "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Software-Engineer-Intern---IGEN_R4271-1",
+        "locations": [
+            "Appleton, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Venture",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mondelez International",
+        "id": "f2e93bf4-7c1f-47a4-9f6c-e206f609ef9e",
+        "title": "Research & Development Product Internship",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757508105,
+        "date_posted": 1757508105,
+        "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Birmingham-United-Kingdom/Research---Development-Product-Internship-Placement-Year-2026---2027_R-148004-1",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mondelez-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
