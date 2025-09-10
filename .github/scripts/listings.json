@@ -191721,7 +191721,7 @@
         "company_name": "Nuro",
         "id": "38de9e0e-3227-45c3-9f8e-3eb912ae5b2d",
         "title": "Software Engineer \u2013 Intern - Performance",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746650101,
         "date_posted": 1746650101,
@@ -198225,7 +198225,7 @@
         "company_name": "Safari AI",
         "id": "f9b45ac2-0f18-468b-a004-3d7a1a946a6b",
         "title": "8 Month CV/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Spring 2026"
@@ -225781,7 +225781,7 @@
         "company_name": "Tencent",
         "id": "592641dc-4582-4f46-ad07-fd89ada70c7c",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -228329,7 +228329,7 @@
         "company_name": "Elf Beauty",
         "id": "0a3beb73-c48e-471d-8028-12ff4251479f",
         "title": "Intern \u2013 IT Service Desk",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -234909,7 +234909,7 @@
         "company_name": "Equitable Holdings",
         "id": "dc67bb50-4caa-410c-baf4-8f197e0cf9fc",
         "title": "2026 Summer Intern - Information Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235703,7 +235703,7 @@
         "company_name": "Devon Energy",
         "id": "399b07b6-97da-47ba-a11d-8cf060b2566e",
         "title": "Energy Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -240084,7 +240084,7 @@
         "company_name": "Santander Global Facilities (SGF) US - Santander Group",
         "id": "951e840c-6131-40c8-bc7f-1c43d4bc948a",
         "title": "Information Security Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -244585,7 +244585,7 @@
         "company_name": "Charles Schwab",
         "id": "cbe9e8d5-da39-48f0-8330-414658867f26",
         "title": "Technology Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -244659,7 +244659,7 @@
         "company_name": "Charles Schwab",
         "id": "45372e35-6ba5-4897-b90c-6ab5815a85e2",
         "title": "Technology Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252491,7 +252491,7 @@
         "company_name": "Salesforce",
         "id": "dbc62136-e75e-45eb-ae04-2f355227770d",
         "title": "Summer 2026 Intern - Responsible AI & Technology Product Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252585,7 +252585,7 @@
         "company_name": "U.S. Bancorp",
         "id": "b2cb95b0-5c11-47d3-a34d-9727caca8605",
         "title": "Data Analytics Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -255069,7 +255069,7 @@
         "company_name": "ASSA ABLOY",
         "id": "159419ee-9b51-4594-9e4f-394f1a0c4f5e",
         "title": "Data Process Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256038,7 +256038,7 @@
         "company_name": "Block",
         "id": "ccc03b68-f975-425a-9c7c-2eec827aa90c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257771,7 +257771,7 @@
         "company_name": "Tradeweb",
         "id": "d2d80782-6e68-4aa6-9d88-77fce6146c53",
         "title": "Software Engineering Internship - ICD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257841,7 +257841,7 @@
         "company_name": "Tradeweb",
         "id": "6d30e276-4993-4f48-8383-99bed49b6af5",
         "title": "Full Stack Java Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265092,7 +265092,7 @@
         "company_name": "Meta",
         "id": "89b755b2-864d-45c9-ab9b-e5fb6b1c1124",
         "title": "Research Scientist Intern - Audio - Numerical Acoustics",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -269510,7 +269510,7 @@
         "company_name": "Block",
         "id": "7e56f334-14c4-4d8b-8710-9bccef5f4cc0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -278094,6 +278094,502 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "6a7de1a1-d5da-4766-b82a-40a5a6eb43e1",
+        "title": "Human-Assisted AI and Explainable AI \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757489079,
+        "date_posted": 1757489079,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000064315920",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "5ad9e3a7-0cad-49a3-849b-66c4e9357ab1",
+        "title": "Product Engineering \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757489086,
+        "date_posted": 1757489086,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000063042746",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "20124b54-f383-4850-abb9-fd741cb791f1",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757488688,
+        "date_posted": 1757488688,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000076822085",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Corebridge Financial",
+        "id": "cee71fdf-1fb5-4a29-b011-615fe6c59389",
+        "title": "2025 Corebridge Summer Internship Program - Data",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1757487401,
+        "date_posted": 1757487401,
+        "url": "https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial/job/TX-Houston/XMLNAME-2025-Corebridge-Summer-Internship-Program---Data_JR2501525-1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Corebridge-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "APEX Analytix",
+        "id": "44c3ffe7-02a8-41a0-a0d0-884e0025ea4c",
+        "title": "Data Application Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757450600,
+        "date_posted": 1757438177,
+        "url": "https://ats.rippling.com/apexanalytix-careers/jobs/b6f42a08-a4e8-45f1-868f-567a09112ebc",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/APEX-Analytix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "d086b0f7-98d4-441f-a5c2-ef6b4443830b",
+        "title": "Quality Specialist \u2013 Data Analysis Sr. Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757487170,
+        "date_posted": 1757487170,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Logan-Utah-USA/Quality-Specialist---Data-Analysis-Sr-Intern_R-01328086",
+        "locations": [
+            "Logan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Compeer Financial",
+        "id": "35e51c79-deec-4406-8ace-5e9753251c74",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757438678,
+        "date_posted": 1757438678,
+        "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/4913393008",
+        "locations": [
+            "Eau Claire, WI",
+            "Rochester, MN",
+            "River Falls, WI",
+            "Lakeville, MN",
+            "Mankato, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Compeer-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "a0936596-0657-4e9b-86cb-bac42d555422",
+        "title": "College Summer Intern - Info Tech",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757486862,
+        "date_posted": 1757486862,
+        "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2026-COLLEGE-SUMMER-INTERN-INFO-TECH-Miss/1324759700/?ats=successfactors",
+        "locations": [
+            "Biloxi, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "716064d6-4006-48ff-856e-d4c5f15dd274",
+        "title": "College Summer Intern-Production Control",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757486856,
+        "date_posted": 1757486856,
+        "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2026-COLLEGE-SUMMER-INTERN-PRODUCTION-CONTROL-Miss/1324759600/?ats=successfactors",
+        "locations": [
+            "Biloxi, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thrivent",
+        "id": "a5aa2c29-16bb-4145-9475-a36c9c774d15",
+        "title": "IT Application Engineer Intern - Investments",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757436446,
+        "date_posted": 1757436446,
+        "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2026_REQ-44277",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Thrivent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thrivent",
+        "id": "2d282353-5d91-4157-afa8-b3de1c2045bb",
+        "title": "Data Analyst Intern - Investments",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757436449,
+        "date_posted": 1757436449,
+        "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/Data-Analyst-Intern--Investments---Summer-2026_REQ-44276",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Thrivent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "84067a4c-f6a5-4755-8e5f-601d840e1e4b",
+        "title": "Foundation Models for Autonomous Driving \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757496220,
+        "date_posted": 1757496220,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000076562295",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "adec206d-c979-4fe4-ad54-55bd920061ee",
+        "title": "Calibration Process Optimization Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757496487,
+        "date_posted": 1757496487,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000080631115",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "ff306c1b-d072-4eaa-beda-72cad41aa12a",
+        "title": "Foundation Models for Autonomous Driving \u2013 Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757492521,
+        "date_posted": 1757492521,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000055119736",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "eabb1a3d-ad72-4083-bfa3-1f757c11d2ed",
+        "title": "2026 Intern - Raytheon Software Systems Engineer",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757490747,
+        "date_posted": 1757490747,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/VA120-2461-S-Clark-Street-Arlington-2461-S-Clark-Street-Suite-1000-Arlington-VA-22202-USA/XMLNAME-2026-Intern---Raytheon-Software-Systems-Engineer---Onsite_01792361",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "740a3b7e-fd05-471d-9c8c-3f35e34c1cf9",
+        "title": "Intern Software Systems Engineer",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757490755,
+        "date_posted": 1757490755,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/VA120-2461-S-Clark-Street-Arlington-2461-S-Clark-Street-Suite-1000-Arlington-VA-22202-USA/XMLNAME-2026-Intern-Raytheon-Software-Systems-Engineer_01792366",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Adobe",
+        "id": "70ec63b5-3c18-4978-a5e0-da9b73617746",
+        "title": "Intern - Associate Product Manager",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1757490095,
+        "date_posted": 1757490095,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2026-Intern---Associate-Product-Manager_R158879",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Adobe",
+        "id": "d0ad8bc9-20e2-4453-9459-d8e92651d504",
+        "title": "2026 Intern - Product Marketing Manager",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1757489893,
+        "date_posted": 1757489893,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2026-Intern---Product-Marketing-Manager_R158881",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Crowe",
+        "id": "b5a12285-496e-4bd6-90d4-909e9adde032",
+        "title": "Data Analytics Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757496048,
+        "date_posted": 1757364746,
+        "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-50105",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Merck",
+        "id": "5050b87e-6148-4488-9b57-ec91169f370d",
+        "title": "Future Talent Program \u2013 Co-Op - Technology Design & Customer Interface",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757501037,
+        "date_posted": 1757113368,
+        "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-Future-Talent-Program---Technology-Design---Customer-Interface---Intern_R363212",
+        "locations": [
+            "Linden, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Merck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MasterControl",
+        "id": "3a8f504e-fe17-4ea9-b115-be1569173910",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1757504467,
+        "date_posted": 1757018770,
+        "url": "https://www.mastercontrol.com/careers/job-listings/role/?role=4601625005&gh_jid=4601625005",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/MasterControl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
