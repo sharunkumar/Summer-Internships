@@ -206814,7 +206814,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1753724191,
+        "date_updated": 1757561379,
         "url": "https://jobs.lever.co/Arcade/1c849dd0-e3b5-4f73-bb56-1dc159ec6820",
         "company_name": "Arcade",
         "title": "Research Engineer Intern, Applied AI",
@@ -206833,7 +206833,10 @@
         "id": "2f94c67b-d250-453c-aec1-6a72456ecb0e",
         "date_posted": 1753724191,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1753724203,
@@ -214434,7 +214437,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754989913,
+        "date_updated": 1757559373,
         "url": "https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421",
         "company_name": "Notion",
         "title": "Software Engineer, Mobile",
@@ -214451,7 +214454,10 @@
         "id": "5d62030f-954f-4830-ac99-5477fe8aa36e",
         "date_posted": 1754989913,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1754990024,
@@ -214497,7 +214503,7 @@
         ]
     },
     {
-        "date_updated": 1754990227,
+        "date_updated": 1757559391,
         "url": "https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644",
         "company_name": "Notion",
         "title": "Software Engineer",
@@ -214514,7 +214520,10 @@
         "id": "9a15b416-c8ce-4962-9e26-ebc6cecf7e4b",
         "date_posted": 1754990227,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1757543679,
@@ -214667,7 +214676,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755014015,
+        "date_updated": 1757561099,
         "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4807506007?gh_jid=4807506007&gh_src=",
         "company_name": "Anduril Industries",
         "title": "Software Engineer Intern",
@@ -214688,7 +214697,10 @@
         "id": "8fce1537-f55c-48c6-926a-8c34b58e10ce",
         "date_posted": 1755014015,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1755049690,
@@ -218857,15 +218869,18 @@
         "terms": [
             "Fall 2025"
         ],
-        "date_updated": 1755554883,
+        "date_updated": 1757560457,
         "date_posted": 1755554883,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-(Salt-Lake-City,-UT)-UT-84116/1316773200/?ats=successfactors",
         "locations": [
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -218917,15 +218932,18 @@
         "terms": [
             "Fall 2025"
         ],
-        "date_updated": 1755554888,
+        "date_updated": 1757560430,
         "date_posted": 1755554888,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-(Salt-Lake-City,-UT)-UT-84116/1316792200/?ats=successfactors",
         "locations": [
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -238489,7 +238507,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756303320,
+        "date_updated": 1757564549,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -238509,7 +238527,7 @@
         "id": "29cd8dba-9004-45a7-b2bf-5f5b976de78b",
         "date_posted": 1756303320,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756303359,
@@ -269126,14 +269144,14 @@
             "Winter 2026",
             "Spring 2026"
         ],
-        "date_updated": 1757313024,
+        "date_updated": 1757558925,
         "date_posted": 1757313024,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_25WD91424-2",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -274219,7 +274237,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757463294,
+        "date_updated": 1757560619,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -274239,7 +274257,7 @@
         "id": "7c48e767-6052-4532-b92f-15f949e75035",
         "date_posted": 1757408415,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757408565,
@@ -275636,9 +275654,9 @@
         "title": "Engineering Co-op",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757464220,
+        "date_updated": 1757558459,
         "date_posted": 1757464220,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Binghamton-NY/Binghamton-University----Engineering-Co-op_117983",
         "locations": [
@@ -275992,9 +276010,9 @@
         "title": "AI Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757463440,
+        "date_updated": 1757555497,
         "date_posted": 1757463440,
         "url": "https://jobs.lever.co/seerinteractive/5087af3c-3801-4aaf-8849-d39d93693517/apply",
         "locations": [
@@ -276086,9 +276104,9 @@
         "title": "IT Nuclear Digital Transformation Developer \u2013 College Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757462013,
+        "date_updated": 1757558427,
         "date_posted": 1757462013,
         "url": "https://jobs.nexteraenergy.com/job/Jupiter-IT-Nuclear-Digital-Transformation-Developer-College-Intern-FL-33478/1324722500/?ats=successfactors",
         "locations": [
@@ -276132,9 +276150,9 @@
         "title": "IT Enterprise Data Program Analyst \u2013 College Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757462013,
+        "date_updated": 1757555447,
         "date_posted": 1757462013,
         "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-IT-Enterprise-Data-Program-Analyst-College-Intern-FL-33408/1324722100/?ats=successfactors",
         "locations": [
@@ -276155,9 +276173,9 @@
         "title": "IT Data Scientist \u2013 College Intern - Idea",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757462006,
+        "date_updated": 1757555422,
         "date_posted": 1757462006,
         "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-IT-Data-Scientist-(IDEA)-College-Intern-FL-33408/1324722000/?ats=successfactors",
         "locations": [
@@ -276203,9 +276221,12 @@
         "title": "Software Development Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2025"
         ],
-        "date_updated": 1757461941,
+        "date_updated": 1757558394,
         "date_posted": 1757461941,
         "url": "https://careers-westernsouthern.icims.com/jobs/23663/job",
         "locations": [
@@ -276300,9 +276321,9 @@
         "title": "Financial Data Analyst \u2013 Intern - Telecommunications",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757461558,
+        "date_updated": 1757555367,
         "date_posted": 1757461558,
         "url": "https://baltimorecity.wd1.myworkdayjobs.com/External/job/City-Hall/Financial-Data-Analyst---Intern---Telecommunications_R0013943",
         "locations": [
@@ -276323,9 +276344,9 @@
         "title": "Graduate Analytics Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757460906,
+        "date_updated": 1757555282,
         "date_posted": 1757460906,
         "url": "https://job-boards.greenhouse.io/dxacirca/jobs/8160515002",
         "locations": [
@@ -276335,7 +276356,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's"
+            "Master's"
         ]
     },
     {
@@ -276369,9 +276390,9 @@
         "title": "Graduate Analytics Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757461222,
+        "date_updated": 1757555320,
         "date_posted": 1757461222,
         "url": "https://golin.com/careers/open-positions/?gh_jid=8160514002",
         "locations": [
@@ -276381,7 +276402,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's"
+            "Master's"
         ]
     },
     {
@@ -276392,9 +276413,9 @@
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757461232,
+        "date_updated": 1757558353,
         "date_posted": 1757461232,
         "url": "https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75081/1324617700/?ats=successfactors",
         "locations": [
@@ -276415,9 +276436,9 @@
         "title": "Dell CSG Software Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757460993,
+        "date_updated": 1757558320,
         "date_posted": 1757460993,
         "url": "https://dell.wd1.myworkdayjobs.com/External/job/Austin-Texas-United-States/Dell-CSG-Software-Engineering-Intern_R277447-1",
         "locations": [
@@ -276487,9 +276508,9 @@
         "title": "Dell ISG Hardware Engineering Graduate Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757460994,
+        "date_updated": 1757554422,
         "date_posted": 1757460994,
         "url": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Dell-ISG-Hardware-Engineering-Graduate-Intern_R277145-1",
         "locations": [
@@ -276500,8 +276521,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "MBA"
+            "Master's"
         ]
     },
     {
@@ -276512,10 +276532,9 @@
         "title": "Dell CSG Hardware Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2026",
-            "Spring 2027"
+            "Summer 2026"
         ],
-        "date_updated": 1757460988,
+        "date_updated": 1757554404,
         "date_posted": 1757460988,
         "url": "https://dell.wd1.myworkdayjobs.com/External/job/Austin-Texas-United-States/Dell-CSG-Hardware-Engineering-Intern_R277496-1",
         "locations": [
@@ -276633,11 +276652,9 @@
         "title": "Data Analyst Internship",
         "active": true,
         "terms": [
-            "Winter 2022",
-            "Winter 2023",
-            "Spring 2023"
+            "Summer 2026"
         ],
-        "date_updated": 1757460351,
+        "date_updated": 1757555183,
         "date_posted": 1757460351,
         "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Data-Analyst-Internship_R2768-1",
         "locations": [
@@ -276661,9 +276678,9 @@
         "title": "Research Scientist Intern - Tiktok Recommendation-Large Recommender Models - PhD",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757469461,
+        "date_updated": 1757555592,
         "date_posted": 1757469461,
         "url": "https://lifeattiktok.com/search/7548183795784222984",
         "locations": [
@@ -276673,7 +276690,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -276707,9 +276724,9 @@
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757468830,
+        "date_updated": 1757554547,
         "date_posted": 1757468830,
         "url": "https://jobs.l3harris.com/job/Nashville-Software-Engineer-Intern-(Nashville,-TN)-TN-37203/1324525800/?ats=successfactors",
         "locations": [
@@ -277168,9 +277185,9 @@
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757466308,
+        "date_updated": 1757558524,
         "date_posted": 1757466308,
         "url": "https://jobs.l3harris.com/job/Tulsa-Software-Engineer-Intern-(Tulsa,-OK)-OK-74115-1000/1324520600/?ats=successfactors",
         "locations": [
@@ -277180,8 +277197,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -277286,9 +277302,9 @@
         "title": "Field Eng Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757464676,
+        "date_updated": 1757555536,
         "date_posted": 1757464676,
         "url": "https://jobs.l3harris.com/job/Fall-River-Field-Eng-Intern-(Fall-River,-MA)-MA-02723/1324524600/?ats=successfactors",
         "locations": [
@@ -277459,9 +277475,9 @@
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757465388,
+        "date_updated": 1757554522,
         "date_posted": 1757465388,
         "url": "https://jobs.l3harris.com/job/Nashville-Software-Engineer-Intern-(Nashville,-TN)-TN-37203/1324525400/?ats=successfactors",
         "locations": [
@@ -277600,9 +277616,9 @@
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757464435,
+        "date_updated": 1757554504,
         "date_posted": 1757464435,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Software-Engineer-Intern-(Palm-Bay,-FL)-FL-32905-4101/1324530000/?ats=successfactors",
         "locations": [
@@ -277612,8 +277628,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -277719,9 +277734,9 @@
         "title": "Software Engineering Intern C",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757469173,
+        "date_updated": 1757554570,
         "date_posted": 1757469173,
         "url": "https://jobs.l3harris.com/job/Camden-Software-Engineering-Intern-C-(Camden,-NJ)-NJ-08103/1324528300/?ats=successfactors",
         "locations": [
@@ -277765,9 +277780,9 @@
         "title": "Physical Design Engineer Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757472340,
+        "date_updated": 1757554617,
         "date_posted": 1757472340,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Morrisville-NC/Physical-Design-Engineer-Intern---Master-s-Degree_2502481",
         "locations": [
@@ -277777,7 +277792,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
             "Master's"
         ]
     },
@@ -277980,9 +277994,9 @@
         "title": "Research Scientist Intern - Waveguide Design - PhD",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757476798,
+        "date_updated": 1757555625,
         "date_posted": 1757476798,
         "url": "https://www.metacareers.com/jobs/2579072579093691",
         "locations": [
@@ -277992,7 +278006,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -278050,9 +278064,9 @@
         "title": "Engineering Intern-1",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757437488,
+        "date_updated": 1757554332,
         "date_posted": 1757437488,
         "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Engineering-Intern-1_R2025-3438",
         "locations": [
@@ -278121,9 +278135,9 @@
         "title": "Human-Assisted AI and Explainable AI \u2013 Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757489079,
+        "date_updated": 1757555706,
         "date_posted": 1757489079,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000064315920",
         "locations": [
@@ -278133,8 +278147,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -278145,9 +278158,12 @@
         "title": "Product Engineering \u2013 Internship",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026",
+            "Fall 2025",
+            "Spring 2026",
+            "Winter 2026"
         ],
-        "date_updated": 1757489086,
+        "date_updated": 1757554673,
         "date_posted": 1757489086,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000063042746",
         "locations": [
@@ -278157,8 +278173,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -278169,9 +278184,9 @@
         "title": "Product Management Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757488688,
+        "date_updated": 1757557577,
         "date_posted": 1757488688,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000076822085",
         "locations": [
@@ -278181,8 +278196,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -278312,9 +278326,9 @@
         "title": "College Summer Intern-Production Control",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757486856,
+        "date_updated": 1757555655,
         "date_posted": 1757486856,
         "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2026-COLLEGE-SUMMER-INTERN-PRODUCTION-CONTROL-Miss/1324759600/?ats=successfactors",
         "locations": [
@@ -278381,9 +278395,9 @@
         "title": "Foundation Models for Autonomous Driving \u2013 Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757496220,
+        "date_updated": 1757555894,
         "date_posted": 1757496220,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000076562295",
         "locations": [
@@ -278393,7 +278407,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -278404,9 +278418,9 @@
         "title": "Calibration Process Optimization Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757496487,
+        "date_updated": 1757555929,
         "date_posted": 1757496487,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000080631115",
         "locations": [
@@ -278416,8 +278430,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -278428,9 +278441,9 @@
         "title": "Foundation Models for Autonomous Driving \u2013 Research Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757492521,
+        "date_updated": 1757555835,
         "date_posted": 1757492521,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000055119736",
         "locations": [
@@ -278440,7 +278453,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -278451,9 +278464,9 @@
         "title": "2026 Intern - Raytheon Software Systems Engineer",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757490747,
+        "date_updated": 1757555738,
         "date_posted": 1757490747,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/VA120-2461-S-Clark-Street-Arlington-2461-S-Clark-Street-Suite-1000-Arlington-VA-22202-USA/XMLNAME-2026-Intern---Raytheon-Software-Systems-Engineer---Onsite_01792361",
         "locations": [
@@ -278474,9 +278487,9 @@
         "title": "Intern Software Systems Engineer",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757490755,
+        "date_updated": 1757558538,
         "date_posted": 1757490755,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/VA120-2461-S-Clark-Street-Arlington-2461-S-Clark-Street-Suite-1000-Arlington-VA-22202-USA/XMLNAME-2026-Intern-Raytheon-Software-Systems-Engineer_01792366",
         "locations": [
@@ -279110,9 +279123,12 @@
         "title": "Software Development Internship",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026",
+            "Fall 2025",
+            "Spring 2026",
+            "Winter 2026"
         ],
-        "date_updated": 1757496895,
+        "date_updated": 1757558581,
         "date_posted": 1757496895,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000063043596",
         "locations": [
@@ -279122,8 +279138,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -279134,9 +279149,9 @@
         "title": "Automated Driving Intern - Simulation at Scale for RL",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757516577,
+        "date_updated": 1757555949,
         "date_posted": 1757516577,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000079058158",
         "locations": [
@@ -279146,8 +279161,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -279181,9 +279195,9 @@
         "title": "Research & Development Product Internship",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757508105,
+        "date_updated": 1757557597,
         "date_posted": 1757508105,
         "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Birmingham-United-Kingdom/Research---Development-Product-Internship-Placement-Year-2026---2027_R-148004-1",
         "locations": [
@@ -279204,9 +279218,9 @@
         "title": "Asset Management Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757529360,
+        "date_updated": 1757556324,
         "date_posted": 1757529360,
         "url": "https://jobs.smartrecruiters.com/AECOM2/744000080838465",
         "locations": [
@@ -279349,9 +279363,9 @@
         "title": "Test Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757527793,
+        "date_updated": 1757558620,
         "date_posted": 1757527793,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025034",
         "locations": [
@@ -279373,9 +279387,9 @@
         "title": "Applied AI Intern - Deep Learning",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757527674,
+        "date_updated": 1757556250,
         "date_posted": 1757527674,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000039133401",
         "locations": [
@@ -279385,7 +279399,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -279396,9 +279410,9 @@
         "title": "Research Scientist Intern - Human Computer Interaction - PhD",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757527667,
+        "date_updated": 1757556214,
         "date_posted": 1757527667,
         "url": "https://www.metacareers.com/jobs/1100790692182399",
         "locations": [
@@ -279408,7 +279422,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -279616,9 +279630,9 @@
         "title": "2026 Future Talent Program \u2013 Intern - Data Analytics and Insights",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757526514,
+        "date_updated": 1757556148,
         "date_posted": 1757526514,
         "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-Future-Talent-Program---Data-Analytics-and-Insights---Intern_R364996",
         "locations": [
@@ -279735,9 +279749,9 @@
         "title": "Application Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757524083,
+        "date_updated": 1757554716,
         "date_posted": 1757524083,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Application-Engineering-Intern---Bachelor-s-Degree_2502255-1",
         "locations": [
@@ -279758,9 +279772,9 @@
         "title": "Application Engineer Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757524087,
+        "date_updated": 1757554747,
         "date_posted": 1757524087,
         "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Application-Engineer-Intern---Master-s-Degree_2502391",
         "locations": [
@@ -279770,7 +279784,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
             "Master's"
         ]
     },
@@ -279852,9 +279865,9 @@
         "title": "GE Aerospace Research \u2013 AI/Computer Vision Fellow Internship",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757532837,
+        "date_updated": 1757556385,
         "date_posted": 1757532837,
         "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Niskayuna/GE-Aerospace-Research---AI-Computer-Vision-Fellow-Internship_R5017875-1",
         "locations": [
@@ -279864,7 +279877,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -279875,9 +279888,9 @@
         "title": "Aftermarket Product Management Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757530326,
+        "date_updated": 1757557615,
         "date_posted": 1757530326,
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Aftermarket-Product-Management-Intern_R39698",
         "locations": [
@@ -279898,9 +279911,9 @@
         "title": "Scene Understanding and GenAI for Autonomous Driving \u2013 Research Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757532498,
+        "date_updated": 1757556345,
         "date_posted": 1757532498,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000039959646",
         "locations": [
@@ -279910,7 +279923,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -279970,9 +279983,9 @@
         "title": "Hardware Design Engineer Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757532273,
+        "date_updated": 1757554913,
         "date_posted": 1757532273,
         "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Irvine-CA/Hardware-Design-Engineer-Intern---Master-s-Degree_2502449",
         "locations": [
@@ -279982,7 +279995,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
             "Master's"
         ]
     },
@@ -280020,9 +280032,9 @@
         "title": "Software Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757532402,
+        "date_updated": 1757554931,
         "date_posted": 1757532402,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025030",
         "locations": [
@@ -280044,9 +280056,9 @@
         "title": "Firmware Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757530931,
+        "date_updated": 1757554897,
         "date_posted": 1757530931,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25024968",
         "locations": [
@@ -280187,9 +280199,9 @@
         "title": "Hardware/Electrical/Optical Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757530787,
+        "date_updated": 1757554816,
         "date_posted": 1757530787,
         "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/HW--Electrical---Optical-Engineering-Intern_250003832",
         "locations": [
@@ -280259,9 +280271,9 @@
         "title": "Hardware Design Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757529936,
+        "date_updated": 1757554781,
         "date_posted": 1757529936,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025755",
         "locations": [
@@ -280378,9 +280390,9 @@
         "title": "Cyber Security \u2013 Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757534998,
+        "date_updated": 1757554112,
         "date_posted": 1757534998,
         "url": "https://careers-gdms.icims.com/jobs/68026/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -280426,9 +280438,9 @@
         "title": "Data Science Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757527535,
+        "date_updated": 1757556183,
         "date_posted": 1757527535,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Data-Science-Intern--Colorado-_1193618",
         "locations": [
@@ -280438,8 +280450,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -280450,9 +280461,9 @@
         "title": "Renewable Development \u2013 Intern - GIS",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757524698,
+        "date_updated": 1757555990,
         "date_posted": 1757524698,
         "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003538",
         "locations": [
@@ -280462,8 +280473,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -280592,9 +280602,9 @@
         "title": "Software Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757537861,
+        "date_updated": 1757558640,
         "date_posted": 1757537861,
         "url": "https://careers-gdms.icims.com/jobs/67909/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -280638,9 +280648,9 @@
         "title": "IT Engineer Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757537497,
+        "date_updated": 1757554184,
         "date_posted": 1757537497,
         "url": "https://jobs.keysight.com/jobs/49447?lang=en-us&icims=1",
         "locations": [
