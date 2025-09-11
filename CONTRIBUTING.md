@@ -14,6 +14,8 @@ We ask that the internships that you add meet some requirements. Specifically, y
     - **Other** - Any other tech-related internships that don't fit the above categories
 - be located in the United States, Canada, or remote.
 - not already exist in the internship list.
+- belong to a company using a formal ATS such as Workday, Greenhouse, Ashby, etc.
+    - any company using non-ATS platforms such as forms or surveys must be verified/approved on Simplify.
 
 ## Adding an Internship
 Cool! You're ready to add an internship to the list. Follow these steps:
