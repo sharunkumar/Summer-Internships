@@ -236475,7 +236475,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -236731,7 +236731,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "144218b3-8141-45f7-9990-086b7656edbc",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237166,7 +237166,7 @@
         "company_name": "Nokia",
         "id": "b70ec4e2-9d82-4796-a914-21b306cfafd3",
         "title": "Optical Systems Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Summer 2026"
@@ -243632,7 +243632,7 @@
     {
         "date_updated": 1756499082,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -250877,7 +250877,7 @@
         "company_name": "FM Global",
         "id": "9945168d-7a22-44fd-ab9b-78fca3cd92ab",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -251183,7 +251183,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "a5f3f0c9-f4ee-459e-8e75-73b3378c2062",
         "title": "Information Technology Intern - Regulatory & Remediation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -253334,7 +253334,7 @@
         "company_name": "Wipfli",
         "id": "99c6c2e7-b822-42f8-aca3-3a75960be206",
         "title": "Product Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267720,7 +267720,7 @@
         "company_name": "Peraton",
         "id": "c9152c0d-18c8-435e-9d99-59196a1f736e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -280317,7 +280317,7 @@
         "company_name": "Mackenzie Investments",
         "id": "0dd7bc57-f5fb-4843-a1b5-f42cbc761bdc",
         "title": "Winter \u2013 Cybersecurity Services Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -280978,7 +280978,7 @@
         "company_name": "Cotiviti",
         "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -281025,7 +281025,7 @@
         "company_name": "Meta",
         "id": "5ad4e7a6-e81e-4970-95af-66a080f1414b",
         "title": "Research Scientist Intern - Non-Linear Optics - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -282131,7 +282131,7 @@
         "company_name": "Peraton",
         "id": "88889b6e-af61-49c1-b91d-52fd086e5a45",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283893,7 +283893,7 @@
         "company_name": "RoviSys",
         "id": "a270961f-eaa0-4f38-a325-1a3d02a9cb9d",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285030,7 +285030,7 @@
         "company_name": "RoviSys",
         "id": "54f874cd-8392-41ea-bebf-5d45e61c62f2",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285053,7 +285053,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -286052,7 +286052,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286076,7 +286076,7 @@
         "company_name": "CoBank",
         "id": "59885cb1-7bd7-48d5-99a6-378ba44305b3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286146,7 +286146,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c3c163a5-4391-40a6-876b-20653d3c31ec",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286169,7 +286169,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -286185,5 +286185,54 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1757596705,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.lever.co/cognitiv/be2b3e65-a5e6-4914-ba01-8f07bb80cfa0",
+        "company_name": "Cognitiv",
+        "title": "Machine Learning Research Scientist Intern",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "139f7b95-396e-4467-8efe-06e5c9befe66",
+        "date_posted": 1757596705,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757596808,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-daytonfreight.icims.com/jobs/16715/software-developer-intern/job",
+        "company_name": "Dayton Freight Lines",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e1da1743-51e5-45ca-a526-b46ddd2c7085",
+        "date_posted": 1757596808,
+        "company_url": "",
+        "is_visible": true
     }
 ]
