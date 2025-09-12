@@ -287398,5 +287398,420 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1757668261,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-machine-learning-infra-foundations-mountain-view-california-united-states",
+        "company_name": "Waymo",
+        "title": "Machine Learning Infra Foundations",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "add4fbf3-06cc-4e78-bfab-b9f5a0cfe5ff",
+        "date_posted": 1757668261,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757668457,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://uscareers-waters.icims.com/jobs/24104/2025-24104/job",
+        "company_name": "Waters",
+        "title": "Research Machine Learning Co-op",
+        "locations": [
+            "Milford, MA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "cd45947c-5ef1-4092-a82a-320d70cf26bf",
+        "date_posted": 1757668457,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757668636,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/Austin-MET-15/Clean-Track-Internship_R25-01136",
+        "company_name": "TEL",
+        "title": "Research Scientist Intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "58a4cdf2-22a1-44e4-a3ef-d289e65ef3fd",
+        "date_posted": 1757668636,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757668810,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Data-Scientist-Intern---Summer-2026_R0028397",
+        "company_name": "SNC",
+        "title": "Data Scientist Intern",
+        "locations": [
+            "Sparks, NV"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "56f3d864-9b3a-4ac0-9156-467c0dab8b75",
+        "date_posted": 1757668810,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757669359,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Science-Intern_R0131047",
+        "company_name": "PayPal",
+        "title": "Data Science Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "5163fe77-5311-4194-86e9-760a5c9baa79",
+        "date_posted": 1757669359,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757669417,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Intern_R0131023",
+        "company_name": "PayPal",
+        "title": "Machine Learning Intern",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ",
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "1ce99969-0cbd-4daa-b1ca-5b485711c266",
+        "date_posted": 1757669417,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757669468,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern_R0131049",
+        "company_name": "PayPal",
+        "title": "Machine Learning Engineer PhD",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "06d8b793-bf64-4fa7-b976-c755bf197c18",
+        "date_posted": 1757669468,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757669556,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://novatechengineering.applytojob.com/apply/k0P5ygd5a0/AI-Internship",
+        "company_name": "Nova-Tech",
+        "title": "AI Internship",
+        "locations": [
+            "Willmar, MN"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "3c8f289f-9cf3-4eaf-bd0f-25f0ed8daf9d",
+        "date_posted": 1757669556,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757669614,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2026-Data-Science-Internship-Program_REQ-29206",
+        "company_name": "Ketjen",
+        "title": "Data Science Internship Program",
+        "locations": [
+            "Houston, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "14f94f3d-63aa-4660-89bc-22a03fff69b4",
+        "date_posted": 1757669614,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757669702,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://entegris.wd1.myworkdayjobs.com/en-US/EntegrisCareers/job/Bedford-MA/Agentic-AI-Co-Op---Spring-2026_REQ-9196",
+        "company_name": "Entegris",
+        "title": "Agentic AI Co-Op",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "d50a4500-6357-4f4d-a531-e57e66f5449b",
+        "date_posted": 1757669702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757669787,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-cfins.icims.com/jobs/4541/data-science-intern--summer-2026---morristown%2c-nj-or-remote/job",
+        "company_name": "Crum & Forster",
+        "title": "Data Science Intern",
+        "locations": [
+            "Morristown, NJ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "5dcd80d3-70c6-4201-a0a9-a886d7890db6",
+        "date_posted": 1757669787,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757669883,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Indianapolis-Indiana-United-States/R-D-Computer-Science-Data-Science-Intern_243174W-1",
+        "company_name": "R&D Computer Science/Data Science Intern",
+        "title": "Corteva Agriscience",
+        "locations": [
+            "Indianapolis, IN",
+            "Des Moines, IA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "03454aef-bb05-4571-86a8-0609fda4e241",
+        "date_posted": 1757669883,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757669960,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Agronomic-Data-Science---Pathology-Intern_243100W-1",
+        "company_name": "Corteva Agriscience",
+        "title": "Agronomic Data Science & Pathology Intern",
+        "locations": [
+            "Indianapolis, IN",
+            "Des Moines, IA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "e6baccc5-4fbf-43d1-88a7-cdba8c222ad3",
+        "date_posted": 1757669960,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757670011,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Data-Analyst-Intern_243131W-1",
+        "company_name": "Corteva Agriscience",
+        "title": "Data Analyst Intern",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "b97821e4-3d6a-4038-aca1-547baa5619db",
+        "date_posted": 1757670011,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757670110,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tukwila-WA/Boeing-Technology-Innovation---Graduate-Researcher-Program---Software-Engineering-Artificial-Intelligence-Intern_JR2025472845",
+        "company_name": "Boeing",
+        "title": "Software Engineering Artificial Intelligence Intern",
+        "locations": [
+            "Tukwila, WA",
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1ac6c5ba-4ee8-4149-93f3-c12cf32ca105",
+        "date_posted": 1757670110,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757670203,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Remote/Computer-Vision-Intern_R-100394",
+        "company_name": "Analytical Mechanics Associates",
+        "title": "Computer Vision Intern",
+        "locations": [
+            "Remote in USA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "6b21a1be-9446-4515-ad8e-73b4a1e4d6e2",
+        "date_posted": 1757670203,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757670305,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/US---WI---Milwaukee-Global-Water-Center/Software-Engineering-Intern_4016",
+        "company_name": "Badger Meter",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "8b050634-a52c-4b15-bc2b-062c9fb6cdc7",
+        "date_posted": 1757670305,
+        "company_url": "",
+        "is_visible": true
     }
 ]
