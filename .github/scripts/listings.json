@@ -287472,14 +287472,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757668810,
+        "date_updated": 1757688557,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [
             "Bachelor's"
         ],
         "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Data-Scientist-Intern---Summer-2026_R0028397",
-        "company_name": "SNC",
+        "company_name": "Sierra Nevada Coporation",
         "title": "Data Scientist Intern",
         "locations": [
             "Sparks, NV"
@@ -287811,6 +287811,251 @@
         "source": "AlmondCroffle",
         "id": "8b050634-a52c-4b15-bc2b-062c9fb6cdc7",
         "date_posted": 1757670305,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757686823,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0016997",
+        "company_name": "AllianceBernstein",
+        "title": "Software Development",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "dc3d7011-13de-4fc6-8acd-8ec1b5eaff6b",
+        "date_posted": 1757686823,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757686926,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/Austin-RiverSouth/Data-Engineer-Intern--Summer-2026-_R25-01196",
+        "company_name": "TEL",
+        "title": "Data Engineer Intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "2f10bc29-3506-4a77-b076-5433b3f4c184",
+        "date_posted": 1757686893,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757686963,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/Austin-RiverSouth/Software-Engineer-Intern--Summer-2026-_R25-01193",
+        "company_name": "TEL",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9ace0799-8b25-44ac-8a21-8f04a7625a4e",
+        "date_posted": 1757686963,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757687056,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Data-Engineer_R5400",
+        "company_name": "Symbotic",
+        "title": "Data Engineer",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "1decf551-33c8-4ca3-8f5e-5274266921e4",
+        "date_posted": 1757687056,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757687164,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/Software-Engineer-Intern_R-050437",
+        "company_name": "Red Hat",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f052086b-4d54-41d7-b56a-e9448b160796",
+        "date_posted": 1757687164,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757687241,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://job-boards.greenhouse.io/perpay/jobs/4076988007",
+        "company_name": "Perpay",
+        "title": "Software Engineering Internship",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "60d7dcb6-aae6-4751-8ff8-fffd47b47c51",
+        "date_posted": 1757687241,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757687763,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Software-Engineer_2117625",
+        "company_name": "Fidelity",
+        "title": "Co-op, Software Engineer",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2d159bf8-87cd-456d-85cb-5526b720a5bd",
+        "date_posted": 1757687763,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757687837,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/diversified-automation/1b50836b-0b6e-45ec-aef0-1156f08f2da0",
+        "company_name": "Diversified Automation",
+        "title": "Software Engineering Co-op",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "de375e90-8b50-4d6e-a96a-b01d395c6859",
+        "date_posted": 1757687837,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757687975,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Software-Engineer-Co-op_242751W-1",
+        "company_name": "Corteva Agriscience",
+        "title": "Software Engineer Co-op",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "8e3e963d-b57f-4bfb-9b1d-06a4c7ed1481",
+        "date_posted": 1757687975,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757688088,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://career.innovativesystems.com/apply/XZKtjZUJ5M/InternCoop-Summer-2026-Software-Engineering",
+        "company_name": "Innovative Systems",
+        "title": "Software Engineering Intern/Co-op",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "82b7337e-4cd0-4fcf-bb39-410bb8c7f212",
+        "date_posted": 1757688088,
         "company_url": "",
         "is_visible": true
     }
