@@ -216265,7 +216265,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755264595,
+        "date_updated": 1757728269,
         "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2026_R218620-1",
         "company_name": "Capital One",
         "title": "Current Master's - Data Science Internship",
@@ -216288,7 +216288,10 @@
         "id": "b63beac3-07c6-4869-9a9c-0e53bff6aba6",
         "date_posted": 1755264595,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1755264732,
@@ -234130,7 +234133,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756114044,
+        "date_updated": 1757728783,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -234151,7 +234154,7 @@
         "id": "e234c95d-5eec-4042-a20e-79da80592a12",
         "date_posted": 1756114044,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756114144,
@@ -238464,7 +238467,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756303207,
+        "date_updated": 1757728201,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -238484,7 +238487,7 @@
         "id": "ccbac61c-62e4-4387-9467-1479a883e075",
         "date_posted": 1756303207,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756303281,
@@ -274018,7 +274021,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757406563,
+        "date_updated": 1757728120,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [
@@ -274041,7 +274044,7 @@
         "id": "03813c64-affd-4489-8cb4-88f8f6589d2e",
         "date_posted": 1757406563,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757407141,
@@ -287400,7 +287403,7 @@
         ]
     },
     {
-        "date_updated": 1757668261,
+        "date_updated": 1757728060,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -287420,7 +287423,7 @@
         "id": "add4fbf3-06cc-4e78-bfab-b9f5a0cfe5ff",
         "date_posted": 1757668261,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757668457,
@@ -287766,7 +287769,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757670203,
+        "date_updated": 1757728017,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -287789,7 +287792,7 @@
         "id": "6b21a1be-9446-4515-ad8e-73b4a1e4d6e2",
         "date_posted": 1757670203,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757670305,
@@ -287884,7 +287887,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757687056,
+        "date_updated": 1757728881,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -287897,8 +287900,7 @@
             "Wilmington, MA"
         ],
         "terms": [
-            "Spring 2026",
-            "Fall 2026"
+            "Summer 2026"
         ],
         "category": "Data Science, AI & Machine Learning",
         "source": "AlmondCroffle",
