@@ -275380,11 +275380,11 @@
         "company_name": "Jabil",
         "id": "a574c5e0-9931-4dbb-be7c-188e52cb4483",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757465139,
+        "date_updated": 1757824235,
         "date_posted": 1757451457,
         "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Remote---USA/Data-Science-Intern_J2426644",
         "locations": [
