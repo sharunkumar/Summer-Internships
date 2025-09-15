@@ -293101,5 +293101,373 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "date_updated": 1757928796,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Quantitative-Risk-Management--Summer-Analyst--Buffalo---USA--2026_25839731",
+        "company_name": "Citi",
+        "title": "Functions - Quantitative Risk Management",
+        "locations": [
+            "Getzville, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "34ee784a-7101-4d4b-a6a2-25e71d0d1ca7",
+        "date_posted": 1757928796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757929343,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/hudl/jobs/7231250",
+        "company_name": "Hudl",
+        "title": "Product Management Intern",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Product Management",
+        "source": "AlmondCroffle",
+        "id": "73ed3413-ebf3-49a0-9881-989c591e511d",
+        "date_posted": 1757929343,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757929474,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-origamirisk.icims.com/jobs/3855/job",
+        "company_name": "Origami Risk",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "8fbd8c8f-e139-4d0d-9a9b-57e6e54e8fb8",
+        "date_posted": 1757929474,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757929638,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5",
+        "company_name": "Rilla",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "b46b2fc2-90e7-4bd0-8727-83a1d71ce09d",
+        "date_posted": 1757929638,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757929787,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2505339EXTERNALENGLOBAL/Software-Test-Engineer-Intern",
+        "company_name": "Trane Technologies",
+        "title": "Software Test Engineer Intern",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "24c55d41-b99f-423b-97ce-8c7245220933",
+        "date_posted": 1757929787,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757929852,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2505287EXTERNALENGLOBAL/Software-Development-Engineering-Intern",
+        "company_name": "Trane Technologies",
+        "title": "Software Development Engineering Intern",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d76ed01f-12d7-43df-9935-6a03ce85136f",
+        "date_posted": 1757929852,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757929954,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2505499EXTERNALENGLOBAL/Embedded-Software-Developer-Intern",
+        "company_name": "Trane Technologies",
+        "title": "Embedded Software Developer Intern",
+        "locations": [
+            "La Crosse, WI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a885cffd-9041-4773-a21a-7d50837ea7bb",
+        "date_posted": 1757929954,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757930284,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Site-Reliability_R10747",
+        "company_name": "Workiva",
+        "title": "Site Reliability",
+        "locations": [
+            "Remote in USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "303b1f0e-b6ae-4b14-9e35-8d9ac4f41ac4",
+        "date_posted": 1757930284,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757930487,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.disneycareers.com/en/job/-/-/391/85990407296",
+        "company_name": "Walt Disney Imagineering",
+        "title": "WDI Show Programming (Figure Programming) Intern",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "bcca9a2d-98ed-4952-8de9-29da02459deb",
+        "date_posted": 1757930487,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757930614,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://onedigital.wd5.myworkdayjobs.com/en-US/onedigital/job/Remote/Business-Data-Analyst---Intern--Remote-_R7718",
+        "company_name": "OneDigital",
+        "title": "Business Data Analyst",
+        "locations": [
+            "Remote in USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "9e703fed-6d75-47c2-87be-8082acfd5622",
+        "date_posted": 1757930614,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757930738,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7144362003",
+        "company_name": "Klaviyo",
+        "title": "Full-stack Software Engineer Intern",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1029d523-f7ef-498e-a86c-ff107844daa5",
+        "date_posted": 1757930738,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757930810,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7144495003",
+        "company_name": "Klaviyo",
+        "title": "Full-stack Software Engineer Co-op",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "40840bfd-0727-408b-8063-d46e05a82a93",
+        "date_posted": 1757930810,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757930855,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7144520003",
+        "company_name": "Klaviyo",
+        "title": "Front-end Software Engineer Co-op",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6a5b5749-2afc-4356-beae-0fac51661cc6",
+        "date_posted": 1757930855,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757930901,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7144468003",
+        "company_name": "Klaviyo",
+        "title": "Front-end Software Engineer Intern",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9a9acda1-7872-44dc-9e95-3521664f348f",
+        "date_posted": 1757930901,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757930999,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Signal-Engineering-Software_R0105930",
+        "company_name": "Hitachi",
+        "title": "Signal Engineering Software",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2dca8078-d6b1-40ef-9733-adaca8d9ef29",
+        "date_posted": 1757930999,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757931069,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://apply.workable.com/falcomm/j/B5EB495F31/",
+        "company_name": "Falcomm",
+        "title": "ML Software Engineer Intern - AI/CAD Integration",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "7227ef8d-ea3a-4fc5-8432-f6ec088f3f25",
+        "date_posted": 1757931069,
+        "company_url": "",
+        "is_visible": true
     }
 ]
