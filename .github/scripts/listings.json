@@ -204859,7 +204859,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1752702062,
+        "date_updated": 1757984042,
         "url": "https://www.bill.com/job?gh_jid=5588094004",
         "company_name": "BILL",
         "title": "Software Engineer Intern",
@@ -204876,10 +204876,13 @@
         "id": "4aee991f-cbf2-4c44-8f9c-c100d47ff045",
         "date_posted": 1752702062,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
-        "date_updated": 1752702164,
+        "date_updated": 1757984591,
         "url": "https://www.bill.com/job?gh_jid=5588103004",
         "company_name": "BILL",
         "title": "Machine Learning Engineer Intern",
@@ -204896,7 +204899,10 @@
         "id": "017e35d2-817c-4988-bb40-9a0417dc6a19",
         "date_posted": 1752702164,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1756202552,
@@ -207962,7 +207968,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1753888981,
+        "date_updated": 1757985173,
         "url": "https://komatsu.jobs/job/Embedded-Controls-Software-Intern/31088-en_US",
         "company_name": "Komatsu",
         "title": "Embedded Controls Software Intern",
@@ -207983,7 +207989,10 @@
         "id": "b8798162-16f0-43aa-82b3-e6cd55d2aac1",
         "date_posted": 1753888981,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "date_updated": 1755782563,
@@ -226083,7 +226092,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755347266,
+        "date_updated": 1757984623,
         "date_posted": 1752536945,
         "url": "https://www.bill.com/job?5588103004&gh_jid=5588103004",
         "locations": [
@@ -226091,11 +226100,10 @@
             "Draper, UT"
         ],
         "company_url": "https://simplify.jobs/c/Bill-Dot-Com",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -229155,7 +229163,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755695074,
+        "date_updated": 1757984516,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -229179,7 +229187,7 @@
         "id": "82cb4a58-7bb5-4860-b77a-141136f2bed3",
         "date_posted": 1755695074,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756201796,
@@ -234967,7 +234975,7 @@
         ]
     },
     {
-        "date_updated": 1756160613,
+        "date_updated": 1757972439,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -234993,7 +235001,7 @@
         "id": "ec14baa0-ecc5-4b94-86bc-ee1c03cf3593",
         "date_posted": 1756160613,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756160925,
@@ -279024,7 +279032,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757518392,
+        "date_updated": 1757983705,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [
@@ -279047,7 +279055,7 @@
         "id": "da40e370-df03-40bd-b26b-fb9375d5ce50",
         "date_posted": 1757518392,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757519471,
@@ -289180,9 +289188,9 @@
         "title": "Support Service Analyst Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757730366,
+        "date_updated": 1757985793,
         "date_posted": 1757730366,
         "url": "https://jobs.eu.lever.co/quantinuum/e3f3c1f1-a284-47a0-8e52-1fb9dbeb843f/apply",
         "locations": [
@@ -289192,7 +289200,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Associate's"
+            "Bachelor's"
         ]
     },
     {
@@ -290723,9 +290731,9 @@
         "title": "IT Systems Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757704636,
+        "date_updated": 1757985767,
         "date_posted": 1757704636,
         "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/IT-Systems-Intern_243056W-1",
         "locations": [
@@ -293478,9 +293486,9 @@
         "title": "IT Co-Op",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1757922157,
+        "date_updated": 1757985815,
         "date_posted": 1757922157,
         "url": "https://uscareers-lennox.icims.com/jobs/50083/job?mobile=true&needsRedirect=false",
         "locations": [
