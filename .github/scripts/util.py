@@ -13,8 +13,8 @@ SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
 SHORT_APPLY_BUTTON = "https://i.imgur.com/fbjwDvo.png"
 SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/6cFAMUo.png"
-NON_SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 3
-SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 6
+NON_SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 2
+SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 2
 
 # Set of Simplify company URLs to block from appearing in the README
 # Add Simplify company URLs to block them (e.g., "https://simplify.jobs/c/Jerry")
@@ -36,8 +36,7 @@ CATEGORIES = {
     "Product": {"name": "Product Management", "emoji": "📱"},
     "AI/ML/Data": {"name": "Data Science, AI & Machine Learning", "emoji": "🤖"},
     "Quant": {"name": "Quantitative Finance", "emoji": "📈"},
-    "Hardware": {"name": "Hardware Engineering", "emoji": "🔧"},
-    "Other": {"name": "Other", "emoji": "💼"}
+    "Hardware": {"name": "Hardware Engineering", "emoji": "🔧"}
 }
 
 def setOutput(key, value):
@@ -109,23 +108,35 @@ def convert_markdown_to_html(text):
     
     return text
 
+def get_minimal_css():
+    """Return minimal CSS for basic table functionality"""
+    return """
+<!-- Minimal table styling for better readability -->
+<style>
+table { border-collapse: collapse; width: 100%; }
+th { text-align: left; font-weight: bold; }
+.td-center { text-align: center; }
+</style>
+
+"""
+
 def create_md_table(listings, offSeason=False):
-    # Create HTML table with CSS styling
-    table = '<table style="width: 100%; border-collapse: collapse;">\n<thead>\n<tr>\n'
+    # Create clean HTML table with minimal styling
+    table = '<table>\n<thead>\n<tr>\n'
     
     if offSeason:
-        table += '<th style="width: 22%; min-width: 180px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>\n'
-        table += '<th style="width: 22%; min-width: 180px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>\n'
-        table += '<th style="width: 18%; min-width: 140px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>\n'
-        table += '<th style="width: 15%; min-width: 120px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Terms</th>\n'
-        table += '<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>\n'
-        table += '<th style="width: 8%; min-width: 60px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>\n'
+        table += '<th>Company</th>\n'
+        table += '<th>Role</th>\n'
+        table += '<th>Location</th>\n'
+        table += '<th>Terms</th>\n'
+        table += '<th>Application</th>\n'
+        table += '<th>Age</th>\n'
     else:
-        table += '<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>\n'
-        table += '<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>\n'
-        table += '<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>\n'
-        table += '<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>\n'
-        table += '<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>\n'
+        table += '<th>Company</th>\n'
+        table += '<th>Role</th>\n'
+        table += '<th>Location</th>\n'
+        table += '<th>Application</th>\n'
+        table += '<th>Age</th>\n'
     
     table += '</tr>\n</thead>\n<tbody>\n'
 
@@ -197,18 +208,18 @@ def create_md_table(listings, offSeason=False):
         table += '<tr>\n'
         
         if offSeason:
-            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee;">{company}</td>\n'
-            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee;">{position}</td>\n'
-            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee;">{location}</td>\n'
-            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee;">{terms}</td>\n'
-            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">{link}</td>\n'
-            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">{days_display}</td>\n'
+            table += f'<td>{company}</td>\n'
+            table += f'<td>{position}</td>\n'
+            table += f'<td>{location}</td>\n'
+            table += f'<td>{terms}</td>\n'
+            table += f'<td>{link}</td>\n'
+            table += f'<td>{days_display}</td>\n'
         else:
-            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee;">{company}</td>\n'
-            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee;">{position}</td>\n'
-            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee;">{location}</td>\n'
-            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">{link}</td>\n'
-            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">{days_display}</td>\n'
+            table += f'<td>{company}</td>\n'
+            table += f'<td>{position}</td>\n'
+            table += f'<td>{location}</td>\n'
+            table += f'<td>{link}</td>\n'
+            table += f'<td>{days_display}</td>\n'
         
         table += '</tr>\n'
 
@@ -225,55 +236,71 @@ def getListingsFromJSON(filename=".github/scripts/listings.json"):
 
 
 def classifyJobCategory(job):
-    # First check if there's an existing category
-    if "category" in job and job["category"]:
-        # Map the existing category to our standardized categories
-        category = job["category"].lower()
-        if category in ["hardware", "hardware engineering", "embedded engineering"]:
-            return "Hardware Engineering"
-        elif category in ["quant", "quantitative finance", "fintech engineering", "fintech"]:
-            return "Quantitative Finance"
-        elif category in ["ai/ml/data", "data & analytics", "ai & machine learning", "data science"]:
-            return "Data Science, AI & Machine Learning"
-        elif category in ["product", "product management"]:
-            return "Product Management"
-        elif category in ["software", "software engineering"]:
-            return "Software Engineering"
-        elif category in ["other"]:
-            return "Other"
-    
-    # If no category exists or it's not recognized, classify by title
-    # Order of filtering based on title: hardware -> quant -> data science -> software eng -> product -> other
+    # Always classify by title for better accuracy, ignore existing category
     title = job.get("title", "").lower()
     
-    # Hardware (first priority)
-    if any(term in title for term in ["hardware", "embedded", "fpga", "circuit", "chip", "silicon", "asic", "robotics", "firmware", "manufactur"]):
+    # Hardware (first priority) - expanded keywords
+    if any(term in title for term in [
+        "hardware", "embedded", "fpga", "circuit", "chip", "silicon", "asic", "robotics", "firmware", 
+        "manufactur", "electrical", "mechanical", "systems engineer", "test engineer", "validation",
+        "verification", "pcb", "analog", "digital", "signal", "power", "rf", "antenna"
+    ]):
         return "Hardware Engineering"
     
-    # Quant (second priority)
-    elif any(term in title for term in ["quant", "quantitative", "trading", "finance", "investment"]):
+    # Quant (second priority) - expanded keywords
+    elif any(term in title for term in [
+        "quant", "quantitative", "trading", "finance", "investment", "financial", "risk", "portfolio",
+        "derivatives", "algorithmic trading", "market", "capital", "equity", "fixed income", "credit"
+    ]):
         return "Quantitative Finance"
     
-    # Data Science (third priority)
-    elif any(term in title for term in ["data science", "artificial intelligence", "data scientist", "ai &", "machine learning", "ml", "data analytics", "data analyst", "research eng", "nlp", "computer vision", "research sci", "data eng"]):
+    # Data Science (third priority) - expanded keywords
+    elif any(term in title for term in [
+        "data science", "artificial intelligence", "data scientist", "ai", "machine learning", "ml", 
+        "data analytics", "data analyst", "research eng", "nlp", "computer vision", "research sci", 
+        "data eng", "analytics", "statistician", "modeling", "algorithms", "deep learning", "pytorch",
+        "tensorflow", "pandas", "numpy", "sql", "etl", "pipeline", "big data", "spark", "hadoop"
+    ]):
         return "Data Science, AI & Machine Learning"
     
-    # Software Engineering (fourth priority)
-    elif any(term in title for term in ["forward deployed", "forward-deployed","software", "software eng", "software dev", "product engineer", "fullstack", "full-stack", "full stack", "frontend", "front end", "front-end", "backend", "back end", "back-end", "founding engineer", "mobile dev", "mobile engineer"]):
+    # Software Engineering (fourth priority) - greatly expanded keywords
+    elif any(term in title for term in [
+        "software", "engineer", "developer", "dev", "programming", "coding", "fullstack", "full-stack", 
+        "full stack", "frontend", "front end", "front-end", "backend", "back end", "back-end", 
+        "mobile", "web", "app", "application", "platform", "infrastructure", "cloud", "devops", 
+        "sre", "site reliability", "systems", "network", "security", "cybersecurity", "qa", 
+        "quality assurance", "test", "automation", "ci/cd", "deployment", "kubernetes", "docker",
+        "aws", "azure", "gcp", "api", "microservices", "database", "java", "python", "javascript",
+        "react", "node", "golang", "rust", "c++", "c#", ".net", "ios", "android", "flutter",
+        "technical", "technology", "tech", "coding", "programming", "sde", "swe"
+    ]):
         return "Software Engineering"
     
-    # Product (fifth priority)
-    elif any(term in title for term in ["product manag", "product analyst", "apm"]) or ("product" in title and "analyst" in title):
+    # Product (fifth priority) - expanded keywords
+    elif any(term in title for term in [
+        "product manag", "product analyst", "apm", "associate product", "product owner", "product design",
+        "product marketing", "product strategy", "business analyst", "program manag", "project manag"
+    ]) or ("product" in title and any(word in title for word in ["analyst", "manager", "associate", "coordinator"])):
         return "Product Management"
     
-    # Other (everything else)
+    # Return None for jobs that don't fit any category (will be filtered out)
     else:
-        return "Other"
+        return None
 
 def ensureCategories(listings):
+    categorized_listings = []
+    filtered_count = 0
+    
     for listing in listings:
-        listing["category"] = classifyJobCategory(listing)
-    return listings
+        category = classifyJobCategory(listing)
+        if category is not None:  # Only keep jobs that fit our categories
+            listing["category"] = category
+            categorized_listings.append(listing)
+        else:
+            filtered_count += 1
+    
+    print(f"Filtered out {filtered_count} jobs that didn't fit any category")
+    return categorized_listings
 
 def create_category_table(listings, category_name, offSeason=False):
     category_listings = [l for l in listings if l["category"] == category_name]
@@ -367,14 +394,14 @@ def check_and_insert_warning(content, repo_name="Summer2026-Internships"):
 
 ---
 
-<table style="width: 100%; border-collapse: collapse;">
+<table>
 <thead>
 <tr>
-<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>
-<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>
-<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>
-<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
-<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
 </tr>
 </thead>
 <tbody>
@@ -401,8 +428,8 @@ def embedTable(listings, filepath, offSeason=False):
         category_counts[category_info["name"]] = count
 
     # Build the category summary for the Browse section
-    # Order: Software, Product, Data, Quant, Hardware, Other
-    category_order = ["Software", "Product", "AI/ML/Data", "Quant", "Hardware", "Other"]
+    # Order: Software, Product, Data, Quant, Hardware
+    category_order = ["Software", "Product", "AI/ML/Data", "Quant", "Hardware"]
     category_links = []
     # Use the appropriate README file based on whether this is off-season or not
     readme_filename = "README-Off-Season.md" if offSeason else "README.md"
@@ -440,8 +467,10 @@ def embedTable(listings, filepath, offSeason=False):
                 in_table_section = True
                 newText += line
                 newText += "\n---\n\n"
+                # Add minimal CSS styles (optional - can be removed entirely)
+                # newText += get_minimal_css()
                 # Add tables for each category in order
-                category_order = ["Software", "Product", "AI/ML/Data", "Quant", "Hardware", "Other"]
+                category_order = ["Software", "Product", "AI/ML/Data", "Quant", "Hardware"]
                 for category_key in category_order:
                     if category_key in CATEGORIES:
                         category_info = CATEGORIES[category_key]

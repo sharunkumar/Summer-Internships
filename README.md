@@ -10,14 +10,14 @@
 
 [Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
-<table style="width: 100%; border-collapse: collapse;">
+<table>
 <thead>
 <tr>
-<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>
-<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>
-<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>
-<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
-<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
 </tr>
 </thead>
 <tbody>
@@ -344,11 +344,11 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/TransPerfect?utm_source=GHList&utm_medium=company">TransPerfect</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">New York, NY</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://transperfect.wd5.myworkdayjobs.com/en-US/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-242116?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
+<td><strong><a href="https://simplify.jobs/c/Broadridge?utm_source=GHList&utm_medium=company">Broadridge</a></strong></td>
+<td>2026 Summer Internship Program - Technology</td>
+<td>Newark, NJ</br>NYC</br>Catskill, NY</td>
+<td><div align="center"><a href="https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/XMLNAME-2026-Summer-Internship-Program---Technology_JR1076089?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fc5407a3-6c0a-42ae-882f-9b4ebf69c596?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/WW-Grainger?utm_source=GHList&utm_medium=company">W.W. Grainger</a></strong></td>
@@ -379,11 +379,11 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Confluent?utm_source=GHList&utm_medium=company">Confluent</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineering Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Austin, TX</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.confluent.io/jobs/job/d9ebd50b-967e-4f35-8ebd-f0ce2705136a?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
+<td><strong><a href="https://simplify.jobs/c/Arch-Capital-Group?utm_source=GHList&utm_medium=company">Arch Capital Group</a></strong></td>
+<td>Technology Summer Intern</td>
+<td>Raleigh, NC</td>
+<td><div align="center"><a href="https://archgroup.wd1.myworkdayjobs.com/careers/job/Raleigh-NC-United-States-of-America/Technology-Summer-Intern_R25_863?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/773a39eb-e8d5-46e9-9bc7-423b194bce83?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>13d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -518,14 +518,14 @@
 <details>
 <summary>🗃️ Inactive roles (103)</summary>
 
-<table style="width: 100%; border-collapse: collapse;">
+<table>
 <thead>
 <tr>
-<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>
-<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>
-<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>
-<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
-<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
 </tr>
 </thead>
 <tbody>
@@ -1264,14 +1264,14 @@
 
 > 📅 Curious when Big Tech product internships typically open? Simplify put together an [openings tracker](https://simplify.jobs/top-list/Associate-Product-Manager-Intern?utm_source=GHList&utm_medium=ot) based on historical data for those companies.
 
-<table style="width: 100%; border-collapse: collapse;">
+<table>
 <thead>
 <tr>
-<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>
-<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>
-<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>
-<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
-<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
 </tr>
 </thead>
 <tbody>
@@ -1373,14 +1373,14 @@
 
 > 🧠 Want to know what keywords your resume is missing for a job? Use the blue Simplify application link to instantly compare your resume to any job description.
 
-<table style="width: 100%; border-collapse: collapse;">
+<table>
 <thead>
 <tr>
-<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>
-<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>
-<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>
-<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
-<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
 </tr>
 </thead>
 <tbody>
@@ -2301,14 +2301,14 @@
 <details>
 <summary>🗃️ Inactive roles (35)</summary>
 
-<table style="width: 100%; border-collapse: collapse;">
+<table>
 <thead>
 <tr>
-<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>
-<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>
-<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>
-<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
-<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
 </tr>
 </thead>
 <tbody>
@@ -2569,14 +2569,14 @@
 
 [Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
-<table style="width: 100%; border-collapse: collapse;">
+<table>
 <thead>
 <tr>
-<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>
-<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>
-<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>
-<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
-<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
 </tr>
 </thead>
 <tbody>
@@ -2609,11 +2609,11 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">12d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/de12bd0c-8c45-4a57-8bc7-a686a35ac41f?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Global Markets Quantitative Trading</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">New York, NY</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/New-York-New-York-United-States-of-America/XMLNAME-2026-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000101066-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">17d</td>
+<td><strong><a href="https://simplify.jobs/c/Allstate-Insurance-Company?utm_source=GHList&utm_medium=company">Allstate Insurance Company</a></strong></td>
+<td>Arity – Product Marketing Intern</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Arity---Product-Marketing-Intern_R21313?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/af7293c1-0e49-4c70-992c-7f003b3dfd06?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>7d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/WTW?utm_source=GHList&utm_medium=company">WTW</a></strong></td>
@@ -2630,11 +2630,11 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>Squarepoint</strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Intern Quant Researcher</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">New York, NY</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=243853&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
+<td><strong><a href="https://simplify.jobs/c/d5c55ea9-f3f6-4604-8d0f-f3e81aefa6d0?utm_source=GHList&utm_medium=company">Mitsubishi UFJ Financial Group</a></strong></td>
+<td>2026 MUFG Summer Internship Programme: Credit Sales & Trading</td>
+<td>London, UK</td>
+<td><div align="center"><a href="https://mufgub.wd3.myworkdayjobs.com/mufg-earlycareers/job/London/XMLNAME-2026-MUFG-Summer-Internship-Programme--UK-Credit-Sales---Trading_10072507-WD?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/aae15e6f-4f06-48b7-9f72-fcc6759de829?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>14d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company">Citadel Securities</a></strong></td>
@@ -2692,14 +2692,14 @@
 <details>
 <summary>🗃️ Inactive roles (8)</summary>
 
-<table style="width: 100%; border-collapse: collapse;">
+<table>
 <thead>
 <tr>
-<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>
-<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>
-<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>
-<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
-<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
 </tr>
 </thead>
 <tbody>
@@ -2771,14 +2771,14 @@
 
 [Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
-<table style="width: 100%; border-collapse: collapse;">
+<table>
 <thead>
 <tr>
-<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>
-<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>
-<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>
-<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
-<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
 </tr>
 </thead>
 <tbody>
@@ -2978,14 +2978,14 @@
 <details>
 <summary>🗃️ Inactive roles (5)</summary>
 
-<table style="width: 100%; border-collapse: collapse;">
+<table>
 <thead>
 <tr>
-<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>
-<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>
-<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>
-<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
-<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
 </tr>
 </thead>
 <tbody>
