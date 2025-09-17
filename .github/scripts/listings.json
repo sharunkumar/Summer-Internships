@@ -302252,17 +302252,17 @@
         "terms": [
             "Winter 2025"
         ],
-        "date_updated": 1758077781,
+        "date_updated": 1758132286,
         "date_posted": 1758077781,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineer---Co-Op_R57669",
         "locations": [
             "Allen, TX"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -302839,14 +302839,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758104540,
+        "date_updated": 1758124895,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
             "Bachelor's"
         ],
         "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Comcast-Front-End-UI-DevOps-Engineer-Intern_R419209",
-        "company_name": "Comcas",
+        "company_name": "Comcast",
         "title": "Front End UI DevOps Engineer Intern",
         "locations": [
             "West Chester, PA"
@@ -302858,6 +302858,52 @@
         "source": "AlmondCroffle",
         "id": "98451733-18f7-44aa-b622-903df1855529",
         "date_posted": 1758104540,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758125104,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/Remote---United-States/Intern-I---Software-Test-Engineering_JR114243",
+        "company_name": "Dexcom",
+        "title": "Software Test Engineering",
+        "locations": [
+            "Remote in USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e2c8c2bd-c2d2-461b-94a6-bf6eac92f828",
+        "date_posted": 1758125104,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758125184,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US115987BREXTERNAL/Software-or-Computer-Engineering-Intern-Summer-2026",
+        "company_name": "BAE Systems",
+        "title": "Software or Computer Engineering Intern",
+        "locations": [
+            "Sterling Heights, MI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0e211681-8d63-4cd6-a385-23e935d9d6d8",
+        "date_posted": 1758125184,
         "company_url": "",
         "is_visible": true
     }
