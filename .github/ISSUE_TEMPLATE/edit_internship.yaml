@@ -103,7 +103,6 @@ body:
         - Data Science, AI & Machine Learning
         - Quantitative Finance
         - Hardware Engineering
-        - Other
     validations:
       required: false
   - type: checkboxes

@@ -95,7 +95,6 @@ body:
         - Data Science, AI & Machine Learning
         - Quantitative Finance
         - Hardware Engineering
-        - Other
     validations:
       required: true
   - type: checkboxes
