@@ -237793,7 +237793,7 @@
         "company_name": "AECOM",
         "id": "ba23254d-bad4-4a00-9dc1-ba052451b783",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -259960,7 +259960,7 @@
         "company_name": "TD Bank",
         "id": "218a54d8-da08-4031-b762-b85783070993",
         "title": "Global Markets Intern/co-op - Fx - FI & Precious Metals Distribution",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -272296,7 +272296,7 @@
         "company_name": "Manulife Financial",
         "id": "723b8feb-903e-4a41-a889-a1e2daed0a01",
         "title": "Winter Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -280382,7 +280382,7 @@
         "company_name": "RoviSys",
         "id": "106e5303-8392-4503-85f7-2d82b6f8b04d",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283462,7 +283462,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "57a601ba-c424-4324-8a40-7e650c4ee70a",
         "title": "Rotational Cybersecurity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Spring 2026",
@@ -285723,7 +285723,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -286051,7 +286051,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286099,7 +286099,7 @@
         "company_name": "RoviSys",
         "id": "d7e5e1b2-17a9-4450-b6a8-a0afe51426eb",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287161,7 +287161,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294203,7 +294203,7 @@
         "company_name": "AECOM",
         "id": "ad0fabc9-3d0e-4318-9018-4d86dff7a6b1",
         "title": "Data Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -305499,6 +305499,29 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/EQ-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RESPEC",
+        "id": "22e490ad-56fe-4b56-af8d-5848ada5b644",
+        "title": "Student Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758177184,
+        "date_posted": 1758177184,
+        "url": "https://jobs.smartrecruiters.com/RESPECInc/744000082552396",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RESPEC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
