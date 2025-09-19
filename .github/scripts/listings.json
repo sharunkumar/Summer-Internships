@@ -237485,7 +237485,7 @@
         "company_name": "GeoComply",
         "id": "4ec936ef-f8d6-46f7-8ea9-85aff63b93e1",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -256184,7 +256184,7 @@
         "company_name": "NextEra Energy",
         "id": "f42ebe49-4039-45e7-b1ab-961c6b774533",
         "title": "Power Generation Computer Science \u2013 College Intern - Fpl",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -256231,7 +256231,7 @@
         "company_name": "NextEra Energy",
         "id": "d5a69416-3f34-4655-85c0-a18948c491ad",
         "title": "Power Generation Computer Science \u2013 College Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -265145,7 +265145,7 @@
         "company_name": "Meta",
         "id": "89b755b2-864d-45c9-ab9b-e5fb6b1c1124",
         "title": "Research Scientist Intern - Audio - Numerical Acoustics",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -276122,7 +276122,7 @@
         "company_name": "NextEra Energy",
         "id": "91fad762-95f4-43dc-ae6c-5a6584e02e07",
         "title": "IT Nuclear Digital Transformation Developer \u2013 College Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -276145,7 +276145,7 @@
         "company_name": "NextEra Energy",
         "id": "842b6aab-5092-4c94-b278-302a32690b2c",
         "title": "IT Power Delivery Analyst \u2013 College Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293031,7 +293031,7 @@
         "company_name": "Wiltshire Farm Foods",
         "id": "1593a1c8-12f0-4186-8a95-e65649275f09",
         "title": "Apprentice Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -293799,7 +293799,7 @@
         "company_name": "Meta",
         "id": "a38856cd-a151-41bb-be9f-6b9caa0f78a9",
         "title": "Research Scientist Intern - Optical System Design - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -299485,7 +299485,7 @@
         "company_name": "RTX",
         "id": "b5963f56-749a-4f14-9e1c-74a02bee665a",
         "title": "2026 Hardware in the Loop Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300169,7 +300169,7 @@
         "company_name": "Origami Risk",
         "id": "f2bd20e3-71f7-4a4b-b5f5-7bef4208fe2a",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -306073,7 +306073,7 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
+        "category": "Software Engineering",
         "company_name": "Booz Allen",
         "id": "b5205936-c8af-403a-846c-ff671cc8e96e",
         "title": "University \u2013 Software Developer Intern",
@@ -306081,25 +306081,15 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758220239,
+        "date_updated": 1758300541,
         "date_posted": 1758220239,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2026-Summer-Games-Software-Developer-Intern_R0226431",
         "locations": [
-            "Honolulu, HI",
-            "Annapolis Junction, MD",
-            "Colorado Springs, CO",
-            "McLean, VA",
-            "Rome, NY",
-            "Panama City, FL",
-            "Charleston, SC",
-            "Atlanta, GA",
-            "Huntsville, AL",
-            "San Diego, CA",
-            "El Segundo, CA"
+            "multiple 11"
         ],
         "company_url": "https://simplify.jobs/c/Booz-Allen",
         "is_visible": true,
-        "sponsorship": "Other",
+        "sponsorship": "U.S. Citizenship is Required",
         "degrees": [
             "Bachelor's"
         ]
@@ -307913,5 +307903,104 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nova-Tech",
+        "id": "2c4f901d-3537-409d-b3a9-10e1ae194365",
+        "title": "AI Internship",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758271406,
+        "date_posted": 1757712707,
+        "url": "https://novatechengineering.applytojob.com/apply/k0P5ygd5a0/AI-Internship-Located-Onsite-In-Willmar-MN",
+        "locations": [
+            "South Haven, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Nova-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brunswick",
+        "id": "d2b4cdc0-b44d-4cf1-b6a3-2a3f1aa13a5a",
+        "title": "Controls & Dynamics Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1758279541,
+        "date_posted": 1755290883,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Controls---Dynamics-Intern_JR-047198",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Brunswick",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "date_updated": 1758300682,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://focuskpi.applytojob.com/apply/4czYHwfYDf/AI-Engineer-Intern-Remote",
+        "company_name": "FocusKPI",
+        "title": "AI Engineer Intern",
+        "locations": [
+            "Remote in USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "e194a15b-c589-4326-aff8-d3a7ed29d303",
+        "date_posted": 1758300682,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758300827,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://ideas-sas.icims.com/jobs/40116/software-engineer-in-test-intern/job",
+        "company_name": "IDeaS",
+        "title": "Software Engineer in Test Intern",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "4a165f73-f556-479f-b244-c6617d112ecd",
+        "date_posted": 1758300827,
+        "company_url": "",
+        "is_visible": true
     }
 ]
