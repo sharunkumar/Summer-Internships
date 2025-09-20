@@ -249148,7 +249148,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756809704,
+        "date_updated": 1758324724,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -249168,7 +249168,7 @@
         "id": "1e8bf954-1090-4f89-979d-1a3b6ec950f1",
         "date_posted": 1756809704,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756809742,
@@ -258884,11 +258884,11 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756982713,
+        "date_updated": 1758324791,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ],
         "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Data-Analyst--Regulatory-Data---Systems---Winter-2026--Co-op-Internship----4-Months_R250021478",
         "company_name": "BMO",
@@ -258904,7 +258904,7 @@
         "id": "e1ae8c2e-2dfd-4211-b5b4-ec214d6570f0",
         "date_posted": 1756982713,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758069191,
@@ -306669,9 +306669,9 @@
         "title": "2026 Intern - Research Scientist/Engineer",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758252485,
+        "date_updated": 1758324490,
         "date_posted": 1758252485,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317",
         "locations": [
@@ -306687,8 +306687,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -306699,9 +306698,9 @@
         "title": "Research Scientist Intern - Video Recommendations - PhD",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758249984,
+        "date_updated": 1758324468,
         "date_posted": 1758249984,
         "url": "https://www.metacareers.com/jobs/811526438099620",
         "locations": [
@@ -306712,7 +306711,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -306894,9 +306893,9 @@
         "title": "Production Data Analyst Co-op",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758246946,
+        "date_updated": 1758324438,
         "date_posted": 1758246946,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Production-Data-Analyst-Co-op_R-030501",
         "locations": [
@@ -306917,9 +306916,9 @@
         "title": "Data Analyst Internship",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758246657,
+        "date_updated": 1758324419,
         "date_posted": 1758246657,
         "url": "https://apply.workable.com/connectprep/j/390EB8941D/apply",
         "locations": [
@@ -306940,9 +306939,9 @@
         "title": "AI Governance Co-op",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758246486,
+        "date_updated": 1758324386,
         "date_posted": 1758246486,
         "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Governance-Co-op_2521683",
         "locations": [
@@ -306987,9 +306986,9 @@
         "title": "Application/Software Developer Co-op",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758245913,
+        "date_updated": 1758324104,
         "date_posted": 1758245913,
         "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op_2521242",
         "locations": [
@@ -307085,18 +307084,17 @@
         "terms": [
             "Winter 2026"
         ],
-        "date_updated": 1758244835,
+        "date_updated": 1758324574,
         "date_posted": 1758244835,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Analyst--Quantitative-Investments--Winter-2026--Co-op-Internship----4-months_R250023111-1",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -307205,9 +307203,9 @@
         "title": "R&D Software Engineering Internship",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758243314,
+        "date_updated": 1758324082,
         "date_posted": 1758243314,
         "url": "https://jobs.keysight.com/jobs/49645?lang=en-us&icims=1",
         "locations": [
@@ -307217,8 +307215,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -307229,9 +307226,9 @@
         "title": "Associate Software Engineer",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758242961,
+        "date_updated": 1758324060,
         "date_posted": 1758242961,
         "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Associate-Software-Engineer--Intern-to-Full-Time-Conversion-_00018532",
         "locations": [
@@ -307464,9 +307461,9 @@
         "title": "Digital Production Engineering Intern OR Student Co-Op",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758239241,
+        "date_updated": 1758324641,
         "date_posted": 1758239241,
         "url": "https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451-2",
         "locations": [
@@ -307487,9 +307484,9 @@
         "title": "Data Engineering Intern OR Student Co-Op",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758239234,
+        "date_updated": 1758324284,
         "date_posted": 1758239234,
         "url": "https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1",
         "locations": [
@@ -307510,9 +307507,9 @@
         "title": "AI Research Associate Program \u2013 Internship",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758238403,
+        "date_updated": 1758324255,
         "date_posted": 1758238403,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210668193",
         "locations": [
@@ -307522,8 +307519,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -307794,9 +307790,9 @@
         "title": "Business & Data Analytics Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758265248,
+        "date_updated": 1758324537,
         "date_posted": 1758265248,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009527526",
         "locations": [
@@ -307817,9 +307813,9 @@
         "title": "Research Scientist Intern - Responsible AI",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758261559,
+        "date_updated": 1758324513,
         "date_posted": 1758261559,
         "url": "https://jobs.bytedance.com/en/position/7551168689682499848/detail",
         "locations": [
@@ -307829,7 +307825,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -307887,9 +307883,9 @@
         "title": "AIS R&D Systems Engineer Intern - Mechatronics - Interns/Graduates - Development",
         "active": true,
         "terms": [
-            "Spring 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1758266796,
+        "date_updated": 1758324657,
         "date_posted": 1758266796,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602808637005",
         "locations": [
@@ -307899,9 +307895,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
