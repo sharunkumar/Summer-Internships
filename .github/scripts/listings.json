@@ -306033,9 +306033,9 @@
         "title": "Summer Intern - Software Engineering - Platform Software",
         "active": true,
         "terms": [
-            "Summer 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758221047,
+        "date_updated": 1758522179,
         "date_posted": 1758221047,
         "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Platform-Software_JR33861",
         "locations": [
@@ -310652,5 +310652,126 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1758521754,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/PA-CLIENT-STATE/Business-Analyst-AI-Intern_R6109",
+        "company_name": "CAI",
+        "title": "Business Analyst AI Intern",
+        "locations": [
+            "Remote in USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "8eefdefe-38db-4ca4-adbc-716a47c32923",
+        "date_posted": 1758521754,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758521852,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://apply.workable.com/darkhive/j/1DA0B16639/",
+        "company_name": "Darkhiv",
+        "title": "Software Engineer",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "140373c8-1940-4de6-a863-b5fe536809e1",
+        "date_posted": 1758521852,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758521988,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/brilliant/758ab26f-5a61-4079-918f-f984d9818391",
+        "company_name": "Brilliant",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2b350ab6-02c6-4a09-a600-b617b3351300",
+        "date_posted": 1758521988,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758522132,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US116202BREXTERNAL/Software-or-Computer-Engineering-Co-op",
+        "company_name": "BAE Systems",
+        "title": "Software or Computer Engineering Co-op",
+        "locations": [
+            "Sterling Heights, MI"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1d30a620-5a08-4ed9-91f3-12398347c677",
+        "date_posted": 1758522132,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758522282,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/siftstack/866b0c5b-3e73-4480-aa34-4c44a42d26b6",
+        "company_name": "Sift",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "78840d11-4103-4943-8edd-265ad17f3b87",
+        "date_posted": 1758522282,
+        "company_url": "",
+        "is_visible": true
     }
 ]
