@@ -310773,5 +310773,650 @@
         "date_posted": 1758522282,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758522935,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.arup.com/jobs/software-development-digital-delivery-intern-available-june-2026-29742",
+        "company_name": "Arup",
+        "title": "Software Development / Digital Delivery Intern",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "94b5b38c-0031-4426-9d2c-8ed52e98a789",
+        "date_posted": 1758522935,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758522987,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/Summer-2026-Data-Scientist-Associate-Internship_RQ206390",
+        "company_name": "GDIT",
+        "title": "Data Scientist Associate Internship",
+        "locations": [
+            "Remote in USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "8c809ca8-80a4-428f-96d6-143167b6f673",
+        "date_posted": 1758522987,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758523142,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://myjobs.adp.com/astronautics/cx/job-details?reqId=5001151496906",
+        "company_name": "Astronautics",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Oak Creek, WI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "befaedee-adb2-42a8-9528-2b501412b5a6",
+        "date_posted": 1758523142,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758523305,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.spectrum.com/job/-/-/4673/86297196016",
+        "company_name": "Spectrum",
+        "title": "DevOps Associate",
+        "locations": [
+            "Greenwood Village, CO"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "66e9d6c5-7578-478f-9c59-b4111e9049bd",
+        "date_posted": 1758523305,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758523438,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.dexcom.com/careers/job/38039370",
+        "company_name": "Dexcom",
+        "title": "Intern I - DevOps Engineering",
+        "locations": [
+            "Remote in USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "018dbfbc-37a1-472f-8337-176e6b220218",
+        "date_posted": 1758523438,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758523535,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://eaton.eightfold.ai/careers/job/687232789551",
+        "company_name": "Eaton Corporation",
+        "title": "Software Engineering",
+        "locations": [
+            "Franksville, WI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "4b7a98b6-e673-4794-8a9f-8c485c0cdf2b",
+        "date_posted": 1758523535,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758523762,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Software-Engineer-Intern-SUMMER-2026/210838",
+        "company_name": "Electronic Arts",
+        "title": "Gameplay Software Engineer Intern",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "fabb7404-02e5-45cc-a7d5-6fd8bebfe57b",
+        "date_posted": 1758523762,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758523885,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Modes-Software-Engineer-Intern-SUMMER-2026/210845",
+        "company_name": "Electronic Arts",
+        "title": "Modes Software Engineer",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6424f6a6-0c50-4d17-b235-3a458cf3563d",
+        "date_posted": 1758523885,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758523936,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Tools-Software-Engineer-Intern-Summer-2026/210888",
+        "company_name": "Electronic Arts",
+        "title": "Tools Software Engineer",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f0a16d70-7abf-4d33-a548-523278377576",
+        "date_posted": 1758523936,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758524003,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210882",
+        "company_name": "Electronic Arts",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2579b023-cbec-4c32-a02b-b8623bd0d653",
+        "date_posted": 1758524003,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758524134,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Intern---Software-Engineering_J270031",
+        "company_name": "Highmark Health",
+        "title": "Software Engineering",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "3da90885-904d-476f-8a59-591cb6c50fa9",
+        "date_posted": 1758524134,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758524267,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/exegy/6ae2d836-21a3-4132-bd85-722177ab5cf5",
+        "company_name": "Exegy",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Spring 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "4b38f0db-01bc-4de1-880a-0d40e0cb6cc0",
+        "date_posted": 1758524267,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758524385,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://myjobs.adp.com/impeljobs/cx/job-details?reqId=5001151417706",
+        "company_name": "Impel",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "90b02094-6a48-43db-ae6a-5391fa03f9d0",
+        "date_posted": 1758524385,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758524466,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-intern/694/86256787840",
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineer",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "4ce5a070-4ace-4a2a-bbb7-2dcb68ed69e7",
+        "date_posted": 1758524466,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758524723,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.lockheedmartinjobs.com/job/sunnyvale/systems-integration-test-engineer-intern-software-summer-2026/694/86294359328",
+        "company_name": "Lockheed Martin",
+        "title": "Systems Integration Test Engineer Intern (Software)",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "965faaaf-45f4-4a96-8533-df700e4710c9",
+        "date_posted": 1758524723,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758524852,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.mastercard.com/us/en/job/MASRUSR257331EXTERNALENUS/Software-Engineer-Intern-Summer-2026-United-States",
+        "company_name": "Mastercard",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "O Fallon, MO"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1adb6f60-17bf-4f53-b8a5-adb9b7084837",
+        "date_posted": 1758524852,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758524914,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/San-Diego/Intern---System-Test-Automation-Engineer---San-Diego--CA---Summer-2026_563822",
+        "company_name": "Philips",
+        "title": "System Test Automation Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "badfaa75-d58c-4dee-8b71-a9412526cf27",
+        "date_posted": 1758524914,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758525041,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/quantco-/945bd3c0-117a-4b0e-b60a-6759add05fc9",
+        "company_name": "QuantCo",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "USA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e1a87533-34b3-44f9-af9f-b69e0d236ac4",
+        "date_posted": 1758525041,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758525108,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://quantumsignalai.applytojob.com/apply/paMGQ9RKXd/RealTime-Software-Intern",
+        "company_name": "Quantum Signal AI",
+        "title": "Real-Time Software Intern",
+        "locations": [
+            "Saline, MI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7632f188-d01d-4b31-8170-3ab519b2e4dd",
+        "date_posted": 1758525108,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758525168,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://quantumsignalai.applytojob.com/apply/o4xvPN56z1/Applications-Software-Engineering-Intern",
+        "company_name": "Quantum Signal AI",
+        "title": "Applications Software Engineering Intern",
+        "locations": [
+            "Saline, MI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f9691b1b-697c-4c2b-b27b-ed90abe39414",
+        "date_posted": 1758525168,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758525328,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Python-Developer-PA-19073/1237973101",
+        "company_name": "SAP",
+        "title": "Python Developer",
+        "locations": [
+            "Newtown Square, PA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c35f083c-b380-4241-ac9c-ac65fdeb0ebc",
+        "date_posted": 1758525328,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758525434,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://tai.hirescore.com/job/sdi-novi-4/",
+        "company_name": "ThermoAnalytics",
+        "title": "Software Development Intern",
+        "locations": [
+            "Calumet, MI",
+            "Novi, MI"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1ce4c1c9-ca0c-48d4-b2b4-ca2b14048449",
+        "date_posted": 1758525434,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758527463,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/tri/7468a62e-09de-4fb6-b5a2-779dfbb94e73",
+        "company_name": "Toyota Research Institute",
+        "title": "Robotics Intern - Mobile Manipulation, Behaviors",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "99914b4e-07d3-4dca-9148-b8ac6d80a6ab",
+        "date_posted": 1758525592,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758525725,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.universalparks.com/job/22443305/internship-software-development-resort-accessibility-and-compliance-summer-2026-orlando-fl",
+        "company_name": "Universal Orlando Resort",
+        "title": "Software Development, Resort Accessibility and Compliance",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "255a1e85-6037-4026-b111-9eef3fc7b45c",
+        "date_posted": 1758525725,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758525884,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://voloridge-health.hiringthing.com/job/958323/health-software-engineer-intern-2026",
+        "company_name": "Voloridge Health",
+        "title": "Health Software Engineer Intern",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6d425ee4-391a-41ac-aaf0-0416102fe563",
+        "date_posted": 1758525884,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758525945,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://voloridge-health.hiringthing.com/job/958324/health-devops-engineer-intern-2026",
+        "company_name": "Voloridge Health",
+        "title": "Health DevOps Engineer Intern",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "5b515c1a-94a6-428e-88bb-ab8eecbee3c7",
+        "date_posted": 1758525945,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758525994,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.siemens.com/careers/job/563156132037214",
+        "company_name": "Siemens",
+        "title": "Software Engineer Co-op",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "33b0f0f3-4eb8-454b-b5e8-1373e18ac780",
+        "date_posted": 1758525994,
+        "company_url": "",
+        "is_visible": true
     }
 ]
