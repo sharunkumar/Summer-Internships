@@ -220,7 +220,7 @@
 <td>Boston, MA</td>
 <td>Spring 2026</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/klaviyocampus/jobs/7144520003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0048c7af-abc8-455a-a6f2-e2a0bc5b197c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -228,7 +228,7 @@
 <td>Boston, MA</td>
 <td>Spring 2026</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/klaviyocampus/jobs/7144495003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6a9339e1-b22a-4498-b4bb-4c259f7675c8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
@@ -276,7 +276,7 @@
 <td>Remote in USA</td>
 <td>Winter 2026, Spring 2026</td>
 <td><div align="center"><a href="https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Spring-2026-Intern---Product---Application-Security_R10744-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ef55e1af-d7db-4555-9f31-a84611bee28c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
@@ -732,7 +732,7 @@
 <td>Montreal, QC, CAN</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Cyberscurit---compter-de-janvier-2026-_R04417?locations=978e30c0c8bf01e2d723af68920c298a&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Plexus?utm_source=GHList&utm_medium=company">Plexus</a></strong></td>
@@ -820,7 +820,7 @@
 <td>Fort Wayne, IN</td>
 <td>Spring 2026</td>
 <td><div align="center"><a href="https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2026_REQ124?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fcd85777-01f0-4c86-ad94-61db0360273f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
@@ -876,7 +876,7 @@
 <td>Palo Alto, CA</td>
 <td>Winter 2026, Spring 2026</td>
 <td><div align="center"><a href="https://www.tesla.com/careers/search/job/248805?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong>Cirrus Logic</strong></td>
@@ -884,7 +884,7 @@
 <td>Austin, TX</td>
 <td>Spring 2026</td>
 <td><div align="center"><a href="https://jobs.eu.lever.co/cirrus/61217b55-e2f9-410d-8758-4847fbf80720?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company">Hewlett Packard Enterprise</a></strong></td>
@@ -1007,7 +1007,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Arcade-AI?utm_source=GHList&utm_medium=company">Arcade AI</a></strong></td>
 <td>Software Engineer Intern - Frontend</td>
 <td>SF</td>
 <td>Winter 2025, Winter 2026</td>
@@ -2406,7 +2406,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Machine Learning Engineer Intern - Privacy and Data Protection Office - PhD 🎓</td>
 <td>San Jose, CA</td>
 <td>Fall 2025</td>
@@ -2766,7 +2766,7 @@
 <td>Montreal, QC, CAN</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Ingnierie-de-donnes---March-de-donnes-externes---compter-de-janvier-2026-_R04407?locations=978e30c0c8bf01e2d723af68920c298a&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/OptionsClearingCorporation?utm_source=GHList&utm_medium=company">OCC</a></strong></td>
@@ -3153,7 +3153,7 @@
 <td>Montreal, QC, CAN</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Conseillerre-Adoption-numrique---compter-de-janvier-2026-_R04404?locations=978e30c0c8bf01e2d723af68920c298a&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Plexus?utm_source=GHList&utm_medium=company">Plexus</a></strong></td>
