@@ -213584,7 +213584,7 @@
         ]
     },
     {
-        "date_updated": 1756729374,
+        "date_updated": 1758584026,
         "url": "https://careers.confluent.io/jobs/job/974fa008-7174-4e6f-a89c-8c6cce70ae7e",
         "company_name": "Confluent",
         "title": "Confluent Software Engineering Intern",
@@ -213600,7 +213600,7 @@
         "id": "0d184a3a-096c-4cb5-8d63-97e011fa04ac",
         "date_posted": 1754641158,
         "company_url": "",
-        "is_visible": true,
+        "is_visible": false,
         "degrees": [
             "Bachelor's"
         ]
@@ -214262,7 +214262,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1756202373,
+        "date_updated": 1758583981,
         "url": "https://careers.confluent.io/jobs/job/d9ebd50b-967e-4f35-8ebd-f0ce2705136a",
         "company_name": "Confluent",
         "title": "Software Engineering Intern",
@@ -214282,7 +214282,7 @@
         "id": "d9cc6bea-6ab5-4e36-a9c0-874801025833",
         "date_posted": 1754746731,
         "company_url": "",
-        "is_visible": true,
+        "is_visible": false,
         "degrees": [
             "Bachelor's"
         ]
@@ -230291,11 +230291,11 @@
         ]
     },
     {
-        "date_updated": 1755784587,
+        "date_updated": 1758583337,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ],
         "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5624/winter-2026---data-science-department-intern/job",
         "company_name": "Mackenzie Investments",
@@ -230311,7 +230311,7 @@
         "id": "2a49b7ec-bdfb-4023-9cb8-461e07718fcb",
         "date_posted": 1755784587,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755784995,
@@ -232140,7 +232140,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755868947,
+        "date_updated": 1758584414,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -232160,7 +232160,7 @@
         "id": "24b8860a-8954-4f28-b8fa-a505de114725",
         "date_posted": 1755868947,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -249263,7 +249263,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756810605,
+        "date_updated": 1758583804,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -249288,7 +249288,7 @@
         "id": "6fb9e43e-0102-4364-88d5-7adf93f98c15",
         "date_posted": 1756810605,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757118934,
@@ -278986,7 +278986,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757510576,
+        "date_updated": 1758584343,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -279009,7 +279009,7 @@
         "id": "371115ac-7791-4b28-b256-8ed0cff99f96",
         "date_posted": 1757510576,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757517861,
@@ -279064,7 +279064,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1757519471,
+        "date_updated": 1758583696,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -279084,7 +279084,7 @@
         "id": "0e371891-b439-49e7-bf91-87e16f8b5251",
         "date_posted": 1757519471,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757519757,
@@ -299112,7 +299112,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758016605,
+        "date_updated": 1758583601,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -299135,7 +299135,7 @@
         "id": "c7ef25d3-de73-42e3-8dfe-a6f1752b2377",
         "date_posted": 1758016605,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758031531,
@@ -302884,7 +302884,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758125184,
+        "date_updated": 1758583564,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [
@@ -302904,7 +302904,7 @@
         "id": "0e211681-8d63-4cd6-a385-23e935d9d6d8",
         "date_posted": 1758125184,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -308028,9 +308028,9 @@
         "title": "Data Science Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758338387,
+        "date_updated": 1758583021,
         "date_posted": 1758338387,
         "url": "https://boards.greenhouse.io/rsinternboard/jobs/8173412002",
         "locations": [
@@ -308040,8 +308040,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -308312,9 +308311,9 @@
         "title": "Intern or Co-Op - Analytics Engineer",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758329813,
+        "date_updated": 1758583001,
         "date_posted": 1758329813,
         "url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813",
         "locations": [
@@ -308324,8 +308323,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -308981,9 +308979,9 @@
         "title": "Intern \u2013 SSD Firmware",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758324450,
+        "date_updated": 1758583167,
         "date_posted": 1758324450,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---SSD-Firmware_JR83017",
         "locations": [
@@ -309004,9 +309002,9 @@
         "title": "Operations Intern - Data Analytics",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758321566,
+        "date_updated": 1758582985,
         "date_posted": 1758321566,
         "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Operations-Intern---Data-Analytics_R2025-242307",
         "locations": [
@@ -309074,10 +309072,9 @@
         "title": "Data Scientist Co-op",
         "active": true,
         "terms": [
-            "Winter 2025",
-            "Spring 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1758317606,
+        "date_updated": 1758582963,
         "date_posted": 1758317606,
         "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Scientist-Co-op_2521735",
         "locations": [
@@ -309087,8 +309084,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -309122,9 +309118,9 @@
         "title": "Software Test Engineering Co-Op",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758317107,
+        "date_updated": 1758583150,
         "date_posted": 1758317107,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-Op_R-033712",
         "locations": [
@@ -309170,10 +309166,9 @@
         "title": "AI Scientist Co-op",
         "active": true,
         "terms": [
-            "Fall 2025",
-            "Winter 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1758315369,
+        "date_updated": 1758582946,
         "date_posted": 1758315369,
         "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2521716",
         "locations": [
@@ -309577,9 +309572,9 @@
         "title": "Electronics Hardware Design Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758305222,
+        "date_updated": 1758583130,
         "date_posted": 1758305222,
         "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electronics-Hardware-Design-Intern_R2025-3649",
         "locations": [
@@ -309765,9 +309760,9 @@
         "title": "AIS R&D Systems Engineer Intern - EE - Interns/Graduates - Development",
         "active": true,
         "terms": [
-            "Spring 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1758288420,
+        "date_updated": 1758583106,
         "date_posted": 1758288420,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602808636860",
         "locations": [
@@ -309777,8 +309772,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -309988,9 +309982,9 @@
         "title": "ServiceNow Security Organization - AI for Security Operations Engineering Intern - Sso",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758387525,
+        "date_updated": 1758582929,
         "date_posted": 1758387525,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083014485",
         "locations": [
@@ -310723,7 +310717,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758522132,
+        "date_updated": 1758583496,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [
@@ -310746,7 +310740,7 @@
         "id": "1d30a620-5a08-4ed9-91f3-12398347c677",
         "date_posted": 1758522132,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758522282,
@@ -311246,7 +311240,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758525328,
+        "date_updated": 1758583437,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -311269,7 +311263,7 @@
         "id": "c35f083c-b380-4241-ac9c-ac65fdeb0ebc",
         "date_posted": 1758525328,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758525434,
@@ -311416,6 +311410,52 @@
         "source": "AlmondCroffle",
         "id": "33b0f0f3-4eb8-454b-b5e8-1373e18ac780",
         "date_posted": 1758525994,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758585473,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Intern-Program_R12713",
+        "company_name": "NorthMark Strategies",
+        "title": "Engineering Intern Program",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "TimothyNaumov",
+        "id": "23c9399e-6845-4b02-9aa6-e6407cfd817e",
+        "date_posted": 1758585473,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758585543,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7163234?t=gh_src=?gh_jid=7163234",
+        "company_name": "Robinhood",
+        "title": "Machine Learning Engineer Intern, Applied ML",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "yus100",
+        "id": "880c6f8c-83e2-4b2f-b9af-5498a795c5ef",
+        "date_posted": 1758585543,
         "company_url": "",
         "is_visible": true
     }
