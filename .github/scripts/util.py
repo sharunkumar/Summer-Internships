@@ -239,6 +239,14 @@ def classifyJobCategory(job):
     # Always classify by title for better accuracy, ignore existing category
     title = job.get("title", "").lower()
     
+    # Filter out IT technical support roles that aren't really tech internships
+    if any(term in title for term in [
+        "it technical intern", "it technician", "it support", "technical support intern",
+        "help desk", "desktop support", "it help desk", "computer support", "security operations", "field operations",
+        "information technology"
+    ]):
+        return None
+    
     # Hardware (first priority) - expanded keywords
     if any(term in title for term in [
         "hardware", "embedded", "fpga", "circuit", "chip", "silicon", "asic", "robotics", "firmware", 
@@ -263,7 +271,14 @@ def classifyJobCategory(job):
     ]):
         return "Data Science, AI & Machine Learning"
     
-    # Software Engineering (fourth priority) - greatly expanded keywords
+    # Product (fourth priority) - check before Software to catch "Software Product Management" roles
+    elif any(term in title for term in [
+        "product manag", "product analyst", "apm", "associate product", "product owner", "product design",
+        "product marketing", "product strategy", "business analyst", "program manag", "project manag"
+    ]) or ("product" in title and any(word in title for word in ["analyst", "manager", "associate", "coordinator"])):
+        return "Product Management"
+    
+    # Software Engineering (fifth priority) - greatly expanded keywords
     elif any(term in title for term in [
         "software", "engineer", "developer", "dev", "programming", "coding", "fullstack", "full-stack", 
         "full stack", "frontend", "front end", "front-end", "backend", "back end", "back-end", 
@@ -275,13 +290,6 @@ def classifyJobCategory(job):
         "technical", "technology", "tech", "coding", "programming", "sde", "swe"
     ]):
         return "Software Engineering"
-    
-    # Product (fifth priority) - expanded keywords
-    elif any(term in title for term in [
-        "product manag", "product analyst", "apm", "associate product", "product owner", "product design",
-        "product marketing", "product strategy", "business analyst", "program manag", "project manag"
-    ]) or ("product" in title and any(word in title for word in ["analyst", "manager", "associate", "coordinator"])):
-        return "Product Management"
     
     # Return None for jobs that don't fit any category (will be filtered out)
     else:
