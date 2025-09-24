@@ -116635,7 +116635,7 @@
         "company_name": "KION",
         "id": "7d0c9de8-58d0-4419-bfcf-ec180daddfb5",
         "title": "Engineering and Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -126863,7 +126863,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -136000,7 +136000,7 @@
         "company_name": "General Dynamics UK",
         "id": "b87e2353-babd-4d9b-bb00-db68fc13a8de",
         "title": "Co-op - Software Development and Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -136023,7 +136023,7 @@
         "company_name": "General Dynamics UK",
         "id": "8e4588bd-686b-4725-a852-9fcfe4a64c9d",
         "title": "Co-op - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -136046,7 +136046,7 @@
         "company_name": "General Dynamics UK",
         "id": "83b18715-3030-46d9-bd7f-8083173d1824",
         "title": "Co-op - Firmware Development and Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -136069,7 +136069,7 @@
         "company_name": "General Dynamics UK",
         "id": "7d7d8281-6e4f-4f56-8ee6-013f574bbb49",
         "title": "Co-op - Embedded Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -136092,7 +136092,7 @@
         "company_name": "General Dynamics UK",
         "id": "6edd936f-76a2-488b-bab8-11395e2a2f65",
         "title": "Co-op - Software/Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -136116,7 +136116,7 @@
         "company_name": "General Dynamics UK",
         "id": "5f88ae1b-d78c-4658-888e-b6ecb45a123d",
         "title": "Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -136139,7 +136139,7 @@
         "company_name": "General Dynamics UK",
         "id": "5bcb4de2-aa1f-4fc7-ae32-244a8e5b9961",
         "title": "Co-op - Embedded Software Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -136803,7 +136803,7 @@
         "company_name": "Lumentum",
         "id": "8af67ab3-9511-466f-9062-0feeb8a0483f",
         "title": "Embedded Software Devsecops Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -140930,7 +140930,7 @@
         "company_name": "US Foods",
         "id": "efbf3cca-3401-4729-8256-0fbdaffc4c24",
         "title": "Intern \u2013 Product Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -141479,7 +141479,7 @@
         "company_name": "Oshkosh",
         "id": "52000689-3cd5-44c6-ae16-c836a023a002",
         "title": "Digital Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -167449,7 +167449,7 @@
         "company_name": "Ciena",
         "id": "6f590b2b-f591-4358-b9e8-a43b66e41f76",
         "title": "Automation Tools Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -172020,7 +172020,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -173833,7 +173833,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "57a601ba-c424-4324-8a40-7e650c4ee70a",
         "title": "Rotational Cybersecurity Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Spring 2026",
@@ -174551,7 +174551,7 @@
         "company_name": "FM Global",
         "id": "302bca3a-bec3-422d-90ce-13c40c032cab",
         "title": "Identity Services Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -175427,7 +175427,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -176283,7 +176283,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -176422,7 +176422,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -176539,7 +176539,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -176803,7 +176803,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "f7dac540-1f09-4769-8c69-3bb73a2a0241",
         "title": "Portfolio Insights and Data Innovation Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177532,7 +177532,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177555,7 +177555,7 @@
         "company_name": "Quanta Services",
         "id": "160d1f7f-a969-4416-8aff-56a07e419e95",
         "title": "Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182150,7 +182150,7 @@
         "company_name": "Steel Dynamics",
         "id": "f2f4ab79-4acb-49c6-a5aa-a0bb34703745",
         "title": "Software Development Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -191423,7 +191423,7 @@
         "company_name": "Nissan Global",
         "id": "c82bed76-86f3-414a-90e7-03870ce02069",
         "title": "Supply Chain Management Analytics Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -192309,7 +192309,7 @@
         "company_name": "Quanta Services",
         "id": "6093c885-9c3a-4ab8-8d8b-eb2e398d31e0",
         "title": "Information Technology Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -192951,7 +192951,7 @@
         "company_name": "CACI",
         "id": "b8f53d89-c22a-43fe-908b-791a5578a9fd",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -197352,7 +197352,7 @@
         "company_name": "CIBC",
         "id": "f057283a-7a4a-4539-bafe-44c1fb427deb",
         "title": "Application/Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203947,7 +203947,7 @@
         "company_name": "Microchip Technology",
         "id": "c7c08d6d-959b-407e-87f2-3813fdaa5512",
         "title": "Intern - Engineering - Verification",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -208174,6 +208174,78 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State Street",
+        "id": "c626dbae-c50e-469f-8358-d71a2b080ef1",
+        "title": "Data Engineer - Co-Op - Global Technology Services",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1758722769,
+        "date_posted": 1758722769,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Data-Engineer--CO-OP_R-778223",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Arconic",
+        "id": "18eb075f-53bd-4ad3-9fb1-02f0acd5e8a3",
+        "title": "Application Engineer Co-Op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758737886,
+        "date_posted": 1758737886,
+        "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/113086",
+        "locations": [
+            "West Lafayette, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Arconic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "88881e7e-16c3-4233-9c0c-efa7f1e0a44d",
+        "title": "Edison Research Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1758737922,
+        "date_posted": 1752623480,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Advanced-Research---2026-Edison-Program-Internship_R5015953-1",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
