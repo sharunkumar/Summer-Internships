@@ -101966,7 +101966,7 @@
         "company_name": "TikTok",
         "id": "ae87d528-23ff-4841-8c2c-6834b05e0f5c",
         "title": "AI/ML Software Engineer Intern - Data Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -112438,7 +112438,7 @@
         "company_name": "Meta",
         "id": "63c2dba9-dfdb-4cbe-b33a-74cb419ed766",
         "title": "Research Scientist Intern - Computational Optics & Optimization - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -113206,7 +113206,7 @@
         "company_name": "TikTok",
         "id": "96fea6ff-d52f-45b3-9401-b0dd8889e50b",
         "title": "Product Manager Intern - Tiktok-Product-Social and Creation - MBA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113443,7 +113443,7 @@
         "company_name": "TikTok",
         "id": "362a0ac9-188d-4372-b066-0bee0060f17c",
         "title": "Machine Learning Engineer Intern - E-commerce-Recommendation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -125134,7 +125134,7 @@
         "company_name": "Sanofi",
         "id": "c2065a9e-668e-4046-b8f1-a3c120534c14",
         "title": "Summer 2026 Intern - Manufacturing Technology Data Science and Digital Transformation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -127073,7 +127073,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3801beb2-e473-44e1-8a9b-a3c4776098f6",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -146860,7 +146860,7 @@
         "company_name": "General Motors",
         "id": "e3425be4-a2d1-42e6-9d1d-e0f3af8a0f51",
         "title": "2026 Summer Intern - Strategy & Transformation - Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -148117,7 +148117,7 @@
         "company_name": "Nike",
         "id": "d9ce05bc-c767-4ef0-9707-37033cdadc45",
         "title": "Product Management Graduate Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -148380,7 +148380,7 @@
         "company_name": "Nike",
         "id": "4fb6e931-d563-4f1d-93e8-841f8c828f4b",
         "title": "Artificial Intelligence \u2013 Data & Machine Learning Engineering Undergraduate Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -152788,7 +152788,7 @@
         "company_name": "Meta",
         "id": "b4ca9c62-9e9f-4667-ac2d-4243366cff24",
         "title": "Research Scientist Intern - Switchable Optical Devices - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -166513,7 +166513,7 @@
         "company_name": "NextEra Energy",
         "id": "842b6aab-5092-4c94-b278-302a32690b2c",
         "title": "IT Power Delivery Analyst \u2013 College Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -171759,7 +171759,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175427,7 +175427,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175520,7 +175520,7 @@
         "company_name": "Lennox International",
         "id": "5370c3fa-9b3b-4a0e-b328-efb28408836f",
         "title": "AI Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -176094,7 +176094,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -176213,7 +176213,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -176283,7 +176283,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -176398,7 +176398,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -176422,7 +176422,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -176493,7 +176493,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183422,7 +183422,7 @@
         "company_name": "W.R. Berkley",
         "id": "4d9791bb-dfce-4243-9a80-8501a45beb38",
         "title": "Associate Command Center Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -184143,7 +184143,7 @@
         "company_name": "Quanta Services",
         "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
         "title": "Information Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -185617,7 +185617,7 @@
         "company_name": "RTX",
         "id": "b19c3ec1-7a2a-4b28-8b82-aa4957b70336",
         "title": "2026 Intern - Software Engineer-Test Equipment",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -192309,7 +192309,7 @@
         "company_name": "Quanta Services",
         "id": "6093c885-9c3a-4ab8-8d8b-eb2e398d31e0",
         "title": "Information Technology Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -194999,7 +194999,7 @@
         "company_name": "The Home Depot",
         "id": "ef4c2f65-39a3-4078-8fca-307ab85271e1",
         "title": "Software Engineer Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199768,7 +199768,7 @@
         "company_name": "Hartford Financial Services",
         "id": "ca902d78-0de6-43c8-9a2b-be761eb78d19",
         "title": "Intern - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -199985,7 +199985,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "7493a968-69e0-4a94-9491-1c76cc090135",
         "title": "Software Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Summer 2026"
@@ -208053,6 +208053,128 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IDeaS",
+        "id": "bd93e87d-4f55-41cf-9795-eec10c5c404c",
+        "title": "Research Intern - Research - Analytics",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758694887,
+        "date_posted": 1758694887,
+        "url": "https://ideas-sas.icims.com/jobs/40105/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/IDeaS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "f8d94bed-75fa-42e8-aa8e-e26055a7092c",
+        "title": "HPC/AI Software Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758694797,
+        "date_posted": 1758694797,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/HPC-AI-Software-Engineering-Intern_1192979",
+        "locations": [
+            "Eau Claire, WI",
+            "Andover, MA",
+            "San Jose, CA",
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Bank of New York Mellon",
+        "id": "0fe70a4b-20dc-495c-9f66-94fd3bcc470c",
+        "title": "Business Operations Intern/Co-op - Product and Innovation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758696029,
+        "date_posted": 1758696029,
+        "url": "https://bnymellon.eightfold.ai/careers/job/38082813",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY-Mellon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State Street",
+        "id": "58da628d-e4e5-4839-9c2b-3aa06c56663f",
+        "title": "Data Engineer \u2013 Co-Op",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1758700130,
+        "date_posted": 1758700130,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Data-Engineer--CO-OP_R-778221",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arconic",
+        "id": "935261d0-9072-4056-a500-415ec1c29595",
+        "title": "Data Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758712539,
+        "date_posted": 1758712539,
+        "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/113177",
+        "locations": [
+            "Tarentum, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arconic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
