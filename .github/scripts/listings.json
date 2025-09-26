@@ -115,83 +115,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Rocket Lab USA",
-        "id": "01d6eda4-6d1c-4a2b-95b3-ffed7fd92f16",
-        "title": "Software Intern - Summer 2025",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1728236888,
-        "date_posted": 1727752469,
-        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6216766003",
-        "locations": [
-            "Littleton, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Rocket Lab USA",
-        "id": "698e3894-30c4-4654-8b5d-d76aebae56ca",
-        "title": "Flight Software Intern - Summer 2025",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727752443,
-        "date_posted": 1727752443,
-        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6216762003",
-        "locations": [
-            "Littleton, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Nutanix",
-        "id": "7bf539e4-dab0-4150-bc80-01394fc01db1",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1727752305,
-        "date_posted": 1727752305,
-        "url": "https://jobs.jobvite.com/nutanix/job/owAlufwF?nl=1&nl=1&fr=false",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nutanix",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Zoox",
-        "id": "74f8fcc5-2fc9-478d-8d52-c9dd7a789088",
-        "title": "Data Engineering \u2013 Content Internship/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727752610,
-        "date_posted": 1727752610,
-        "url": "https://jobs.lever.co/zoox/cc1ca970-6ddf-4740-8f91-7b8491b52440/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "KKR",
         "id": "0d48201f-42db-4531-8e1d-a059f769946a",
         "title": "2025 Technology Summer Internship Program",
@@ -106852,7 +106775,7 @@
         "company_name": "Brunswick",
         "id": "678d4019-7221-4f9b-a4d1-dbab1501f754",
         "title": "Front-End Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025",
@@ -107079,7 +107002,7 @@
         "company_name": "Brunswick",
         "id": "f96feaf6-30c2-4675-8d2c-3b60328a24c5",
         "title": "Computer Graphics Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -119266,7 +119189,7 @@
         "company_name": "Capital One",
         "id": "82e82e13-2d1f-4697-904b-029423b70366",
         "title": "Intern \u2013 Backend Software Engineer - Customer Acquisitions",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -135346,7 +135269,7 @@
         "company_name": "Geotab",
         "id": "6d947b27-e43e-4d3a-8b9d-be5602755df7",
         "title": "Embedded Developer Intern - IOX Works & Go Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -145970,7 +145893,7 @@
         "company_name": "Block",
         "id": "ccc03b68-f975-425a-9c7c-2eec827aa90c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -159442,7 +159365,7 @@
         "company_name": "Block",
         "id": "7e56f334-14c4-4d8b-8710-9bccef5f4cc0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -162127,7 +162050,7 @@
         "company_name": "Intact",
         "id": "1013ad97-7062-4357-aa02-8643d4a4bf4c",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -171531,7 +171454,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -172381,7 +172304,7 @@
         "company_name": "CACI",
         "id": "3c4292a4-45d2-44f0-917f-70a58220abaa",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174086,7 +174009,7 @@
         "company_name": "FM Global",
         "id": "0ce0eba4-b10d-48ec-b66f-1cd3bede9a6b",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -175794,7 +175717,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175933,7 +175856,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -180454,7 +180377,7 @@
         "company_name": "Intact",
         "id": "be4abd6f-625a-4cdb-9514-8546c40f384c",
         "title": "AI Backend Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -197806,7 +197729,7 @@
         "company_name": "Brunswick",
         "id": "d2b4cdc0-b44d-4cf1-b6a3-2a3f1aa13a5a",
         "title": "Controls & Dynamics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -209251,7 +209174,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "82f0fa31-548a-4f1a-a9a4-4b34b70a6192",
         "title": "Intern Conversion for 2026 ATS Technology Internship Program - Allstate Technology Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210927,6 +210850,192 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GE Vernova",
+        "id": "57598d70-58ae-4268-b4b7-71fa6e5842dd",
+        "title": "GE Vernova Competitiveness Intern - Heavy Duty Gas Turbine Product Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758857950,
+        "date_posted": 1758857950,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-Competitiveness-Intern--Heavy-Duty-Gas-Turbine-Product-Management---Summer-2026_R5018855-3",
+        "locations": [
+            "Greenville, SC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Parsons",
+        "id": "8dd97b7f-534c-48d8-808d-1222295ce301",
+        "title": "Cybersecurity Intern - Security Operations",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758858865,
+        "date_posted": 1758858865,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Cybersecurity-Intern_R172026-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "ServiceNow",
+        "id": "e31f4369-9747-424a-a4d3-dca62e677280",
+        "title": "Associate Product Security Engineer Intern - Sso",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758866742,
+        "date_posted": 1758866742,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083935275",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "ServiceNow",
+        "id": "bf3f1513-bbb0-4fea-87fe-4988ebb8804b",
+        "title": "Application Security Engineer Intern - ServiceNow Security Organization",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758866735,
+        "date_posted": 1758866735,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083935765",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ServiceNow",
+        "id": "a7ac75d1-b271-4c0e-b675-75657a5622bc",
+        "title": "Data Informatics Analyst Intern - Security Organization",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758866722,
+        "date_posted": 1758866722,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083936156",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "ServiceNow",
+        "id": "5762911f-e8f2-4c33-8d7e-6cddf812d50c",
+        "title": "Associate Information Security Analyst Intern - Sso",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758866732,
+        "date_posted": 1758866732,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083924893",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "ServiceNow",
+        "id": "1fed3e27-77cb-4599-a5d0-fd62359d8333",
+        "title": "Business Continuity Analyst Intern - Security Organization",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758866782,
+        "date_posted": 1758866782,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083933650",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ServiceNow",
+        "id": "96fa47c2-9018-4be3-94f9-8540b4e713ed",
+        "title": "AI for Security Operations Engineering Intern - Platform Security Innovation Team",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758866700,
+        "date_posted": 1758866700,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083937095",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
