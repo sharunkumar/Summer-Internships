@@ -115,25 +115,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Marvell",
-        "id": "24d10f34-7bcb-4a9d-8bdc-b3a8f2bd1a31",
-        "title": "Product Engineer Intern - Bachelors",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727838812,
-        "date_posted": 1727838812,
-        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern---Bachelors_2401896",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Harmonia",
         "id": "bc48004d-d70d-4cde-aeea-8dd9fbb24530",
         "title": "Software/Data Engineering Internship",
@@ -115319,7 +115300,7 @@
         "company_name": "Handshake",
         "id": "97aed95b-8c9b-4757-b9f6-eb176612b149",
         "title": "Handshake AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -173044,7 +173025,7 @@
         "company_name": "Blue Cross and Blue Shield of Kansas",
         "id": "cfcbe7a8-95c4-437a-b220-ff1e886c8fa0",
         "title": "RPA Engineering Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Summer 2026"
@@ -178261,7 +178242,7 @@
         "company_name": "Roche",
         "id": "d036ae69-97e0-4929-848a-14976ee33eb2",
         "title": "2025 Intern - Algorithm Research and Development - Csmls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178820,7 +178801,7 @@
         "company_name": "Roche",
         "id": "dfb7c9da-2943-49fc-bb2d-ed85119c1035",
         "title": "2025 Intern - Algorithm Research and Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -190531,7 +190512,7 @@
         "company_name": "Kinaxis",
         "id": "be9f282f-2752-400c-b2b2-b29279dc47e2",
         "title": "Intern Developer - Clients - Front End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -191561,7 +191542,7 @@
         "company_name": "Kinaxis",
         "id": "56935c20-d9f0-4d2f-9a56-e7953d5cf4be",
         "title": "Co-op IT Support Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210106,7 +210087,7 @@
         "company_name": "RTX",
         "id": "56b93bcb-c492-46c0-ac25-2573ac74469f",
         "title": "Embedded Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210486,7 +210467,7 @@
         "company_name": "ServiceNow",
         "id": "bf3f1513-bbb0-4fea-87fe-4988ebb8804b",
         "title": "Application Security Engineer Intern - ServiceNow Security Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -212634,6 +212615,29 @@
             "Alpharetta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Kids-Alive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "decd66fc-e746-4175-a7da-977586420002",
+        "title": "Cloud Software Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758936624,
+        "date_posted": 1758936624,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Hanover/Cloud-Software-Intern---Summer-2026_317536",
+        "locations": [
+            "Hanover, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
