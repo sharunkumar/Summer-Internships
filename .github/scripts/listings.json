@@ -115,47 +115,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Oshkosh",
-        "id": "27004f91-df55-4bf5-ac32-2cba0a4e88bc",
-        "title": "Digital Technology \u2013 Intern - Dt - Summer 2025",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727925169,
-        "date_posted": 1727925169,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Digital-Technology--DT--Intern--Summer-2025-_R30954",
-        "locations": [
-            "Chambersburg, PA",
-            "Hagerstown, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Crowdstrike",
-        "id": "6170ad80-c30b-4626-856e-ac7e992cee43",
-        "title": "Internal Tools Developer Intern - Remote",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1727925282,
-        "date_posted": 1727925282,
-        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Internal-Tools-Developer-Intern--Remote-_R20462",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Amazon",
         "id": "dc1de366-2c74-495f-b840-ba4a1cc54f48",
         "title": "Software Dev Engineer Intern - Compiler - Annapurna ML",
@@ -118610,7 +118569,7 @@
         "company_name": "Capital One",
         "id": "5fe61f2e-4706-4668-a0d3-a52e6ee5a4d6",
         "title": "Intern \u2013 Backend Software Engineer - Team Planet Express",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -155220,7 +155179,7 @@
         "company_name": "Meta",
         "id": "8e746c54-7f40-42af-85a6-87f03c8c0ac2",
         "title": "Research Scientist Intern - Audio Presence - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -170522,7 +170481,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171320,7 +171279,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -172596,7 +172555,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "57a601ba-c424-4324-8a40-7e650c4ee70a",
         "title": "Rotational Cybersecurity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Spring 2026",
@@ -173314,7 +173273,7 @@
         "company_name": "FM Global",
         "id": "302bca3a-bec3-422d-90ce-13c40c032cab",
         "title": "Identity Services Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -174190,7 +174149,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174976,7 +174935,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -175046,7 +175005,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175185,7 +175144,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -175256,7 +175215,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -176318,7 +176277,7 @@
         "company_name": "Quanta Services",
         "id": "160d1f7f-a969-4416-8aff-56a07e419e95",
         "title": "Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -176530,7 +176489,7 @@
         "company_name": "W.R. Berkley",
         "id": "183873ef-c292-4e5e-816e-4777686fefc7",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178947,7 +178906,7 @@
         "company_name": "AbbVie",
         "id": "99bea391-0922-49ed-902c-884604c819c1",
         "title": "APEX Advanced Analytics Intern - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2027"
@@ -182162,7 +182121,7 @@
         "company_name": "Wiltshire Farm Foods",
         "id": "1593a1c8-12f0-4186-8a95-e65649275f09",
         "title": "Apprentice Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -182208,7 +182167,7 @@
         "company_name": "American Structurepoint",
         "id": "d8c8e890-ea70-4928-9246-5165a69dbb2b",
         "title": "IT Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -183118,7 +183077,7 @@
         "company_name": "Motorola",
         "id": "b10ece34-bf01-42e7-b094-c1bc750e6f4e",
         "title": "GenAI & ML Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -191808,7 +191767,7 @@
         "company_name": "AbbVie",
         "id": "5faad969-5abc-41c4-a4be-cecf1b01475a",
         "title": "APEX Advanced Analytics Intern - Masters",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Summer 2027"
@@ -194645,7 +194604,7 @@
         "company_name": "RESPEC",
         "id": "22e490ad-56fe-4b56-af8d-5848ada5b644",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -195116,7 +195075,7 @@
         "company_name": "NextEra Energy",
         "id": "230b8b71-ad80-4a38-bdd4-5def75505995",
         "title": "IT Programmer Analyst \u2013 College Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -199134,7 +199093,7 @@
         "company_name": "ServiceNow",
         "id": "49514a2e-ac9b-4035-8694-e43c33e8cb6c",
         "title": "Associate Information Security Analyst Intern - Sso",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -205203,7 +205162,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -206165,7 +206124,7 @@
         "company_name": "RESPEC",
         "id": "cb5e43ba-13a7-4377-b35e-62bfb1dc2d76",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -210235,7 +210194,7 @@
         "company_name": "ServiceNow",
         "id": "e31f4369-9747-424a-a4d3-dca62e677280",
         "title": "Associate Product Security Engineer Intern - Sso",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -210304,7 +210263,7 @@
         "company_name": "ServiceNow",
         "id": "5762911f-e8f2-4c33-8d7e-6cddf812d50c",
         "title": "Associate Information Security Analyst Intern - Sso",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -211848,7 +211807,7 @@
         "company_name": "Carollo Engineers",
         "id": "87affda7-6731-4b09-9c65-544b10d7a2bd",
         "title": "Web App Development Intern - Software Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -214971,6 +214930,121 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Dominion Energy",
+        "id": "a44685a2-4a63-4d65-86fb-36ac4c25427a",
+        "title": "IT Intern \u2013 AI & Emerging Technologies",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759024843,
+        "date_posted": 1759024843,
+        "url": "https://careers.dominionenergy.com/job/RICHMOND-IT-Intern-AI-&-Emerging-Technologies-VA-23219/1329913500/?ats=successfactors",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dominion-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CIBC",
+        "id": "92caa5d9-055c-4fee-96d2-0302f0b3cbd5",
+        "title": "Digital Product Specialist Intern/Co-op - Sales Origination Product Delivery",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1759024119,
+        "date_posted": 1759024119,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Digital-Product-Specialist-Co-op--Winter-2026_2522475",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "1b6e7bdc-7fb2-4376-bb8f-b28b57493217",
+        "title": "Software Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759026583,
+        "date_posted": 1759026583,
+        "url": "https://careers-gdms.icims.com/jobs/67996/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zipline",
+        "id": "2282c2e7-9227-4f69-be7c-a5443d0a7346",
+        "title": "System Validation & Automation Intern - System Validation - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1759027637,
+        "date_posted": 1759027637,
+        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7479993003",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "University of Maryland Medical System",
+        "id": "5ff40bef-b75b-4f95-a982-f576847b5d91",
+        "title": "IT Helpdesk Specialist Intern - IT Support",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759034126,
+        "date_posted": 1759034126,
+        "url": "https://jobs.smartrecruiters.com/UniversityOfMarylandMedicalSystem/3743990009647966",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Mary-And-Medical-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
