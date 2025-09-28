@@ -1979,13 +1979,6 @@
 <td><div align="center"><a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000064471-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a7141d7b-1a29-4ce4-9635-9412583c6a96?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Allium?utm_source=GHList&utm_medium=company">Allium</a></strong></td>
-<td>Engineering Intern - AI</td>
-<td>New York, NY</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -2424,7 +2417,7 @@
 <td>Global Markets Quantitative Trading</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/New-York-New-York-United-States-of-America/XMLNAME-2026-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000101066-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/HB-Fuller?utm_source=GHList&utm_medium=company">H.B. Fuller</a></strong></td>
