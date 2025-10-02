@@ -133,82 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1738645313,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000040379930-software-engineer-intern",
-        "company_name": "Visa",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "0610bc46-38a6-4a60-b506-90cd7058269e",
-        "date_posted": 1738645313,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1738645413,
-        "url": "https://www.amazon.jobs/en/jobs/2873596/sde-intern-embedded-systems",
-        "company_name": "Amazon",
-        "title": "SDE Intern (Embedded Systems)",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "71e94bb0-40c5-4af5-8a64-1c8160cdf4c3",
-        "date_posted": 1738645413,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1738646769,
-        "url": "https://www.ziprecruiter.com/c/Calista-Corporation/Job/Calista-2025-Summer-Internship-Program/-in-Anchorage,AK?jid=0330c6daa90dbd0b",
-        "company_name": "Calista Corporation",
-        "title": "Summer Internship Program ( IT, Software )",
-        "locations": [
-            "Anchorage, AK"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "Mohamed-khaled0",
-        "id": "e237800f-1686-4ca1-9ee8-c3da85ddd7af",
-        "date_posted": 1738646676,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1738646846,
-        "url": "https://calistacorp.wd1.myworkdayjobs.com/CalistaInternship/job/Anchorage-AK/Calista-2025-Summer-Internship-Program_JR106055",
-        "company_name": "Calista Corporation",
-        "title": "Calista 2025 Summer Internship Program",
-        "locations": [
-            "Anchorage, AK"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "d6c59cc6-b254-4e79-af1b-65da441709c4",
-        "date_posted": 1738646846,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Western Digital",
         "id": "5c0afff8-70b1-467b-97b9-6a714af99fe6",
@@ -80912,7 +80836,7 @@
         "company_name": "Markel Group, Inc.",
         "id": "41b39b9b-800e-4d3c-8c0d-8adbbd236eb3",
         "title": "IT Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -103087,7 +103011,7 @@
         "company_name": "Wintermute",
         "id": "d1856aac-0a4c-4434-8392-32b0851ae579",
         "title": "Quant Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130130,7 +130054,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "57a601ba-c424-4324-8a40-7e650c4ee70a",
         "title": "Rotational Cybersecurity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Spring 2026",
@@ -131609,7 +131533,7 @@
         "company_name": "RoviSys",
         "id": "c376dec1-bc42-48cb-88f0-fd1276179d92",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -132719,7 +132643,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -135567,7 +135491,7 @@
         "company_name": "Roche",
         "id": "d036ae69-97e0-4929-848a-14976ee33eb2",
         "title": "2025 Intern - Algorithm Research and Development - Csmls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -136126,7 +136050,7 @@
         "company_name": "Roche",
         "id": "dfb7c9da-2943-49fc-bb2d-ed85119c1035",
         "title": "2025 Intern - Algorithm Research and Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -140319,7 +140243,7 @@
         "company_name": "Wipfli",
         "id": "2475f313-954b-4b78-a5e7-4875eda6037b",
         "title": "Cybersecurity Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -145241,7 +145165,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "587e2cf6-e3d5-4da7-9fb0-4c30feba28b9",
         "title": "Software Systems Engineer and Acquisition Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161210,7 +161134,7 @@
         "company_name": "Scale AI",
         "id": "37986837-cbd5-4c50-bc75-ed362e9028c3",
         "title": "Technical Advisor Intern - GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -161586,7 +161510,7 @@
         "company_name": "Live Oak Bank",
         "id": "34ea90b8-5a35-41b1-b499-fb113a5c8554",
         "title": "Data Science Intern - Analytics Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166366,7 +166290,7 @@
         "company_name": "Daktronics",
         "id": "0b3559d3-97ad-4a01-a6d8-78810cf73274",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -172165,7 +172089,7 @@
         "company_name": " PrizePicks",
         "id": "3deda11f-68ab-4b7c-921f-be192869df9e",
         "title": "Machine Learning Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -176343,7 +176267,7 @@
         "company_name": "AECOM",
         "id": "285019dd-ada3-48ab-840d-7ba000751ee3",
         "title": "Data Management Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -178368,6 +178292,175 @@
             "Pleasanton, CA"
         ],
         "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Riot Games",
+        "id": "90a795ce-d543-4246-a848-d9db0b34072b",
+        "title": "Software Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759368422,
+        "date_posted": 1759368422,
+        "url": "https://www.riotgames.com/en/work-with-us/job/7254441?gh_jid=7254441",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Riot-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dandy",
+        "id": "62c8e700-69f4-49f0-b4c8-6ce4ddb3887d",
+        "title": "Machine Learning Intern - Master's or PhD",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759372502,
+        "date_posted": 1759372502,
+        "url": "https://jobs.ashbyhq.com/dandy/ca3ac564-bd29-4d86-a67d-741909354c8d/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dandy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "The Federal Reserve System",
+        "id": "da871f00-4f7b-4427-921e-ed65f83652e4",
+        "title": "Information Technology Developer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759372314,
+        "date_posted": 1759372314,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Information-Technology-Developer-Intern---Summer-2026_R-0000030248-1",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Duolingo",
+        "id": "d2656b7f-43a5-4747-bafe-65e43f578f85",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759372374,
+        "date_posted": 1759372374,
+        "url": "https://careers.duolingo.com/jobs/8192833002?gh_jid=8192833002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "The Federal Reserve System",
+        "id": "67a2a189-910f-473c-8f7f-d6d771683ea0",
+        "title": "Information Security Intern - Information Security",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759372310,
+        "date_posted": 1759372310,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Information-Security--IS--Intern---Summer-2026_R-0000030244",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Epic Games",
+        "id": "f601343b-3039-494b-a302-0dda96ba64e3",
+        "title": "User Identity Services Engineering Intern - Identity - Access Control",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1759373655,
+        "date_posted": 1759373655,
+        "url": "https://epicgames.com/careers/jobs/5662697004?gh_jid=5662697004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "CDW Corporation",
+        "id": "c2bd0807-daed-4d3b-b6e7-3e7cb550270b",
+        "title": "Campus Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1759373467,
+        "date_posted": 1759373467,
+        "url": "https://cdw.wd5.myworkdayjobs.com/careers/job/Remote--USA/On-Campus-Internship---Mississippi-State-University_R25_00003111-1",
+        "locations": [
+            "Mississippi State, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/CDW-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
