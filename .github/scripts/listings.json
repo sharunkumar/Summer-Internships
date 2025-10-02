@@ -134,66 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Western Digital",
-        "id": "5c0afff8-70b1-467b-97b9-6a714af99fe6",
-        "title": "SSD Firmware Engineer Intern - Bachelors",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738656461,
-        "date_posted": 1738656461,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000040431035",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Motorola",
-        "id": "d0fe5554-696d-4552-9fca-e41f436b59f3",
-        "title": "Critical Communication Networks Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738657516,
-        "date_posted": 1738657516,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Critical-Communication-Networks-Software-Engineer---Summer-2025-Internship_R53430",
-        "locations": [
-            "Hoffman Estates, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Samsara",
-        "id": "d13095b4-4fa8-4008-a9e2-d804115e603e",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1738672157,
-        "date_posted": 1738672157,
-        "url": "https://www.samsara.com/company/careers/roles/6295159?gh_jid=6295159",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsara",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Autodesk",
         "id": "3c220632-a8a6-4d54-88f5-348014986446",
         "title": "Intern \u2013 Machine Learning Developer",
@@ -95344,7 +95284,7 @@
         "company_name": "TD Bank",
         "id": "f3c2944f-1bcc-4a9a-bfa6-eb3f9819e94c",
         "title": "Software Developer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -127633,7 +127573,7 @@
         "company_name": "Meta",
         "id": "5ad4e7a6-e81e-4970-95af-66a080f1414b",
         "title": "Research Scientist Intern - Non-Linear Optics - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -133753,7 +133693,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -140243,7 +140183,7 @@
         "company_name": "Wipfli",
         "id": "2475f313-954b-4b78-a5e7-4875eda6037b",
         "title": "Cybersecurity Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -140364,7 +140304,7 @@
         "company_name": "Quanta Services",
         "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
         "title": "Information Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -142863,7 +142803,7 @@
         "company_name": "Autodesk",
         "id": "8fc3fab9-68e3-4e52-b011-8adab7779c88",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -149172,7 +149112,7 @@
         "company_name": "CACI",
         "id": "b8f53d89-c22a-43fe-908b-791a5578a9fd",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -172232,7 +172172,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "ea0e5c70-24d1-49c8-a642-64566f6f75ed",
         "title": "GIS and Geospatial Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -174840,7 +174780,7 @@
         "company_name": "RTX",
         "id": "01d65ac0-2896-4b39-a88b-5988618e016a",
         "title": "Data Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177668,7 +177608,7 @@
         "company_name": "Grow Financial Federal Credit Union",
         "id": "f773e1e7-217c-442f-81f3-bc8a1692940f",
         "title": "Collections Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -178461,6 +178401,220 @@
             "Mississippi State, MS"
         ],
         "company_url": "https://simplify.jobs/c/CDW-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waymo",
+        "id": "556ede7b-16c9-4be4-b5f9-d9808526404a",
+        "title": "Intern - Data Science - Planner & Perception Evaluation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759393477,
+        "date_posted": 1759393477,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=7264741",
+        "locations": [
+            "SF",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Waymo",
+        "id": "02f18432-89ed-4fdd-af8b-b399309e4ae6",
+        "title": "Intern - Software Engineering - Commercialization",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759395551,
+        "date_posted": 1759395551,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=7269233",
+        "locations": [
+            "SF",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Waymo",
+        "id": "fb563b96-ff24-41f1-9893-4b659d466e60",
+        "title": "Intern - Software Engineering - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759398511,
+        "date_posted": 1759398511,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=7264952",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ibotta",
+        "id": "25528d38-2e01-4865-87d0-03cac453cdab",
+        "title": "Data Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759399336,
+        "date_posted": 1759399336,
+        "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Data-Engineering-Intern_R-102117-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/ibotta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waymo",
+        "id": "fbe9f42f-4cfd-4caa-bad8-2d6d89198bd7",
+        "title": "Intern - Research - Vision-Language-Action Models",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759398579,
+        "date_posted": 1759398579,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=7284116",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ibotta",
+        "id": "11d88766-7048-4fb1-8105-ddaf1a49934d",
+        "title": "Machine Learning Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759400945,
+        "date_posted": 1759400945,
+        "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Machine-Learning-Intern_R-102114",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/ibotta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genies",
+        "id": "9fdeb29e-c993-4aa6-899b-ec21d5aecbd8",
+        "title": "ML Engineering Intern - Texture Generation",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759400590,
+        "date_posted": 1759400590,
+        "url": "https://job-boards.greenhouse.io/genies/jobs/7484482003",
+        "locations": [
+            "LA",
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "ibotta",
+        "id": "fdd1c6a7-e194-4ad8-853d-c0898669aefb",
+        "title": "Information Technology Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759401248,
+        "date_posted": 1759401248,
+        "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Information-Technology-Intern_R-102130",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/ibotta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LinkedIn",
+        "id": "a135ae48-9a77-48a2-8c12-b18d5c3f5d79",
+        "title": "Software Engineer Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1759403198,
+        "date_posted": 1759403198,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000085237793",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LinkedIn",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
