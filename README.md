@@ -1708,7 +1708,7 @@
 <td>Machine Learning Researcher – PhD Intern 🎓</td>
 <td>Miami, FL</br>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/WorldQuant?utm_source=GHList&utm_medium=company">WorldQuant</a></strong></td>
