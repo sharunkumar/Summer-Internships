@@ -155,25 +155,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Matroid",
-        "id": "17a25e02-c8ad-4ae5-82a1-907371fc854b",
-        "title": "Software Engineer Intern - Infrastructure",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739262448,
-        "date_posted": 1739262448,
-        "url": "https://matroid.breezy.hr/p/65f4ecd8a39b/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Matroid",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Axiom Zen",
         "id": "ed033102-26d8-4c85-be32-532891ae167d",
         "title": "Frontend Software Engineering Intern",
@@ -67601,7 +67582,7 @@
         "company_name": "Dow Chemical Company",
         "id": "7744dec5-19ce-4d3a-8c36-7aca246a784a",
         "title": "2025 \u2013 2026 Campus Internship - Digital Innovation - Cross-functional - Ph.D",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -121498,7 +121479,7 @@
         "company_name": "LabCorp",
         "id": "de23b876-b35d-4361-9b93-a3614b35a7c5",
         "title": "Intern \u2013 Enterprise Systems Monitoring",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -126878,7 +126859,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "87b5dfb7-6efe-418c-bf60-a329be9aeede",
         "title": "Quantitative Trader Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -127719,7 +127700,7 @@
         "company_name": "RoviSys",
         "id": "a270961f-eaa0-4f38-a325-1a3d02a9cb9d",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -128049,7 +128030,7 @@
         "company_name": "Shure",
         "id": "fef5d3f3-b20a-47d1-8a1c-8325471900e1",
         "title": "Embedded Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -128119,7 +128100,7 @@
         "company_name": "Shure",
         "id": "cceac49b-69c3-419f-b97d-5a1ed6b46e09",
         "title": "Cloud Applications Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -128308,7 +128289,7 @@
         "company_name": "Shure",
         "id": "4056025f-51a8-4971-8e2c-874f160c7ce0",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -128854,7 +128835,7 @@
         "company_name": "RoviSys",
         "id": "54f874cd-8392-41ea-bebf-5d45e61c62f2",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -129663,7 +129644,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -184381,7 +184362,7 @@
         "company_name": "Steel Dynamics",
         "id": "7e7de3ad-d8ce-4a02-b764-9b37621413fc",
         "title": "Software Development Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -189045,15 +189026,252 @@
         "title": "Data Analyst and Reporting Intern - Marketing Analytics",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759975138,
+        "date_updated": 1760007796,
         "date_posted": 1759975138,
         "url": "https://jobs.smartrecruiters.com/ATPCO1/744000086392255",
         "locations": [
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Patreon",
+        "id": "5cefdd41-b417-4f73-8faa-f5a0dded28bf",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1760007725,
+        "date_posted": 1760002129,
+        "url": "https://jobs.ashbyhq.com/patreon/7046bc99-eaa8-4920-99ec-5f5c91e95991/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Patreon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Versapay",
+        "id": "23d459f9-40e9-43db-b16d-561bd1731fb1",
+        "title": "Product Management Intern - Product Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1760007711,
+        "date_posted": 1760001967,
+        "url": "https://jobs.lever.co/versapay/5e152057-a83d-49f7-95d2-5406d58823d0/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Versapay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "be329ce9-a1da-4fe0-8c89-1f4dedf870e0",
+        "title": "PhD Software Engineer Intern - Data Storage",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1760001815,
+        "date_posted": 1760001815,
+        "url": "https://university-uber.icims.com/jobs/149481/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Klaviyo",
+        "id": "65e4f006-c40b-48b1-810d-2ff8d8276f3d",
+        "title": "Product Marketing Intern/Co-op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1760001703,
+        "date_posted": 1760001703,
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7483172003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Klaviyo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Altice USA",
+        "id": "06089e64-e4b8-4278-bde1-8679e772005a",
+        "title": "Intern \u2013 Junior Systems Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1760007648,
+        "date_posted": 1760000587,
+        "url": "https://www.alticeusacareers.com/job/Golden-Intern-Jr-Systems-Analyst-CO-80401/1332889100/?ats=successfactors",
+        "locations": [
+            "Plainview, NY",
+            "Golden, CO",
+            "Wakefield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "26f497e3-0d3b-4929-8307-cd57d0b04345",
+        "title": "Firmware Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1760007836,
+        "date_posted": 1760000387,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineering-Intern---Master-s-Degree_2502500",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waymo",
+        "id": "b251ee65-3b88-4e13-b4cd-6fc2fd6f6992",
+        "title": "Intern - Generative Synthetic Data",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1760000208,
+        "date_posted": 1760000208,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=7306105",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "ad40a8da-bfdf-4a2c-aa19-aa1868d13866",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1760007761,
+        "date_posted": 1760000208,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2025476333-1",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Patreon",
+        "id": "ab32f81c-b980-4fc7-955b-402bc10d3000",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1760007629,
+        "date_posted": 1760000274,
+        "url": "https://jobs.ashbyhq.com/patreon/68ee2ece-6200-411b-8ccf-a1841b947e9a/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Patreon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Seaspan",
+        "id": "ca7e059d-b84c-48fe-8034-598336839086",
+        "title": "Intern - Innovation - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1760002851,
+        "date_posted": 1760002851,
+        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/8026",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Seaspan",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
