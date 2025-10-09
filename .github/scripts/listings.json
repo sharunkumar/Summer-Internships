@@ -174,108 +174,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Amazon",
-        "id": "5b16c4e1-6cb5-40bb-9a6d-dbc0e53b34b2",
-        "title": "Systems Development Engineer Intern - Amazon Dedicated Cloud",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739247831,
-        "date_posted": 1739247831,
-        "url": "https://amazon.jobs/en/jobs/2897599/systems-development-engineer-intern-amazon-dedicated-cloud",
-        "locations": [
-            "Seattle, WA",
-            "Arlington, VA",
-            "Reston, VA",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Amazon",
-        "id": "4a83bb91-dd5b-45a6-b147-1a77b06562dd",
-        "title": "Software Development Engineer Intern - Amazon Dedicated Cloud",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739247827,
-        "date_posted": 1739247827,
-        "url": "https://amazon.jobs/en/jobs/2897618/software-development-engineer-intern-amazon-dedicated-cloud",
-        "locations": [
-            "Seattle, WA",
-            "Arlington, VA",
-            "Reston, VA",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Blockhouse",
-        "id": "df401ac6-ddc8-438e-9398-8a57f4432c4b",
-        "title": "Quantitative Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739247747,
-        "date_posted": 1739247747,
-        "url": "https://jobs.ashbyhq.com/blockhouse/429d5f9f-a2ed-4dcb-85da-88d5fbe65050/application",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Blockhouse",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "S&P Global ",
-        "id": "6e2a6387-f18b-40d5-b24f-523de52fffa9",
-        "title": "Data Science Intern-NLP - LLM and GenAI - Early Careers",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1739247500,
-        "date_posted": 1739247500,
-        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Data-Science-Intern--NLP--LLM-and-GenAI--Early-Careers-_312437-1",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Western Digital",
-        "id": "7db042cd-4f82-44c5-8cac-9ba7d945c3a6",
-        "title": "Internship - Software Engineering - Firmware",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739246989,
-        "date_posted": 1739246989,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000041656865",
-        "locations": [
-            "San Jose, CA",
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Axiom Zen",
         "id": "ed033102-26d8-4c85-be32-532891ae167d",
         "title": "Frontend Software Engineering Intern",
@@ -115489,7 +115387,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "3a8ef299-246a-40f3-97d1-ff465830bffc",
         "title": "Internship Summer 2026 - Technology - Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -163518,7 +163416,7 @@
         "company_name": "Kinaxis",
         "id": "d3a15f64-ed8a-4820-ba9c-68dce12d3ecd",
         "title": "Co-op/Intern Developer - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -167733,7 +167631,7 @@
         "company_name": "Oshkosh",
         "id": "47a46e61-606d-49ef-a967-99e9fc43d00c",
         "title": "Software Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -168189,7 +168087,7 @@
         "company_name": "Siemens",
         "id": "f64f24f9-9964-4a25-bcfe-bb193edf1fbb",
         "title": "Emobility\u00ae Experience Program Internship - Internal Services - Smart Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -168491,7 +168389,7 @@
         "company_name": "Siemens",
         "id": "3ec0a9af-81a4-4973-bd29-69496acf89ce",
         "title": "Data Analysis Intern - Customer Service - Mobility",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -168515,7 +168413,7 @@
         "company_name": "Siemens",
         "id": "37aae546-ba1d-4517-9acc-2363b8c6e824",
         "title": "Software Engineering Internship - Internal Services - Smart Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -168539,7 +168437,7 @@
         "company_name": "Siemens",
         "id": "269553c3-e18b-48a9-81e2-4d5f46f5c610",
         "title": "R&D Data Analytics Intern - Digital Industries",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -168562,7 +168460,7 @@
         "company_name": "Siemens",
         "id": "02a1aad1-eca9-4700-a7bc-495ace306393",
         "title": "Mechanical Data Analyst Intern - Customer Service - Mobility",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -189133,6 +189031,29 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lumen-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ATPCO",
+        "id": "c3107a42-e633-4d49-9529-4676f85b9d43",
+        "title": "Data Analyst and Reporting Intern - Marketing Analytics",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759975138,
+        "date_posted": 1759975138,
+        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000086392255",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
