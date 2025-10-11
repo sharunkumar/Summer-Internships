@@ -18,8 +18,7 @@ CATEGORY_MAPPING = {
     "ai": "Data Science, AI & Machine Learning",
     "machine learning": "Data Science, AI & Machine Learning",
     "quantitative finance": "Quantitative Finance",
-    "hardware engineering": "Hardware Engineering",
-    "other": "Other",
+    "hardware engineering": "Hardware Engineering"
 }
 
 def _clean(s: str) -> str:

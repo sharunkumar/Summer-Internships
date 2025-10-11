@@ -293,19 +293,48 @@ def classifyJobCategory(job):
     
     # Return None for jobs that don't fit any category (will be filtered out)
     else:
-        return None
+        return "Software Engineering"
 
 def ensureCategories(listings):
     categorized_listings = []
     filtered_count = 0
     
+    # Create mapping from old category names to new category names
+    category_mapping = {
+        "Software": "Software Engineering",
+        "Product": "Product Management", 
+        "AI/ML/Data": "Data Science, AI & Machine Learning",
+        "Quant": "Quantitative Finance",
+        "Hardware": "Hardware Engineering"
+    }
+    
     for listing in listings:
-        category = classifyJobCategory(listing)
-        if category is not None:  # Only keep jobs that fit our categories
-            listing["category"] = category
-            categorized_listings.append(listing)
+        # If listing already has a category, normalize it to full category name
+        if "category" in listing and listing["category"]:
+            existing_category = listing["category"]
+            # Normalize old category names to new full names
+            if existing_category in category_mapping:
+                listing["category"] = category_mapping[existing_category]
+                categorized_listings.append(listing)
+            # Re-classify jobs with "Other" or invalid categories
+            elif existing_category in ["Other", "None", None]:
+                category = classifyJobCategory(listing)
+                if category is not None:
+                    listing["category"] = category
+                    categorized_listings.append(listing)
+                else:
+                    filtered_count += 1
+            else:
+                # Keep jobs with valid full category names
+                categorized_listings.append(listing)
         else:
-            filtered_count += 1
+            # Only auto-classify if no category exists
+            category = classifyJobCategory(listing)
+            if category is not None:  # Only keep jobs that fit our categories
+                listing["category"] = category
+                categorized_listings.append(listing)
+            else:
+                filtered_count += 1
     
     print(f"Filtered out {filtered_count} jobs that didn't fit any category")
     return categorized_listings
