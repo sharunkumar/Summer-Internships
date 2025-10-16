@@ -134,188 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Comcast",
-        "id": "b5225a5a-037c-42d1-b060-00bcb3ee7c69",
-        "title": "Comcast Software Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1739896316,
-        "date_posted": 1739896316,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R398008",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Comcast",
-        "id": "c55f52f4-427e-4650-951c-f1724f644986",
-        "title": "Comcast Software Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1739896308,
-        "date_posted": 1739896308,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Comcast-Software-Engineer-Co-op_R397682",
-        "locations": [
-            "West Chester, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Lowe's ",
-        "id": "2afc6327-9cd6-484c-b7c3-c25406e16a5a",
-        "title": "Software Engineer \u2013 Undergraduate Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739896534,
-        "date_posted": 1739896534,
-        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer--Undergraduate-Internship_JR-01879296",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Lowes",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Chewy",
-        "id": "e823870c-0da2-4586-9d7e-e8e73d09ad28",
-        "title": "AI Innovator Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739895471,
-        "date_posted": 1739895471,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6642607",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Chewy",
-        "id": "1c4fc0c8-5564-48fd-b781-471d528757ac",
-        "title": "AI Innovator Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739895470,
-        "date_posted": 1739895470,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6641852",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "7-Eleven",
-        "id": "25c5f0d6-6ff1-49e6-a73d-3129efab393d",
-        "title": "Merchandising Technology Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739896288,
-        "date_posted": 1739896288,
-        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Merchandising-Technology-Intern_R25_0000001208",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/7-Eleven",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Comcast",
-        "id": "faff98b6-aa9e-42ce-951c-e34964a22dd0",
-        "title": "Comcast AI Technologies Front-End Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1739896307,
-        "date_posted": 1739896307,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-AI-Technologies-Front-End-Engineer-Co-op_R398002",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "National Information Solutions Cooperative (NISC)",
-        "id": "76e651ab-cfb6-4f9e-8e40-f35e10e2cb8d",
-        "title": "Intern \u2013 Software Development",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1739895766,
-        "date_posted": 1739895766,
-        "url": "https://boards.greenhouse.io/testnisc/jobs/6643155",
-        "locations": [
-            "Bismarck, ND",
-            "Lake St Louis, MO",
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-NISC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Comcast",
-        "id": "f9e9792d-0d9d-4379-aac8-2cbcfe2e3e94",
-        "title": "Comcast Software Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1739896302,
-        "date_posted": 1739896302,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R400696",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Intel",
         "id": "c286d91a-c60d-4bd2-8503-fdb5eac4493a",
         "title": "System and Software Optimization Engineer \u2013 Undergrad Intern - AI/ML",
@@ -119865,7 +119683,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "9f45cbf8-cee6-4b1c-aa23-82b51bdb56b6",
         "title": "Applied AI Intern - Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -126514,7 +126332,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -126562,7 +126380,7 @@
         "company_name": "RoviSys",
         "id": "d7e5e1b2-17a9-4450-b6a8-a0afe51426eb",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -127859,7 +127677,7 @@
         "company_name": "W.R. Berkley",
         "id": "5e7ae581-bfe7-42e4-a462-c48a4fc56c8e",
         "title": "Quantitative Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -132358,7 +132176,7 @@
         "company_name": "Lennox International",
         "id": "606f3d71-4e31-4ce2-93bb-662378d17ab8",
         "title": "IoT Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -168275,7 +168093,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "7eefc069-f24e-4838-bc4a-cb939e6379d5",
         "title": "Linux Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171460,7 +171278,7 @@
         "company_name": "National Basketball Association",
         "id": "0d312638-151e-4d5c-b021-ad511f083a15",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -173249,7 +173067,7 @@
         "company_name": "Nissan Global",
         "id": "e3c459fc-c192-4089-b0d8-5159e26b1de5",
         "title": "Data Scientist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177466,7 +177284,7 @@
         "company_name": "Hexagon AB ",
         "id": "7071d870-30c3-4e21-8a95-dd4b4c92cccb",
         "title": "Software Test Engineering Intern - Software Test Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
