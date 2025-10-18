@@ -60986,7 +60986,7 @@
         "company_name": "Pentair",
         "id": "78f15bcd-0850-44c4-a406-24bbebc08e2a",
         "title": "Product Management Leadership Development Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -89784,7 +89784,7 @@
         "company_name": "Aptiv",
         "id": "617c2ce8-85c6-4249-9da1-cf937ef09ee5",
         "title": "Software Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -100160,7 +100160,7 @@
         "company_name": "Activision-Blizzard",
         "id": "217d062b-8120-491f-8b23-c2e02d229d83",
         "title": "Summer Internships - Production",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -117041,7 +117041,7 @@
         "company_name": "Crowe",
         "id": "b5a12285-496e-4bd6-90d4-909e9adde032",
         "title": "Data Analytics Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -118991,7 +118991,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "d805d49e-4ea5-4dec-b9dd-45ce6bbbd337",
         "title": "Quantitative Trader Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -121499,7 +121499,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "f7395054-7db5-4380-a84d-a3a91540d37c",
         "title": "Quantitative Strategy Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -122670,7 +122670,7 @@
         "company_name": "FM Global",
         "id": "0ce0eba4-b10d-48ec-b66f-1cd3bede9a6b",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -122694,7 +122694,7 @@
         "company_name": "Shure",
         "id": "fef5d3f3-b20a-47d1-8a1c-8325471900e1",
         "title": "Embedded Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -122907,7 +122907,7 @@
         "company_name": "Shure",
         "id": "59028ac5-754c-4650-b9ac-b6386dbae5eb",
         "title": "Application System Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -122953,7 +122953,7 @@
         "company_name": "Shure",
         "id": "4056025f-51a8-4971-8e2c-874f160c7ce0",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -124588,7 +124588,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -156750,7 +156750,7 @@
         "company_name": "Sharp Electronics",
         "id": "ce2a2737-ce05-48c1-adaa-ac72944101e0",
         "title": "AI Process Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2026"
@@ -157874,7 +157874,7 @@
         "company_name": "Clarios",
         "id": "cf488209-d6b1-4159-bd8b-4c689a723510",
         "title": "Manufacturing Quality Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164491,7 +164491,7 @@
         "company_name": "Apogee Engineering",
         "id": "33b85725-8c8d-441f-8cd6-8552d74ae72e",
         "title": "Systems Architect - Apprentice - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -169792,7 +169792,7 @@
         "company_name": "Plexus",
         "id": "26f65a8b-d882-4f41-8b05-1349653cdc2e",
         "title": "Intern - Hardware Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -175423,7 +175423,7 @@
         "company_name": "General Motors",
         "id": "579168e1-69c4-47f1-85af-710ad8f0b58f",
         "title": "Intern - Motorsports Data Processing Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -186886,7 +186886,7 @@
         "company_name": "Activision-Blizzard",
         "id": "5ba1be63-4f6a-4258-84cb-d10f21865c0a",
         "title": "Internship - Technical Art - Tech Art",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -188229,7 +188229,7 @@
         "company_name": "Iridium Communications",
         "id": "23de8143-2060-483b-9d4c-6f912604bfd2",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -193629,7 +193629,7 @@
         "company_name": "General Dynamics",
         "id": "96e906fb-bf81-4070-8d83-893264b56fb4",
         "title": "Life Cycle Support \u2013 2026 Program Office Summer Internship - Lcs",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -196753,7 +196753,7 @@
         "company_name": "FM Global",
         "id": "86325be2-7000-412a-8552-82607063d972",
         "title": "Business Intelligence Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -200813,6 +200813,199 @@
         "locations": [
             "Toronto, ON, Canada",
             "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Idaho National Laboratory",
+        "id": "3b9533dc-a57a-4e10-8504-983b8777ce39",
+        "title": "Industrial Hygiene/Safety Internship Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1760769183,
+        "date_posted": 1760769183,
+        "url": "https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=23248",
+        "locations": [
+            "Idaho Falls, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Idaho-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "c7532965-e9c6-4b2b-ab25-78caa1063400",
+        "title": "Hardware Test Engineering Fall Co-op - Electrical - June 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1760768057,
+        "date_posted": 1760768057,
+        "url": "https://jobs.lever.co/shieldai/24ed3cdd-2430-4014-83fa-78bca90dacaa/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Waymo",
+        "id": "29bfdf79-3266-4090-a984-790802c510f2",
+        "title": "2026 Summer Intern - PhD - Software Engineer - Strategic Selection",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1760767629,
+        "date_posted": 1760767629,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=7342413",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "fa79da94-8759-4ad4-abc6-f406e483d90d",
+        "title": "Software Eng Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2027"
+        ],
+        "date_updated": 1760772268,
+        "date_posted": 1760772268,
+        "url": "https://amazon.jobs/en/jobs/3111793/software-eng-intern",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "cfc4d87c-51a4-406d-8e66-5c5194579907",
+        "title": "Software Eng Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2027"
+        ],
+        "date_updated": 1760772269,
+        "date_posted": 1760772269,
+        "url": "https://amazon.jobs/en/jobs/3111792/software-eng-intern",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sigma Computing",
+        "id": "f7d1624e-8ffa-4a6d-a997-d7eaf52d601a",
+        "title": "Software Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1760773536,
+        "date_posted": 1760773536,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7501718003",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sigma Computing",
+        "id": "310c5794-1ffb-4561-99a1-80a9465bd98d",
+        "title": "AI/ML Graduate Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1760773518,
+        "date_posted": 1760773518,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7501705003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autodesk",
+        "id": "7142bcf1-4e34-4e69-820e-4649670f700c",
+        "title": "PhD Intern - Research - Embodied AI Agents",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1760783536,
+        "date_posted": 1760783536,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Toronto-ON-CAN/PhD-Intern--Research---Embodied-AI-Agents_25WD92247",
+        "locations": [
+            "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Autodesk",
         "is_visible": true,
