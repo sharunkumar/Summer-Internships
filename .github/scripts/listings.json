@@ -134,82 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Roku",
-        "id": "3cb2ef44-b9fe-4cd8-8f01-736aaa550bf2",
-        "title": "Software Engineer Intern - Devops",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740155104,
-        "date_posted": 1740155104,
-        "url": "https://www.weareroku.com/jobs/6613675?gh_jid=6613675",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Roku",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Brooks Automation",
-        "id": "b8275ae9-eb9c-452f-ae2d-74e1529a9ecf",
-        "title": "Business Intelligence Analyst Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740154879,
-        "date_posted": 1740154879,
-        "url": "https://brooksauto.wd1.myworkdayjobs.com/en-US/Brooks_External_Site/job/Chelmsford-MA/Business-Intelligence-Analyst-Internship-for-Summer-2025_R3017",
-        "locations": [
-            "Lowell, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/190ae898-a199-4c93-b2ce-50b07b110a17",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Tower Research Capital",
-        "id": "c5ee72ae-f07d-450e-9e49-034e3504b9a6",
-        "title": "Machine Learning Intern",
-        "active": true,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740154805,
-        "date_posted": 1740154805,
-        "url": "https://www.tower-research.com/open-positions/?gh_jid=6651908",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wayfair",
-        "id": "7609b6c1-6b72-4277-8000-04bf06d371ab",
-        "title": "Data Scientist Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740154475,
-        "date_posted": 1740154475,
-        "url": "https://www.wayfair.com/careers/jobs/7870094002?gh_jid=7870094002",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wayfair",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Samsung",
         "id": "7b25a8a1-3071-4d15-afa0-bf960460bb30",
         "title": "Network Deployment Software Developer Intern",
@@ -129096,7 +129020,7 @@
         "company_name": "Lucid",
         "id": "7442a5d6-b51a-42c1-b0f1-e64c784abbc6",
         "title": "Analytics Engineer Internship 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -132345,7 +132269,7 @@
         "company_name": "Comcast",
         "id": "a759ffdb-65bb-4fa5-8f8e-a46e8b7f1636",
         "title": "Comcast Hardware Test and Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161334,7 +161258,7 @@
         "company_name": "ByteDance",
         "id": "39b14011-bd7a-48d9-b759-cf7d5b7cd8b9",
         "title": "Research Scientist Intern - AI Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -189345,7 +189269,7 @@
         "company_name": "Sophos",
         "id": "2ca74f44-b009-49d8-80f7-b34c9d064cf3",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -189766,7 +189690,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "fc202f9c-55e4-4730-b538-4c12c35c1b98",
         "title": "Software Developer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -190307,7 +190231,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "dc499172-7b7c-40ef-9360-bec22715a985",
         "title": "Software Engineer 1 - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196720,7 +196644,7 @@
         "company_name": "ATPCO",
         "id": "dce60e67-efe6-40d9-b62b-a2d9e9386e21",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -200452,6 +200376,128 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zipcar",
+        "id": "caa13aee-1d7d-4843-868b-1b00002a1766",
+        "title": "Member Services Co-Op-Knowledge and Quality Enablement",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1760864513,
+        "date_posted": 1760864513,
+        "url": "https://avisbudget.wd1.myworkdayjobs.com/Zipcar_Careers/job/35-Thomson-Pl-Boston-02210/Member-Services-Co-Op--Knowledge-and-Quality-Enablement_R0181487",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipcar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "450e8431-4668-4cba-a9ef-14c20a9e83fa",
+        "title": "Research Intern - MSR Montreal / ML Team",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1760867524,
+        "date_posted": 1760867524,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1898358",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Illumio",
+        "id": "8823043f-42bf-4d99-bea8-192b7e2a07ad",
+        "title": "Engineering Intern - Architecture Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1760870471,
+        "date_posted": 1760870471,
+        "url": "https://jobs.ashbyhq.com/illumio/9bec4a38-8c85-4eac-ad7e-1c80d301873f/application",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Illumio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "State Street",
+        "id": "a0cb65fd-06ee-4c7b-b5aa-0fd225636949",
+        "title": "Product Intern - Product Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1760041030,
+        "date_posted": 1760041030,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/State-Street-Product-Office---Summer-Internship-2026_R-778817",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tower Research Capital",
+        "id": "c5ee72ae-f07d-450e-9e49-034e3504b9a6",
+        "title": "Machine Learning Intern - Core AI & Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1755289852,
+        "date_posted": 1755289852,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=6651908",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
