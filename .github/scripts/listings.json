@@ -98289,7 +98289,7 @@
         "company_name": "Muon Space",
         "id": "968eaf46-d15e-41d7-ab52-2123e9600417",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -103162,7 +103162,7 @@
         "company_name": "Dev Technology Group",
         "id": "39d4d14e-dcc3-443e-92cf-e7b36cd935ed",
         "title": "Microsoft Power Platform & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -103208,7 +103208,7 @@
         "company_name": "Dev Technology Group",
         "id": "1e5ced83-14ce-40cb-b92c-937b19b9a17c",
         "title": "React/Node Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -114945,7 +114945,7 @@
         "company_name": "RoviSys",
         "id": "c50a6272-8217-4f64-b945-5712cbd209c6",
         "title": "Co-op \u2013 Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -117862,7 +117862,7 @@
         "company_name": "RoviSys",
         "id": "2abdccf1-a923-4320-a30e-9eb678dbf3da",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -118286,7 +118286,7 @@
         "company_name": "Cotiviti",
         "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -118679,7 +118679,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -118940,7 +118940,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -119477,7 +119477,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -119527,7 +119527,7 @@
         "company_name": "RoviSys",
         "id": "a29e6946-12e1-4032-9eb9-3651966cfb16",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -120324,7 +120324,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "f7395054-7db5-4380-a84d-a3a91540d37c",
         "title": "Quantitative Strategy Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -120828,7 +120828,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "318f1334-2a46-47a1-a51c-9bccf47c9f6d",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2025",
@@ -122139,7 +122139,7 @@
         "company_name": "RoviSys",
         "id": "b1bb5049-c0a5-4c59-99cc-139987a1e9af",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -122232,7 +122232,7 @@
         "company_name": "RoviSys",
         "id": "c376dec1-bc42-48cb-88f0-fd1276179d92",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -122440,7 +122440,7 @@
         "company_name": "Lennox International",
         "id": "5370c3fa-9b3b-4a0e-b328-efb28408836f",
         "title": "AI Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -123413,7 +123413,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -138926,7 +138926,7 @@
         "company_name": "Kodiak Robotics",
         "id": "c443edbd-6cf8-4b1d-9a2c-00e28649124e",
         "title": "Summer 2026 Intern - Controls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -139020,7 +139020,7 @@
         "company_name": "Kodiak Robotics",
         "id": "4685c90d-e574-40d5-bcd5-9636d0666f18",
         "title": "Intern Video Visualization Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174339,7 +174339,7 @@
         "company_name": "Hexagon AB ",
         "id": "957128c1-605e-470e-a667-6605296d4b3d",
         "title": "Geomatics Engineering Intern - Sensor Fusion",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178348,7 +178348,7 @@
         "company_name": "DriveWealth",
         "id": "78923995-9f30-4663-82f4-27b1886157e5",
         "title": "Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -179486,7 +179486,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "9b4a1267-8cae-41af-8c69-b937d6599278",
         "title": "Data Analysis Intern - Power Tools Department - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2026",
@@ -185051,7 +185051,7 @@
         "company_name": "Samsung",
         "id": "c91d4f03-01c4-43ec-ba41-e444319a31ca",
         "title": "Intern \u2013 Architecture Research Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -185708,7 +185708,7 @@
         "company_name": "Activision-Blizzard",
         "id": "5ba1be63-4f6a-4258-84cb-d10f21865c0a",
         "title": "Internship - Technical Art - Tech Art",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -189220,7 +189220,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "d2257f54-0b84-40a8-a1d9-8a3d32c6f7c6",
         "title": "Data Science Analyst Intern - Data Science - Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -192451,7 +192451,7 @@
         "company_name": "General Dynamics",
         "id": "96e906fb-bf81-4070-8d83-893264b56fb4",
         "title": "Life Cycle Support \u2013 2026 Program Office Summer Internship - Lcs",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -200215,6 +200215,53 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "15c10038-d177-43a1-b436-14b723a584d5",
+        "title": "Intern \u2013 Database Conversion Programming",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757463895,
+        "date_posted": 1757463895,
+        "url": "https://job-boards.greenhouse.io/testnisc/jobs/7238785",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-NISC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Appian",
+        "id": "11026353-57cd-48cd-8ff2-73abe5427edd",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1757452303,
+        "date_posted": 1756511239,
+        "url": "https://job-boards.greenhouse.io/appian/jobs/7201613",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Appian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
