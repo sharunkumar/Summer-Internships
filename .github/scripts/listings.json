@@ -134,63 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "IDEXX",
-        "id": "1f8d1e91-1feb-427f-a2c5-8cfca4508ec3",
-        "title": "Servicenow Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740227509,
-        "date_posted": 1740227509,
-        "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/ServiceNow-Developer-Intern_J-046234",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/IDEXX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Bridgestone",
-        "id": "52384210-0314-4a36-9d8e-97ac74ef8882",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1740227326,
-        "date_posted": 1740227326,
-        "url": "https://bridgestone.wd5.myworkdayjobs.com/External/job/Americas-Technology-Center/Data-Science-Intern_2025_03871",
-        "locations": [
-            "Akron, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Bridgestone",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Lake Michigan Credit Union",
-        "id": "0a7fd4d0-ed14-417e-9d96-f2e277b24e7b",
-        "title": "Retail Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1740226515,
-        "date_posted": 1740226515,
-        "url": "https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Tampa-FL/Retail-Intern---Central-FL_REQ-2025-5426",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Lake-Michigan-Credit-Union",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Tandem",
         "id": "7a76e53c-f5e2-4da2-878b-da950d7b4b71",
         "title": "Software Engineer Internship",
@@ -14836,25 +14779,6 @@
             "Newark, DE"
         ],
         "company_url": "https://simplify.jobs/c/Bloom-Energy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Zeiss",
-        "id": "c73b7a8a-d8da-4f44-8e61-f13f7b2cef31",
-        "title": "Intern-Systems Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741918289,
-        "date_posted": 1740212312,
-        "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/Intern-Systems-Engineering_JR_1007742",
-        "locations": [
-            "Dublin, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zeiss",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -44641,7 +44565,7 @@
         "company_name": "N1",
         "id": "d48ec36f-aeb5-4c12-92bc-b624855ba19d",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -47217,7 +47141,7 @@
         "company_name": "Jump Trading",
         "id": "dc377bc8-2dda-40b8-87af-873d80d8980a",
         "title": "Campus Quantitative Researcher \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -92717,7 +92641,7 @@
     {
         "date_updated": 1756902806,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -96855,7 +96779,7 @@
         "company_name": "Marshall Wace",
         "id": "02e0d8f6-9108-49c6-9488-5887adbf5ea7",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -99061,7 +98985,7 @@
         "company_name": "Activision-Blizzard",
         "id": "217d062b-8120-491f-8b23-c2e02d229d83",
         "title": "Summer Internships - Production",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -121642,7 +121566,7 @@
         "company_name": "Shure",
         "id": "db0cafc6-74d4-47c1-b895-5b8620ca77bd",
         "title": "Automated Test Engineering Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -121808,7 +121732,7 @@
         "company_name": "Shure",
         "id": "59028ac5-754c-4650-b9ac-b6386dbae5eb",
         "title": "Application System Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -123940,7 +123864,7 @@
         "company_name": "STR",
         "id": "bd894ea9-ae15-4457-8874-9b2eace5b699",
         "title": "Cyber Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -124106,7 +124030,7 @@
         "company_name": "STR",
         "id": "55ef5836-6a70-473b-a610-e3a0283be476",
         "title": "Cyber Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -157198,7 +157122,7 @@
         "company_name": "Fundamental Research Labs",
         "id": "950a43f4-65a6-414e-b7a9-7c2edf7dde36",
         "title": "PhD Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -159445,7 +159369,7 @@
         "company_name": " PrizePicks",
         "id": "b9217f45-120d-410c-8100-1d5986a7faf6",
         "title": "Software Engineering Internship - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -160884,7 +160808,7 @@
         "company_name": "ByteDance",
         "id": "81a22594-7cb3-4fa8-a10f-7d86bc57fcf6",
         "title": "Research Scientist Intern - AI Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -171866,7 +171790,7 @@
         "company_name": "Allegion",
         "id": "21e05d72-25e9-4797-8e03-3729848033e5",
         "title": "Digital Manufacturing Intern - Digital Manufacturing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174277,7 +174201,7 @@
         "company_name": "RTX",
         "id": "c7813785-a68f-4902-993c-a85399a5da5c",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174369,7 +174293,7 @@
         "company_name": "Hexagon AB ",
         "id": "b72ad195-2946-49be-8e9a-f9e5368a0dba",
         "title": "Software Test Engineering Intern - Software Test Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -175807,7 +175731,7 @@
         "company_name": "The Walt Disney Company",
         "id": "66a893bd-56bd-454e-9d4a-1cc656c6b25c",
         "title": "Digital Product Intern - Product & Customer Engagement",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -176939,7 +176863,7 @@
         "company_name": "NBCUniversal",
         "id": "2fbb280c-e640-48f5-af1e-8a27983d1921",
         "title": "Technology Solutions Intern - Technology Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -189597,7 +189521,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "46f30da2-6e82-4eed-a01d-e3f793a37634",
         "title": "Quantitative Engineer Intern - Clearing Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199479,7 +199403,7 @@
         "company_name": "Amazon",
         "id": "668bbd4b-8dc9-4e63-9004-f7f4054d30be",
         "title": "Software Eng Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2027"
@@ -199796,7 +199720,7 @@
         "company_name": "Amazon",
         "id": "fa79da94-8759-4ad4-abc6-f406e483d90d",
         "title": "Software Eng Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2027"
@@ -200267,6 +200191,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xcel Energy",
+        "id": "0c5e2f49-d7ae-444d-98fb-dc9d44010689",
+        "title": "Resource Planning Technical Grad Intern - Minneapolis - MN",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1760901718,
+        "date_posted": 1757917511,
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Resource-Planning-Technical-Grad-Intern---Minneapolis--MN_JR109968-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Xcel-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
