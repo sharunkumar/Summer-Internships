@@ -134,63 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "The Walt Disney Company",
-        "id": "a02791e8-10b2-4fb8-a3c0-0fab8c977c2e",
-        "title": "Disney Entertainment and ESPN Technology Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740198705,
-        "date_posted": 1740198705,
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Disney-Entertainment-and-ESPN-Technology-Software-Engineering-Intern--Seattle--WA--Summer-2025_10114567",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Fresenius Medical Care",
-        "id": "d7a70480-1e00-43cd-a5ee-8c624eda5f76",
-        "title": "Software Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740198530,
-        "date_posted": 1740198530,
-        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op---2_R0190047",
-        "locations": [
-            "Andover, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fresenius",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Exact Sciences",
-        "id": "f614c4c0-fa63-41b6-b7b5-e4afcd14d7e8",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740197898,
-        "date_posted": 1740197898,
-        "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Data-Science-Intern_R24-7097",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Exact-Sciences",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "IDEXX",
         "id": "1f8d1e91-1feb-427f-a2c5-8cfca4508ec3",
         "title": "Servicenow Developer Intern",
@@ -49156,7 +49099,7 @@
         "company_name": "Jump Trading",
         "id": "6fdace5c-6ca0-411d-a5fa-170c4212dd45",
         "title": "Campus UI Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -76577,7 +76520,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c6e2eda0-bf4b-4d8f-870b-6b284ad0dcc6",
         "title": "2026 Capital Markets \u2013 Global Markets Quantitative Trading Summer Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -87168,7 +87111,7 @@
         "company_name": "Sysco",
         "id": "4105463a-bb58-443b-88a1-a67027c7664e",
         "title": "Software Dev Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -89230,7 +89173,7 @@
         "company_name": "Jonas Software",
         "id": "31ffde19-2744-48d9-b089-cad506de4c36",
         "title": "Jonas Winter Internship - Various Departments",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -123475,7 +123418,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -124631,7 +124574,7 @@
         "company_name": "KeyCorp",
         "id": "89ee0c51-42c7-4262-9f80-900fbb02ac44",
         "title": "Summer 2026 Key's Technology \u2013 Operations & Services Internship - Technology Track",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -124677,7 +124620,7 @@
         "company_name": "STR",
         "id": "5cdafb47-2e2b-490b-bafc-559f782ef109",
         "title": "Sensors Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -144166,7 +144109,7 @@
         "company_name": "Baird",
         "id": "b18f45b0-8b8a-42d5-8d2f-278ecd06e673",
         "title": "Internship - Capital Markets Compliance Data Analytics - Year-Round",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -152263,7 +152206,7 @@
         "company_name": "Cloudflare",
         "id": "106f15a3-46ae-4e5a-b737-41c1825fc334",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -165070,7 +165013,7 @@
         "company_name": "Wipfli",
         "id": "e0639b17-9a9d-45a1-a01f-74fa600e3859",
         "title": "Product Implementation Intern/Co-op - IP Product Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182812,7 +182755,7 @@
         "company_name": "The Boeing Company",
         "id": "ad40a8da-bfdf-4a2c-aa19-aa1868d13866",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -187184,7 +187127,7 @@
         "company_name": "Iridium Communications",
         "id": "23de8143-2060-483b-9d4c-6f912604bfd2",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -189283,7 +189226,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "427c46da-aae1-45df-b8af-36a388b72682",
         "title": "AI Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -189330,7 +189273,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "0c604188-67ee-4a97-949f-2624a588dd0d",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -189422,7 +189365,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "2b321c1f-aae5-4458-afa9-bde56d3f3752",
         "title": "Java Developer Intern - ICE Trading Data Service",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -195708,7 +195651,7 @@
         "company_name": "FM Global",
         "id": "86325be2-7000-412a-8552-82607063d972",
         "title": "Business Intelligence Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -200296,6 +200239,30 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kodiak Robotics",
+        "id": "40166905-577d-4e40-abd5-a128a223a8a5",
+        "title": "Summer 2026 Intern - Simulation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758073782,
+        "date_posted": 1758073782,
+        "url": "https://job-boards.greenhouse.io/kodiak/jobs/4024796009",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
