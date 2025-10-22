@@ -133,65 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Motorola",
-        "id": "a97a208f-b49f-45f2-9fe5-5a4cd3b35b72",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740414716,
-        "date_posted": 1740414716,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2025-Internship_R53625",
-        "locations": [
-            "Allen, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Integrity",
-        "id": "a1872e6c-736c-4538-b998-e41d97e9fa89",
-        "title": "Advanced Markets Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1740415099,
-        "date_posted": 1740415099,
-        "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Fort-Wayne-IN/Advanced-Markets-Intern_JR2589-1",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/cc2aa6fd-89ed-45ce-a866-4f4e3b9c6965",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Elevance Health",
-        "id": "b025d900-d004-4ac0-9d3f-f06823f4cee7",
-        "title": "Business Analytics Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740415053,
-        "date_posted": 1740415053,
-        "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/CA-WOODLAND-HILLS-21215-BURBANK-BLVD/Business-Analytics-Internship---Summer-2025_JR142179",
-        "locations": [
-            "Canoga Park, LA",
-            "Sacramento, CA",
-            "Walnut Creek, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Elevance-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1743368082,
         "url": "https://maximus.avature.net/careers/FolderDetail/United-States-Intern-AI-Software-Engineering/28377",
         "company_name": "Maximus",
@@ -147111,7 +147052,7 @@
         "company_name": "ServiceNow",
         "id": "728ee2d5-a9c7-4092-949c-661263608ba7",
         "title": "ServiceNow Security Organization - AI for Security Operations Engineering Intern - Sso",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -158315,7 +158256,7 @@
         "company_name": "ServiceNow",
         "id": "96fa47c2-9018-4be3-94f9-8540b4e713ed",
         "title": "AI for Security Operations Engineering Intern - Platform Security Innovation Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -178629,14 +178570,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759833910,
+        "date_updated": 1761156747,
         "date_posted": 1759833910,
         "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Software-Engineer-Summer-2026/1332412600/?ats=successfactors",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -178744,14 +178685,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759833850,
+        "date_updated": 1761156871,
         "date_posted": 1759833850,
         "url": "https://jobs.lumen.com/global/en/job/340188",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -178767,19 +178708,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759833857,
+        "date_updated": 1761156843,
         "date_posted": 1759833857,
         "url": "https://jobs.lumen.com/global/en/job/340233",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Associate's",
-            "Bootcamp"
+            "Bachelor's"
         ]
     },
     {
@@ -178862,18 +178801,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759833928,
+        "date_updated": 1761156663,
         "date_posted": 1759833928,
         "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Software-Development-Engineer-Summer-2026/1332369700/?ats=successfactors",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Associate's"
+            "Bachelor's"
         ]
     },
     {
@@ -179018,7 +178956,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759845423,
+        "date_updated": 1761156724,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -179038,7 +178976,7 @@
         "id": "69870400-5ce0-4e99-9d04-04f7934073cc",
         "date_posted": 1759842505,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1759946469,
@@ -183945,18 +183883,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760032670,
+        "date_updated": 1761156536,
         "date_posted": 1760032670,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Intern----Software-Fellow-Engineer-Intern---Onsite--PA-_01798573",
         "locations": [
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -183992,18 +183929,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760032631,
+        "date_updated": 1761156561,
         "date_posted": 1760032631,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Intern---Software-Fellow-Engineer-Intern---Onsite--PA-_01798580",
         "locations": [
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -194685,14 +194621,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760520897,
+        "date_updated": 1761156903,
         "date_posted": 1760520897,
         "url": "https://jobs.smartrecruiters.com/Visa/744000087985465",
         "locations": [
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -194828,14 +194764,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760521017,
+        "date_updated": 1761156619,
         "date_posted": 1760521017,
         "url": "https://jobs.smartrecruiters.com/Visa/744000087984147",
         "locations": [
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -194851,14 +194787,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760520933,
+        "date_updated": 1761156812,
         "date_posted": 1760520933,
         "url": "https://jobs.smartrecruiters.com/Visa/744000087985095",
         "locations": [
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -194922,18 +194858,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760545771,
+        "date_updated": 1761156585,
         "date_posted": 1760545771,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Sterling/Software-Engineering-Intern---Summer-2026_318124",
         "locations": [
             "Dulles, VA"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -198060,7 +197995,7 @@
         ]
     },
     {
-        "date_updated": 1760741959,
+        "date_updated": 1761155866,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [
@@ -198080,7 +198015,7 @@
         "id": "8cb6e05e-0699-464a-9cde-8a27836f4b75",
         "date_posted": 1760741959,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -198457,7 +198392,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1760743046,
+        "date_updated": 1761155842,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -198477,7 +198412,7 @@
         "id": "4d40b90d-9372-4ba8-b261-c36a45e21bf6",
         "date_posted": 1760743046,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1760743062,
@@ -200746,7 +200681,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761004536,
+        "date_updated": 1761155981,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -200767,7 +200702,7 @@
         "id": "40c4b2c5-e376-408e-a2dc-0e3f89755bee",
         "date_posted": 1761004536,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1761004607,
@@ -202226,12 +202161,12 @@
         "category": "Software",
         "company_name": "Lyft",
         "id": "b7d8fe27-c6d8-492d-8b8e-0cd5cb7944f6",
-        "title": "",
+        "title": "Software Engineer Intern",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1761094607,
+        "date_updated": 1761150575,
         "date_posted": 1761094607,
         "url": "https://app.careerpuck.com/job-board/lyft/job/8215921002?gh_jid=8215921002",
         "locations": [
@@ -202241,8 +202176,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -202490,7 +202424,7 @@
         "company_name": "Oshkosh",
         "id": "d3c231ff-27e6-4db6-8e87-cffa61430d11",
         "title": "Autonomy Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -203009,7 +202943,7 @@
         "company_name": "Altera Corporation",
         "id": "c3155fa9-9043-4c8c-a93f-4edcc44e244c",
         "title": "FPGA IP and Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -203044,6 +202978,34 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/SecondDinner",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "8dfa4ef7-a17f-408b-80df-a1f8f7634aeb",
+        "title": "Hardware Validation Intern - Master's Degree",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1761141062,
+        "date_posted": 1761141062,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Hardware-Validation-Intern---Master-s-Degree_2502389",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
