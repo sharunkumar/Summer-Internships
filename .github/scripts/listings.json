@@ -134,42 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Jet Support Services",
-        "id": "44124a18-4ff4-4a65-bb4c-957053ab11f4",
-        "title": "Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740371098,
-        "date_posted": 1740371098,
-        "url": "https://jobs.lever.co/jetsupport/7ad6bdfc-82c1-41f0-85b7-149a5fbf3f7d/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Jet-Support-Services",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Skechers",
-        "id": "2f6f9465-a266-4125-9e0c-19a015b6d66d",
-        "title": "Data Science and Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740370831,
-        "date_posted": 1740370831,
-        "url": "https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Data-Science-and-Analytics-Intern--Summer-2025-_JR114066-1",
-        "locations": [],
-        "company_url": "https://simplify.jobs/c/Skechers",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cibc",
         "id": "35fd352d-4ed2-42c6-af57-da0b0442f263",
         "title": "AI Scientist Co-op",
@@ -118638,7 +118602,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "87fc97ec-ca87-43df-a38a-d186466d89ef",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -119436,7 +119400,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -120518,7 +120482,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "bb505aa5-4894-4133-ad70-796eb3517fb9",
         "title": "Trading System Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -123301,7 +123265,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -124646,7 +124610,7 @@
         "company_name": "W.R. Berkley",
         "id": "5e7ae581-bfe7-42e4-a462-c48a4fc56c8e",
         "title": "Quantitative Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -129562,7 +129526,7 @@
         "company_name": "Lennox International",
         "id": "e776bb95-e2c2-41a9-b3fb-1eff6e712c8f",
         "title": "Power Electronics Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -147226,7 +147190,7 @@
         "company_name": "ServiceNow",
         "id": "728ee2d5-a9c7-4092-949c-661263608ba7",
         "title": "ServiceNow Security Organization - AI for Security Operations Engineering Intern - Sso",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -158430,7 +158394,7 @@
         "company_name": "ServiceNow",
         "id": "96fa47c2-9018-4be3-94f9-8540b4e713ed",
         "title": "AI for Security Operations Engineering Intern - Platform Security Innovation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -163251,7 +163215,7 @@
         "company_name": "ICF International",
         "id": "1f8bd8e0-52ba-43c1-850b-1977d4ea4fd9",
         "title": "Intern - AI Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -168269,7 +168233,7 @@
         "company_name": "Grow Financial Federal Credit Union",
         "id": "f773e1e7-217c-442f-81f3-bc8a1692940f",
         "title": "Collections Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -181609,7 +181573,7 @@
         "company_name": "Steel Dynamics",
         "id": "46a2807b-d843-4d99-b217-ab213985b3bb",
         "title": "Software Development Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -185102,7 +185066,7 @@
         "company_name": "Radiance Technologies",
         "id": "9846e294-2676-43ac-8eb4-54702a700e45",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -187010,7 +186974,7 @@
         "company_name": "Iridium Communications",
         "id": "23de8143-2060-483b-9d4c-6f912604bfd2",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -189271,7 +189235,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "2135c037-9723-4474-b040-a13457a2bbcb",
         "title": "C++ Developer Intern - Curve Engine",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -202668,6 +202632,123 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Becton Dickinson",
+        "id": "5e1fafee-456b-49b9-ae7c-2bb3cff40abc",
+        "title": "R&D Engineering \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1761097597,
+        "date_posted": 1761097597,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Salt-Lake-City-BAS/R-D-Engineering--Intern_R-528653",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wells Fargo",
+        "id": "70df52c0-f067-4583-adc9-48e81a276bbd",
+        "title": "2026 Technology Summer Internship \u2013 Chief Data Office Intern - Early Careers",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761100319,
+        "date_posted": 1761100319,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Technology-Summer-Internship---Early-Careers--Chief-Data-Office-Intern-_R-500554",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "e629613e-135a-4c9c-a557-77eadebbf42a",
+        "title": "2026 Co-Op \u2013 Software Engineering Intern - Onsite - CO",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1761099237,
+        "date_posted": 1761099237,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Co-Op---Software-Engineering-Intern---Onsite--CO-_01801722",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "17d2a964-43dd-4a1e-b10b-97399b74fe76",
+        "title": "Research Intern - Computer Vision and Deep Learning",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761098726,
+        "date_posted": 1761098726,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1900381",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Freudenberg Group",
+        "id": "31ff4f00-a6c9-4421-9674-71713dfefa76",
+        "title": "R&D Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1761100567,
+        "date_posted": 1761100567,
+        "url": "https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Plymouth-MI/R-D-Engineer-Intern_R_00092916",
+        "locations": [
+            "Plymouth, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Freudenberg-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
