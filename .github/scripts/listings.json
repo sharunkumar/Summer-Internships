@@ -133,121 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "7-Eleven",
-        "id": "88be03e1-f12f-420b-af6a-339182536712",
-        "title": "Machine Learning Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740500970,
-        "date_posted": 1740500970,
-        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-7Next-Irving/Machine-Learning-Engineer-Intern_R25_0000002377",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/7-Eleven",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "830eac98-c401-4737-9ed5-67f3256bc419",
-        "title": "Associate Software Developer \u2013 Co-op position - HP Anyware Endpoints Performance",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1740500525,
-        "date_posted": 1740500525,
-        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---HP-Anyware-Endpoints-Performance--Co-op-position-_3148263-1",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "f18edb1e-d6eb-48ca-9227-03880ab66f84",
-        "title": "Associate Software Developer \u2013 Co-op position - HP Anyware Endpoints System Team",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1740500526,
-        "date_posted": 1740500526,
-        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---HP-Anyware-Endpoints-System-Team--Co-op-position-_3148264-1",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Avnet",
-        "id": "46591dde-1a04-4138-b7b9-00f3568936f6",
-        "title": "Supply Chain Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1740500403,
-        "date_posted": 1740500403,
-        "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Phoenix-Arizona-United-States-Of-America/Supply-Chain-Data-Analytics-Intern_JR-018247",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Avnet",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Parsons",
-        "id": "23926cea-c85a-4af3-88db-05335c463adc",
-        "title": "Computer Engineer/Computer Science 2025 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740500363,
-        "date_posted": 1740500363,
-        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Aberdeen/Computer-Engineer-Computer-Science-2025-Intern_R163676",
-        "locations": [
-            "Aberdeen, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Parsons",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "RELX",
-        "id": "b856a692-e6b2-4a63-8b7b-e4ace9106af8",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740501120,
-        "date_posted": 1740501120,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Pennsylvania/Software-Engineer-Intern_R89521-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1740514318,
         "url": "https://app.ripplematch.com/v2/public/job/2f0d7d55/details",
         "company_name": "Notion",
@@ -195302,14 +195187,14 @@
             "Spring 2026",
             "Summer 2026"
         ],
-        "date_updated": 1760662698,
+        "date_updated": 1761241484,
         "date_posted": 1760662698,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-Co-Op--Spring-Summer-2026--Onsite-_01789471",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -200551,7 +200436,7 @@
         "company_name": "Accor",
         "id": "9267cd3e-c22e-4625-8e80-c9cd575be658",
         "title": "Dashboard and Insights Assistant Intern - Data Analysis - Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -201034,7 +200919,7 @@
         "company_name": "Autodesk",
         "id": "d2c6645e-8589-4b00-877c-8f82b5494a08",
         "title": "Intern \u2013 Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -201127,7 +201012,7 @@
         "company_name": "Experian",
         "id": "b982eddc-b703-446a-bad4-de4b1cd76f12",
         "title": "Full Stack SWE Summer Intern - Remote & Paid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203214,7 +203099,7 @@
         ]
     },
     {
-        "date_updated": 1761202315,
+        "date_updated": 1761240410,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [
@@ -203224,8 +203109,8 @@
         "company_name": "Waymo",
         "title": "Software Engineering, Fleet Response",
         "locations": [
-            "Mountain View, CA",
-            "San Franciso, CA"
+            "San Francisco, CA",
+            "Mountain View, CA"
         ],
         "terms": [
             "Summer 2026"
@@ -203612,14 +203497,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761210547,
+        "date_updated": 1761244246,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
             "Bachelor's"
         ],
         "url": "https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/San-Jose/Software-Engineer-Intern--Summer-2026-_R25-01425",
-        "company_name": "TEL",
+        "company_name": "Tokyo Electron",
         "title": "Software Engineer Intern",
         "locations": [
             "San Jose, CA"
@@ -203904,6 +203789,53 @@
             "Bootcamp",
             "Certificate",
             "Incomplete"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "13a9e23b-9d18-4dfe-b325-0f0da742df3c",
+        "title": "2026 Co-Op \u2013 Software Engineering Intern - Onsite - CO",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761231399,
+        "date_posted": 1761231399,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Co-Op---Software-Engineering-Intern---Onsite--CO-_01801730",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USAA",
+        "id": "e3606e03-7b9e-4a70-8925-f8f72113e41f",
+        "title": "Information Management Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761240596,
+        "date_posted": 1761240596,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Information-Management-Analyst-Intern_R0113091",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/USAA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
