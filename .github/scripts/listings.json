@@ -134,44 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Inflection",
-        "id": "35920aec-2280-4edc-a31d-c35f1f0bee3e",
-        "title": "Inflection AI Summer Internship Program",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740457746,
-        "date_posted": 1740457746,
-        "url": "https://boards.greenhouse.io/inflectionai/jobs/4440856006",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Inflection-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Palantir",
-        "id": "8a114980-cfb3-4e66-825b-a4e0710c6454",
-        "title": "Deployment Strategist \u2013 Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740457933,
-        "date_posted": 1740457933,
-        "url": "https://jobs.lever.co/palantir/9f0dcd19-22ec-4860-8f85-dff02a30dbb7/apply",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "7-Eleven",
         "id": "88be03e1-f12f-420b-af6a-339182536712",
         "title": "Machine Learning Engineer Intern",
@@ -90499,7 +90461,7 @@
         "company_name": "Meta",
         "id": "39e240d2-ed71-4ff3-8b80-fc547169493a",
         "title": "Research Scientist Intern - Multimodal Audio Generation - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -146533,7 +146495,7 @@
         "company_name": "ServiceNow",
         "id": "728ee2d5-a9c7-4092-949c-661263608ba7",
         "title": "ServiceNow Security Organization - AI for Security Operations Engineering Intern - Sso",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -157737,7 +157699,7 @@
         "company_name": "ServiceNow",
         "id": "96fa47c2-9018-4be3-94f9-8540b4e713ed",
         "title": "AI for Security Operations Engineering Intern - Platform Security Innovation Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
