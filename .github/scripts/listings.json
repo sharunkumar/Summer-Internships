@@ -134,64 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "CACI",
-        "id": "3650841e-3c7a-4465-b957-bedb1727506d",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740586507,
-        "date_posted": 1740586507,
-        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Software-Engineering-Intern---Summer-2025_308469-1",
-        "locations": [
-            "Dulles, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Strategic Education",
-        "id": "9ac2921f-a11b-4219-badb-ecf8ae63515d",
-        "title": "IT Interns",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740588077,
-        "date_posted": 1740588077,
-        "url": "https://strayer.wd1.myworkdayjobs.com/en-US/SEI/job/Remote/IT-Interns_R26668",
-        "locations": [
-            "Reston, VA",
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/c37aef6c-b4ea-4d9f-a94f-9ecdc9ce90f6",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "7-Eleven",
-        "id": "7b9f5231-f366-4be7-989b-5de6400f6e2e",
-        "title": "Restaurant Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740587793,
-        "date_posted": 1740587793,
-        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Restaurant-Data-Analyst-Intern_R25_0000002378",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/7-Eleven",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Corelogic",
         "id": "3d15ffd8-8fdd-498e-9194-d63349ef63b3",
         "title": "Intern \u2013 Business/Data Analyst - Insurance Insights",
@@ -69597,9 +69539,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756112164,
+        "date_updated": 1761316727,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -69617,7 +69559,7 @@
         "id": "268d220f-5826-4389-bc04-738dcd8e743c",
         "date_posted": 1756112164,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756112273,
@@ -71325,14 +71267,14 @@
             "Summer 2026",
             "Fall 2026"
         ],
-        "date_updated": 1760750627,
+        "date_updated": 1761316810,
         "date_posted": 1756193597,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7183245",
         "locations": [
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Dropbox",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -88674,7 +88616,7 @@
         "company_name": "Cardinal Health",
         "id": "177a3fa7-6058-4cf8-9fd1-723e7b71521e",
         "title": "Data and Analytics Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -112328,14 +112270,14 @@
             "Winter 2026",
             "Summer 2026"
         ],
-        "date_updated": 1757468931,
+        "date_updated": 1761315447,
         "date_posted": 1757468931,
         "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/New-Jersey-Institute-of-Technology-Product-Engineering-Co-op_R-1084736",
         "locations": [
             "Berkeley Heights, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Verizon-Communications",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -114678,14 +114620,14 @@
             "Spring 2026",
             "Winter 2026"
         ],
-        "date_updated": 1757558581,
+        "date_updated": 1761315422,
         "date_posted": 1757496895,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000063043596",
         "locations": [
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -116131,14 +116073,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757537752,
+        "date_updated": 1761315320,
         "date_posted": 1757537752,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-Intern---Summer-2026_R57593",
         "locations": [
             "Hoffman Estates, IL"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -123362,9 +123304,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757686823,
+        "date_updated": 1761315234,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -123382,7 +123324,7 @@
         "id": "dc3d7011-13de-4fc6-8acd-8ec1b5eaff6b",
         "date_posted": 1757686823,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757686926,
@@ -126510,14 +126452,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757988458,
+        "date_updated": 1761315156,
         "date_posted": 1757702222,
         "url": "https://jobs.jobvite.com/altamiracorps/job/o0kUxfwv?nl=1&nl=1&fr=false",
         "locations": [
             "Wright-Patterson AFB, OH"
         ],
         "company_url": "https://simplify.jobs/c/Altamira-Technologies",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -128945,9 +128887,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757930999,
+        "date_updated": 1761315035,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -128965,7 +128907,7 @@
         "id": "2dca8078-d6b1-40ef-9733-adaca8d9ef29",
         "date_posted": 1757930999,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757931069,
@@ -130780,18 +130722,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757983298,
+        "date_updated": 1761314910,
         "date_posted": 1757983298,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Intern---Software-Engineer--Test-Equipment---Onsite_01790571",
         "locations": [
             "Tucson, AZ"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -131347,14 +131288,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757981910,
+        "date_updated": 1761314936,
         "date_posted": 1757981910,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Comcast-Software-Engineering-Intern_R419011",
         "locations": [
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -134759,9 +134700,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758017162,
+        "date_updated": 1761314874,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -134782,7 +134723,7 @@
         "id": "8fb1d55e-7578-4e99-9fd4-cca529b3141d",
         "date_posted": 1758017162,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1760136879,
@@ -137442,14 +137383,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758166617,
+        "date_updated": 1761317619,
         "date_posted": 1758074911,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25026126",
         "locations": [
             "Iowa"
         ],
         "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -146783,9 +146724,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758525434,
+        "date_updated": 1761314365,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -146807,7 +146748,7 @@
         "id": "1ce4c1c9-ca0c-48d4-b2b4-ca2b14048449",
         "date_posted": 1758525434,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758527463,
@@ -147247,14 +147188,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758669299,
+        "date_updated": 1761314282,
         "date_posted": 1758657624,
         "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4601209005",
         "locations": [
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Bracebridge-Capital",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -149233,14 +149174,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758669987,
+        "date_updated": 1761314304,
         "date_posted": 1758598265,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00167228",
         "locations": [
             "Atlantic City, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -152613,18 +152554,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758683869,
+        "date_updated": 1761314218,
         "date_posted": 1758683869,
         "url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Backend-Platform-Intern--Digital-Promotions-Network-Team--Summer-2026_JY2526552",
         "locations": [
             "Winston-Salem, NC"
         ],
         "company_url": "https://simplify.jobs/c/Inmar-Intelligence",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -156880,9 +156820,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758870885,
+        "date_updated": 1761314043,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -156900,7 +156840,7 @@
         "id": "26e3338d-895c-4ce6-b279-07bd8f4cd72a",
         "date_posted": 1758870885,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758871581,
@@ -158712,18 +158652,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758925173,
+        "date_updated": 1761314133,
         "date_posted": 1758925173,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Software-Engineer-Intern---Chandler-AZ_R10209202",
         "locations": [
             "Chandler, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -158759,14 +158698,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758936624,
+        "date_updated": 1761314003,
         "date_posted": 1758936624,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Hanover/Cloud-Software-Intern---Summer-2026_317536",
         "locations": [
             "Hanover, MD"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -160521,18 +160460,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758988772,
+        "date_updated": 1761313937,
         "date_posted": 1758988772,
         "url": "https://university-uber.icims.com/jobs/149142/job?mobile=true&needsRedirect=false",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -164100,14 +164038,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759286963,
+        "date_updated": 1761313822,
         "date_posted": 1759286963,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Cambridge-GBR/Intern--Software-Engineering_25WD91958-2",
         "locations": [
             "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -167617,9 +167555,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1759413530,
+        "date_updated": 1761313733,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -167637,7 +167575,7 @@
         "id": "9089fb1e-9208-4680-abc3-84e734d1653f",
         "date_posted": 1759413530,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1759482530,
@@ -169736,14 +169674,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759467633,
+        "date_updated": 1761313661,
         "date_posted": 1759467633,
         "url": "https://apply.workable.com/al-warren-oil-company-inc/j/AB15F1EA30/apply",
         "locations": [
             "Elk Grove Village, IL"
         ],
         "company_url": "https://simplify.jobs/c/Al-Warren-Oil-Company",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -170302,18 +170240,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759471817,
+        "date_updated": 1761313581,
         "date_posted": 1759471817,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602808812619",
         "locations": [
             "Roseville, MN"
         ],
         "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -170885,7 +170822,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759480724,
+        "date_updated": 1761313514,
         "date_posted": 1759480724,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineer-Intern---Summer-2026_R58038",
         "locations": [
@@ -170893,11 +170830,10 @@
             "Hoffman Estates, IL"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -174735,14 +174671,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759649364,
+        "date_updated": 1761322370,
         "date_posted": 1759649364,
         "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Swiftwater-PA/XMLNAME-2026-Summer-Intern---FFIP-Business-Systems_R2821200",
         "locations": [
             "East Side, PA"
         ],
         "company_url": "https://simplify.jobs/c/Sanofi",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -174976,17 +174912,17 @@
             "Spring 2026",
             "Summer 2026"
         ],
-        "date_updated": 1759654798,
+        "date_updated": 1761322652,
         "date_posted": 1759654798,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/XMLNAME--Co-op---Healthcare-Data-Scientist---Cambridge--MA_563021",
         "locations": [
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -175469,7 +175405,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760750800,
+        "date_updated": 1761313410,
         "date_posted": 1759792958,
         "url": "https://job-boards.greenhouse.io/khanacademy/jobs/7258549",
         "locations": [
@@ -175477,7 +175413,7 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Khan-Academy",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -175705,14 +175641,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759794054,
+        "date_updated": 1761313466,
         "date_posted": 1759794054,
         "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Back-End-Developer-Summer-2026/1332365000/?ats=successfactors",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -175728,14 +175664,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759794064,
+        "date_updated": 1761322902,
         "date_posted": 1759794064,
         "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Data-Governanace-Summer-2026/1332307400/?ats=successfactors",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -175798,7 +175734,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759794460,
+        "date_updated": 1761322980,
         "date_posted": 1759794460,
         "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2026-Early-Talent-Internship--Technology_R250900283-2",
         "locations": [
@@ -175806,11 +175742,10 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/TIAA",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -175893,14 +175828,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759795615,
+        "date_updated": 1761323325,
         "date_posted": 1759795615,
         "url": "https://jobs.lumen.com/global/en/job/340216",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -176148,14 +176083,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759800581,
+        "date_updated": 1761324004,
         "date_posted": 1759800581,
         "url": "https://jobs.lumen.com/global/en/job/340246",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -176315,14 +176250,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759955398,
+        "date_updated": 1761324216,
         "date_posted": 1759801587,
         "url": "https://jobs.lever.co/gridmatic/7693e87d-1ebe-4fec-ba73-e51723708edf/apply",
         "locations": [
             "Cupertino, CA"
         ],
         "company_url": "https://simplify.jobs/c/Gridmatic",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -176455,7 +176390,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759805202,
+        "date_updated": 1761319108,
         "date_posted": 1759805202,
         "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/XMLNAME-2026-Early-Talent-Internship--TIAA-Enterprise-Analytics_R250900286-1",
         "locations": [
@@ -176463,11 +176398,10 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/TIAA",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -177029,14 +176963,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759833918,
+        "date_updated": 1761324666,
         "date_posted": 1759833918,
         "url": "https://internaljobs.centurylink.com/job/Remote-Intern-MarkOps-Reporting-Analyst-Summer-2026/1332335800/?ats=successfactors",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -177052,14 +176986,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759833907,
+        "date_updated": 1761319249,
         "date_posted": 1759833907,
         "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Data-Analyst-Summer-2026/1332326900/?ats=successfactors",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -177075,14 +177009,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759833910,
+        "date_updated": 1761316981,
         "date_posted": 1759833910,
         "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Product-Management-Summer-2026/1332255900/?ats=successfactors",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -177098,14 +177032,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759833851,
+        "date_updated": 1761324392,
         "date_posted": 1759833851,
         "url": "https://jobs.lumen.com/global/en/job/340240",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -178040,18 +177974,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759905220,
+        "date_updated": 1761318904,
         "date_posted": 1759905220,
         "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2026-Global-Continuous-Improvement---Quality--CIQ--Intern_R8702",
         "locations": [
             "Parkersburg, WV"
         ],
         "company_url": "https://simplify.jobs/c/Momentive-Performance-Materials",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -178510,14 +178443,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759904380,
+        "date_updated": 1761313354,
         "date_posted": 1759904380,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/Software-Development-Intern---Summer-2026_318332-1",
         "locations": [
             "Ashburn, VA"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -178650,14 +178583,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759905724,
+        "date_updated": 1761313279,
         "date_posted": 1759905724,
         "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Software-Engineer-Summer-2026-Internships_R-2025-60210",
         "locations": [
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/Southwest-Airlines",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -178701,7 +178634,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759907043,
+        "date_updated": 1761325756,
         "date_posted": 1759907043,
         "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Intern--Summer-2026_JR168988-1",
         "locations": [
@@ -178712,7 +178645,7 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/CareBridge",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -179139,14 +179072,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759907239,
+        "date_updated": 1761326086,
         "date_posted": 1759907239,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Wilmington-North-Carolina-USA/Data-Science---Analytics-Intern_R-01328099",
         "locations": [
             "Wilmington, NC"
         ],
         "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -179614,14 +179547,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759912135,
+        "date_updated": 1761326649,
         "date_posted": 1759912135,
         "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Data-Governance-Intern_R-010231",
         "locations": [
             "St Paul, MN"
         ],
         "company_url": "https://simplify.jobs/c/Allied-Solutions",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -179637,14 +179570,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759912125,
+        "date_updated": 1761313147,
         "date_posted": 1759912125,
         "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-010283",
         "locations": [
             "Carmel, IN"
         ],
         "company_url": "https://simplify.jobs/c/Allied-Solutions",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -179683,14 +179616,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759912121,
+        "date_updated": 1761326111,
         "date_posted": 1759912121,
         "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Sales-Analytics-Intern_R-010244",
         "locations": [
             "Carmel, IN"
         ],
         "company_url": "https://simplify.jobs/c/Allied-Solutions",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -179729,14 +179662,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759912130,
+        "date_updated": 1761326179,
         "date_posted": 1759912130,
         "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Modernization-Intern_R-010228",
         "locations": [
             "Carmel, IN"
         ],
         "company_url": "https://simplify.jobs/c/Allied-Solutions",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -179942,18 +179875,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759913649,
+        "date_updated": 1761326791,
         "date_posted": 1759913649,
         "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Commercial-Effectiveness---Analytics-Intern--Summer-2026-_R25-10955",
         "locations": [
             "Madison, WI"
         ],
         "company_url": "https://simplify.jobs/c/Exact-Sciences",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -180226,7 +180158,7 @@
             "Spring 2026",
             "Summer 2026"
         ],
-        "date_updated": 1759928921,
+        "date_updated": 1761318797,
         "date_posted": 1759928921,
         "url": "https://www.pathai.com/careers/8202342002?gh_jid=8202342002",
         "locations": [
@@ -180235,11 +180167,10 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/PathAI",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -180346,18 +180277,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759936870,
+        "date_updated": 1761313210,
         "date_posted": 1759936870,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602808874202",
         "locations": [
             "Roseville, MN"
         ],
         "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -181104,18 +181034,18 @@
         "company_name": "Lumen Technologies",
         "id": "374b9bf9-c97c-4365-af8d-dabd5ff45525",
         "title": "Intern \u2013 Strategic Fiber Planning - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760023537,
+        "date_updated": 1761329725,
         "date_posted": 1760023537,
         "url": "https://jobs.lumen.com/global/en/job/340218",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -181173,18 +181103,18 @@
         "company_name": "Lumen Technologies",
         "id": "ca461307-0a8b-453c-b81a-5078b2711d83",
         "title": "Intern \u2013 Planning Engineer - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760023540,
+        "date_updated": 1761330282,
         "date_posted": 1760023540,
         "url": "https://jobs.lumen.com/global/en/job/340262",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -181219,18 +181149,18 @@
         "company_name": "Lumen Technologies",
         "id": "5100f195-030f-47a4-8adb-a542fcb180b8",
         "title": "Intern \u2013 Carrier Relations - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760023539,
+        "date_updated": 1761329805,
         "date_posted": 1760023539,
         "url": "https://jobs.lumen.com/global/en/job/340219",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -181242,18 +181172,18 @@
         "company_name": "Lumen Technologies",
         "id": "0f4a64a3-0b08-4b88-b42c-a78f8a11fd2b",
         "title": "Intern \u2013 Data Analyst - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760023536,
+        "date_updated": 1761329665,
         "date_posted": 1760023536,
         "url": "https://jobs.lumen.com/global/en/job/340258",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -181316,18 +181246,17 @@
             "Winter 2026",
             "Summer 2026"
         ],
-        "date_updated": 1760023083,
+        "date_updated": 1761328607,
         "date_posted": 1760023083,
         "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/7965",
         "locations": [
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Seaspan",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -181595,18 +181524,18 @@
         "company_name": "CenturyLink",
         "id": "ae0ae7c2-8bc4-4da0-a41c-22be7a3aea34",
         "title": "Intern \u2013 Strategic Fiber Planning - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760023670,
+        "date_updated": 1761330493,
         "date_posted": 1760023670,
         "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Strategic-Fiber-Planning-Summer-2026/1333010500/?ats=successfactors",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -181618,18 +181547,18 @@
         "company_name": "CenturyLink",
         "id": "a5806abb-54f6-4270-a8a3-6103e49a756f",
         "title": "Intern \u2013 Planning Engineer - Network Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760023667,
+        "date_updated": 1761330399,
         "date_posted": 1760023667,
         "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Planning-Engineer-Summer-2026/1333004000/?ats=successfactors",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -181645,14 +181574,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760023665,
+        "date_updated": 1761318668,
         "date_posted": 1760023665,
         "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Data-Analyst-Summer-2026/1333103400/?ats=successfactors",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -183223,18 +183152,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760036630,
+        "date_updated": 1761313184,
         "date_posted": 1760036630,
         "url": "https://careers.withwaymo.com/jobs?gh_jid=7306072",
         "locations": [
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Waymo",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -184404,17 +184332,17 @@
             "Summer 2026",
             "Fall 2026"
         ],
-        "date_updated": 1760068432,
+        "date_updated": 1761318509,
         "date_posted": 1760068432,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7493936003",
         "locations": [
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -185835,14 +185763,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760144705,
+        "date_updated": 1761316897,
         "date_posted": 1760144705,
         "url": "https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/Miami/XMLNAME-2026-Blackstone-Product-Manager-Summer-Analyst_39224-1",
         "locations": [
             "Miami, FL"
         ],
         "company_url": "https://simplify.jobs/c/Blackstone",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -189103,14 +189031,14 @@
             "Spring 2026",
             "Summer 2026"
         ],
-        "date_updated": 1760397086,
+        "date_updated": 1761312428,
         "date_posted": 1760397086,
         "url": "https://careers.tranetechnologies.com/global/en/job/2503981",
         "locations": [
             "Winona, MN"
         ],
         "company_url": "https://simplify.jobs/c/Trane-Technologies",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -189223,14 +189151,14 @@
             "Spring 2026",
             "Summer 2026"
         ],
-        "date_updated": 1760401553,
+        "date_updated": 1761312498,
         "date_posted": 1760401553,
         "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/Orlando-FL/Co-Op--Software_R-02644-1",
         "locations": [
             "Orlando, FL"
         ],
         "company_url": "https://simplify.jobs/c/c6634ce7-015f-461e-9e4b-9fc7b6a78ab3",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -190381,14 +190309,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760413757,
+        "date_updated": 1761312393,
         "date_posted": 1760413757,
         "url": "https://artofproblemsolving.com/careers/job/7493807003?gh_jid=7493807003",
         "locations": [
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Art-of-Problem-Solving",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -191289,19 +191217,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760469528,
+        "date_updated": 1761312376,
         "date_posted": 1760469528,
         "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2026_R01579",
         "locations": [
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cohesity",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -192908,14 +192834,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760508489,
+        "date_updated": 1761312293,
         "date_posted": 1760508489,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Software-Engineer-Intern_R-00168719",
         "locations": [
             "O'Fallon, IL"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -193696,14 +193622,14 @@
             "Winter 2026",
             "Summer 2026"
         ],
-        "date_updated": 1760582836,
+        "date_updated": 1761312258,
         "date_posted": 1760582836,
         "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Zeeland/Software-Developer-Intern---Workforce-Capability-System_JR107497",
         "locations": [
             "Holland, MI"
         ],
         "company_url": "https://simplify.jobs/c/MillerKnoll",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -194388,14 +194314,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760664195,
+        "date_updated": 1761312313,
         "date_posted": 1760664195,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineering-Intern---June-2026---London_R-98445-1",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -194580,18 +194506,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760668266,
+        "date_updated": 1761312224,
         "date_posted": 1760668266,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2026-Software-Intern-Colorado-Springs-CO_R10211356",
         "locations": [
             "Colorado Springs, CO"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -194795,18 +194720,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760675330,
+        "date_updated": 1761312202,
         "date_posted": 1760675330,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Software-Engineer-Intern---Aurora-CO_R10211425",
         "locations": [
             "Aurora, CO"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -195207,14 +195131,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760689271,
+        "date_updated": 1761312184,
         "date_posted": 1760689271,
         "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Toronto-ON-CAN/Intern--Software-Developer_25WD92317",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -198149,14 +198073,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760867027,
+        "date_updated": 1761317878,
         "date_posted": 1760867027,
         "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/Customer-Experience-Data-Analytics-Intern-Summer-2026/71490",
         "locations": [
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/a1d1fe70-6ea7-48b6-b434-1cd26b8da8f2",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -199064,9 +198988,9 @@
         ]
     },
     {
-        "date_updated": 1761004378,
+        "date_updated": 1761312159,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -199084,7 +199008,7 @@
         "id": "a9d28208-9c6f-403c-b56a-adab1ae65f3a",
         "date_posted": 1761004378,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1761004443,
@@ -199623,7 +199547,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1761012122,
+        "date_updated": 1761317778,
         "date_posted": 1761012122,
         "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Cary-North-Carolina/Thurgood-Marshall-Immersion-Program--Incident-Management-Analyst-Summer-Internship-2026_R-1086963",
         "locations": [
@@ -199631,11 +199555,10 @@
             "Berkeley Heights, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Verizon-Communications",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -199716,7 +199639,7 @@
         "company_name": "Qualcomm",
         "id": "c8bff645-dfd2-44f1-9868-b8d8f30edc5c",
         "title": "FY26 Intern \u2013 Voice and Music Tools Internship - Software Engineer - Embedded Systems and Python - 3 - 6 months - Cambridge - Interim Intern - 50623 CNE Audio Tools & Apps SW UK_CAM",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200138,7 +200061,7 @@
         "company_name": "Experian",
         "id": "9a96950e-b29b-493b-8cec-2956b3136981",
         "title": "ML Engineer Summer Intern - Remote & Paid",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -202923,7 +202846,7 @@
         "company_name": "USAA",
         "id": "e3606e03-7b9e-4a70-8925-f8f72113e41f",
         "title": "Information Management Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203529,9 +203452,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761290134,
+        "date_updated": 1761324806,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -203549,7 +203472,7 @@
         "id": "1735ecbd-415d-4993-8c69-5b8e13f7a510",
         "date_posted": 1761290134,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1761290182,
