@@ -93702,7 +93702,7 @@
         "company_name": "Hoffman Construction",
         "id": "5330b659-6ec0-4daf-91a5-1af37c21f08a",
         "title": "Data Analyst Intern Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -198477,7 +198477,7 @@
         "company_name": "Brevan Howard",
         "id": "a9835d89-5fa0-44f4-b509-98fb54769c7b",
         "title": "",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199873,7 +199873,7 @@
         "company_name": "CAE",
         "id": "c886a940-3ce7-4a46-b174-f4ce7fddf64b",
         "title": "C-GM-155 \u2013 Methods & Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -200420,7 +200420,7 @@
         "company_name": "Wells Fargo",
         "id": "70df52c0-f067-4583-adc9-48e81a276bbd",
         "title": "2026 Technology Summer Internship \u2013 Chief Data Office Intern - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200489,7 +200489,7 @@
         "company_name": "Freudenberg Group",
         "id": "31ff4f00-a6c9-4421-9674-71713dfefa76",
         "title": "R&D Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -200652,7 +200652,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "c1c29644-635a-435f-af62-0ad18f6a5872",
         "title": "AI Engineering Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -201343,7 +201343,7 @@
         "company_name": "Essity",
         "id": "95d4ce71-756d-4e34-b679-7d1946742e94",
         "title": "Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -203905,6 +203905,54 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics",
+        "id": "44e9b8a1-6646-48a1-b620-3b6f1e42a32c",
+        "title": "Nuclear Quality Control-2026 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1761384260,
+        "date_posted": 1757612987,
+        "url": "https://careers-gdeb.icims.com/jobs/16357/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wex",
+        "id": "c8b5ae99-8ee0-4d05-8ad0-5df43d708741",
+        "title": "Intern \u2013 Graduate Students Only - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761395674,
+        "date_posted": 1761395674,
+        "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Intern---Software-Engineer--Graduate-Students-Only-_R19743",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
