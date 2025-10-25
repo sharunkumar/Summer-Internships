@@ -134,141 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Teledyne",
-        "id": "222e24da-b70c-4eac-9192-8110cfbe22ef",
-        "title": "Software Engineer Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740673733,
-        "date_posted": 1740673733,
-        "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Chestnut-Ridge-NY/Software-Engineer-Co-Op_REQ27924",
-        "locations": [
-            "Mahwah, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Rivian",
-        "id": "c7689e78-caa4-45cd-b29d-a27ed2c1cea3",
-        "title": "Software Engineering Intern - Offline Perception - Autonomy",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740674533,
-        "date_posted": 1740674533,
-        "url": "https://careers.rivian.com/jobs/21801?lang=en-us&icims=1",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Qualcomm",
-        "id": "25ec8cad-7671-4c2f-8317-096939cfc127",
-        "title": "QGOV Engineering Internship - Summer 2025 - Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740674422,
-        "date_posted": 1740674422,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446701026690",
-        "locations": [
-            "Boulder, CO",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cox",
-        "id": "905970f9-f4ae-4171-b1f4-187f945d8495",
-        "title": "Software Engineering Intern - Summer 2025",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740674381,
-        "date_posted": 1740674381,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineering-Intern---Summer-2025--North-Hills--NY-_R202558482",
-        "locations": [
-            "Williston Park, NY",
-            "Long Island, New York"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "FM Global",
-        "id": "34548cba-e736-42b8-88dc-7d22147a0725",
-        "title": "Corporate Underwriting Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740675523,
-        "date_posted": 1740675523,
-        "url": "https://jobs-fmglobal.icims.com/jobs/15486/job",
-        "locations": [
-            "Providence, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/FM-Global",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Strategic Education",
-        "id": "1081d362-aa6d-40f2-b325-3ef58ba8e52f",
-        "title": "Enterprise Partnerships \u2013 Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740674921,
-        "date_posted": 1740674921,
-        "url": "https://strayer.wd1.myworkdayjobs.com/en-US/SEI/job/Minneapolis-MN/Enterprise-Partnerships---Software-Engineer-Intern_R26678",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/c37aef6c-b4ea-4d9f-a94f-9ecdc9ce90f6",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Trepp",
-        "id": "f68f32dd-c740-4196-bd68-66930fd8ce94",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740675814,
-        "date_posted": 1740675814,
-        "url": "https://www.trepp.com/joining-trepp?gh_jid=6668351",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Trepp",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Amazon",
         "id": "0c41ff10-aaf9-4665-92e4-99ceaa98436a",
         "title": "SDE Intern - Computer Science",
@@ -109389,9 +109254,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757408658,
+        "date_updated": 1761404855,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -109409,7 +109274,7 @@
         "id": "b156a4f8-1f73-415a-b98a-5cdd5c8c8d2e",
         "date_posted": 1757408658,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757408702,
@@ -110194,7 +110059,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757444598,
+        "date_updated": 1761404972,
         "date_posted": 1757444598,
         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2026---Candidates-Attending-2025--SWE-National-Convention_R44915-1",
         "locations": [
@@ -110206,11 +110071,10 @@
             "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -110247,18 +110111,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757444560,
+        "date_updated": 1761404920,
         "date_posted": 1757444560,
         "url": "https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Intern--Summer-2026-_REQ-19979",
         "locations": [
             "Newton, IA"
         ],
         "company_url": "https://simplify.jobs/c/9ff05b27-3c7e-4c70-82e2-d3bfb40bb992",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Associate's"
+            "Bachelor's"
         ]
     },
     {
@@ -111544,14 +111407,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757461317,
+        "date_updated": 1761405727,
         "date_posted": 1757461317,
         "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer-Intern---Summer-2026_REQ-44296",
         "locations": [
             "Minnesota"
         ],
         "company_url": "https://simplify.jobs/c/Thrivent",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -112461,14 +112324,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757465411,
+        "date_updated": 1761405966,
         "date_posted": 1757465411,
         "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Software-Summer-2026_R-02577-1",
         "locations": [
             "East Syracuse, NY"
         ],
         "company_url": "https://simplify.jobs/c/c6634ce7-015f-461e-9e4b-9fc7b6a78ab3",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -112537,14 +112400,14 @@
             "Winter 2026",
             "Summer 2026"
         ],
-        "date_updated": 1757465311,
+        "date_updated": 1761405917,
         "date_posted": 1757465311,
         "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--12-or-16months-_R1009576",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Hitachi",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -112607,14 +112470,14 @@
             "Winter 2026",
             "Summer 2026"
         ],
-        "date_updated": 1757464963,
+        "date_updated": 1761405833,
         "date_posted": 1757464963,
         "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Software-Spring---Summer-2026_R-02575-1",
         "locations": [
             "East Syracuse, NY"
         ],
         "company_url": "https://simplify.jobs/c/c6634ce7-015f-461e-9e4b-9fc7b6a78ab3",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -112654,14 +112517,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757464962,
+        "date_updated": 1761405788,
         "date_posted": 1757464962,
         "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Software-Summer-2026_R-02579-2",
         "locations": [
             "East Syracuse, NY"
         ],
         "company_url": "https://simplify.jobs/c/c6634ce7-015f-461e-9e4b-9fc7b6a78ab3",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -115164,14 +115027,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757531315,
+        "date_updated": 1761406067,
         "date_posted": 1757531315,
         "url": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Software-Development-Intern---US-AutoForce_R4289",
         "locations": [
             "Appleton, WI"
         ],
         "company_url": "https://simplify.jobs/c/US-Venture",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -116624,14 +116487,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757527326,
+        "date_updated": 1761406019,
         "date_posted": 1757527326,
         "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Systems-Summer-2026_R-02583-1",
         "locations": [
             "East Syracuse, NY"
         ],
         "company_url": "https://simplify.jobs/c/c6634ce7-015f-461e-9e4b-9fc7b6a78ab3",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -118219,14 +118082,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757550353,
+        "date_updated": 1761406144,
         "date_posted": 1757550353,
         "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate-TransformationEngineer-Intern---Summer-2026_R0180713",
         "locations": [
             "Parsippany-Troy Hills, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Avis-Budget-Group",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -119340,7 +119203,7 @@
         "company_name": "Shure",
         "id": "db0cafc6-74d4-47c1-b895-5b8620ca77bd",
         "title": "Automated Test Engineering Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -120787,7 +120650,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -122066,14 +121929,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757612299,
+        "date_updated": 1761406172,
         "date_posted": 1757612299,
         "url": "https://job-boards.greenhouse.io/hudl/jobs/7157822",
         "locations": [
             "Lincoln, NE"
         ],
         "company_url": "https://simplify.jobs/c/Hudl",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -124670,14 +124533,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757988581,
+        "date_updated": 1761406345,
         "date_posted": 1757726835,
         "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Software-Engineer-Intern_243147W-1",
         "locations": [
             "Des Moines, IA"
         ],
         "company_url": "https://simplify.jobs/c/Corteva",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -125759,14 +125622,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757988507,
+        "date_updated": 1761406298,
         "date_posted": 1757704912,
         "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-Office/Intern---Technical_JR-022930",
         "locations": [
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -125925,14 +125788,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757703462,
+        "date_updated": 1761406239,
         "date_posted": 1757703462,
         "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/North-Chelmsford/Software-Engineer-Intern--Summer-2026-_R25-01190",
         "locations": [
             "Lowell, MA"
         ],
         "company_url": "https://simplify.jobs/c/Tokyo-Electron",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -126298,18 +126161,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757699011,
+        "date_updated": 1761406201,
         "date_posted": 1757699011,
         "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7246747",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Schonfeld",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -128200,9 +128062,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1757929474,
+        "date_updated": 1761406458,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -128220,7 +128082,7 @@
         "id": "8fbd8c8f-e139-4d0d-9a9b-57e6e54e8fb8",
         "date_posted": 1757929474,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757929638,
@@ -128292,9 +128154,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1757929954,
+        "date_updated": 1761406549,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -128312,7 +128174,7 @@
         "id": "a885cffd-9041-4773-a21a-7d50837ea7bb",
         "date_posted": 1757929954,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1759959604,
@@ -128624,14 +128486,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757921447,
+        "date_updated": 1761406408,
         "date_posted": 1757921447,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineering-Intern---Summer-2026--Draper--UT_R202566778",
         "locations": [
             "Draper, UT"
         ],
         "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -129932,14 +129794,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757984181,
+        "date_updated": 1761406690,
         "date_posted": 1757984181,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Comcast-Network-Automation-Intern_R419581",
         "locations": [
             "Mt Laurel Township, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -130265,14 +130127,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757983502,
+        "date_updated": 1761406643,
         "date_posted": 1757983502,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Comcast-Software-Engineering-Intern_R419936",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -130380,14 +130242,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757982929,
+        "date_updated": 1761406597,
         "date_posted": 1757982929,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Comcast-Software-Engineering-Intern_R419929",
         "locations": [
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -131090,18 +130952,17 @@
             "Summer 2026",
             "Fall 2026"
         ],
-        "date_updated": 1757980947,
+        "date_updated": 1761406527,
         "date_posted": 1757980947,
         "url": "https://careers.duolingo.com/jobs/8155655002?gh_jid=8155655002",
         "locations": [
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Duolingo",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -133927,9 +133788,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758012472,
+        "date_updated": 1761406745,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -133948,7 +133809,7 @@
         "id": "fdcabc3c-4e19-42c5-a139-3e634ae306f5",
         "date_posted": 1758012472,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758014960,
@@ -134565,14 +134426,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758064656,
+        "date_updated": 1761406842,
         "date_posted": 1758064656,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA620-AST160N-Riverview-Anaheim-Hill-160-North-Riverview-Drive-Suite-300-Anaheim-CA-92808-USA/Software-Engineering--Intern--Summer-2026---Onsite-_01793738",
         "locations": [
             "Anaheim, CA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -135154,18 +135015,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758055618,
+        "date_updated": 1761406791,
         "date_posted": 1758055618,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-OK-Oklahoma-City/Software-Development-Intern---Summer-2026_317306",
         "locations": [
             "Oklahoma City, OK"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -136597,7 +136457,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758068870,
+        "date_updated": 1761406889,
         "date_posted": 1758068870,
         "url": "https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29/application",
         "locations": [
@@ -136605,11 +136465,10 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/OpenAI",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -137041,7 +136900,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758081627,
+        "date_updated": 1761406953,
         "date_posted": 1758081627,
         "url": "https://jobs.ashbyhq.com/numeric/aa134424-5e42-4e12-ab57-acb49e937acb/application",
         "locations": [
@@ -137049,11 +136908,10 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Numeric-IO",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -137818,9 +137676,9 @@
         ]
     },
     {
-        "date_updated": 1758104063,
+        "date_updated": 1761407001,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -137839,7 +137697,7 @@
         "id": "de06c01a-b3d7-4c48-9515-eef7b1e222fb",
         "date_posted": 1758104063,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1759956001,
@@ -139028,14 +138886,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758213085,
+        "date_updated": 1761407201,
         "date_posted": 1758152121,
         "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/University-of-Central-Florida---Engineering-Co-op_118041",
         "locations": [
             "Tampa, FL"
         ],
         "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -139356,14 +139214,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758166300,
+        "date_updated": 1761407073,
         "date_posted": 1758146403,
         "url": "https://careers-kinaxis.icims.com/jobs/33678/job?mobile=true&needsRedirect=false",
         "locations": [
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Kinaxis",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -140099,18 +139957,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758136392,
+        "date_updated": 1761407144,
         "date_posted": 1758136392,
         "url": "https://millerknoll.wd1.myworkdayjobs.com/en-US/MillerKnoll/job/MI---Holland/AI-ML-Product-Engineering-Intern_JR107464",
         "locations": [
             "Holland, MI"
         ],
         "company_url": "https://simplify.jobs/c/MillerKnoll",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -141319,14 +141176,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758243126,
+        "date_updated": 1761407234,
         "date_posted": 1758228467,
         "url": "https://careers-kinaxis.icims.com/jobs/33722/job?mobile=true&needsRedirect=false",
         "locations": [
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Kinaxis",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -142646,7 +142503,7 @@
         "company_name": "Shure",
         "id": "34053954-ba41-4968-9bc9-770b754f1e15",
         "title": "Audio Applied Research Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -143790,7 +143647,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760822632,
+        "date_updated": 1761407282,
         "date_posted": 1758326118,
         "url": "https://job-boards.greenhouse.io/gusto/jobs/7238671",
         "locations": [
@@ -143799,7 +143656,7 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/Gusto",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -148475,18 +148332,17 @@
             "Winter 2026",
             "Summer 2026"
         ],
-        "date_updated": 1758599976,
+        "date_updated": 1761407329,
         "date_posted": 1758599976,
         "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Application-Developer--CO-OP_R-778177",
         "locations": [
             "Quincy, MA"
         ],
         "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -153740,7 +153596,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758790399,
+        "date_updated": 1761407377,
         "date_posted": 1758763549,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Fort-Collins-CO-CO29/Software-Engineer--Co-Op_R57926-1",
         "locations": [
@@ -153748,7 +153604,7 @@
             "Fort Collins, CO"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -153955,14 +153811,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758769159,
+        "date_updated": 1761407431,
         "date_posted": 1758769159,
         "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8181480002",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Assured-Guaranty",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -154600,14 +154456,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758790554,
+        "date_updated": 1761407520,
         "date_posted": 1758781284,
         "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Associate-Software-Engineer--Intern-to-Full-Time-Conversion-_00018663",
         "locations": [
             "Bowling Green, OH"
         ],
         "company_url": "https://simplify.jobs/c/Marathon-Petroleum",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -155023,14 +154879,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758792214,
+        "date_updated": 1761407564,
         "date_posted": 1758792214,
         "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8181466002",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Assured-Guaranty",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -155995,18 +155851,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758832277,
+        "date_updated": 1761407654,
         "date_posted": 1758832277,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO210-9970-Federal-Drive-Colo-Spr-9970-Federal-Drive---Colorado-Springs-CO-80921-USA/Software--Engineer-Intern--Summer-2026---Onsite-_01795808",
         "locations": [
             "Colorado Springs, CO"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -156920,14 +156775,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758888601,
+        "date_updated": 1761407704,
         "date_posted": 1758888601,
         "url": "https://job-boards.greenhouse.io/pendo/jobs/8185867002",
         "locations": [
             "Raleigh, NC"
         ],
         "company_url": "https://simplify.jobs/c/Pendo",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -157725,14 +157580,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759106477,
+        "date_updated": 1761407609,
         "date_posted": 1758804137,
         "url": "https://careers-carollo.icims.com/jobs/4133/job?mobile=true&needsRedirect=false",
         "locations": [
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Carollo-Engineers",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -162601,14 +162456,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760750758,
+        "date_updated": 1761408594,
         "date_posted": 1759245630,
         "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Intern---Software-Engineer--Undergraduate-Students-Only-_R19201",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -164759,14 +164614,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759309541,
+        "date_updated": 1761408740,
         "date_posted": 1759309541,
         "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/ServiceNow-Developer-Intern_2530483",
         "locations": [
             "Durham, NC"
         ],
         "company_url": "https://simplify.jobs/c/LabCorp",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -164900,14 +164755,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759308906,
+        "date_updated": 1761408576,
         "date_posted": 1759308906,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602808802462",
         "locations": [
             "Roseville, MN"
         ],
         "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -165066,14 +164921,14 @@
             "Spring 2026",
             "Summer 2026"
         ],
-        "date_updated": 1759313299,
+        "date_updated": 1761408808,
         "date_posted": 1759313299,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Application-Engineer-Co-op---Charlotte_171146",
         "locations": [
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/Vanguard",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -168109,14 +167964,14 @@
             "Spring 2026",
             "Summer 2026"
         ],
-        "date_updated": 1759459684,
+        "date_updated": 1761408859,
         "date_posted": 1759459684,
         "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/AFT-Seeds-Engineering-Software-Internship_243012W",
         "locations": [
             "Des Moines, IA"
         ],
         "company_url": "https://simplify.jobs/c/Corteva",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -169728,18 +169583,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759470997,
+        "date_updated": 1761408909,
         "date_posted": 1759470997,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Summer-2026-Intern---Full-Stack-Developer--Onsite-_01795503",
         "locations": [
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -169777,14 +169631,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759471813,
+        "date_updated": 1761408956,
         "date_posted": 1759471813,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602808842027",
         "locations": [
             "Roseville, MN"
         ],
         "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -172488,14 +172342,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759914532,
+        "date_updated": 1761409005,
         "date_posted": 1759551291,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/Co-op---Software-Engineering---Cambridge--MA_562525",
         "locations": [
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -172535,18 +172389,17 @@
             "Winter 2026",
             "Summer 2026"
         ],
-        "date_updated": 1759552189,
+        "date_updated": 1761409259,
         "date_posted": 1759552189,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/Co-op---Software-Engineering---Cambridge--MA---June---December-2025_562524",
         "locations": [
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -175178,14 +175031,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759794063,
+        "date_updated": 1761409110,
         "date_posted": 1759794063,
         "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Software-Developer-Summer-2026/1332268100/?ats=successfactors",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CenturyLink",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -175527,14 +175380,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759799352,
+        "date_updated": 1761409163,
         "date_posted": 1759799352,
         "url": "https://jobs.lumen.com/global/en/job/340179",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -175997,14 +175850,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759804283,
+        "date_updated": 1761409210,
         "date_posted": 1759804283,
         "url": "https://jobs.lumen.com/global/en/job/340264",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lumen-Technologies",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -177487,18 +177340,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759905187,
+        "date_updated": 1761409338,
         "date_posted": 1759905187,
         "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Software-Developer-Intern-2026_R8836",
         "locations": [
             "Schenectady, NY"
         ],
         "company_url": "https://simplify.jobs/c/Momentive-Performance-Materials",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -177909,14 +177761,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759904380,
+        "date_updated": 1761409290,
         "date_posted": 1759904380,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/Program-Operations-Intern_318326",
         "locations": [
             "Ashburn, VA"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -179924,9 +179776,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759942635,
+        "date_updated": 1761409384,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -179944,12 +179796,12 @@
         "id": "3e0b8055-c204-465e-9dc8-76a1659c4549",
         "date_posted": 1759942635,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1759942678,
+        "date_updated": 1761409430,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -179967,7 +179819,7 @@
         "id": "e3917829-efae-4f6c-b9d3-21fddaeb59d4",
         "date_posted": 1759942678,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1760391846,
@@ -180006,18 +179858,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759966420,
+        "date_updated": 1761409597,
         "date_posted": 1759966420,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Intern---Software-Fellow-Engineer-Intern---Onsite--PA-_01798581",
         "locations": [
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -180101,7 +179952,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759965815,
+        "date_updated": 1761409477,
         "date_posted": 1759965815,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineer-Intern---Summer-2026_R58285",
         "locations": [
@@ -180109,11 +179960,10 @@
             "Hoffman Estates, IL"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -180852,14 +180702,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760025220,
+        "date_updated": 1761409737,
         "date_posted": 1760025220,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2026_R58219",
         "locations": [
             "Allen, TX"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -181157,7 +181007,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760024533,
+        "date_updated": 1761409662,
         "date_posted": 1760024533,
         "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Rutgers-University---2026-Global-Solutions-Technology-Summer-Internship_R-1086610",
         "locations": [
@@ -181169,7 +181019,7 @@
             "Irving, TX"
         ],
         "company_url": "https://simplify.jobs/c/Verizon-Communications",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -182969,19 +182819,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760045673,
+        "date_updated": 1761409795,
         "date_posted": 1760045673,
         "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7308371",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Schonfeld",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -187652,14 +187500,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760387423,
+        "date_updated": 1761410423,
         "date_posted": 1760387423,
         "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Bloomfield-CT/Intern---Software-Engineering_2531675",
         "locations": [
             "Hartford, CT"
         ],
         "company_url": "https://simplify.jobs/c/LabCorp",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -200113,7 +199961,7 @@
         "company_name": "Wolfspeed",
         "id": "73454cc8-394f-4cbd-92b6-15a9580a2efc",
         "title": "Operations Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203952,6 +203800,54 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "7d74b2a5-a588-4594-83bb-fb25249b84f5",
+        "title": "Software Development Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Summer 2025"
+        ],
+        "date_updated": 1761397035,
+        "date_posted": 1761397035,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/Software-Development-Intern---Summer-2026_318816",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "beb09636-0435-435d-8e69-99d5e1b02a7d",
+        "title": "Data Analyst Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761400067,
+        "date_posted": 1761400067,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/Data-Analyst-Intern---Summer-2026_318643",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's"
         ]
     }
