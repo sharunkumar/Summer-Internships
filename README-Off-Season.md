@@ -268,10 +268,10 @@
 <td>Boston, MA</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineering-Intern_JR110932?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c0743457-f2da-4260-b96b-c6f33ce0d9dd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/PTC?utm_source=GHList&utm_medium=company">PTC</a></strong></td>
+<td>↳</td>
 <td>Software Development Intern</td>
 <td>Boston, MA</td>
 <td>Winter 2025</td>
@@ -755,7 +755,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (45)</summary>
+<summary>🗃️ Inactive roles (46)</summary>
 
 <table>
 <thead>
@@ -769,6 +769,14 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Skyworks?utm_source=GHList&utm_medium=company">Skyworks</a></strong></td>
+<td>NPI Automation Engineering Co-Op 🎓</td>
+<td>Irvine, CA</td>
+<td>Winter 2026, Spring 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cirrus-Logic?utm_source=GHList&utm_medium=company">Cirrus Logic</a></strong></td>
 <td>Software Tools Developer</td>
@@ -1164,14 +1172,6 @@
 <td>1d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
-<td>Intern – Product Management Innovations and Tech Partnerships - Fall/Winter 2025</td>
-<td>Mountain View, CA</td>
-<td>Fall 2025</td>
-<td><div align="center"><a href="https://jobs.bmwgroup.com/job/Mountain-View-Intern,-Product-Management-Innovations-and-Tech-Partnerships-FallWinter-2025-Cali/1201875901/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/24f7d0cc-e85f-4fb1-92db-688ef8543d9d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Intelliguard?utm_source=GHList&utm_medium=company">Intelliguard</a></strong></td>
 <td>Product Intern - Product Team</td>
 <td>Columbus, OH</td>
@@ -1296,7 +1296,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (8)</summary>
+<summary>🗃️ Inactive roles (9)</summary>
 
 <table>
 <thead>
@@ -1410,6 +1410,14 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/ABB?utm_source=GHList&utm_medium=company">ABB</a></strong></td>
+<td>AI Vision Engineer Intern- AI Robotics 🎓</td>
+<td>San Jose, CA</td>
+<td>Spring 2026</td>
+<td><div align="center"><a href="https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/San-Jose-California-United-States-of-America/AI-Vision-Engineer-Intern--AI-Robotics--Spring-2026_JR00014185?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
 <tr>
 <td><strong>Biogen</strong></td>
 <td>Co-op, AI Engineer</td>
@@ -1555,7 +1563,7 @@
 <td>6d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Warner-Bros?utm_source=GHList&utm_medium=company">Warner Bros.</a></strong></td>
 <td>Research – Analytics & Strategy Internships: NYC - Spring 2026</td>
 <td>NYC</td>
 <td>Winter 2026, Spring 2026</td>
@@ -1704,7 +1712,7 @@
 <td>Remote in USA</br>Tucson, AZ</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Director--Medicare-STARS-Analytics---Reporting-Arizona-Residency_R4422310?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/74344d78-0e5f-40ce-a32c-2492d28e4c9c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Genies?utm_source=GHList&utm_medium=company">Genies</a></strong></td>
@@ -2387,7 +2395,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
 <td>Research Scientist Intern - Robotic End Effector - PhD 🎓</td>
 <td>Redmond, WA</td>
 <td>Winter 2025</td>
@@ -2395,7 +2403,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
+<td>↳</td>
 <td>Research Scientist Intern - 3D World Modelling - Robotics and Generative AI - PhD 🎓</td>
 <td>London, UK</td>
 <td>Winter 2025</td>
@@ -3360,22 +3368,6 @@
 <td>🔒</td>
 <td>3mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/be06ebc5-6942-48ad-b691-821e84f30f2b?utm_source=GHList&utm_medium=company">Intermountain Healthcare</a></strong></td>
-<td>Investment Analyst Intern</td>
-<td>Salt Lake City, UT</td>
-<td>Fall 2025</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Cibc?utm_source=GHList&utm_medium=company">Cibc</a></strong></td>
-<td>Quantitative Analyst - Pension Investment Management</td>
-<td>Toronto, ON, Canada</td>
-<td>Fall 2025, Winter 2025</td>
-<td>🔒</td>
-<td>4mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -3510,7 +3502,7 @@
 <td>Westborough, MA</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Design-Verification-Intern---Bachelor-s-Degree_2502746-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b3b767ee-f01c-4a7b-a187-5abcb85eacd6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/IRhythm-Technologies?utm_source=GHList&utm_medium=company">iRhythm Technologies</a></strong></td>
@@ -3651,7 +3643,7 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rambus?utm_source=GHList&utm_medium=company">Rambus</a></strong></td>
 <td>Intern Digital Verification</td>
-<td><details><summary><strong>4 locations</strong></summary>Morrisville, NC</br>Johns Creek, GA</br>San Jose, CA</br>Westlake Village, CA</details></td>
+<td>Morrisville, NC</br>Johns Creek, GA</br>San Jose, CA</br>Westlake Village, CA</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://careers-rambus.icims.com/jobs/22358/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/519bc6e4-034f-4a2c-b450-aa09806c2a0e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>28d</td>
