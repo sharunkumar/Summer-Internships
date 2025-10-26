@@ -134,46 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Groq",
-        "id": "30058c37-957d-4d2d-9074-715b631175dd",
-        "title": "Software Engineer \u2013 Model Evaluation Systems Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025"
-        ],
-        "date_updated": 1740716209,
-        "date_posted": 1740716209,
-        "url": "https://groq.com/careers?gh_jid=6493582003",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Groq",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "IBM",
-        "id": "5e52d91a-252c-478f-b2a2-402053f53a0b",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740717244,
-        "date_posted": 1740717244,
-        "url": "https://careers.ibm.com/job/21342420/software-developer-intern-research-triangle-park-nc/",
-        "locations": [
-            "Research Triangle, Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/IBM",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "ByteDance",
         "id": "b61dd52c-c3b5-4733-b3ab-cc2c80088387",
         "title": "Backend Software Engineer Intern - Product RD and Infrastructure",
@@ -203446,6 +203406,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "7-Eleven",
+        "id": "37ae87a8-39c9-4e41-9fb9-fbebba5fad91",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761451860,
+        "date_posted": 1761451860,
+        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-7Next-Irving/Software-Developer-Intern_R25_0000008848",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/7-Eleven",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
