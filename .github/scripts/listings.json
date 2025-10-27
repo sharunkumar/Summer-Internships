@@ -78127,7 +78127,7 @@
         "company_name": "Cloudflare",
         "id": "22400cbc-3b34-4326-9ee4-454a9d07b547",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -87557,7 +87557,7 @@
         "company_name": "Brevium",
         "id": "d3488634-c424-4559-a1e2-62d5fc7f1e2b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -90125,7 +90125,7 @@
         "company_name": "Point72",
         "id": "40bddd76-411a-4956-9f0b-4072b32e354a",
         "title": "2026 Summer Internship - MS/PhD Data Scientist - Proprietary Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -90150,7 +90150,7 @@
         "company_name": "Point72",
         "id": "02bd2fa7-02bb-4e5d-97dd-a3a913b0bd87",
         "title": "2026 Technology Internship - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -115842,7 +115842,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757638642,
+        "date_updated": 1761571038,
         "date_posted": 1757555075,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025759",
         "locations": [
@@ -115932,7 +115932,7 @@
         "company_name": "Wind River",
         "id": "550251b8-5b5c-4a4b-80cd-044aacc65797",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -119012,7 +119012,7 @@
         "company_name": "Lennox International",
         "id": "5370c3fa-9b3b-4a0e-b328-efb28408836f",
         "title": "AI Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -119913,7 +119913,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -121258,7 +121258,7 @@
         "company_name": "W.R. Berkley",
         "id": "5e7ae581-bfe7-42e4-a462-c48a4fc56c8e",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -136019,7 +136019,7 @@
         "company_name": "SharkNinja",
         "id": "a8ae1acc-bd25-45e2-87c9-1e41570ea126",
         "title": "Product Development Intern - Ninja",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -149515,7 +149515,7 @@
         "company_name": "Squarepoint Capital",
         "id": "2c334a12-438c-49bb-8cf8-53a3ebc22b33",
         "title": "Intern Quant Researcher - Quantitative Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -152361,7 +152361,7 @@
         "company_name": "KLA",
         "id": "329b1312-ba2a-43fe-91e5-ace9536ed53d",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -158879,7 +158879,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758988569,
+        "date_updated": 1761571110,
         "date_posted": 1758988569,
         "url": "https://university-uber.icims.com/jobs/149140/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -158889,8 +158889,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -159162,7 +159161,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758997437,
+        "date_updated": 1761571233,
         "date_posted": 1758997437,
         "url": "https://job-boards.greenhouse.io/chathamfinancial/jobs/7277698",
         "locations": [
@@ -159880,7 +159879,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759152262,
+        "date_updated": 1761571270,
         "date_posted": 1759152262,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2026-Intern---Raytheon-Missile-Defense-Sensors-Software--Engineer-Intern--On-site-_01794116",
         "locations": [
@@ -160512,7 +160511,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760824188,
+        "date_updated": 1761571294,
         "date_posted": 1759202992,
         "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210881",
         "locations": [
@@ -164534,9 +164533,9 @@
         ]
     },
     {
-        "date_updated": 1759339382,
+        "date_updated": 1761571352,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -165200,7 +165199,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759348989,
+        "date_updated": 1761571411,
         "date_posted": 1759348989,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Edinburgh/Software-Engineering-Intern--Project-Delivery-_R5019386-1",
         "locations": [
@@ -165923,9 +165922,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1759482530,
+        "date_updated": 1761571449,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -165946,9 +165945,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759414357,
+        "date_updated": 1761571514,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -166381,7 +166380,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759442553,
+        "date_updated": 1761571597,
         "date_posted": 1759442553,
         "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2026-Software-Engineering-Undergraduate-Intern_J270356",
         "locations": [
@@ -171533,7 +171532,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759557836,
+        "date_updated": 1761571745,
         "date_posted": 1759557836,
         "url": "https://jobs.jobvite.com/nutanix/job/o7Ghyfwm?nl=1&nl=1&fr=false",
         "locations": [
@@ -174973,7 +174972,7 @@
             "Fall 2026",
             "Winter 2027"
         ],
-        "date_updated": 1759809316,
+        "date_updated": 1761571813,
         "date_posted": 1759809316,
         "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op-UFC-8-Month-Term/210887",
         "locations": [
@@ -178811,7 +178810,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759966420,
+        "date_updated": 1761573243,
         "date_posted": 1759966420,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Intern---Software-Fellow-Engineer-Intern---Onsite--PA-_01798576",
         "locations": [
@@ -178821,8 +178820,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -178957,7 +178955,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759968515,
+        "date_updated": 1761571851,
         "date_posted": 1759968515,
         "url": "https://jobs.lumen.com/global/en/job/340211",
         "locations": [
@@ -179424,7 +179422,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760023540,
+        "date_updated": 1761572065,
         "date_posted": 1760023540,
         "url": "https://jobs.lumen.com/global/en/job/340234",
         "locations": [
@@ -181607,7 +181605,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760047593,
+        "date_updated": 1761573479,
         "date_posted": 1760043823,
         "url": "https://ats.rippling.com/chess/jobs/f199901c-ee5f-4846-97ed-b2252be44a30",
         "locations": [
@@ -181632,7 +181630,7 @@
             "Summer 2026",
             "Fall 2026"
         ],
-        "date_updated": 1760043398,
+        "date_updated": 1761573381,
         "date_posted": 1760043398,
         "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Software-Engineer-CO-OP-Intern--Spring--Summer-or-Fall-2026--_HR101835-1",
         "locations": [
@@ -181679,7 +181677,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760041999,
+        "date_updated": 1761573273,
         "date_posted": 1760041999,
         "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Automation-Engineer-Intern_JR-0100680",
         "locations": [
@@ -181702,7 +181700,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760042174,
+        "date_updated": 1761573331,
         "date_posted": 1760042174,
         "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0100469",
         "locations": [
@@ -181888,7 +181886,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760044127,
+        "date_updated": 1761573582,
         "date_posted": 1760044127,
         "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0100548",
         "locations": [
@@ -181937,7 +181935,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760048563,
+        "date_updated": 1761572418,
         "date_posted": 1760048563,
         "url": "https://jobs.lumen.com/global/en/job/340209",
         "locations": [
@@ -181947,8 +181945,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -181961,7 +181958,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760048634,
+        "date_updated": 1761578780,
         "date_posted": 1760048634,
         "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Software-Developer-Summer-2026/1333501200/?ats=successfactors",
         "locations": [
@@ -181971,8 +181968,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -182124,7 +182120,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760050414,
+        "date_updated": 1761578803,
         "date_posted": 1760050414,
         "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7492480003",
         "locations": [
@@ -182362,7 +182358,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760821730,
+        "date_updated": 1761581395,
         "date_posted": 1760053361,
         "url": "https://jobs.ashbyhq.com/anyscale/5dbc4672-2943-4b9e-91be-4217a6f81ad2/application",
         "locations": [
@@ -183175,7 +183171,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760135148,
+        "date_updated": 1761581922,
         "date_posted": 1760114797,
         "url": "https://job-boards.greenhouse.io/ensco/jobs/4949356008",
         "locations": [
@@ -184169,7 +184165,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760147810,
+        "date_updated": 1761583703,
         "date_posted": 1760147810,
         "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/XMLNAME-2026-Summer-Software-Engineering-Intern_R13615",
         "locations": [
@@ -184498,7 +184494,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760821693,
+        "date_updated": 1761584091,
         "date_posted": 1760153515,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Software-Engineer-Intern---Bachelor-s-Degree_2502351-1",
         "locations": [
@@ -186402,11 +186398,11 @@
         "company_name": "Tradeweb",
         "id": "5c24961f-c120-492c-bba3-184530531f6f",
         "title": "Intern/Co-op - C++/ Python Development - Technology Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760383169,
+        "date_updated": 1761587527,
         "date_posted": 1760383169,
         "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/301497",
         "locations": [
@@ -186416,8 +186412,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -187022,11 +187017,11 @@
         "company_name": "RTX",
         "id": "17a70ced-1d0c-4a9d-8be3-0228216cb5f6",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760394157,
+        "date_updated": 1761588172,
         "date_posted": 1760394157,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--MA-_01799047",
         "locations": [
@@ -190551,11 +190546,11 @@
         "company_name": "Al Warren Oil Company",
         "id": "df4ceee3-e27f-426e-9024-c0899d530a1f",
         "title": "Software Developer - Summer Internship 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760495476,
+        "date_updated": 1761588260,
         "date_posted": 1760495476,
         "url": "https://apply.workable.com/al-warren-oil-company-inc/j/39C72ADCFF/apply",
         "locations": [
@@ -191141,11 +191136,11 @@
         "company_name": "Leidos",
         "id": "c4edc374-62cd-4424-b416-24794283ed2b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760508503,
+        "date_updated": 1761588285,
         "date_posted": 1760508503,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Software-Engineer-Intern_R-00168717",
         "locations": [
@@ -193196,11 +193191,11 @@
         "company_name": "KLA",
         "id": "cc280001-b99c-4bb3-b073-e0c318804a72",
         "title": "Software Engineer Intern - C++ - Linux - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760679499,
+        "date_updated": 1761588371,
         "date_posted": 1760679499,
         "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2026_2532120-1",
         "locations": [
@@ -193210,8 +193205,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -196233,7 +196227,7 @@
         "company_name": "Sigma Computing",
         "id": "f7d1624e-8ffa-4a6d-a997-d7eaf52d601a",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -198577,7 +198571,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "e2c71f5f-93a6-437b-a478-f1d89a1745bc",
         "title": "Software Engineering Intern/Co-op - ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200049,7 +200043,7 @@
         "company_name": "AbbVie",
         "id": "6aa4d904-6855-4fdc-bee9-2b70a6b8acad",
         "title": "2026 Software Engineering Co-Op - June - Dec",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -201272,7 +201266,7 @@
         "company_name": "OpenTable",
         "id": "b763796c-1af1-4055-bea7-e183377b232b",
         "title": "Data Engineer Internship - Hybrid - Toronto",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -203597,6 +203591,76 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DV Trading",
+        "id": "3df86af7-586e-4645-bb8f-5845f81ab776",
+        "title": "2026 Summer Internship - Risk Management",
+        "active": true,
+        "terms": [
+            "Winter 9990"
+        ],
+        "date_updated": 1761249389,
+        "date_posted": 1756400261,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4602648005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SharkNinja",
+        "id": "b9abb165-5778-4ddc-8eec-8322969c72af",
+        "title": "Spring 2026: Product Development Co-op - CORE Quality - January through June",
+        "active": false,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1761486122,
+        "date_posted": 1756251440,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4596437006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "0c978e70-aeed-450a-8299-1ae73e62c4f7",
+        "title": "Architecture ASIC / System Intern - Bachelor's Degree",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1761493260,
+        "date_posted": 1761493260,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/US---MN---Rochester/Architecture-ASIC---System-Intern---Bachelor-s-Degree_2502243-1",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
