@@ -62741,7 +62741,7 @@
         "company_name": "Integra FEC",
         "id": "42f4a77d-8bf3-412c-b11e-ac97053d0ccc",
         "title": "Spring \u2013 Data Scientist Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -108896,7 +108896,7 @@
         "company_name": "Texas Instruments",
         "id": "b9662234-901e-451c-8cdb-c14c9d88a3bf",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -121162,7 +121162,7 @@
         "company_name": "W.R. Berkley",
         "id": "6b40a6ae-5798-4094-b54b-0cebecd2d6f2",
         "title": "Intern \u2013 Enterprise Architecture",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -159179,7 +159179,7 @@
         "company_name": "Moloco",
         "id": "d0b3cb7e-7b34-44cc-8ca1-4b0d90082466",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -164750,7 +164750,7 @@
         "company_name": "GoFundMe",
         "id": "2943b7aa-efe3-4400-9338-fbced50f6469",
         "title": "Frontend Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -201263,7 +201263,7 @@
         "company_name": "OpenTable",
         "id": "b763796c-1af1-4055-bea7-e183377b232b",
         "title": "Data Engineer Internship - Hybrid - Toronto",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -204011,7 +204011,7 @@
         "company_name": "Microsoft",
         "id": "aa2f21e2-6236-4098-a71e-765341699a10",
         "title": "Research Intern - Computer Vision and Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -204322,6 +204322,123 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Biogen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "759f81ff-30b9-4314-b2eb-7f0a20e57a8f",
+        "title": "Research Scientist Intern - Data-Tns-Algo-Day Dreamer - 2026 Start - PhD",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1761633691,
+        "date_posted": 1761633691,
+        "url": "https://lifeattiktok.com/search/7564088059246512389",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NTT Data",
+        "id": "c35a0e67-4577-4d19-bdeb-2068aa25830d",
+        "title": "Data Analytics Intern - ",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761642434,
+        "date_posted": 1761642434,
+        "url": "https://careers-inc.nttdata.com/job/Plano-Data-Analytics-Intern-TX/1337822100/?ats=successfactors",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NTT-Data",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bloom Energy",
+        "id": "6dda1fe7-f498-4238-ba7b-fc3db6a4fb8e",
+        "title": "Commercial Operations \u2013 Data Center Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1761644203,
+        "date_posted": 1761644203,
+        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Commercial-Operations---Data-Center-Intern_JR-20753",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bloom-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "fa7843f1-7413-45dc-a9a6-c2b2848bb9a2",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1761654101,
+        "date_posted": 1761654101,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Software-Engineer-Intern_R51695-2",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marvell",
+        "id": "d4a03153-88f1-4029-9633-2fc075acf242",
+        "title": "Market Intelligence Analyst Intern - Bachelor's Degree",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1760035053,
+        "date_posted": 1760035053,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Market-Intelligence-Analyst---Bachelor-s-Degree_2502281-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
