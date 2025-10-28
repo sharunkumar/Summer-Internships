@@ -51247,7 +51247,7 @@
         "company_name": "Montenson",
         "id": "b9c2271b-8c8d-4425-a511-de3cb60f5fe0",
         "title": "Investment Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -59749,7 +59749,7 @@
         "company_name": "Williams-Sonoma",
         "id": "5fe660ea-b5cc-4d07-8795-94fb67e2ab79",
         "title": "Research Engineering Internship - AI - Computer Vision - & Visualization",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -105610,7 +105610,7 @@
         "company_name": "Radiant",
         "id": "c85a9a31-3aeb-48df-b1f9-41f050855522",
         "title": "Summer 2026 Internship - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -114148,7 +114148,7 @@
         "company_name": "Emerson Electric",
         "id": "32157080-81c5-4867-89db-6a0db051de28",
         "title": "Hardware Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -116711,7 +116711,7 @@
         "company_name": "Wind River",
         "id": "fc74e644-a02b-4d54-aa84-5a6eccfec426",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -117569,7 +117569,7 @@
         "company_name": "CoVar",
         "id": "88aa73e7-ccb7-44c4-a965-2b320e57528c",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -120459,7 +120459,7 @@
         "company_name": "Emerson Electric",
         "id": "b676864a-4eec-4c15-94c0-0d1a4fcb5e31",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -121162,7 +121162,7 @@
         "company_name": "W.R. Berkley",
         "id": "6b40a6ae-5798-4094-b54b-0cebecd2d6f2",
         "title": "Intern \u2013 Enterprise Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -123768,7 +123768,7 @@
         "company_name": "ABB",
         "id": "b406fad1-8f6f-48c5-b958-7d180368cb61",
         "title": "Supply Chain & Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -128037,7 +128037,7 @@
         "company_name": "YugaByte",
         "id": "f7617cdb-e0d4-44c5-b647-e329264d0bbe",
         "title": "Intern \u2013 Software Engineer - Core Database",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -135178,7 +135178,7 @@
         "company_name": "Marvell",
         "id": "2ddea91c-e074-4a86-936f-e1baa8bb13ff",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -149370,7 +149370,7 @@
         "company_name": "Squarepoint Capital",
         "id": "3ec91fbf-4e9b-4ad8-a8e9-0878aa80cad8",
         "title": "Intern Software Developer - Winter 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -155632,7 +155632,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -156554,7 +156554,7 @@
         "company_name": "Honeywell",
         "id": "c32766cb-c3e6-413b-b430-420d1de6e864",
         "title": "Artificial Intelligence/Machine Learning Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173432,7 +173432,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -179466,7 +179466,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760023529,
+        "date_updated": 1761673224,
         "date_posted": 1760023529,
         "url": "https://jobs.lumen.com/global/en/job/340217",
         "locations": [
@@ -181179,7 +181179,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1760036153,
+        "date_updated": 1761673051,
         "date_posted": 1760036153,
         "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0100565",
         "locations": [
@@ -182281,7 +182281,7 @@
         "company_name": "Signifyd",
         "id": "6184b633-7c47-46e5-9ce5-4b9338f3fb6e",
         "title": "Engineering Intern - Software Development - Java",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -188510,7 +188510,7 @@
         "company_name": "DoorDash",
         "id": "8e7d7a9c-4187-4826-a25d-db16a3d09d0c",
         "title": "Machine Learning Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -188560,7 +188560,7 @@
         "company_name": "DoorDash",
         "id": "7defd063-a2d0-4195-85f0-3dc1ce012ce5",
         "title": "Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -191561,7 +191561,7 @@
         "company_name": "PA Consulting",
         "id": "706948c6-c6a2-42b6-b916-51a2b14bfdfc",
         "title": "2026 Summer Internship - Software & Controls Engineer - Cambridge",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -197035,7 +197035,7 @@
         "company_name": "Solidigm",
         "id": "107bfc32-911d-4af7-864d-280513dbd04d",
         "title": "Undergraduate Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -198905,7 +198905,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "1640442b-98f1-440a-a827-43321b4e3441",
         "title": "Computer Science Co-op-TEF7 / TEF6 / Cptm",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200777,7 +200777,7 @@
     {
         "date_updated": 1761209170,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -200791,8 +200791,8 @@
             "Summer 2026"
         ],
         "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "5d8eb2e9-7b6e-4910-98b6-940cac0401f3",
+        "source": "Simplify",
+        "id": "099a52ea-fcf7-4bdd-8604-ef6a99ba9842",
         "date_posted": 1761209170,
         "company_url": "",
         "is_visible": true
@@ -202104,7 +202104,7 @@
         "company_name": "Experian",
         "id": "d3875b1f-af2f-4034-8eb8-baec62fc0882",
         "title": "Platform Solutions Data Analyst Summer Intern - Remote & Paid",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -204218,7 +204218,7 @@
         "company_name": "SEO (Sponsors for Educational Opportunity)",
         "id": "412cad48-9149-4043-9e3c-6ee058d77544",
         "title": "Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -204264,7 +204264,7 @@
         "company_name": "Varda Space",
         "id": "51accb13-80cf-4aa3-8fdb-b2bf225bbfdf",
         "title": "Pharmaceutical Lab Internship - Crystallization - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -204439,6 +204439,120 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "f37865a3-2377-4049-a582-75c3fc52d4b2",
+        "title": "Intern Conversion: \u2013 Early Career - Avionics Software Engineer I",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1761658772,
+        "date_posted": 1761658772,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Intern-Conversion---Early-Career--Avionics-Software-Engineer-I_R54003",
+        "locations": [
+            "Seattle, WA",
+            "Washington, DC",
+            "LA",
+            "Cape Canaveral, FL",
+            "Phoenix, AZ",
+            "Denver, CO",
+            "Huntsville, AL",
+            "Van Horn, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "fdcadb98-24bc-4aff-82ba-b2acfd19222e",
+        "title": "Post Silicon Electrical Validation Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1761654021,
+        "date_posted": 1761654021,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Post-Silicon-Electrical-Validation-Intern_R51674-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MPOWERHealth",
+        "id": "d1f8849e-c8f8-4fdd-a71b-c66c49554709",
+        "title": "UTD Intraoperative Neuromonitoring \u2013 Intern - Ionm - Dallas-Fort Worth - TX",
+        "active": false,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1761658207,
+        "date_posted": 1757793469,
+        "url": "https://careers-mpowerpractice.icims.com/jobs/1746/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/MPOWERHealth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PharmD",
+            "PhD",
+            "Associate's",
+            "JD",
+            "MD",
+            "Bootcamp",
+            "Certificate",
+            "Incomplete"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HNTB",
+        "id": "42f54608-4fc5-4521-835c-0ee117629ca7",
+        "title": "Wed \u2013 2026 New Grad Planner I \u2013 For Current/Previous HNTB Interns ONLY",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1761602054,
+        "date_posted": 1754978811,
+        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Oakland-CA/WED---2026-New-Grad-Planner-I--For-Current-Previous-HNTB-Interns-ONLY-_R-26867-1",
+        "locations": [
+            "LA",
+            "Orange, CA",
+            "San Jose, CA",
+            "Oakland, CA",
+            "Ontario, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/HNTB",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
