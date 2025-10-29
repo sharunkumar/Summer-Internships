@@ -16423,25 +16423,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Point72",
-        "id": "0720297b-978d-4835-8d59-f2dd555d3005",
-        "title": "2026 Point72 Academy Investment Analyst Summer Internship Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1741907976,
-        "date_posted": 1741004102,
-        "url": "https://boards.greenhouse.io/point72/jobs/7885446002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Point72",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "SonicWall",
         "id": "d73e7358-2e80-49dd-87ea-a61814481ef6",
         "title": "Data Plane Engineer Intern",
@@ -40077,7 +40058,7 @@
         "company_name": "Tenstorrent",
         "id": "6c1a5b1e-2711-4d53-b7f3-aa2637b02694",
         "title": "Physical Design Intern - CPU/AI Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -115458,7 +115439,7 @@
         "company_name": "Wind River",
         "id": "30853247-1425-4f86-bd5b-cf2a50d1b4b9",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -115715,7 +115696,7 @@
         "company_name": "Wind River",
         "id": "388b4ef1-cb48-4753-9285-382dc47becea",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -190471,14 +190452,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1761588260,
+        "date_updated": 1761762145,
         "date_posted": 1760495476,
         "url": "https://apply.workable.com/al-warren-oil-company-inc/j/39C72ADCFF/apply",
         "locations": [
             "Elk Grove Village, IL"
         ],
         "company_url": "https://simplify.jobs/c/Al-Warren-Oil-Company",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -201187,7 +201168,7 @@
         "company_name": "OpenTable",
         "id": "b763796c-1af1-4055-bea7-e183377b232b",
         "title": "Data Engineer Internship - Hybrid - Toronto",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -202678,7 +202659,7 @@
         "company_name": "CACI",
         "id": "beb09636-0435-435d-8e69-99d5e1b02a7d",
         "title": "Data Analyst Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -204405,7 +204386,7 @@
         "company_name": "Cadence Design Systems",
         "id": "fdcadb98-24bc-4aff-82ba-b2acfd19222e",
         "title": "Post Silicon Electrical Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -204536,7 +204517,7 @@
         "company_name": "WITHIN",
         "id": "a67ea970-2179-4cde-8db4-3f18fe5eb5bf",
         "title": "Digital Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
