@@ -40153,7 +40153,7 @@
         "company_name": "Tenstorrent",
         "id": "6c1a5b1e-2711-4d53-b7f3-aa2637b02694",
         "title": "Physical Design Intern - CPU/AI Hardware",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -50353,7 +50353,7 @@
             "Summer 2026"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "a2911035-3a66-4719-ab56-55f7c142ce93",
         "date_posted": 1755167776,
@@ -57113,7 +57113,7 @@
         "company_name": "Databricks",
         "id": "515b2729-7d1c-4f5f-9e8d-a071384a10a2",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -62741,7 +62741,7 @@
         "company_name": "Integra FEC",
         "id": "42f4a77d-8bf3-412c-b11e-ac97053d0ccc",
         "title": "Spring \u2013 Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -95666,7 +95666,7 @@
         "company_name": "Vatic Investments",
         "id": "f026f7ec-de3d-49c1-abe2-823d98909827",
         "title": "Quantitative Researcher \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -116734,7 +116734,7 @@
         "company_name": "Wind River",
         "id": "ba64a02d-6efc-488b-96ec-be3b1b75b73c",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -118591,7 +118591,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "7bb38c12-27e1-4e8d-bddd-a149edbd6e8a",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -119888,7 +119888,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -121114,7 +121114,7 @@
         "company_name": "STR",
         "id": "5cdafb47-2e2b-490b-bafc-559f782ef109",
         "title": "Sensors Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -144388,7 +144388,7 @@
         "company_name": "HNTB",
         "id": "0de26396-5f65-44e7-9dd4-da7b069f7eca",
         "title": "Returning New Grad Software Engineer 1",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -151318,7 +151318,7 @@
         "company_name": "Point72",
         "id": "0e41aa41-6ef8-41da-b420-4dbc813860c7",
         "title": "Data Engineer Intern - Long/Short Equities",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -163561,7 +163561,7 @@
         "company_name": "GuideWell Mutual",
         "id": "c9dafb5d-d1d4-4931-bb6f-9ab58897b650",
         "title": "IT Summer Graduate Internship - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166980,7 +166980,7 @@
         "company_name": "Newmark Group",
         "id": "6a03c437-8e9b-48c0-b999-6c6c1aff8de7",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -173294,7 +173294,7 @@
         "company_name": "KCF Technologies",
         "id": "6efde4e4-091b-48b8-8e2f-8f2c6435f368",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -188656,7 +188656,7 @@
         "company_name": "Coinbase",
         "id": "ebbeb863-4f1b-4067-9be7-dce146a5c267",
         "title": "Sales Intern - Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -196773,7 +196773,7 @@
         "company_name": "Wayve",
         "id": "087e7158-ac2c-476e-9220-8ae96817d0d4",
         "title": "Research Scientist Intern - Embodied Foundation Models - Evaluation",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -198080,7 +198080,7 @@
         "company_name": "Uber",
         "id": "d05b305e-0bff-4522-8e50-3679fce0f5a0",
         "title": "2026 PhD Software Engineer Intern - AI Platform - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -198104,7 +198104,7 @@
         "company_name": "Keysight Technologies",
         "id": "aa960afb-f0aa-4a7c-97b9-33daa9ae0b72",
         "title": "R&D Software Internship - ",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -198715,7 +198715,7 @@
         "company_name": "Booz Allen",
         "id": "aed369de-997f-4d2c-884e-2d70785fa0c7",
         "title": "",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -199660,7 +199660,7 @@
         "company_name": "Marvell",
         "id": "8dfa4ef7-a17f-408b-80df-a1f8f7634aeb",
         "title": "Hardware Validation Intern - Master's Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -200040,7 +200040,7 @@
         "company_name": "AbbVie",
         "id": "6aa4d904-6855-4fdc-bee9-2b70a6b8acad",
         "title": "2026 Software Engineering Co-Op - June - Dec",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -203549,7 +203549,7 @@
         "company_name": "Bose",
         "id": "6b3fd419-912c-4d4f-864a-94c4250526e6",
         "title": "Pre-dev Embedded Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -204428,7 +204428,7 @@
         "company_name": "Marvell",
         "id": "d4a03153-88f1-4029-9633-2fc075acf242",
         "title": "Market Intelligence Analyst Intern - Bachelor's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -204558,5 +204558,305 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Point72",
+        "id": "ee05696a-aa71-46e3-8b83-5bd6733c2b95",
+        "title": "2026 Spring Internship - MS/PhD Data Scientist - Proprietary Research",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1761640948,
+        "date_posted": 1761640948,
+        "url": "https://boards.greenhouse.io/point72/jobs/8229471002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "VSP Vision",
+        "id": "5e8cb277-43e4-4b23-8d43-e3f7a10f3539",
+        "title": "Internship - AI-Machine Learning Development Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761686741,
+        "date_posted": 1761686741,
+        "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI-Machine-Learning-Development-Engineer_R-8741",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/VSP-Vision",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WITHIN",
+        "id": "a67ea970-2179-4cde-8db4-3f18fe5eb5bf",
+        "title": "Digital Marketing Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759808942,
+        "date_posted": 1759808942,
+        "url": "https://job-boards.greenhouse.io/agencywithin/jobs/4933147007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/WITHIN",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1761689566,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://ryan.wd1.myworkdayjobs.com/en-US/RyanCareers/job/Plano/Summer-2026-Intern--Data-Science_R0017876-1",
+        "company_name": "Ryan",
+        "title": "Summer 2026 Intern, Data Science",
+        "locations": [
+            "Plano, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "4ae37567-3b10-4124-943d-87ffa1f9950c",
+        "date_posted": 1761689566,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761689697,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/AI-COE-DevSevOps-Intern_JR104215",
+        "company_name": "JM Family",
+        "title": "AI COE/DevSevOps Intern",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "e8bc12fe-3e0d-4e59-a58b-d9993dc287e0",
+        "date_posted": 1761689697,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761689849,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Business-Data-Engineer-Intern_JR104161",
+        "company_name": "JM Family",
+        "title": "Business Data Engineer Intern",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "21a48827-a9b9-43b6-8f1f-7581aaaa37ef",
+        "date_posted": 1761689849,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761690076,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/creditkarma/jobs/7500612003",
+        "company_name": "Credit Karma",
+        "title": "Data Science Intern (Summer 2026)",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "3c6f608f-8186-4249-8bb9-db4699935e2e",
+        "date_posted": 1761690076,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761690255,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Efficiency-Intern_1196309",
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "AI Efficiency Intern",
+        "locations": [
+            "Spring, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "a45c171b-38f3-4d54-bf25-9bfebd594084",
+        "date_posted": 1761690255,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761690460,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/The-Walt-Disney-Studios--Software-Engineering-Intern--Summer-2026_10135086-1",
+        "company_name": "The Walt Disney Company",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "496f9cb8-89c5-4b03-b0d5-8e36bc658d16",
+        "date_posted": 1761690460,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761690550,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Disney-Entertainment-Software-Engineering-Intern--Summer-2026_10131104",
+        "company_name": "The Walt Disney Company",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "b00707bc-8d7a-40ae-bdbe-118f6d5b54bf",
+        "date_posted": 1761690550,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761691154,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/dialpad/jobs/8226621002",
+        "company_name": "Dialpad",
+        "title": "Co-op Software Engineer, Backend",
+        "locations": [
+            "Vancouver, CA"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "Simplify",
+        "id": "d138c1c0-46f8-46f9-8ca9-6f43c9ee3a7f",
+        "date_posted": 1761691154,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761691198,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/dialpad/jobs/8226208002",
+        "company_name": "Dialpad",
+        "title": "Co-op Software Engineer, Fullstack",
+        "locations": [
+            "Vancouver, CA"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "a45dde54-f910-495c-906a-0354e035ad67",
+        "date_posted": 1761691198,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761691281,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://apply.workable.com/al-warren-oil-company-inc/j/C131A026F1/",
+        "company_name": "Al Warren Oil Company",
+        "title": "Software Developer - Summer Internship 2026",
+        "locations": [
+            "Bensenville, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "ea067f68-4744-4494-9569-88a3c030c650",
+        "date_posted": 1761691281,
+        "company_url": "",
+        "is_visible": true
     }
 ]
