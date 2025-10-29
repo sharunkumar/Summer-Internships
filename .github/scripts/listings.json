@@ -133,44 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1740983354,
-        "url": "https://careers.amd.com/careers-home/jobs/57669",
-        "company_name": "AMD",
-        "title": "Software Engineering Intern/Co-Op (Undergrad | Summer, 2025 | Onsite/Hybrid | 4 months)",
-        "locations": [
-            "Markham, Ontario, Canada"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "331aedc8-c542-409d-8cc6-a03a07729d7c",
-        "date_posted": 1740983354,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Applied Materials",
-        "id": "917f00b1-1f61-4df8-99a5-a2c58b10dd81",
-        "title": "Intern - Process Data Scientist",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1740989605,
-        "date_posted": 1740989605,
-        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2025-Summer-Intern---Process-Data-Scientist_R2511163",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "source": "Simplify",
         "company_name": "Daimler Truck",
         "id": "cc40660b-a1aa-4139-9c44-1b17c4d1e46f",
@@ -113611,7 +113573,7 @@
         "company_name": "Marvell",
         "id": "b6335dc2-1946-41c5-a305-a531c4db8057",
         "title": "Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -115753,7 +115715,7 @@
         "company_name": "Wind River",
         "id": "388b4ef1-cb48-4753-9285-382dc47becea",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -116673,7 +116635,7 @@
         "company_name": "Wind River",
         "id": "fc74e644-a02b-4d54-aa84-5a6eccfec426",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -144350,7 +144312,7 @@
         "company_name": "HNTB",
         "id": "0de26396-5f65-44e7-9dd4-da7b069f7eca",
         "title": "Returning New Grad Software Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -204500,7 +204462,7 @@
         "company_name": "HNTB",
         "id": "42f54608-4fc5-4521-835c-0ee117629ca7",
         "title": "Wed \u2013 2026 New Grad Planner I \u2013 For Current/Previous HNTB Interns ONLY",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -204827,7 +204789,7 @@
         "company_name": "Jensen Hughes",
         "id": "880b41e1-408d-4c20-90a7-040a7f4e796b",
         "title": "Intern \u2013 Fire Protection Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -204842,6 +204804,53 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "aa59536c-9038-49e1-9190-3e84f8abb0eb",
+        "title": "Product Engineer Intern - Master's Degree",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1761725482,
+        "date_posted": 1761725482,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern---Master-s-Degree_2502302",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "a35abda7-6a1b-4ffb-8305-ef2eb634756d",
+        "title": "Architecture DSP Intern - PhD",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1761691266,
+        "date_posted": 1761691266,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Architecture-DSP-Intern---PhD_2502791",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
