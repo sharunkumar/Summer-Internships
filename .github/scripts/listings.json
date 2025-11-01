@@ -134,178 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "DTCC",
-        "id": "7b88cc54-bea1-4576-8a46-3f6055a8b111",
-        "title": "Technical Internship",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1741232399,
-        "date_posted": 1741232399,
-        "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/201709",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/DTCC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Antora Energy",
-        "id": "5e16c9ff-644f-43c3-bcca-adb6a82a2745",
-        "title": "Software Engineering Intern - Product Management & Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741233290,
-        "date_posted": 1741233290,
-        "url": "https://job-boards.greenhouse.io/antora/jobs/5467446004",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Antora-Energy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "State Street",
-        "id": "3744f1fd-b567-4e2e-938a-c3fb74b2a97d",
-        "title": "Software engineer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741233354,
-        "date_posted": 1741233354,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-engineer-Internship_R-769046",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Roadie",
-        "id": "ecf71ca4-eb1a-40a5-870a-4ae0a758dce3",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741232794,
-        "date_posted": 1741232794,
-        "url": "https://job-boards.greenhouse.io/roadie/jobs/7895850002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Roadie",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Antora Energy",
-        "id": "849bb82d-2d86-4b22-9736-da695249d82a",
-        "title": "Software Engineering Intern - Controls",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741233284,
-        "date_posted": 1741233284,
-        "url": "https://job-boards.greenhouse.io/antora/jobs/5462506004",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Antora-Energy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "EnergyHub",
-        "id": "bb1e65ec-b475-4c8d-beb0-133ab3bec85d",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741233205,
-        "date_posted": 1741233205,
-        "url": "https://boards.greenhouse.io/energyhub/jobs/7884007002",
-        "locations": [
-            "Brooklyn, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/EnergyHub",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Very Good Security",
-        "id": "19bf27d0-e468-404e-8131-f6f4f4b6f08c",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741233049,
-        "date_posted": 1741233049,
-        "url": "https://jobs.lever.co/verygoodsecurity/545c6abf-4891-4bd2-86fe-a6f877fb5d08/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/VeryGoodSecurity",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Warner Bros.",
-        "id": "59fd3b65-11a9-4d96-b203-dd6de64161d8",
-        "title": "Audience & Data Graduate Intern - Cnnic",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1741232998,
-        "date_posted": 1741232998,
-        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/London-160-Old-Street/Audience---Data-Graduate-Intern--CNNIC-_R000091424",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Warner-Bros",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Northwestern Mutual",
-        "id": "6da8a567-ccea-45da-9ed0-9454a17caed8",
-        "title": "Investment Analyst Intern - Private Debt & Equity",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1741232966,
-        "date_posted": 1741232966,
-        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2026_JR-42976",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Solar Landscape",
         "id": "4895eb95-3a04-4815-9211-4a5864733b53",
         "title": "Software Engineer Intern",
@@ -51913,7 +51741,7 @@
         "company_name": "Sony",
         "id": "5046b620-2668-46f4-8114-c063a1426401",
         "title": "Reinforcement Learning Research Intern for Game AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -110366,7 +110194,7 @@
         "company_name": "Meta",
         "id": "097b7fb0-4655-4573-983a-a133d6c92738",
         "title": "Research Scientist Intern - Human Computer Interaction - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -113271,7 +113099,7 @@
         "company_name": "Meta",
         "id": "8efd1754-cd18-4963-85e8-60e302a5ab68",
         "title": "Research Scientist Intern - Robot Foundation Models - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -118336,7 +118164,7 @@
         "company_name": "W.R. Berkley",
         "id": "5e7ae581-bfe7-42e4-a462-c48a4fc56c8e",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -204734,6 +204562,29 @@
             "Bedford, MA"
         ],
         "company_url": "https://simplify.jobs/c/Werfen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sony Pictures Entertainment",
+        "id": "9db0ebf0-ce1f-4e56-85d6-40d90dff3b34",
+        "title": "Youtube Operations Intern - Brand Partnerships & Innovations - Spring 2026",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1761959945,
+        "date_posted": 1761959945,
+        "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Miami-Florida/YouTube-Operations-Intern--Brand-Partnerships---Innovations---Spring-2026_JR109252",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Pictures-Entertainment",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
