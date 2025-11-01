@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Solar Landscape",
-        "id": "4895eb95-3a04-4815-9211-4a5864733b53",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741249225,
-        "date_posted": 1741249225,
-        "url": "https://jobs.lever.co/solarlandscape/76615ad3-751a-41ac-a2a8-01fc370967be/apply",
-        "locations": [
-            "Shrewsbury, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Solar-Landscape",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Kodiak Robotics",
         "id": "2071a4de-916a-4e17-8800-919e2ee086f3",
         "title": "Summer 2025 Intern - Artificial Intelligence/Machine Learning",
@@ -62288,7 +62269,7 @@
         "company_name": "Arch Capital Group",
         "id": "8fb74327-ef0a-4096-9182-7977cf012d7c",
         "title": "Generative AI Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -102436,7 +102417,7 @@
         "company_name": "AeroVironment",
         "id": "7ebf973b-bf80-4b92-8b1d-cc3e12675197",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -158805,7 +158786,7 @@
         "company_name": "Meta",
         "id": "4d446025-61bd-4fe7-bec6-354742fe7e75",
         "title": "Research Scientist Intern - AI & Compute Foundation - MTIA Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -159560,7 +159541,7 @@
         "company_name": "State Street",
         "id": "1b0fef55-f1f9-4894-8129-06e3cd9a4834",
         "title": "Software Engineer \u2013 Co-Op - Global Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Summer 2025"
@@ -192124,7 +192105,7 @@
         "company_name": "Meta",
         "id": "362f9fed-77dd-4aec-ac6b-9197c233ff98",
         "title": "Research Scientist Intern - Multimodal Eye Tracking Algorithms - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2026"
@@ -203737,7 +203718,7 @@
         "company_name": "Corewell Health",
         "id": "233f8fe3-2b51-4bd6-8b50-057b90603f4e",
         "title": "CT Technologist Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
