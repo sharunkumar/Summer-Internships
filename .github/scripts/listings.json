@@ -174356,7 +174356,7 @@
         "company_name": "Steel Dynamics",
         "id": "46a2807b-d843-4d99-b217-ab213985b3bb",
         "title": "Software Development Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182447,7 +182447,7 @@
         "company_name": "Tradeweb",
         "id": "469f8541-1f4c-4ff7-988b-be1341564acd",
         "title": "Intern/Co-op - JavaScript UI Development - Technology Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -195406,7 +195406,7 @@
         "company_name": "Wells Fargo",
         "id": "70df52c0-f067-4583-adc9-48e81a276bbd",
         "title": "2026 Technology Summer Internship \u2013 Chief Data Office Intern - Early Careers",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -203861,7 +203861,7 @@
         "company_name": "Werfen",
         "id": "9ac5536d-37bb-497a-834c-6d120e3cb0e6",
         "title": "Hardware Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
