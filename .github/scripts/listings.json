@@ -134,87 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Nokia",
-        "id": "17deb094-26a7-4e90-bfb7-0098e17cab43",
-        "title": "Platforms Engineering Architecture Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1741363992,
-        "date_posted": 1741363992,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/17584",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Clarivate",
-        "id": "4d23ff23-8f27-4309-bbe9-a9c26424a29f",
-        "title": "Futures Business Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741364437,
-        "date_posted": 1741364437,
-        "url": "https://clarivate.wd3.myworkdayjobs.com/Clarivate_Careers/job/R244-Kansas-City/Futures-Business-Intern_JREQ131401-1",
-        "locations": [
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Clarivate",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Tamr",
-        "id": "666645b9-5b50-40a0-bbc4-819ed6014b42",
-        "title": "Software Development Engineer in Test Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2026"
-        ],
-        "date_updated": 1741363717,
-        "date_posted": 1741363717,
-        "url": "https://jobs.lever.co/tamr/a1e3e946-9199-43c8-a508-a706a138fb85/apply",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tamr",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Tamr",
-        "id": "3262732a-c37c-4cfb-9571-dae2e4d076eb",
-        "title": "Software Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2026"
-        ],
-        "date_updated": 1741363724,
-        "date_posted": 1741363724,
-        "url": "https://jobs.lever.co/tamr/73fd290c-3ffe-42ae-be1d-5783214c0751/apply",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tamr",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Skechers",
         "id": "349d97b6-a717-4ee2-a094-4e04fe52eea0",
         "title": "Data Engineer Intern",
@@ -129711,7 +129630,7 @@
         "company_name": "Centific",
         "id": "43e57586-b40c-4ba4-99ee-abd68701b67a",
         "title": "Speech Research Intern-1",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
