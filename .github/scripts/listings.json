@@ -134,63 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Sony Pictures Entertainment",
-        "id": "c2b69dbf-5652-4a95-94bf-68bbeb4fe918",
-        "title": "Production Systems Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741320800,
-        "date_posted": 1741320800,
-        "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Production-Systems-Intern--US-TV-Production---Summer-2025_JR105852",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/cba19b9c-c87b-4670-905f-598655ed2801",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Qualcomm",
-        "id": "ec59cbf1-4ca6-4c3b-8e6f-d81367a45087",
-        "title": "Machine Learning & Artificial Intelligence Engineering Internship - Interim Engineering Intern - SW",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741321309,
-        "date_posted": 1741321309,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446701026300",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Centerfield",
-        "id": "65d34692-1b4d-41b2-8e4a-be9afc4f69f6",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741323779,
-        "date_posted": 1741323779,
-        "url": "https://jobs.lever.co/centerfield/d34ab923-4488-4136-888f-c7404d2dfd45/apply",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Centerfield",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Nokia",
         "id": "17deb094-26a7-4e90-bfb7-0098e17cab43",
         "title": "Platforms Engineering Architecture Co-op",
@@ -174413,7 +174356,7 @@
         "company_name": "Steel Dynamics",
         "id": "46a2807b-d843-4d99-b217-ab213985b3bb",
         "title": "Software Development Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -195463,7 +195406,7 @@
         "company_name": "Wells Fargo",
         "id": "70df52c0-f067-4583-adc9-48e81a276bbd",
         "title": "2026 Technology Summer Internship \u2013 Chief Data Office Intern - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203918,7 +203861,7 @@
         "company_name": "Werfen",
         "id": "9ac5536d-37bb-497a-834c-6d120e3cb0e6",
         "title": "Hardware Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
