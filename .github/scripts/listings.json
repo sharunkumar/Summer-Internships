@@ -134,350 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Skechers",
-        "id": "349d97b6-a717-4ee2-a094-4e04fe52eea0",
-        "title": "Data Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741379645,
-        "date_posted": 1741379645,
-        "url": "https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Data-Engineer-Intern--Summer-2025-_JR114495-1",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skechers",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Nokia",
-        "id": "4fc4c8fe-bcb3-44ea-9759-fb1e3a08ffc2",
-        "title": "Sofware Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741378917,
-        "date_posted": 1741378917,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/17123",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Werfen",
-        "id": "105dde4b-fdca-4c13-8814-fc740fa5b59f",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1741379020,
-        "date_posted": 1741379020,
-        "url": "https://careers-werfen.icims.com/jobs/8310/job",
-        "locations": [
-            "Bedford, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Werfen",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "a3ef0a0c-0bf6-42ee-9487-38180fecb70d",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1741380507,
-        "date_posted": 1741380507,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Petersburg-FL/Software-Engineer-Intern_R-00154741",
-        "locations": [
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Braze",
-        "id": "421eea61-b99b-49bb-8306-61d2545c05f9",
-        "title": "Product Analytics Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1741379867,
-        "date_posted": 1741379867,
-        "url": "https://boards.greenhouse.io/braze/jobs/6682060",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Braze",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Skechers",
-        "id": "ce8030be-5e19-4865-b3b1-d166555ae2dd",
-        "title": "Data Architect Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741379645,
-        "date_posted": 1741379645,
-        "url": "https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Data-Architect-Intern--Summer-2025-_JR114496-1",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skechers",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Western Digital",
-        "id": "e801beef-3205-4c5b-a04b-a8df72097df7",
-        "title": "Summer 2025 Intern - Operations Research & Analytics Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741379147,
-        "date_posted": 1741379147,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000046669285",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Nokia",
-        "id": "c32d831b-dcce-4277-a622-da9fcd49dde9",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741378917,
-        "date_posted": 1741378917,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/17122",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Werfen",
-        "id": "ab2d1419-95a6-4ae0-887c-07a1f91b821e",
-        "title": "Intern \u2013 Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741392780,
-        "date_posted": 1741392780,
-        "url": "https://careers-werfen.icims.com/jobs/8460/job",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Werfen",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Western Digital",
-        "id": "6f5879f8-71f1-443c-9d25-549ef874ac30",
-        "title": "Summer 2025 Intern - Back-End HDD Manufacturing",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741392576,
-        "date_posted": 1741392576,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000046684318",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "B. Braun Medical Inc",
-        "id": "53cc5a8d-8860-4601-be66-c1b69d150a5e",
-        "title": "Product Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741392371,
-        "date_posted": 1741392371,
-        "url": "https://bbrauncareers-bbraun.icims.com/jobs/25185/job",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/B-Braun-Medical-Inc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Moog Inc",
-        "id": "72554c49-f9dc-447b-bc00-ac4ce5e790db",
-        "title": "Intern \u2013 Fluids Product Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741392365,
-        "date_posted": 1741392365,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Fluids-Product-Engineer_R-25-11069",
-        "locations": [
-            "Boston, NY",
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog-Inc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Moog Inc",
-        "id": "3b3a08b2-86a9-4955-8108-426020b905ce",
-        "title": "Intern \u2013 Fluids Product Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741392365,
-        "date_posted": 1741392365,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Fluids-Product-Engineer_R-25-11070",
-        "locations": [
-            "Boston, NY",
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog-Inc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Safran",
-        "id": "c4f24b99-980e-457b-aafa-3ee6777b2b4e",
-        "title": "Engineering Internships!",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741392355,
-        "date_posted": 1741392355,
-        "url": "https://safransed.bamboohr.com/careers/509/",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Safran",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Kodiak Robotics",
-        "id": "8bb4beaa-8ab4-49e5-a457-1b372a12d0bd",
-        "title": "Intern - Motion Planning",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741393371,
-        "date_posted": 1741393371,
-        "url": "https://jobs.lever.co/kodiak/9402afdd-6682-4d9c-9116-cf9fd472742d/apply",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Kodiak Robotics",
-        "id": "db462274-034d-42fc-9b58-61e83827f6cd",
-        "title": "Summer 2025 Intern - Perception",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741393369,
-        "date_posted": 1741393369,
-        "url": "https://jobs.lever.co/kodiak/c731a8b1-5efd-4c91-82fc-764a24dfd44b/apply",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sanofi",
-        "id": "35235283-ca1d-4a02-8f66-ec653ddbc72b",
-        "title": "Data and AI Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741393146,
-        "date_posted": 1741393146,
-        "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Cambridge-MA/Data-and-AI-Engineer---Summer-2025-Intern_R2788513",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/2e32cd23-87b9-4a8f-9544-8fd5f15736cc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Keysight Technologies, Inc.",
-        "id": "7e7abdfa-7c99-4e45-96a3-e6e4e6ec5760",
-        "title": "Machine Learning Engineering Internship",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1741392695,
-        "date_posted": 1741392695,
-        "url": "https://jobs.keysight.com/jobs/47095?lang=en-us&icims=1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "GE Vernova",
         "id": "e34a7db8-9d34-453d-a308-a002b6f4afd5",
         "title": "GE Vernova Control Solutions & Services \u2013 Product Management Lifecare Data Analytics Intern",
@@ -11827,25 +11483,6 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Greenlight",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Applied Materials",
-        "id": "2740e2fc-420f-420b-a4d6-91b2d4f3c6ae",
-        "title": "Summer 2025 Product Line Management Internship-Bachelors/Masters",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741915642,
-        "date_posted": 1741378754,
-        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2025-Product-Line-Management-Internship--Bachelors-Masters--Santa-Clara--CA-_R2511773",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -42544,7 +42181,7 @@
         "company_name": "TikTok",
         "id": "9a851a21-846e-41f1-9f0c-d409c869a2c4",
         "title": "Backend Software Engineer Intern - Tiktok-Growth-Customer Lifecycle - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -43706,7 +43343,7 @@
         "company_name": "TikTok",
         "id": "e06683d3-da0b-45ae-b362-7dbc1a04c818",
         "title": "Backend Software Engineer Intern - Tiktok-Social-Friend Interaction",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -92307,7 +91944,7 @@
         "company_name": "Merck",
         "id": "b95f7120-7762-45d4-9bc7-0f7230ee31d7",
         "title": "2026 Future Talent Program \u2013 Intern - Global Workplace & Enterprise Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -158034,7 +157671,7 @@
         "company_name": "Meta",
         "id": "4d446025-61bd-4fe7-bec6-354742fe7e75",
         "title": "Research Scientist Intern - AI & Compute Foundation - MTIA Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -163584,7 +163221,7 @@
         "company_name": "Seagate Technology ",
         "id": "e6827b00-0b78-4660-9ca8-91293c8e301c",
         "title": "Firmware Engineering Intern - Firmware Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174275,7 +173912,7 @@
         "company_name": "Steel Dynamics",
         "id": "46a2807b-d843-4d99-b217-ab213985b3bb",
         "title": "Software Development Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -189420,7 +189057,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "e79ec92b-3eb6-484e-a6d7-f7d26da839ba",
         "title": "Summer 2026 \u2013 Informatics and Predictive Sciences Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -197125,7 +196762,7 @@
     {
         "date_updated": 1761215286,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -203187,7 +202824,7 @@
         "company_name": "Centrica",
         "id": "9913f770-60fb-41f2-9035-fd75bc56e8df",
         "title": "Technology Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203780,7 +203417,7 @@
         "company_name": "Werfen",
         "id": "9ac5536d-37bb-497a-834c-6d120e3cb0e6",
         "title": "Hardware Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
