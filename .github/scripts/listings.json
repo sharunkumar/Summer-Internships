@@ -134,65 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "GE Vernova",
-        "id": "e34a7db8-9d34-453d-a308-a002b6f4afd5",
-        "title": "GE Vernova Control Solutions & Services \u2013 Product Management Lifecare Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741407519,
-        "date_posted": 1741407519,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/GE-Vernova-Control-Solutions---Services---Product-Management-Lifecare-Data-Analytics-Intern---Summer-2025_R5002180-2",
-        "locations": [
-            "Longmont, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Atlas Van Lines",
-        "id": "adc9b259-3822-4dc1-855a-67491198f88b",
-        "title": "IT Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741407498,
-        "date_posted": 1741407498,
-        "url": "https://careers-atlasworldgroupinc.icims.com/jobs/1685/job",
-        "locations": [
-            "Evansville, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Atlas-Van-Lines",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "GE Vernova",
-        "id": "55454fd9-66f9-4392-b0ce-8fb82ad7dc5e",
-        "title": "GE Vernova Digital Technology Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1741407525,
-        "date_posted": 1741407525,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/GE-Vernova-Digital-Technology-Internship---Summer-2025_R5005281-1",
-        "locations": [
-            "Greenville, SC",
-            "Schenectady, NY",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Rad AI",
         "id": "12b5e65e-24ee-4be3-a6f6-567e068a74fd",
         "title": "Software Engineer Internship",
@@ -173912,7 +173853,7 @@
         "company_name": "Steel Dynamics",
         "id": "46a2807b-d843-4d99-b217-ab213985b3bb",
         "title": "Software Development Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203417,7 +203358,7 @@
         "company_name": "Werfen",
         "id": "9ac5536d-37bb-497a-834c-6d120e3cb0e6",
         "title": "Hardware Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
