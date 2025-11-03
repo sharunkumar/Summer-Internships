@@ -173853,7 +173853,7 @@
         "company_name": "Steel Dynamics",
         "id": "46a2807b-d843-4d99-b217-ab213985b3bb",
         "title": "Software Development Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -203358,7 +203358,7 @@
         "company_name": "Werfen",
         "id": "9ac5536d-37bb-497a-834c-6d120e3cb0e6",
         "title": "Hardware Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -203420,5 +203420,420 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "date_updated": 1762179224,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27276/job",
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Engineering Intern - Embedded Hardware, Vehicle Networking & Audio",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "angie-hue",
+        "id": "e040ddef-a82f-4571-b835-e910412f26a8",
+        "date_posted": 1762179224,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762179279,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27279/job",
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Software Engineering Intern - Software Engineer 3D Intern",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "4bda6cf9-66b1-4116-b57c-b357500fc652",
+        "date_posted": 1762179279,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762179336,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-predictive-planner-ml-dl-mountain-view-california-united-states?gh_jid=7368864",
+        "company_name": "Waymo",
+        "title": "2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "912e8dd5-8278-402b-9bdb-55202c7dc6d9",
+        "date_posted": 1762179336,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762179417,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/Cambridge-MA/XMLNAME-2026-US-Summer-Internship-Program--AI-Solution-Developer---ShinrAI-Center-for-AI-ML_R0166470",
+        "company_name": "Takeda",
+        "title": "2026 U.S Summer Internship Program: AI Solution Developer \u2013 ShinrAI Center for AI/ML",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "d7527e51-7a36-411d-9175-4b866e9cbcab",
+        "date_posted": 1762179417,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762179510,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/USA---MA---Cambridge---Binney-St/XMLNAME-2026-US-Summer-Internship-Program--Cell-Line-Development-Data-Science-Intern_R0166327",
+        "company_name": "Takeda",
+        "title": "2026 U.S Summer Internship Program: Cell Line Development Data Science Intern",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "e7b2ce34-328f-4109-9573-c3fd47473502",
+        "date_posted": 1762179510,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762179641,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/USA---MA---Cambridge---Binney-St/XMLNAME-2026-US-Summer-Internship-Program--Data-Scientist-Computational-Biology-Intern_R0165898",
+        "company_name": "Takeda",
+        "title": "2026 U.S Summer Internship Program: Data Scientist Computational Biology Intern",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "962b28f5-4434-4993-b678-bdf0d1a2fe9d",
+        "date_posted": 1762179641,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762179735,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://takeda.wd3.myworkdayjobs.com/en-US/External/job/USA---MA---Cambridge---Binney-St/XMLNAME-2026-US-Summer-Internship-Program--Quantitative-Clinical-Pharmacology--QCP--AI-RAG-Intern_R0165988",
+        "company_name": "Takeda",
+        "title": "2026 U.S. Summer Internship Program: Quantitative Clinical Pharmacology (QCP) AI/RAG Intern",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "4d9e00d2-fd64-43e5-8367-a221dc61fd4c",
+        "date_posted": 1762179735,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762179781,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Analyst-Intern_R41410",
+        "company_name": "Oshkosh",
+        "title": "Data Analyst Intern",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "e9dc53c9-f1d8-4b19-8720-453f33e72b24",
+        "date_posted": 1762179781,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762179834,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://ilitch.wd5.myworkdayjobs.com/en-US/lc/job/Detroit-MI/AI-Intern_R7371",
+        "company_name": "Little Caesars Enterprises",
+        "title": "AI Intern",
+        "locations": [
+            "locations Detroit, MI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "1d14e602-28f7-485b-966f-31a68cc2d56f",
+        "date_posted": 1762179834,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762179937,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/later/jobs/8237043002",
+        "company_name": "Later",
+        "title": "Data Science Co-op (8-month Term)",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "05126382-b18a-4a73-96d4-ae6bbae4e5bd",
+        "date_posted": 1762179937,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762180037,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://americancentury.wd5.myworkdayjobs.com/en-US/americancenturyinvestments1/job/Kansas-City-Missouri/IT-Data-Intern--Engineering--Analytics-and-AI-ML-_R0005430-2",
+        "company_name": "American Century Investments",
+        "title": "IT Data Intern (Engineering, Analytics and AI/ML)",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "a1c13e2a-fae5-400e-82b1-64a0a44e233a",
+        "date_posted": 1762180037,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762180095,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-sas.icims.com/jobs/40757/summer-2026-%E2%80%93-trustworthy-ai-intern/job",
+        "company_name": "SAS",
+        "title": "Summer 2026 \u2013 Trustworthy AI Intern",
+        "locations": [
+            "Cary, NC"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "96581dd4-92ae-4ab0-a0f8-6dda5a8c6847",
+        "date_posted": 1762180095,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762180149,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--Master-s-Degree_2502453",
+        "company_name": "Marvell",
+        "title": "AI Infrastructure Engineering Intern- Master's Degree",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "36655ab5-e9ff-4727-84c8-f4d776ef6aff",
+        "date_posted": 1762180149,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762180659,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-gdms.icims.com/jobs/68358/software-engineering-intern/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "80c5a9a6-01fc-426f-9291-72c33ed68dce",
+        "date_posted": 1762180659,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762180688,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2026-Reimbursement-Data-Engineer-Undergraduate-Intern_J270586",
+        "company_name": "Highmark Health",
+        "title": "Summer 2026 Reimbursement Data Engineer Undergraduate Intern",
+        "locations": [
+            "Pittsburgh PA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "0a96025b-32a2-4e24-b084-271d7cf898be",
+        "date_posted": 1762180688,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762180717,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://aurora.tech/careers/8227393002?gh_jid=8227393002",
+        "company_name": "Aurora Innovation",
+        "title": "Software Engineering Internship, Summer 2026",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "8e40b521-c1ba-4230-a916-61e3386a0b4d",
+        "date_posted": 1762180717,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762180839,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://2026 Summer Internship Program: ML/AI Digital Pathology Imaging Intern",
+        "company_name": "Takeda",
+        "title": "2026 Summer Internship Program: ML/AI Digital Pathology Imaging Intern",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "de77da49-35dd-4373-888d-685ac2fe4317",
+        "date_posted": 1762180839,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762190288,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2026-Intern---Product-Management_JR316365-2",
+        "company_name": "Salesforce",
+        "title": "Intern - Product Management",
+        "locations": [
+            "New York, NY",
+            "San Fransisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Product Management",
+        "source": "Jeremiah-Sakuda",
+        "id": "d6f2fba2-8668-492a-97c5-dd749b4b59ed",
+        "date_posted": 1762190288,
+        "company_url": "",
+        "is_visible": true
     }
 ]
