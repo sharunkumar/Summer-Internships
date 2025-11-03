@@ -125715,7 +125715,7 @@
         "company_name": "Meta",
         "id": "f71fbf05-db97-42ee-92f0-6b287c22bf6a",
         "title": "Software Engineer \u2013 Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -194903,7 +194903,7 @@
         "company_name": "Wells Fargo",
         "id": "70df52c0-f067-4583-adc9-48e81a276bbd",
         "title": "2026 Technology Summer Internship \u2013 Chief Data Office Intern - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -196703,7 +196703,7 @@
     {
         "date_updated": 1761215286,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
+        "active": true,
         "degrees": [
             "Master's"
         ],
@@ -202660,7 +202660,7 @@
         "company_name": "Merck",
         "id": "6757cf49-5c58-47c9-9167-6d2ae98b7d13",
         "title": "2026 Future Talent Program \u2013 Operational Excellence Intern - Environmental Health and Safety - Ehs",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203260,9 +203260,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761950296,
+        "date_updated": 1762159378,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -203396,6 +203396,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "b96d57f7-6287-43da-a968-56c01db2ed74",
+        "title": "Research Scientist Intern - AR Graphics Optimizations - PhD",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1762163730,
+        "date_posted": 1761496004,
+        "url": "https://www.metacareers.com/jobs/2539771786398778",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
