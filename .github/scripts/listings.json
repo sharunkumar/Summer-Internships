@@ -134,85 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "The Walt Disney Company",
-        "id": "5c1e4c48-6c8e-42e4-b724-386cb5fc6a51",
-        "title": "Data Science Grad Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741663914,
-        "date_posted": 1741663914,
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Data-Science-Grad-Intern--Summer-2025_10103985",
-        "locations": [
-            "Santa Monica, CA",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sony Pictures Entertainment",
-        "id": "ba3bb0dd-a21c-4864-9241-d7058a363cd0",
-        "title": "People Analytics Intern - People & Organization",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741663242,
-        "date_posted": 1741663242,
-        "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/People-Analytics-Intern--People---Organization---Summer-2025_JR106222",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/cba19b9c-c87b-4670-905f-598655ed2801",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Gesture",
-        "id": "14692d90-caf8-4769-8e56-061c79b316a0",
-        "title": "Data Marketing Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741664445,
-        "date_posted": 1741664445,
-        "url": "https://gesture-us-inc.breezy.hr/p/b5169adb8cca/apply",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/50f4de28-242d-4456-950c-e71d73d15169",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ASML",
-        "id": "f03eac5d-bcdd-4ee9-ad61-c54b0fb8928d",
-        "title": "People Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741662948,
-        "date_posted": 1741662948,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/People-Analytics-Intern_J-00316996",
-        "locations": [
-            "San Jose, CA",
-            "Chandler, AZ",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Wordware",
         "id": "8f8c1a37-bc92-493f-a9f0-fea8cfd65030",
         "title": "Engineering intern",
@@ -174091,7 +174012,7 @@
         "company_name": "ATPCO",
         "id": "c3107a42-e633-4d49-9529-4676f85b9d43",
         "title": "Data Analyst and Reporting Intern - Marketing Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -184371,7 +184292,7 @@
         "company_name": "ATPCO",
         "id": "87ccbe4d-a4d7-41cc-b94c-3d8ff31a9471",
         "title": "Marketing Data Analyst Intern - Spring start Date",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -235599,6 +235520,27 @@
             "Quincy, MA"
         ],
         "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Experian",
+        "id": "98ba296b-f3ae-4839-8379-f408f850ec43",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1762395313,
+        "date_posted": 1762395313,
+        "url": "https://jobs.smartrecruiters.com/Experian/744000091928005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Experian",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
