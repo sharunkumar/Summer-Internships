@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Wordware",
-        "id": "8f8c1a37-bc92-493f-a9f0-fea8cfd65030",
-        "title": "Engineering intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741677058,
-        "date_posted": 1741677058,
-        "url": "https://jobs.ashbyhq.com/wordware.ai/07dc0d12-1efc-4a70-8375-a171578ed7ca/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Wordware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "City of Charlotte",
         "id": "7a8888e5-4fcc-4e47-993a-dc40914648ea",
         "title": "Data Analytics Summer Internship",
@@ -64393,7 +64374,7 @@
         "company_name": "Abridge",
         "id": "e4d140e0-e48e-456a-9ab9-35e74029e506",
         "title": "Full Stack Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -103251,9 +103232,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1757408702,
+        "date_updated": 1762414981,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -116753,9 +116734,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1757686926,
+        "date_updated": 1762416883,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -119448,7 +119429,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "783b1a06-35e5-4845-b207-a49ed22d29e9",
         "title": "Computational Sciences Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -128175,11 +128156,11 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758017860,
+        "date_updated": 1762416965,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ],
         "url": "https://centific.wd1.myworkdayjobs.com/en-US/centific_global/job/Redmond-Washington/AI-Safety-Research-Intern-1_JR105042-1",
         "company_name": "Centific",
@@ -146377,9 +146358,9 @@
         ]
     },
     {
-        "date_updated": 1758694085,
+        "date_updated": 1762414765,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -150095,9 +150076,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758869670,
+        "date_updated": 1762417049,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -160892,9 +160873,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1759413321,
+        "date_updated": 1762417370,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -180070,9 +180051,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760367280,
+        "date_updated": 1762417401,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -186525,9 +186506,9 @@
         ]
     },
     {
-        "date_updated": 1760537701,
+        "date_updated": 1762417529,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -189804,9 +189785,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760742671,
+        "date_updated": 1762420361,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -192193,7 +192174,7 @@
         "company_name": "Clever",
         "id": "4850555d-d7f1-4999-90ee-f81d3e390536",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -192586,9 +192567,9 @@
         ]
     },
     {
-        "date_updated": 1761005614,
+        "date_updated": 1762420490,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -192609,9 +192590,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761005659,
+        "date_updated": 1762420567,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -195581,9 +195562,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761203884,
+        "date_updated": 1762415608,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -196055,9 +196036,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761215884,
+        "date_updated": 1762415850,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -196606,9 +196587,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761288683,
+        "date_updated": 1762416590,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -196629,9 +196610,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761288731,
+        "date_updated": 1762416434,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -198747,9 +198728,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1761602161,
+        "date_updated": 1762416576,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -199023,9 +199004,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761603970,
+        "date_updated": 1762416841,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -199092,9 +199073,9 @@
         ]
     },
     {
-        "date_updated": 1761605269,
+        "date_updated": 1762416615,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -206354,7 +206335,7 @@
         "company_name": "Johnson & Johnson",
         "id": "ec04c9cc-5f43-4f3b-939f-f2ca414b8ace",
         "title": "Surgical Imaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -227515,7 +227496,7 @@
         "company_name": "Fairlife",
         "id": "9e9c237c-4a1a-4ff0-a40c-654a0accdae3",
         "title": "Processing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -230518,7 +230499,7 @@
         "company_name": "JM Family",
         "id": "6b71b349-c980-49af-947c-db4d5a3b9414",
         "title": "Data Analyst Intern - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
