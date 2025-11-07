@@ -134,26 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "ByteDance",
-        "id": "57f658a6-3cca-429c-8ebf-c35bb82d13be",
-        "title": "Video Experience Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1741777953,
-        "date_posted": 1741777953,
-        "url": "https://jobs.bytedance.com/en/position/7480762421310392583/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "S&P Global ",
         "id": "2839fff9-8697-48f3-873c-4130ffc5aa35",
         "title": "Software Engineer Intern",
@@ -168,25 +148,6 @@
             "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Applied Materials",
-        "id": "80bc20c5-0745-4616-b019-5d06fc38c232",
-        "title": "2025 Summer Process Integration Engineer Intern - Bachelors",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741778527,
-        "date_posted": 1741778527,
-        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2025-Summer-Process-Integration-Engineer-Intern--Bachelors---Santa-Clara--CA_R2511957-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -54319,30 +54280,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Certik",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "cd1dd92e-e578-4411-a44c-cbf752b5b908",
-        "title": "Video Experience Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1754738634,
-        "date_posted": 1741777949,
-        "url": "https://jobs.bytedance.com/en/position/7480764737299433735/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -205410,7 +205347,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1761913714,
+        "date_updated": 1762503231,
         "date_posted": 1761913714,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/312194",
         "locations": [
@@ -205419,7 +205356,9 @@
         "company_url": "https://simplify.jobs/c/Oracle",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": []
+        "degrees": [
+            "Master's"
+        ]
     },
     {
         "source": "Simplify",
@@ -220358,7 +220297,7 @@
         "company_name": "AbbVie",
         "id": "cfa2949e-d263-4c4e-87a1-74107611c4dd",
         "title": "Statistics Intern - Statistics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -228785,25 +228724,26 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "Awardco",
         "id": "c64a512f-2622-44bb-9b61-40e707833008",
         "title": "Back-End Software Engineer Intern",
         "active": true,
         "terms": [
-            "Spring 2026",
             "Summer 2026"
         ],
-        "date_updated": 1762222263,
+        "date_updated": 1762503303,
         "date_posted": 1762222263,
         "url": "https://award.co/position?gh_jid=4322220004",
         "locations": [
-            "Orem, UT"
+            "Lindon, UT"
         ],
         "company_url": "https://simplify.jobs/c/Awardco",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
+        "sponsorship": "Does Not Offer Sponsorship",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -228982,18 +228922,20 @@
         "title": "Product Manager Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1762222270,
+        "date_updated": 1762503613,
         "date_posted": 1762222270,
         "url": "https://award.co/position?gh_jid=5458149004",
         "locations": [
-            "Orem, UT"
+            "Lindon, UT"
         ],
         "company_url": "https://simplify.jobs/c/Awardco",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": []
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -231496,7 +231438,7 @@
         "company_name": "AbbVie",
         "id": "89441b3e-bca9-40fd-8ed9-c5b7e4ead110",
         "title": "2026 Statistics Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -234478,5 +234420,51 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1762503407,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://award.co/position?gh_jid=4136568004",
+        "company_name": "Awardco",
+        "title": "Software Test Engineer Intern",
+        "locations": [
+            "Lindon, UT"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "joshuadargan",
+        "id": "4e14846f-a4a5-4cea-97d1-38d02c745116",
+        "date_posted": 1762503407,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762503566,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.awardco.com/position?gh_jid=4137112004",
+        "company_name": "Awardco",
+        "title": "UX Design Intern",
+        "locations": [
+            "Lindon, UT"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Product Management",
+        "source": "joshuadargan",
+        "id": "e60cb4f7-46ce-4f43-ad33-944393faec0b",
+        "date_posted": 1762503566,
+        "company_url": "",
+        "is_visible": true
     }
 ]
