@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Arvinas",
-        "id": "a87ed092-d23d-4966-b4fc-971f208f66c8",
-        "title": "2025 Summer Internship - Computational Chemistry & Artificial Intelligence",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1741850125,
-        "date_posted": 1741850125,
-        "url": "https://job-boards.greenhouse.io/arvinas/jobs/6491254003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arvinas",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Dick's Sporting Goods",
         "id": "46ba5e52-b0c2-49d3-9b20-6f0f363d0271",
         "title": "Full Stack Software Engineer Intern - Diamond Sports",
