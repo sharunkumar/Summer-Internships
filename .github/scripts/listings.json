@@ -105617,7 +105617,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "385eed62-f687-4fff-ab42-08f41edb4cb5",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -106752,7 +106752,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "b83f13be-749e-4607-a2a3-d5597071ed90",
         "title": "SW Engineering \u2013 Intern - Java/C++",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -110232,7 +110232,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -190769,7 +190769,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "NBCUniversal",
-        "id": "6e04f537-e1f3-4595-837b-5cf6aa9e3f18",
+        "id": "7c13af7d-629e-4ed7-a31f-692946891220",
         "title": "Audience Insights & Data Analytics Intern",
         "active": true,
         "terms": [
@@ -236110,5 +236110,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NBCUniversal",
+        "id": "55bc3286-7fe4-4eb5-b5eb-80426b3044da",
+        "title": "Telemundo Enterprises Programming & Research Internships - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1762791311,
+        "date_posted": 1762791311,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000092729135",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/NBCUniversal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
