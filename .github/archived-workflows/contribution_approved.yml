@@ -47,9 +47,20 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: dev
 
-      - name: Auto Close Issue
+      - name: Post Summary and Close Issue (Bulk Mark Inactive)
+        run: |
+          cat << 'EOF' > comment.txt
+          ${{ steps.python_script.outputs.summary_comment }}
+          EOF
+          gh issue comment ${{ github.event.issue.number }} --body-file comment.txt
+          gh issue close --comment "✅ Bulk update complete! The README has been updated and changes have been committed. Auto-closing issue." ${{ github.event.issue.number }}
+        if: success() && contains(github.event.issue.labels.*.name, 'bulk_mark_inactive')
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Auto Close Issue (Regular Contributions)
         run: gh issue close --comment "Your contribution was accepted. Auto-closing issue" ${{ github.event.issue.number }}
-        if: success()
+        if: success() && !contains(github.event.issue.labels.*.name, 'bulk_mark_inactive')
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

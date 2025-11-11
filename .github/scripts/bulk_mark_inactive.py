@@ -212,7 +212,7 @@ def generate_summary_comment(results, reason):
         comment += "\n"
     
     if successful:
-        comment += "The README will be updated automatically.\n"
+        comment += "✅ **The README has been updated and changes have been committed!**\n"
     
     return comment
 
@@ -237,9 +237,19 @@ def main():
         issue_body = event_data['issue']['body']
         issue_user = event_data['issue']['user']['login']
         
+        print("DEBUG: Issue body content:")
+        print("=" * 80)
+        print(issue_body)
+        print("=" * 80)
+        
         urls = extract_urls_from_issue_body(issue_body)
         reason = extract_reason_from_issue_body(issue_body)
         email = extract_email_from_issue_body(issue_body)
+        
+        print(f"DEBUG: Extracted {len(urls)} URLs from issue body")
+        print(f"DEBUG: URLs: {urls}")
+        print(f"DEBUG: Reason: {reason}")
+        print(f"DEBUG: Email: {email}")
         
         if not urls:
             util.fail("No valid URLs found in the issue body")
