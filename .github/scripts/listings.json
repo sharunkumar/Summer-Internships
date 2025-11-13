@@ -1927,26 +1927,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Vizient ",
-        "id": "95f82993-bd62-4810-b01f-2d692d26cfe8",
-        "title": "Summer Intern-Corp IT",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742297679,
-        "date_posted": 1742297679,
-        "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Summer-Intern---Corp-IT_29794R",
-        "locations": [
-            "Centennial, CO",
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/85ed65fb-d411-473a-a950-b4d5c8ad7bdf",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Capital One",
         "id": "1b532684-afa6-42d1-b520-4a6df0a66f12",
         "title": "Intern \u2013 Data Scientist",
@@ -57081,7 +57061,7 @@
         "company_name": "Johnson & Johnson",
         "id": "c8b989a3-4021-4c2b-9251-971f46e60e4f",
         "title": "Technology Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -60364,7 +60344,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -61582,7 +61562,7 @@
         "company_name": "Nokia",
         "id": "5e23376e-08f2-4136-bc26-45acada1f1d0",
         "title": "Saas Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -65802,7 +65782,7 @@
         "company_name": "Meta",
         "id": "1f77f979-a9de-47a0-8655-d6c71bb7ea10",
         "title": "Research Scientist Intern - Robotic Control Policy - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -72272,7 +72252,7 @@
         "company_name": "TD Bank",
         "id": "f9ddf24c-c8f7-4ab0-b29b-db7da3571490",
         "title": "Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -94188,7 +94168,7 @@
         "company_name": "Meta",
         "id": "f5cf1e2e-9a86-4072-a07e-e2ad59817aa7",
         "title": "Research Scientist Intern - AI for Egocentric Representation Learning - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -94263,7 +94243,7 @@
         "company_name": "Meta",
         "id": "f0ee0cad-e25a-49ea-bd86-1210fdb6afc4",
         "title": "Research Scientist Intern - Robotic End Effector - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -94286,7 +94266,7 @@
         "company_name": "Meta",
         "id": "4049faf4-863f-4cd3-939c-2e5f6632c705",
         "title": "Research Scientist Intern - Hand Pose Estimation & Tracking - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -102950,7 +102930,7 @@
         "company_name": "Meta",
         "id": "097b7fb0-4655-4573-983a-a133d6c92738",
         "title": "Research Scientist Intern - Human Computer Interaction - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -104913,7 +104893,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "87fc97ec-ca87-43df-a38a-d186466d89ef",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -105174,7 +105154,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -105711,7 +105691,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -105784,7 +105764,7 @@
         "company_name": "W.R. Berkley",
         "id": "9e21a2d6-9911-49fe-bf98-783f1ffd9e96",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -105952,7 +105932,7 @@
         "company_name": "Meta",
         "id": "a96398db-878d-4c56-8216-47f9f31ce9ad",
         "title": "Research Scientist Intern - AI Core Machine Learning - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -106001,7 +105981,7 @@
         "company_name": "Meta",
         "id": "24ff9f2f-9a62-464e-b657-79c732ec6424",
         "title": "Research Scientist Intern - Tracking & Sensor Fusion - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -107777,7 +107757,7 @@
         "company_name": "Shure",
         "id": "704a1b82-e674-42e2-bfac-244c88e0710e",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -119843,7 +119823,7 @@
         "company_name": "Meta",
         "id": "e2e48bac-63bc-4318-9576-1e112d693b8d",
         "title": "Research Scientist Intern - Photorealistic Telepresence - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131470,9 +131450,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758300827,
+        "date_updated": 1763029174,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -161117,7 +161097,7 @@
         "company_name": "Meta",
         "id": "5f76dee8-d394-44e9-91e9-4b5974793685",
         "title": "Research Scientist Intern - Generative AI Digital Characters",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -175076,7 +175056,7 @@
         "company_name": "Gearset",
         "id": "8587a547-da63-4138-aec5-c6716d278708",
         "title": "Software Engineering Intern 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175260,7 +175240,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "32530b9f-31b7-4efc-887c-48ec4bd8da7a",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175702,7 +175682,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "cc0f0c25-47c1-4529-921c-312e616545cf",
         "title": "Front-End Engineer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -190651,7 +190631,7 @@
     {
         "date_updated": 1761215286,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -191459,9 +191439,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1761290182,
+        "date_updated": 1763029174,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -193109,9 +193089,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761548121,
+        "date_updated": 1763029667,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -193829,9 +193809,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761605372,
+        "date_updated": 1763029174,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -195726,9 +195706,9 @@
         ]
     },
     {
-        "date_updated": 1761865819,
+        "date_updated": 1763029667,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -197623,9 +197603,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762180095,
+        "date_updated": 1763029174,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -197738,9 +197718,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762180839,
+        "date_updated": 1763029174,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -199369,7 +199349,7 @@
         "company_name": "Meta",
         "id": "455f854f-8708-4bf5-b3f0-d4b5da3cbe03",
         "title": "Research Scientist Intern - Multimodal Contextual AI - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -199904,7 +199884,7 @@
         "company_name": "Meta",
         "id": "5d851938-6029-4b44-bfcd-cb3abc3c9fcb",
         "title": "Research Scientist Intern - Silicon Performance Architecture - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -206178,7 +206158,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "97f0e4c1-6281-4a57-a4c1-92bbefb829b8",
         "title": "Relationship Manager \u2013 Business Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -206829,7 +206809,7 @@
         "company_name": "Kinaxis",
         "id": "8dbff0dc-b0cb-4f6b-80bc-3b88a0061524",
         "title": "Co-op/Intern Product Management - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -210543,7 +210523,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "9af89452-ab09-4232-b683-c2a8da86cf37",
         "title": "Relationship Manager \u2013 Business Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -214515,7 +214495,7 @@
         "company_name": "Atlantic Health System",
         "id": "30663826-82f2-48c9-b0c0-7fa62d0d9cb1",
         "title": "Digital Outcomes Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -221715,7 +221695,7 @@
         "company_name": "Meta",
         "id": "002076bb-5a40-43f6-abaa-ca89978f5dc4",
         "title": "Research Scientist Intern - Hearing Science and Auditory Perception - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -224959,7 +224939,7 @@
         "company_name": "American Enterprise Institute",
         "id": "94b1b0c1-86b7-4a93-86d0-697898297eab",
         "title": "Housing Center Internship - Housing Center",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -225874,7 +225854,7 @@
         "company_name": "Sentinel Technologies",
         "id": "ed47a0ef-d38b-4641-b6c9-512c3d497b78",
         "title": "AI Intern - Enterprise Architecture - Innovation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -226687,7 +226667,7 @@
         "company_name": "Rambus",
         "id": "d0f650b3-9091-49c4-920f-55cde2622d70",
         "title": "Intern Validation Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -229377,7 +229357,7 @@
         "company_name": "Meta",
         "id": "d6bd3730-59cb-40bd-a1bf-4273e86fc642",
         "title": "Research Scientist Intern - Computer Vision - Video Intelligence - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -231312,7 +231292,7 @@
         "company_name": "Moog ",
         "id": "7ba37f75-ccb3-4dc2-89d5-73a64116c870",
         "title": "Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237824,9 +237804,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1762875523,
+        "date_updated": 1763029174,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -238951,7 +238931,7 @@
         "company_name": "Iridium Communications",
         "id": "4453e83a-2847-485d-b202-f4c787d99591",
         "title": "Iridium Product Management \u2013 Internship - Sales - Marketing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -241382,9 +241362,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762971117,
+        "date_updated": 1763025846,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -241402,7 +241382,7 @@
         "id": "315881aa-1f45-46b9-a382-bdfd07607dd7",
         "date_posted": 1762960748,
         "company_url": "",
-        "is_visible": false
+        "is_visible": true
     },
     {
         "date_updated": 1762960795,
@@ -241560,7 +241540,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
-        "id": "0ed6cb36-9c49-457e-987a-0bd0bf11e256",
+        "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
@@ -242733,7 +242713,7 @@
         "company_name": "Motorola",
         "id": "b8a3b269-12be-48c8-8680-5b6cea24b285",
         "title": "Prototype Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -243619,7 +243599,7 @@
         "company_name": "FICO",
         "id": "343a63a5-781e-462b-93c1-3ebc3ab2a7ce",
         "title": "Analytic Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -244737,6 +244717,31 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Interstates",
+        "id": "e019b0ce-4c0e-490b-b51c-9ac7e88b4472",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2026",
+            "Fall 2025"
+        ],
+        "date_updated": 1763031422,
+        "date_posted": 1763031422,
+        "url": "https://www.interstates.com/careers/jobs?gh_jid=4056077009&gh_jid=4056077009",
+        "locations": [
+            "Sioux Falls, SD",
+            "Sioux City, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Interstates",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
