@@ -1159,7 +1159,7 @@
 <td>27d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/PTC?utm_source=GHList&utm_medium=company">PTC</a></strong></td>
+<td>↳</td>
 <td>Software Development Intern</td>
 <td>Boston, MA</td>
 <td>Winter 2025</td>
@@ -2240,14 +2240,6 @@
 <td>London, UK</br>Paris, France</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://www.metacareers.com/jobs/784361257809188?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d221cf61-a4d3-476b-a71d-193db21aa231?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/c0d581f7-6346-4205-96a6-0fb804352421?utm_source=GHList&utm_medium=company">FICO</a></strong></td>
-<td>Analytic Science Intern</td>
-<td>San Diego, CA</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://fico.wd1.myworkdayjobs.com/external/job/San-Diego-CA/Analytic-Science-Intern_31218?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/343a63a5-781e-462b-93c1-3ebc3ab2a7ce?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>0d</td>
 </tr>
 <tr>
@@ -4343,7 +4335,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (100)</summary>
+<summary>🗃️ Inactive roles (101)</summary>
 
 <table>
 <thead>
@@ -4382,10 +4374,10 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
-<td>Research Scientist Intern - Tracking & Sensor Fusion - PhD 🎓</td>
-<td>Redmond, WA</td>
-<td>Winter 2025</td>
+<td><strong><a href="https://simplify.jobs/c/American-Enterprise-Institute?utm_source=GHList&utm_medium=company">American Enterprise Institute</a></strong></td>
+<td>Housing Center Internship - Housing Center</td>
+<td>Washington, DC</td>
+<td>Winter 2026</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -4415,6 +4407,22 @@
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
+<td>Research Scientist Intern - AI for Egocentric Representation Learning - PhD 🎓</td>
+<td>Redmond, WA</td>
+<td>Winter 2025</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Research Scientist Intern - Robotic End Effector - PhD 🎓</td>
+<td>Redmond, WA</td>
+<td>Winter 2025</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Research Scientist Intern - 3D World Modelling - Robotics and Generative AI - PhD 🎓</td>
 <td>London, UK</td>
 <td>Winter 2025</td>
@@ -4530,14 +4538,6 @@
 <td>Internships: Deep Learning</td>
 <td>Santa Clara, CA</td>
 <td>Winter 2025</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
-<td>Research Scientist Intern - Robotic Control Policy - PhD 🎓</td>
-<td>Redmond, WA</td>
-<td>Fall 2025</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -5243,7 +5243,7 @@
 <td>Remote in USA</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/4956839008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/70e58f74-2260-4222-9296-7c6ae76f7f13?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Goldman-Sachs?utm_source=GHList&utm_medium=company">Goldman Sachs</a></strong></td>
@@ -6094,7 +6094,7 @@
 <td>Santa Clara, CA</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4961094007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b13f7fce-56ef-4865-a669-6b0951fa7f02?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Skyworks?utm_source=GHList&utm_medium=company">Skyworks</a></strong></td>
@@ -6629,7 +6629,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (33)</summary>
+<summary>🗃️ Inactive roles (34)</summary>
 
 <table>
 <thead>
@@ -6664,6 +6664,14 @@
 <td>Application Engineer Intern</td>
 <td>Rhode Island</td>
 <td>Spring 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Legrand-NA?utm_source=GHList&utm_medium=company">Legrand NA</a></strong></td>
+<td>Firmware Intern</td>
+<td>Carlsbad, CA</td>
+<td>Winter 2025</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
