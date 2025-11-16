@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Veolia",
-        "id": "74bfcb2f-0d90-4ee5-9e06-ef63875462af",
-        "title": "2025 Summer Intern - Laboratory",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742578192,
-        "date_posted": 1742578192,
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000049301091",
-        "locations": [
-            "Paramus, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Veolia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Five9",
         "id": "b08414f6-0a38-43c7-a03d-d5af236629d1",
         "title": "Associate Automation Engineer Internship",
@@ -129663,7 +129644,7 @@
         "company_name": "Subaru",
         "id": "1c44a7fd-9ab8-4768-a13b-e6ff341dcd40",
         "title": "Intern \u2013 Product Planning and Pricing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
