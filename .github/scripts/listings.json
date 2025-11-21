@@ -133,82 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Copart",
-        "id": "c100e296-5f5e-4b89-9b53-ce606d2e3eae",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1742961271,
-        "date_posted": 1742961271,
-        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR102141",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Copart",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "date_updated": 1742961801,
-        "url": "https://us242.dayforcehcm.com/CandidatePortal/en-US/fleetcor/Posting/View/43245",
-        "company_name": "Corpay",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "56f36070-5482-477c-9372-20f5e6a315f0",
-        "date_posted": 1742961801,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1742961891,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/206685",
-        "company_name": "Electronic Arts (EA)",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Vancouver, Canada"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "201669c4-dec4-4545-9ac9-2234a785a1f8",
-        "date_posted": 1742961891,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Western Digital",
-        "id": "9dfaf963-3e54-43f1-af22-fbbe15debd8e",
-        "title": "Summer 2025 Intern - ML & Wafer Defect Inspection",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742960417,
-        "date_posted": 1742960417,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000049925945",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1743026940,
         "url": "https://mercor.com/jobs/list_AAABlTvltX-cEUOy_rpG57z9/",
         "company_name": "Mercor",
@@ -82003,7 +81927,7 @@
         "company_name": "Epic Games",
         "id": "36466160-4a88-4eff-9b57-d2550c69b64c",
         "title": "Game Services Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -101337,7 +101261,7 @@
         "company_name": "Emerson Electric",
         "id": "c1f5d513-9750-4d59-9252-cd4fd7564752",
         "title": "Product Management Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -140141,7 +140065,7 @@
         "company_name": "State Street",
         "id": "b2eee7e3-8eb7-44f9-bd89-374f8988258f",
         "title": "Data Analytics Co-Op - Databricks & Cloud",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -140166,7 +140090,7 @@
         "company_name": "State Street",
         "id": "9f764d00-f42f-4b88-b12b-fa7a7a380b98",
         "title": "Artificial Intelligence and AWS Cloud Developer - Co-Op - Global Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -184152,7 +184076,7 @@
         "company_name": "DatologyAI",
         "id": "537c5b49-5525-49e5-92f7-22b3e72cf73d",
         "title": "Software Engineer Intern - Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -207883,7 +207807,7 @@
         "company_name": "Altera Corporation",
         "id": "b82d8dc0-de3a-43ac-9e9f-c82b46b7b62c",
         "title": "FPGA Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -210590,7 +210514,7 @@
         "company_name": "Nokia",
         "id": "a0b97d08-2167-437b-ae88-d0add3cd99d1",
         "title": "DSP & Control Firmware Engineer Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -228235,7 +228159,7 @@
         "company_name": "Rolls-Royce",
         "id": "09adf2aa-2f9a-44c6-9bd6-08a36cc48794",
         "title": "Engineering Operations Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -234580,7 +234504,7 @@
         "company_name": "NBCUniversal",
         "id": "070568b3-3d26-46d4-815b-afb1090b8177",
         "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235580,7 +235504,7 @@
         "company_name": "NBCUniversal",
         "id": "756fd188-c9b7-4c71-abf9-71117c4153ea",
         "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -253440,5 +253364,49 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intuitive Surgical",
+        "id": "549d8449-d93d-4fd5-b514-2a6d6805ec6e",
+        "title": "AI Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1763691278,
+        "date_posted": 1763691278,
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000094742485",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "da4ebfc6-10fc-4482-bce3-a58db0d23a4e",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763699919,
+        "date_posted": 1763699919,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Mesa/XMLNAME-2026-Engineering-Intern---Mesa-AZ_R10215191",
+        "locations": [
+            "Mesa, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
