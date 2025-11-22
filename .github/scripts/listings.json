@@ -79501,7 +79501,7 @@
         "company_name": "ServiceNow",
         "id": "cf902aea-acc6-4735-8bff-bb131ab95cf2",
         "title": "UTG \u2013 Software Engineer Internships",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -82743,7 +82743,7 @@
         "company_name": "ServiceNow",
         "id": "7cdae68b-b8d2-4dd5-855d-29fd1834be33",
         "title": "UTG \u2013 Software Engineer Internships",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -83593,7 +83593,7 @@
         "company_name": "Cummins",
         "id": "a1abcbf9-c637-4345-9584-fcd7931535a5",
         "title": "Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -179611,7 +179611,7 @@
         "company_name": "Signify",
         "id": "c6edb2b1-e3f8-426d-a663-08ee9de73cfd",
         "title": "Advanced Development Software Intern - Cooper Lighting Solutions - Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -195204,7 +195204,7 @@
         "company_name": "Levi Strauss & Co.",
         "id": "9818bf81-d15a-449b-ba33-d99960737c6d",
         "title": "F.I.T. Intern Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210441,7 +210441,7 @@
         "company_name": "Nokia",
         "id": "742dd5ed-88d0-48bb-bcda-0a9d765b6720",
         "title": "Optical Hardware Development Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235072,7 +235072,7 @@
         "company_name": "Intuitive Surgical",
         "id": "08f48e31-8623-41c4-94ee-a400b7b3aab5",
         "title": "Computer Vision Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -245179,7 +245179,7 @@
         "company_name": "Axalta",
         "id": "585b4197-2d8e-4709-b937-73cb62416550",
         "title": "Market Research & Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
