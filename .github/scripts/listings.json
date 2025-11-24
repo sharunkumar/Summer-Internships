@@ -65546,7 +65546,7 @@
         "company_name": "PIMCO",
         "id": "ec49df5b-6aa3-48c5-b0c3-a1811603b70b",
         "title": "PhD Summer Intern - Portfolio Management - Quantitative Research Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -67379,7 +67379,7 @@
         "company_name": "PIMCO",
         "id": "6e8ecff5-5c59-486c-b29c-7834b0734655",
         "title": "2026 Summer Internship - Product Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -120336,7 +120336,7 @@
         "company_name": "QBE Insurance",
         "id": "83e9b9dd-85c8-494e-ac0f-93e284935350",
         "title": "Data Science and Machine Learning Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130037,7 +130037,7 @@
         "company_name": "ServiceNow",
         "id": "2220cfaf-ccfc-4a96-b5af-52253e3f3e9e",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130564,7 +130564,7 @@
         "company_name": "HNTB",
         "id": "0de26396-5f65-44e7-9dd4-da7b069f7eca",
         "title": "Returning New Grad Software Engineer 1",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -162107,7 +162107,7 @@
         "company_name": "Adobe",
         "id": "a5147a9b-d6c5-45fe-8d36-a86c49e199e5",
         "title": "Intern - AI Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -176503,7 +176503,7 @@
         "company_name": "Magna",
         "id": "ce9776e5-7053-44e6-a7d6-d1d7d80f144c",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -189168,7 +189168,7 @@
         "company_name": "Autodesk",
         "id": "1b73fe84-0ab4-4e37-acef-c90f282dd825",
         "title": "Intern \u2013 Ecommerce Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -196671,7 +196671,7 @@
         "company_name": "General Motors",
         "id": "1d953ff1-85de-4bd2-97c3-2afcb9b3dac9",
         "title": "2026 Summer Intern \u2013 Research & Development: Academic Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -201295,7 +201295,7 @@
         "company_name": "Cencora",
         "id": "19b4f3c5-5650-43b7-83f8-9a9378ae889a",
         "title": "Data & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -218959,7 +218959,7 @@
         "company_name": "HNTB",
         "id": "620235d0-5fd8-4dba-a77d-17c9d3f1bd0c",
         "title": "Technology Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -224203,7 +224203,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "7507d1e9-e50f-46c7-a886-f7f73763eb60",
         "title": "Software Engineer Intern - ",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -229150,7 +229150,7 @@
         "company_name": "GlobalFoundries",
         "id": "e154b75b-2e63-4fa0-8f62-ac7103b88059",
         "title": "Associate Equipment Technician Apprenticeship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -230021,7 +230021,7 @@
         "company_name": "Altera Corporation",
         "id": "e3f49006-c224-4fbe-9b91-a64692dd22be",
         "title": "Internship - FPGA Software Design Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -243315,7 +243315,7 @@
         "company_name": "Tencent",
         "id": "033c2e1a-5207-4f1f-babd-23babb0ca49d",
         "title": "Cloud Media Services Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -244713,7 +244713,7 @@
         "company_name": "Moog ",
         "id": "dfa4eec8-ab03-42df-9659-c457720dc986",
         "title": "Intern \u2013 Product Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -246421,7 +246421,7 @@
         "company_name": "FM Global",
         "id": "75a609b8-21b5-4234-80a7-a1a9901ec71a",
         "title": "Data Visualization & Reporting",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247693,7 +247693,7 @@
         "company_name": "Motorola",
         "id": "80adef08-c3c4-45af-bd89-91974bc86dee",
         "title": "Data Analyst Intern \u2013 Summer 2026 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -248300,7 +248300,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "783d6794-2956-4b4b-8498-b770ea1cd547",
         "title": "Software Engineer Intern - Business Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -252685,7 +252685,7 @@
         "company_name": "Altera Corporation",
         "id": "4bed4681-dcb0-4a45-9755-379bcd73a25d",
         "title": "FPGA Design Verification Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -254370,7 +254370,7 @@
         "company_name": "CVS Health",
         "id": "47d07269-da73-451e-a196-fb435875c03a",
         "title": "Innotech Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
