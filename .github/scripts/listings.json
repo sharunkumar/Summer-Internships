@@ -19087,7 +19087,7 @@
         "company_name": "WorldQuant",
         "id": "1f8653cb-7f3f-401b-9f83-4af48decf575",
         "title": "Software Engineer Intern - AI/LLM Initiative",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -56283,7 +56283,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -56609,7 +56609,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -57804,7 +57804,7 @@
         "company_name": "AbbVie",
         "id": "14aa40b6-8174-4dcd-b20d-9f417ef55e0f",
         "title": "Computational Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -101956,7 +101956,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -102803,7 +102803,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "f7395054-7db5-4380-a84d-a3a91540d37c",
         "title": "Quantitative Strategy Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -103085,7 +103085,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "97094f97-0c76-42e9-bacf-3f331d041f15",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -103691,7 +103691,7 @@
         "company_name": "Shure",
         "id": "67dbe0f9-2e0a-40f0-973e-ec2714e57a07",
         "title": "Proof of Concept Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -104022,7 +104022,7 @@
         "company_name": "Shure",
         "id": "fc68af8b-c5cb-444d-bdb0-462e96d43c9b",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -104068,7 +104068,7 @@
         "company_name": "Shure",
         "id": "cceac49b-69c3-419f-b97d-5a1ed6b46e09",
         "title": "Cloud Applications Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -104163,7 +104163,7 @@
         "company_name": "Shure",
         "id": "7ab269f4-c168-4aef-affd-086940fd86c1",
         "title": "Applied Research Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -105468,7 +105468,7 @@
         "company_name": "Shure",
         "id": "bd24eda5-ecb6-497b-9a0f-e45bf2378726",
         "title": "Marketing Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -105611,7 +105611,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -105820,7 +105820,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -107165,7 +107165,7 @@
         "company_name": "W.R. Berkley",
         "id": "5e7ae581-bfe7-42e4-a462-c48a4fc56c8e",
         "title": "Quantitative Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -113464,7 +113464,7 @@
         "company_name": "TikTok",
         "id": "70ecddf1-c1e3-4dbf-ae3f-822bf987727a",
         "title": "Machine Learning Engineer Intern - BS/MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -127341,7 +127341,7 @@
         "company_name": "Shure",
         "id": "34053954-ba41-4968-9bc9-770b754f1e15",
         "title": "Audio Applied Research Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -135781,7 +135781,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -167483,7 +167483,7 @@
         "company_name": "Shure",
         "id": "13794c92-021b-4abd-b94a-2a2398e66857",
         "title": "Unified Communications Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -169335,7 +169335,7 @@
         "company_name": "Iridium Communications",
         "id": "e63a3e37-0a93-489c-91ea-1d948ed419a2",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -170706,7 +170706,7 @@
         "company_name": "Leidos",
         "id": "a93702f1-998b-48be-ae34-fe75001e200e",
         "title": "Cyber AI/ML Intern - Cyber AI - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -171344,7 +171344,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "e1add382-7d2c-4688-a42c-5c80d39ac5de",
         "title": "Corporate System AI Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171482,7 +171482,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "315215f2-cf98-4b01-85eb-14f7837c9dcd",
         "title": "Mobile Application Development Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171691,7 +171691,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "2135c037-9723-4474-b040-a13457a2bbcb",
         "title": "C++ Developer Intern - Curve Engine",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -197544,7 +197544,7 @@
         "company_name": "W.R. Berkley",
         "id": "56a70448-70c6-45fe-b9bb-d9c1678e7905",
         "title": "Data Analyst Intern - Power BI - SQL",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -208675,7 +208675,7 @@
         "company_name": "Nationwide",
         "id": "1e541ce7-ed0d-4507-815a-546d620cdf3e",
         "title": "Summer 2026 Digital Product Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -213349,7 +213349,7 @@
         "company_name": "SageSure",
         "id": "2154ffc4-2d63-459f-b641-664604379faf",
         "title": "Business Intelligence Intern - Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -216773,7 +216773,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "24845bef-dcad-4c18-a140-12ba502024c7",
         "title": "Project Data Analyst Co-op - Project Management - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -217293,7 +217293,7 @@
         "company_name": "Shure",
         "id": "d22bc9e5-af03-424d-8985-dac6e52277be",
         "title": "FPGA Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -220324,7 +220324,7 @@
         "company_name": "Yutori",
         "id": "170e92dc-443f-4b1f-ad55-a94b64a403fa",
         "title": "Intern \u2013 AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -222119,7 +222119,7 @@
         "company_name": "Sentinel Technologies",
         "id": "ed47a0ef-d38b-4641-b6c9-512c3d497b78",
         "title": "AI Intern - Enterprise Architecture - Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -225368,7 +225368,7 @@
         "company_name": "Sun Life",
         "id": "d79f84ef-592b-49b9-8028-3c57ecef0721",
         "title": "Software Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235198,7 +235198,7 @@
         "company_name": "Iridium Communications",
         "id": "4453e83a-2847-485d-b202-f4c787d99591",
         "title": "Iridium Product Management \u2013 Internship - Sales - Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -239476,7 +239476,7 @@
         "company_name": "W.R. Berkley",
         "id": "173a2af7-91f8-43bc-815b-eb93b3dd7f3a",
         "title": "Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -242571,7 +242571,7 @@
         "company_name": "Hootsuite",
         "id": "58ee1eba-6179-46c5-8d7a-37d36a6e1c42",
         "title": "Co-Op/Intern - Software Development - Winter 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -244850,7 +244850,7 @@
         "company_name": "AbbVie",
         "id": "e29df7b0-cf01-4c85-8a69-c32dfce77980",
         "title": "Computational Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -250265,7 +250265,7 @@
         "company_name": "Cisco",
         "id": "e0ae2e2d-f58f-4959-aedd-99834d332128",
         "title": "Software Engineer Embedded/Network Systems 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -250666,7 +250666,7 @@
         "company_name": "TJX",
         "id": "a46f75ea-a36b-41f6-bcc4-0c6b5effd357",
         "title": "Merchandise Operations Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -256451,6 +256451,500 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huntington Bancshares",
+        "id": "b1c8d8b0-9477-4f17-8b62-1b7de77a0906",
+        "title": "Data Science Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764122144,
+        "date_posted": 1764122144,
+        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Science---Co-Op_R0067592",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Affirm",
+        "id": "0c494f66-1d71-4451-a4fe-1a973be8af10",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764122099,
+        "date_posted": 1764122099,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/7528020003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "8b8f84c8-f4b9-47a2-b067-456d21d5b757",
+        "title": "PhD Software Engineer - Threat Detection",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764123958,
+        "date_posted": 1764123958,
+        "url": "https://university-uber.icims.com/jobs/151453/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uber",
+        "id": "3ec0379a-b694-427e-af93-7e50a5f1529e",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764123964,
+        "date_posted": 1764123964,
+        "url": "https://university-uber.icims.com/jobs/151500/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uber",
+        "id": "2f3fef49-17d9-4f62-83fb-169f97b1ca42",
+        "title": "PhD Applied Scientist Intern - Core Services Science Staff - United States",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764123966,
+        "date_posted": 1764123966,
+        "url": "https://university-uber.icims.com/jobs/151463/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wisk",
+        "id": "8b7e8591-e91b-4938-9be3-4332c3994b9a",
+        "title": "Autonomy Simulation Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1764123630,
+        "date_posted": 1764123630,
+        "url": "https://wisk.wd108.myworkdayjobs.com/Wisk_Careers/job/Mountain-View-CA/Autonomy-Simulation-Software-Engineering-Intern_JR100375",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wisk-Aero",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Seagate Technology ",
+        "id": "bb53fd16-d39b-4663-b7ed-a4a04eb95959",
+        "title": "Intern Advanced Data Storage Micromagnetic Modeler",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1764123492,
+        "date_posted": 1764123492,
+        "url": "https://seagatecareers.com/job/Bloomington-Intern-Advanced-Data-Storage-Micromagnetic-Modeler-MN/1345598700/?ats=successfactors",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Seagate-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Advantmed",
+        "id": "5319db05-a9a1-4e32-b8ac-a40c4253ae28",
+        "title": "AI Automation Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764123456,
+        "date_posted": 1764123456,
+        "url": "https://apply.workable.com/advantmed/j/45F5E3C394/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Advantmed",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Seagate Technology ",
+        "id": "28c9ab4c-4bd4-4fd6-bf45-f456a0c246da",
+        "title": "Firmware/Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764123490,
+        "date_posted": 1764123490,
+        "url": "https://seagatecareers.com/job/Shakopee-FirmwareSoftware-Internship-Summer-2026-MN/1345559200/?ats=successfactors",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Seagate-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Seagate Technology ",
+        "id": "2167182e-6e6a-470d-aee3-8551a3af967d",
+        "title": "Intern Ferroelectric Data Storage Modeling",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1764123494,
+        "date_posted": 1764123494,
+        "url": "https://seagatecareers.com/job/Bloomington-Intern-Ferroelectric-Data-Storage-Modeling-MN/1345597100/?ats=successfactors",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Seagate-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "5e15d3cc-d77a-4b8c-81eb-c812e2251af6",
+        "title": "Transportation Modeler Intern 3",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1764126160,
+        "date_posted": 1764126160,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Transportation-Modeler-Intern-III_R-00170998",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uber",
+        "id": "c88fab34-9ef4-4230-b01e-e2bcf5bfc701",
+        "title": "PhD Applied Scientist Intern - Trusted Identity",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764123967,
+        "date_posted": 1764123967,
+        "url": "https://university-uber.icims.com/jobs/151272/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uber",
+        "id": "c1a0fac9-cbd4-4aaf-b1e1-842dc3bab0a3",
+        "title": "PhD Applied Scientist Intern - Road Safety",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764124433,
+        "date_posted": 1764124433,
+        "url": "https://www.uber.com/global/en/careers/list/151265/",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uber",
+        "id": "d65992d9-db2f-43c1-8bd0-489b3b646692",
+        "title": "2026 PhD Applied Scientist Intern - Trusted Identity - United States",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764124313,
+        "date_posted": 1764124313,
+        "url": "https://www.uber.com/global/en/careers/list/151272/",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GM financial",
+        "id": "a45700d8-5b2b-4262-9171-ecd191f00b7f",
+        "title": "Intern Oracle Application Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764124058,
+        "date_posted": 1764124058,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1343",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uber",
+        "id": "7a2ae695-21b0-4365-8760-02fbb7ebe5a6",
+        "title": "PhD Applied Scientist Intern - Core Services Science Staff",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764124312,
+        "date_posted": 1764124312,
+        "url": "https://www.uber.com/global/en/careers/list/151463/",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "32abd191-c4c5-41a4-8fb9-d8518681851b",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764123952,
+        "date_posted": 1764123952,
+        "url": "https://careers-gdms.icims.com/jobs/68793/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uber",
+        "id": "18ef7e29-3019-4c54-8ad3-69097f89dc59",
+        "title": "PhD Applied Scientist Intern - Road Safety",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764123968,
+        "date_posted": 1764123968,
+        "url": "https://university-uber.icims.com/jobs/151265/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uber",
+        "id": "e714a588-6eed-4df7-9894-28a9242b74cf",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764124417,
+        "date_posted": 1764124417,
+        "url": "https://www.uber.com/global/en/careers/list/151500/",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "ba6fe976-8e68-443d-ad75-018e90d4d237",
+        "title": "Software Engineering Intern or Placement",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764124304,
+        "date_posted": 1764124304,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern_R028780",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Daimler Truck",
+        "id": "9c911133-719d-4ec1-8050-20cc84ebca96",
+        "title": "Engineering Quality \u2013 And Compliance Intern - Safety",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764124176,
+        "date_posted": 1764124176,
+        "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Engineering-Quality--Safety--and-Compliance-Intern_DT-16143",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Daimler-Truck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "92700275-65f7-466c-b34f-c5adda63b219",
+        "title": "PhD Software Engineer Intern - Threat Detection",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764124378,
+        "date_posted": 1764124378,
+        "url": "https://www.uber.com/global/en/careers/list/151453/",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "NVIDIA",
+        "id": "8d212191-0046-4565-b5b3-0ba39de31d55",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764126644,
+        "date_posted": 1764126644,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Intern--Enterprise-Products---Summer-2026_JR2006857",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
