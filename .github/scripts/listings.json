@@ -134,122 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "BorgWarner",
-        "id": "d27e6985-bf5e-45d2-995f-7371a9b1e696",
-        "title": "Application Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743490324,
-        "date_posted": 1743490324,
-        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Application-Engineering-Intern_R2025-1206",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/BorgWarner",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "BorgWarner",
-        "id": "10797d44-c156-4006-b1b1-0d6afd96383f",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743493173,
-        "date_posted": 1743493173,
-        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Engineering-Intern_R2025-1323",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/BorgWarner",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Breeze Airways",
-        "id": "0a176a9e-ae51-4bfb-a719-b4a57d746b0e",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743496741,
-        "date_posted": 1743496741,
-        "url": "https://job-boards.greenhouse.io/breezeairways/jobs/6527297003",
-        "locations": [
-            "Cottonwood Heights, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Breeze-Airways",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ByteDance",
-        "id": "bfe97f73-216e-4b8d-a785-62fab861786e",
-        "title": "Data Scientist Intern - Traffic Infrastructure Global Engineering - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1743500318,
-        "date_posted": 1743500318,
-        "url": "https://jobs.bytedance.com/en/position/7486769660169521426/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ByteDance",
-        "id": "f81dc911-8ec1-4099-ad9c-b6388b9c55b1",
-        "title": "Data Scientist Intern - Traffic Infrastructure Global Engineering - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1743500317,
-        "date_posted": 1743500317,
-        "url": "https://jobs.bytedance.com/en/position/7486768996210804999/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "932a74db-f8f8-4e8d-865f-d0b31f5023ec",
-        "title": "Compiler Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743501153,
-        "date_posted": 1743501153,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-TX-Austin/Compiler-Software-Engineer-Intern---Summer-2025_JR1990442",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Royal Bank of Canada",
         "id": "55beeef2-04ea-41fd-beb5-d3c87a94a2c8",
         "title": "Relationship Manager Commercial Markets Intern",
@@ -38133,7 +38017,7 @@
         "company_name": "TikTok",
         "id": "c2354808-a208-464b-bbb1-77dafd02c4d7",
         "title": "Software Engineer Intern - Recommendation Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -52945,7 +52829,7 @@
         "company_name": "Johnson & Johnson",
         "id": "c8b989a3-4021-4c2b-9251-971f46e60e4f",
         "title": "Technology Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -116036,7 +115920,7 @@
         "company_name": "Barclays",
         "id": "9c6ac9bb-e220-442a-8092-774101c0ce17",
         "title": "Retail Banking Data & Analytics Analyst Summer Internship Programme 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -141485,7 +141369,7 @@
         "company_name": "Symphony",
         "id": "c7e53538-2dfa-4ff1-a6d1-dda3d6d61edb",
         "title": "Intern \u2013 Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -148003,7 +147887,7 @@
         "company_name": "State Street",
         "id": "deeb2873-d20a-4465-9651-e572ac0938be",
         "title": "AI Enablement Engineer \u2013 Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Summer 2026"
@@ -159666,7 +159550,7 @@
         "company_name": "Electronic Arts",
         "id": "26e68ae4-38b9-4eb2-94fa-a589a2a73c39",
         "title": "Software Engineer Intern - Sports Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -159713,7 +159597,7 @@
         "company_name": "Lumen Technologies",
         "id": "3f45aca7-cb1c-41f5-9296-051efc2a4d77",
         "title": "Intern \u2013 Product Management - Vyvx Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -160346,7 +160230,7 @@
         "company_name": "CenturyLink",
         "id": "201fcd09-1eaa-415f-892d-f51fe021bf1e",
         "title": "Intern \u2013 Product Management - Vyvx Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -179963,7 +179847,7 @@
         "company_name": "Microsoft",
         "id": "b987a34f-560c-4839-a803-2fdac873f04e",
         "title": "Applied Scientist Intern: Audio Visual Question Answering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -180107,7 +179991,7 @@
         "company_name": "Franklin Templeton",
         "id": "21036ea0-1740-44f2-98fd-58b79f81c01c",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199703,7 +199587,7 @@
         "company_name": "Ciena",
         "id": "c708864e-f6a3-441a-86bf-a233681f12a3",
         "title": "THW Client Co-op - Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -210989,7 +210873,7 @@
         "company_name": "Microsoft",
         "id": "ccfe4f18-fdb4-4671-8fd6-9f3cb091b9be",
         "title": "Applied Scientist Intern - CMD Labs - Multimodal Conversational AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -254561,7 +254445,7 @@
         "company_name": "RTX",
         "id": "c7d2b5cb-337d-41c9-8afa-3f5c085d32f6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257942,6 +257826,27 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Raymond-James-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "5fa57ac0-28c3-4ab9-ac11-5d269e14e9ac",
+        "title": "Formal Verification Framework for Hardware Ips Validation Internship",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764235603,
+        "date_posted": 1763514397,
+        "url": "https://jobs.apple.com/en-us/details/200622734",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
