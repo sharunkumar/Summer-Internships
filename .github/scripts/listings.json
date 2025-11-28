@@ -6587,26 +6587,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "ByteDance",
-        "id": "84fcc1e1-63e7-43d5-bb09-ec32f47cb72d",
-        "title": "Software Engineer Intern - Traffic Infrastructure Global Engineering-CDN - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1745307759,
-        "date_posted": 1743602884,
-        "url": "https://jobs.bytedance.com/en/position/7486744167625656583/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Soda Health",
         "id": "ddec5b8e-4633-41ae-a875-8a82f896d0f7",
         "title": "Undergraduate Internship",
@@ -36718,7 +36698,7 @@
         "company_name": "GE Vernova",
         "id": "376e0186-7335-4062-a867-ed14c6d78206",
         "title": "GE Vernova Engineering Intern Artificial Intelligence Tool Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Winter 2026"
@@ -77424,7 +77404,7 @@
         "company_name": "ServiceNow",
         "id": "cf902aea-acc6-4735-8bff-bb131ab95cf2",
         "title": "UTG \u2013 Software Engineer Internships",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -80666,7 +80646,7 @@
         "company_name": "ServiceNow",
         "id": "7cdae68b-b8d2-4dd5-855d-29fd1834be33",
         "title": "UTG \u2013 Software Engineer Internships",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -128594,7 +128574,7 @@
         "company_name": "ServiceNow",
         "id": "2220cfaf-ccfc-4a96-b5af-52253e3f3e9e",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -139678,7 +139658,7 @@
         "company_name": "ServiceNow",
         "id": "a7ac75d1-b271-4c0e-b675-75657a5622bc",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -179241,7 +179221,7 @@
         "company_name": "Visa",
         "id": "baa365d9-2904-4692-ae25-ffdb70fa36d1",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -180909,7 +180889,7 @@
         "company_name": "Amazon",
         "id": "fa79da94-8759-4ad4-abc6-f406e483d90d",
         "title": "Software Eng Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2027"
@@ -208749,7 +208729,7 @@
         "company_name": "TheGuarantors",
         "id": "82831ab2-9a80-4c9f-9f85-3805f95e49a4",
         "title": "Software Engineering Intern - Transactional Communications Platform - TypeScript, Go",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -221914,7 +221894,7 @@
         "company_name": "Visa",
         "id": "2d81c7c5-7ee3-4946-839a-7cfabe385033",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -222592,7 +222572,7 @@
         "company_name": "LinkedIn",
         "id": "4145fa34-a3e7-4c03-94ca-76d6d02e4386",
         "title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235913,7 +235893,7 @@
         "company_name": "Flagship Pioneering",
         "id": "7cf5d340-56c8-4d51-a443-8a0a78c95775",
         "title": "Pioneering Intelligence ML Co-Op - Agentic AI Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -242368,7 +242348,7 @@
         "company_name": "Veolia",
         "id": "ff94c346-0be5-4afa-80a3-d5d3c9695860",
         "title": "Engineering/Instrumentation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -246706,7 +246686,7 @@
         "company_name": "LinkedIn",
         "id": "fa7e7c93-38f2-4017-b3c5-f46831cd229b",
         "title": "AI/ML Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -247939,7 +247919,7 @@
         "company_name": "Veolia",
         "id": "b9591b92-d3a7-49b4-a30a-4a7a7e81a8ad",
         "title": "Engineering Instrumentation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -258254,5 +258234,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1764346884,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a",
+        "company_name": "Mercor",
+        "title": "Data Science Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "5c5c4c46-e9d5-4a1b-9fef-0e4d36cbc982",
+        "date_posted": 1764346884,
+        "company_url": "",
+        "is_visible": true
     }
 ]
