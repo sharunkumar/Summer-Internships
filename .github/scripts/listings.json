@@ -178779,7 +178779,7 @@
         "company_name": "Visa",
         "id": "baa365d9-2904-4692-ae25-ffdb70fa36d1",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -221452,7 +221452,7 @@
         "company_name": "Visa",
         "id": "2d81c7c5-7ee3-4946-839a-7cfabe385033",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
