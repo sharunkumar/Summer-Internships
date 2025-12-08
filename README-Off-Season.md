@@ -1335,14 +1335,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>C3Aero</strong></td>
-<td>Software Engineering Intern</td>
-<td>Burlington, MA</td>
-<td>Spring 2026</td>
-<td><div align="center"><a href="https://c3aerollc.applytojob.com/apply/pi96dx7tgr/Software-Engineering-Intern-Spring-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/69294789-5f57-4dc0-936b-8560c48bf405?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
 <td>R&D Software Engineer Intern</td>
 <td>Santa Clara, CA</td>
@@ -1555,7 +1547,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (57)</summary>
+<summary>🗃️ Inactive roles (55)</summary>
 
 <table>
 <thead>
@@ -1653,22 +1645,6 @@
 <td><strong><a href="https://simplify.jobs/c/Midmark?utm_source=GHList&utm_medium=company">Midmark </a></strong></td>
 <td>IT Software Development Co-Op</td>
 <td>Vandalia, OH</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
-<td>Software Engineering Intern</td>
-<td>Dedham, MA</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/WR-Berkley?utm_source=GHList&utm_medium=company">W.R. Berkley</a></strong></td>
-<td>Intern – Software Developer - Reactjs</td>
-<td>Grimes, IA</td>
 <td>Spring 2026</td>
 <td>🔒</td>
 <td>2mo</td>
@@ -3739,6 +3715,22 @@
 <td>26d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
+<td>Human Factors Research Intern</td>
+<td>Arlington, VA</br>San Diego, CA</td>
+<td>Winter 2025</td>
+<td><div align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Human-Factors-Research-Intern_R-00170127-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/56cf7ad2-73ae-47b1-8c2e-07ebf1ad2c2f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/e9018a18-f399-4722-9811-7b6136d4a44b?utm_source=GHList&utm_medium=company">DataRobot</a></strong></td>
+<td>AI Researcher Intern</td>
+<td>Boston, MA</br>Washington</br>SF</td>
+<td>Winter 2025</td>
+<td><div align="center"><a href="https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/AI-Researcher-Intern_R-102505-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bd96cfe7-c73e-48e6-a3c8-ec2609343d26?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Metropolitan-Transportation-Authority?utm_source=GHList&utm_medium=company">Metropolitan Transportation Authority</a></strong></td>
 <td>Data Analyst – Emerging Talent Intern - Power</td>
 <td>NYC</td>
@@ -4347,7 +4339,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Cloudflare?utm_source=GHList&utm_medium=company">Cloudflare</a></strong></td>
 <td>Research Engineer Intern - Spring/Jan 2026</td>
 <td>London, UK</td>
 <td>Winter 2026</td>
@@ -4670,26 +4662,10 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Lloyds-Bank?utm_source=GHList&utm_medium=company">Lloyds Bank</a></strong></td>
-<td>Data Apprentice - Edinburgh</td>
-<td>Edinburgh, UK</td>
-<td>Fall 2026</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
 <td>Solutions Architecture Intern - PhD 🎓</td>
 <td>Santa Clara, CA</td>
 <td>Winter 2025</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/American-Enterprise-Institute?utm_source=GHList&utm_medium=company">American Enterprise Institute</a></strong></td>
-<td>Spring Intern: Data Analysis and Education Policy</td>
-<td>Washington, DC</td>
-<td>Winter 2026</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -4734,6 +4710,14 @@
 <td>2mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/SRI-International?utm_source=GHList&utm_medium=company">SRI International</a></strong></td>
+<td>Intern – Computational and Applied Mathematics</td>
+<td>Menlo Park, CA</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Ramboll?utm_source=GHList&utm_medium=company">Ramboll</a></strong></td>
 <td>Intern – Air Quality Modeler - </td>
 <td>Fort Collins, CO</td>
@@ -4754,14 +4738,6 @@
 <td>Technical Advisor Intern - GenAI</td>
 <td>SF</td>
 <td>Winter 2026, Spring 2026</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Blackhawk-Network-Holdings?utm_source=GHList&utm_medium=company">Blackhawk Network Holdings</a></strong></td>
-<td>Technology Intern</td>
-<td>Coppell, TX</td>
-<td>Winter 2025</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -4798,9 +4774,25 @@
 <td>2mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Centerline-Communications?utm_source=GHList&utm_medium=company">Centerline Communications</a></strong></td>
+<td>GIS Intern</td>
+<td>Remote in USA</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Endeavor-Air?utm_source=GHList&utm_medium=company">Endeavor Air</a></strong></td>
 <td>Safety Intern</td>
 <td>Minneapolis, MN</td>
+<td>Winter 2025</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Apogee-Engineering?utm_source=GHList&utm_medium=company">Apogee Engineering</a></strong></td>
+<td>Technical Intelligence Analyst – Apprentice</td>
+<td>Wright-Patterson AFB, OH</td>
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>2mo</td>
@@ -5562,7 +5554,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (9)</summary>
+<summary>🗃️ Inactive roles (8)</summary>
 
 <table>
 <thead>
@@ -5576,14 +5568,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
-<td>Trading Operations Co-op with Drexel University: Spring/Summer a Round</td>
-<td>Ardmore, PA</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Goldman-Sachs?utm_source=GHList&utm_medium=company">Goldman Sachs</a></strong></td>
 <td>2026 – Apprentice Programme - London - FICC & Equities - Sales & Trading</td>
@@ -6957,7 +6941,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (41)</summary>
+<summary>🗃️ Inactive roles (39)</summary>
 
 <table>
 <thead>
@@ -7076,14 +7060,6 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Rambus?utm_source=GHList&utm_medium=company">Rambus</a></strong></td>
-<td>Test Engineering Intern</td>
-<td>San Jose, CA</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Astranis?utm_source=GHList&utm_medium=company">Astranis</a></strong></td>
 <td>Embedded Software Developer – Network/Payload Software Intern</td>
 <td>SF</td>
@@ -7096,14 +7072,6 @@
 <td>Application Engineer Intern</td>
 <td>Rhode Island</td>
 <td>Spring 2026</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Legrand-NA?utm_source=GHList&utm_medium=company">Legrand NA</a></strong></td>
-<td>Firmware Intern</td>
-<td>Carlsbad, CA</td>
-<td>Winter 2025</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
