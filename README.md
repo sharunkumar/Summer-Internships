@@ -1488,7 +1488,7 @@
 <td>Technology & Innovation Organization Hardware Engineering Internship</td>
 <td>Corvallis, OR</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company">Hewlett Packard (HP)</a></strong></td>
