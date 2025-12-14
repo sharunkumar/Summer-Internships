@@ -3813,26 +3813,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Altera Corporation",
-        "id": "42d5fc20-b8e7-4344-a14f-b53c6580674f",
-        "title": "FPGA Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744990044,
-        "date_posted": 1744990044,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose/FPGA-Engineering-Intern_R00687-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "American Axle & Manufacturing",
         "id": "bc2254ff-ea70-46b6-a78b-e0dc49f19a69",
@@ -82704,7 +82684,7 @@
     {
         "date_updated": 1757402802,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -129538,7 +129518,7 @@
         "company_name": "RESPEC",
         "id": "7e3150d2-3408-4a2a-8c6f-7634903812d8",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251332,7 +251312,7 @@
         "company_name": "OmniSource",
         "id": "86e5ce14-6ff8-4733-97d2-3d675a9dc466",
         "title": "Environmental Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266352,7 +266332,7 @@
         "company_name": "Snap",
         "id": "735f1ca7-e90b-49cc-b1c3-bff5f2b26e93",
         "title": "Game Engine Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
