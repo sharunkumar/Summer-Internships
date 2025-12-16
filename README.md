@@ -832,7 +832,7 @@
 <td>Summer – Data Analyst Intern</td>
 <td>Austin, TX</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong>Blizzard</strong></td>
