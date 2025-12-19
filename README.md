@@ -1040,7 +1040,7 @@
 <td>Electronics Hardware Design Intern</td>
 <td>Kokomo, IN</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company">BorgWarner</a></strong></td>
