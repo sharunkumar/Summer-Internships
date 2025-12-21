@@ -134,42 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Gen",
-        "id": "4581d416-f939-416f-894e-36c52c948062",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1745596781,
-        "date_posted": 1745596781,
-        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Software-Development-Intern_54250-1",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Gen",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Flock Safety",
-        "id": "03065df9-d376-4664-b12b-ed2cca97526c",
-        "title": "Software Engineer \u2013 Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1745604319,
-        "date_posted": 1745604319,
-        "url": "https://jobs.ashbyhq.com/Flock%20Safety/e134f9b9-4546-42f8-9872-b5220a52947d/application",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/FlockSafety",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cigna Group",
         "id": "146ebfa5-7b5d-4562-981a-0367e0d2c008",
         "title": "Software Engineering/Data Analytics Intern - Evernorth",
@@ -1826,26 +1790,6 @@
             "Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lennox International",
-        "id": "592d267a-5a89-4c50-87c8-2eb8c3e22087",
-        "title": "Hardware Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1745602898,
-        "date_posted": 1745602898,
-        "url": "https://uscareers-lennox.icims.com/jobs/48568/job",
-        "locations": [
-            "Farmers Branch, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Lennox-International",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -75809,7 +75753,7 @@
         "company_name": "Solidigm",
         "id": "7e37923b-7955-4fe4-91f6-d5a8b32eca2d",
         "title": "2026 Undergrad Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -123377,7 +123321,7 @@
         "company_name": "Eaton Corporation",
         "id": "e82053d1-0d5c-4990-8306-6ef92e775941",
         "title": "Firmware Engineer Intern/Co-op - Research & Development Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -126550,7 +126494,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -127556,7 +127500,7 @@
         "company_name": "RESPEC",
         "id": "7e3150d2-3408-4a2a-8c6f-7634903812d8",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131997,7 +131941,7 @@
         "company_name": "RESPEC",
         "id": "1168a44b-3215-4f61-b484-7f14838fd4ca",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -160200,7 +160144,7 @@
         "company_name": "Iridium Communications",
         "id": "23de8143-2060-483b-9d4c-6f912604bfd2",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173711,7 +173655,7 @@
         "company_name": "Solidigm",
         "id": "107bfc32-911d-4af7-864d-280513dbd04d",
         "title": "Undergraduate Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -209332,7 +209276,7 @@
         "company_name": "Zebra Technologies",
         "id": "449ca7f0-bfbd-4fd4-9114-01901860e911",
         "title": "Summer Internship 2026 - RFID Software Product Management - Corporate and Business Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -228531,7 +228475,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
-        "id": "0ed6cb36-9c49-457e-987a-0bd0bf11e256",
+        "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
@@ -281466,7 +281410,7 @@
         "company_name": "AbbVie",
         "id": "870275a4-82c3-4c7f-9408-9ae5ff501343",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
