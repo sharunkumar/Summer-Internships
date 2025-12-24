@@ -892,6 +892,34 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Roche?utm_source=GHList&utm_medium=company">Roche</a></strong></td>
+<td>Intern - Systems Engineer - Systems & Hardware Engineering Chapter</td>
+<td>Tucson, AZ</td>
+<td><div align="center"><a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2026-Summer-Intern---Systems-Engineer---Systems---Hardware-Engineering-Chapter_202512-132267-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/38c91d95-996b-405f-aa24-f6d2546c8f5f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Geotab?utm_source=GHList&utm_medium=company">Geotab</a></strong></td>
+<td>Embedded Developer Intern - Test Automation</td>
+<td>Oakville, ON, Canada</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5014291008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4e342774-d656-461c-9c4e-aa6993bf0a95?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
+<td>VLSI Design Automation Intern - Applied AI</td>
+<td>Santa Clara, CA</td>
+<td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Design-Automation-Intern--Applied-AI---Summer-2026_JR2010572?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/da0549e8-661f-4b9d-ace2-d2fb292c16b2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Electrical Engineer Co-Op - Test & Validation</td>
+<td>Rockford, IL</td>
+<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/A01-Rockford---Aerospace-4747-Harrison-Avenue-Rockford-IL-61125-USA/Electrical--Test---Validation--Engineer-Co-Op--Summer---Fall-2026--Onsite-_01808633?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/073bc550-abc5-4287-a1d3-a3d7ce1f7184?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Lucid-Motors?utm_source=GHList&utm_medium=company">Lucid Motors</a></strong></td>
 <td>Intern – Audio Algorithm and Signal Processing Software Engineer</td>
 <td>Newark, CA</td>
