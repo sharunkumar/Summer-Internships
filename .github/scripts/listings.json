@@ -134,24 +134,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Trimble",
-        "id": "197f4497-4f43-41a8-aa6c-65ae359b6f82",
-        "title": "Component Engineering Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1746203781,
-        "date_posted": 1746203781,
-        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/Component-Engineering-Intern_R49774",
-        "locations": [
-            "Dayton, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Trimble",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Splunk",
         "id": "9007b196-a92a-4037-b7a0-fdeb373b1fd2",
@@ -167,24 +149,6 @@
             "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/Splunk",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Fifth Third Bank",
-        "id": "93cefd40-6de7-4f3c-8a9e-68f3a052c081",
-        "title": "2026 Capital Markets Fixed Income \u2013 Currencies and Commodities Sales & Trading internship",
-        "active": false,
-        "terms": [],
-        "date_updated": 1746204673,
-        "date_posted": 1746204673,
-        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/XMLNAME-2026-Capital-Markets-Fixed-Income--Currencies-and-Commodities-Sales---Trading-internship---Cincinnati_R58281",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -4132,27 +4096,6 @@
         "date_posted": 1747281975,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Alice L. Walton School of Medicine",
-        "id": "f99b5cdc-c1a6-49b7-a1fc-9d8fbbb6b2b9",
-        "title": "Education Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1747314651,
-        "date_posted": 1746206334,
-        "url": "https://awe.wd1.myworkdayjobs.com/art_and_wellness/job/Bentonville-AR/XMLNAME-2025-Education-Data-Analyst--Fall_JR1635-2",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Alice-L-Walton-School-Of-Medicine",
-        "is_visible": true,
-        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -123593,7 +123536,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "cd1eeddf-de6b-42cb-93a8-e468e9b5f219",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -125631,7 +125574,7 @@
         "company_name": "RESPEC",
         "id": "7e3150d2-3408-4a2a-8c6f-7634903812d8",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -240308,7 +240251,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "f5fa5008-5492-4008-ab41-c793fb26dc3c",
         "title": "Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -281784,7 +281727,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Robert Bosch Venture Capital",
-        "id": "9f0f67e3-fa5c-4310-9862-3510999ec378",
+        "id": "a3e064cb-e293-4915-86b3-dbca1858d0c4",
         "title": "Security Research Intern",
         "active": true,
         "terms": [
