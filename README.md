@@ -26,7 +26,7 @@
 <td>Motion Planning Engineer – Intern/Full-time - PhD 🎓</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/didi/jobs/7495381?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d0c0efe1-7d9a-4ada-bc04-6c93b30ca1e7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Carnegie-Mellon-University?utm_source=GHList&utm_medium=company">Carnegie Mellon University</a></strong></td>
@@ -68,7 +68,7 @@
 <td>Engineering Intern - Software/App Development</td>
 <td>Bedford, IN</br>Huntsville, AL</td>
 <td><div align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Crane-IN/Engineering-Intern---Software-App-Development_R-00171143?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3c96a5cd-c775-40fc-8159-03653299ccc3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
@@ -387,7 +387,7 @@
 <td>Graduate Intern Geospatial Data Science Modeling and Analysis</td>
 <td>Golden, CO</td>
 <td><div align="center"><a href="https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14104?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e2c8c879-02e0-4bbd-8035-80b68d19bb5d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bosch?utm_source=GHList&utm_medium=company">Robert Bosch Venture Capital</a></strong></td>
@@ -443,20 +443,27 @@
 <td>2025 – Previous Intern - 2026 Earth Scientist Full Time</td>
 <td>Houston, TX</br>Covington, LA</td>
 <td><div align="center"><a href="https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2025-2026-Earth-Scientist-Full-Time--Previous-Intern-_R000064559?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a5c0ed89-39c2-430e-b4d4-52d42301aac6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Earth Science Intern</td>
 <td>Houston, TX</td>
 <td><div align="center"><a href="https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2025-2026-Earth-Science-Intern_R000064568?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/67edabcd-aab9-4cce-8a49-f6b219d06781?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Mohawk?utm_source=GHList&utm_medium=company">Mohawk</a></strong></td>
 <td>Data Analytics Intern - Summer 2025</td>
 <td>Georgia</td>
 <td><div align="center"><a href="https://careers.mohawkind.com/job/Data-Analytics-Intern-Summer-2025-Geor/1342061900/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1d996aa6-f7da-4f3b-bd42-bd3ac52e7339?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/SAS?utm_source=GHList&utm_medium=company">SAS</a></strong></td>
+<td>Summer 2025-System Architect Intern - Master's 🎓</td>
+<td>Morrisville, NC</td>
+<td><div align="center"><a href="https://careers-sas.icims.com/jobs/40664/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/878e5db2-ee3a-4779-b74e-0f88dc9f01d2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -471,7 +478,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (33)</summary>
+<summary>🗃️ Inactive roles (34)</summary>
 
 <table>
 <thead>
@@ -558,6 +565,13 @@
 <td><strong><a href="https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company">BorgWarner</a></strong></td>
 <td>Data Science Intern - Supply Chain BOM Analytics</td>
 <td>Kokomo, IN</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cook-Group?utm_source=GHList&utm_medium=company">Cook Group</a></strong></td>
+<td>Intern – Artificial Intelligence & Innovation</td>
+<td>Bloomington, IN</td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
@@ -910,7 +924,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (10)</summary>
+<summary>🗃️ Inactive roles (11)</summary>
 
 <table>
 <thead>
@@ -943,6 +957,13 @@
 <td>Carson, CA</td>
 <td>🔒</td>
 <td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Rambus?utm_source=GHList&utm_medium=company">Rambus</a></strong></td>
+<td>Silicon IP Field Application Engineer Intern - Field Application Engineering</td>
+<td>San Jose, CA</td>
+<td>🔒</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company">BorgWarner</a></strong></td>
