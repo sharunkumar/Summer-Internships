@@ -47,14 +47,14 @@
 <td>Product Engineering – Co-op Positions</td>
 <td>Columbus, IN</td>
 <td><div align="center"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422771?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b7eb49fc-8c04-4d8a-8779-54b86f0f0e9d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Istari-Digital?utm_source=GHList&utm_medium=company">Istari Digital</a></strong></td>
 <td>Istari Intern</td>
 <td>Arlington, VA</td>
 <td><div align="center"><a href="https://jobs.lever.co/istaridigital.ai/070735ac-d504-477b-b6e3-ccfa26611ff3/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/350d405a-0188-4d79-8694-9747925574f5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">Amazon</a></strong></td>
@@ -84,19 +84,12 @@
 <td><div align="center"><a href="https://boards.greenhouse.io/braze/jobs/7383721?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/04521f8b-7f50-45a3-8d59-cbd260fd84b7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694?utm_source=GHList&utm_medium=company">Regal Rexnord</a></strong></td>
-<td>Engineering Intern</td>
-<td>West Chester, PA</br>Columbia City, IN</br>Downers Grove, IL</br>Milwaukee, WI</br>West Lafayette, IN</br>Simsbury, CT</br>Radford, VA</br>Simi Valley, CA</td>
-<td><div align="center"><a href="https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Simi-Valley-California-United-States/Engineering-Internship_R25_05074-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a5ff48bd-f602-444e-b6d3-7a2af7f689ed?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 </tbody>
 </table>
 
 
 <details>
-<summary>🗃️ Inactive roles (21)</summary>
+<summary>🗃️ Inactive roles (22)</summary>
 
 <table>
 <thead>
@@ -109,6 +102,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694?utm_source=GHList&utm_medium=company">Regal Rexnord</a></strong></td>
+<td>Engineering Intern</td>
+<td>West Chester, PA</br>Columbia City, IN</br>Downers Grove, IL</br>Milwaukee, WI</br>West Lafayette, IN</br>Simsbury, CT</br>Radford, VA</br>Simi Valley, CA</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bloom-Energy?utm_source=GHList&utm_medium=company">Bloom Energy</a></strong></td>
 <td>Remote Monitoring Control Center Software Engineering Intern - Remote Monitoring Control Center</td>
@@ -429,7 +429,7 @@
 <td>Data Science Intern</td>
 <td>Sunnyvale, CA</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000097144258?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8115eff0-f296-4ad9-98ae-c0003df21639?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ElementBiosciences?utm_source=GHList&utm_medium=company">Element Biosciences</a></strong></td>
@@ -464,7 +464,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (36)</summary>
+<summary>🗃️ Inactive roles (35)</summary>
 
 <table>
 <thead>
@@ -569,13 +569,6 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Cook-Group?utm_source=GHList&utm_medium=company">Cook Group</a></strong></td>
-<td>Intern – Artificial Intelligence & Innovation</td>
-<td>Bloomington, IN</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/STR?utm_source=GHList&utm_medium=company">STR</a></strong></td>
 <td>Intelligence Summer Internship</td>
 <td>Arlington, VA</td>
@@ -643,7 +636,7 @@
 <td>Business Insights & Analytics Leadership Development Program – Geospatial Intern - BI&a Ldp</td>
 <td>Hartford, CT</br>St Paul, MN</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Integra-FEC?utm_source=GHList&utm_medium=company">Integra FEC</a></strong></td>
@@ -741,6 +734,9 @@
 
 [Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
+<details>
+<summary>🗃️ Inactive roles (12)</summary>
+
 <table>
 <thead>
 <tr>
@@ -756,27 +752,9 @@
 <td><strong><a href="https://simplify.jobs/c/Prologis?utm_source=GHList&utm_medium=company">Prologis</a></strong></td>
 <td>Intern – Investment Analyst Program</td>
 <td>SF</td>
-<td><div align="center"><a href="https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/San-Francisco-California/Intern--Investment-Analyst-Program_R6196?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/78686b7d-453e-4f49-9b9a-e8c4731ab1c9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
+<td>🔒</td>
+<td>2mo</td>
 </tr>
-</tbody>
-</table>
-
-
-<details>
-<summary>🗃️ Inactive roles (11)</summary>
-
-<table>
-<thead>
-<tr>
-<th>Company</th>
-<th>Role</th>
-<th>Location</th>
-<th>Application</th>
-<th>Age</th>
-</tr>
-</thead>
-<tbody>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Point72?utm_source=GHList&utm_medium=company">Point72</a></strong></td>
 <td>Quantitative Developer Intern - Multiple Teams</td>
