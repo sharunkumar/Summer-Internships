@@ -135,26 +135,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Ontario Teachers' Pension Plan",
-        "id": "dc51aba2-9c06-433b-bf1a-9d879d0c9c41",
-        "title": "Intern \u2013 Product Engineering",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1746430574,
-        "date_posted": 1746430574,
-        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product-Engineering--September-2025---12-months-_6385",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "PDI Technologies",
         "id": "1ba09c06-0983-44d5-abd3-6aeef80895cf",
         "title": "Software Engineer Intern",
@@ -89524,7 +89504,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "87fc97ec-ca87-43df-a38a-d186466d89ef",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -92434,7 +92414,7 @@
         "company_name": "Shure",
         "id": "cceac49b-69c3-419f-b97d-5a1ed6b46e09",
         "title": "Cloud Applications Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -94139,7 +94119,7 @@
         "company_name": "Cotiviti",
         "id": "9892e214-ccb9-43f4-8016-f9cf87c0de55",
         "title": "Intern \u2013 Generative AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -115707,7 +115687,7 @@
         "company_name": "Shure",
         "id": "34053954-ba41-4968-9bc9-770b754f1e15",
         "title": "Audio Applied Research Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -147705,7 +147685,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -152132,7 +152112,7 @@
         "company_name": "Barclays",
         "id": "22667ddc-4015-42a7-b2a4-19275eb9bb16",
         "title": "Sales - Trading and Structuring Summer Internship Programme 2026 - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -157701,7 +157681,7 @@
         "company_name": "Iridium Communications",
         "id": "e63a3e37-0a93-489c-91ea-1d948ed419a2",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -165309,7 +165289,7 @@
         "company_name": "Lazard",
         "id": "d0a42129-1f2f-4dda-9d05-bdb0f7954fa7",
         "title": "2026 Summer Internship - Quantitative Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -205617,7 +205597,7 @@
         "company_name": "Apogee Engineering",
         "id": "c0b246ac-9f50-4715-82eb-c08b2ecfc468",
         "title": "Technical Intelligence Analyst \u2013 Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -210080,7 +210060,7 @@
         "company_name": "Shure",
         "id": "f0d5af3f-ab4d-4767-9b11-843f39e6945f",
         "title": "Digital Signal Processing Intern - Digital Signal Processing - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -216986,7 +216966,7 @@
         "company_name": "Cook Group",
         "id": "129f62f7-ecdc-47b0-8945-414033024e52",
         "title": "Intern \u2013 Artificial Intelligence & Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -227797,7 +227777,7 @@
         "company_name": "W.R. Berkley",
         "id": "173a2af7-91f8-43bc-815b-eb93b3dd7f3a",
         "title": "Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -229915,7 +229895,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -238152,7 +238132,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "dda0a2ba-b6fc-4b39-8ba3-32ed779c5321",
         "title": "Product Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -246989,7 +246969,7 @@
         "company_name": "BMO ",
         "id": "059a73b8-0d0f-4d59-be68-95870814569e",
         "title": "Quantitative Analyst \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -259298,7 +259278,7 @@
         "company_name": "American Enterprise Institute",
         "id": "acb3cfd6-5481-4de6-991a-e29ac2402800",
         "title": "Economic Policy Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -264800,7 +264780,7 @@
         "company_name": "American Enterprise Institute",
         "id": "f98bb1fe-c084-4cad-8b34-e9c2952682a8",
         "title": "Housing Center Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -271519,7 +271499,7 @@
         "company_name": "Genentech",
         "id": "b58c3c09-7bfa-4e32-9b3f-73e5133f8ef3",
         "title": "Intern - Genentech Gred Computational Sciences - Center of Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -273721,7 +273701,7 @@
         "company_name": "Westwood",
         "id": "269c8204-4cbe-484d-ab3b-4e4fe2f59262",
         "title": "Survey Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -274709,7 +274689,7 @@
         "company_name": "Genentech",
         "id": "4f7a0f05-943c-428c-aed0-d1935e7c5866",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275324,7 +275304,7 @@
         "company_name": "Genentech",
         "id": "367d904b-c681-4996-9bc3-cd9e853dd7cd",
         "title": "2026 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279063,7 +279043,7 @@
         "company_name": "AbbVie",
         "id": "870275a4-82c3-4c7f-9408-9ae5ff501343",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -282887,7 +282867,7 @@
         "company_name": "TD Bank",
         "id": "7d84f2ac-acf4-4750-99bd-0703014aa95a",
         "title": "Everyday Savings & Investing \u2013 Everyday Advice Journey Co-op/Intern - Everyday Savings & Investing - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284451,6 +284431,27 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TD Bank",
+        "id": "94db1c13-fb38-456d-ba6c-c9be3b028a38",
+        "title": "Product Analyst Intern/Co-op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767179641,
+        "date_posted": 1767018088,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Product-Analyst-Intern-Co-op--Acquisition---Engagement--CPJ--Credit-Cards--SUMMER-2026-_R_1458763",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
