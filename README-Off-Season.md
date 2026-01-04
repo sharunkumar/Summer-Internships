@@ -1051,7 +1051,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (93)</summary>
+<summary>🗃️ Inactive roles (95)</summary>
 
 <table>
 <thead>
@@ -1065,6 +1065,22 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/IEX-Group?utm_source=GHList&utm_medium=company">IEX Group</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>NYC</td>
+<td>Winter 2025</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Meridian-Partners?utm_source=GHList&utm_medium=company">Meridian Partners</a></strong></td>
+<td>Android Software Engineer Co-op</td>
+<td>Cambridge, MA</td>
+<td>Winter 2025</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company">Tenstorrent</a></strong></td>
 <td>Software Intern - AI Compilers</td>
@@ -2339,6 +2355,14 @@
 <td>4d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Bosch?utm_source=GHList&utm_medium=company">Robert Bosch Venture Capital</a></strong></td>
+<td>Multi-Modal Cyber-Physical Sensing Intern</td>
+<td>Pittsburgh, PA</td>
+<td>Spring 2026</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000101039532?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0436f6da-716a-4ecf-b66c-ce1476b1f498?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/IntrinsicAI?utm_source=GHList&utm_medium=company">Intrinsic</a></strong></td>
 <td>Deep Learning Intern - Model Optimization</td>
 <td>Mountain View, CA</td>
@@ -3443,6 +3467,22 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Federal-Home-Loan-Bank-Of-Indianapolis?utm_source=GHList&utm_medium=company">Federal Home Loan Bank of Indianapolis</a></strong></td>
+<td>Analytics Engineer Intern</td>
+<td>Indianapolis, IN</td>
+<td>Winter 2025</td>
+<td><div align="center"><a href="https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Analytics-Engineer-Intern_R552?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a3fe70e0-e577-41b4-a001-fb673c6bef63?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Johnson-Law-Group?utm_source=GHList&utm_medium=company">Johnson Law Group</a></strong></td>
+<td>Data Analyst</td>
+<td>Houston, TX</td>
+<td>Spring 2026</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/johnsonlawgroup/jobs/4063471009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c25496e1-2e81-4754-9f01-5a0692210601?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/S-And-C-Electric-Company?utm_source=GHList&utm_medium=company">S&C Electric Company</a></strong></td>
 <td>Manufacturing Intern - Manufacturing</td>
 <td>Greendale, WI</td>
@@ -3975,7 +4015,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (144)</summary>
+<summary>🗃️ Inactive roles (145)</summary>
 
 <table>
 <thead>
@@ -4278,7 +4318,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Cloudflare?utm_source=GHList&utm_medium=company">Cloudflare</a></strong></td>
+<td>↳</td>
 <td>Research Engineer Intern - Spring/Jan 2026</td>
 <td>London, UK</td>
 <td>Winter 2026</td>
@@ -4558,6 +4598,14 @@
 <td>3mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Blackhawk-Network-Holdings?utm_source=GHList&utm_medium=company">Blackhawk Network Holdings</a></strong></td>
+<td>Technology Intern</td>
+<td>Coppell, TX</td>
+<td>Winter 2025</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
 <td>Low Latency Video Codec Algorithm Intern - Multimedia Lab - PhD 🎓</td>
 <td>Seattle, WA</td>
@@ -4611,7 +4659,7 @@
 <td>Rancho Cordova, CA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Genuine-Parts-Company?utm_source=GHList&utm_medium=company">Genuine Parts Company</a></strong></td>
@@ -5242,7 +5290,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (8)</summary>
+<summary>🗃️ Inactive roles (10)</summary>
 
 <table>
 <thead>
@@ -5256,6 +5304,14 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Five-Rings?utm_source=GHList&utm_medium=company">Five Rings Capital</a></strong></td>
+<td>Winter Intern 2026 - Quantitative Researcher</td>
+<td>NYC</td>
+<td>Winter 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Goldman-Sachs?utm_source=GHList&utm_medium=company">Goldman Sachs</a></strong></td>
 <td>2026 – Seasonal/Off Cycle Internship - London - FICC & Equities - Sales & Trading</td>
@@ -5277,6 +5333,14 @@
 <td>Quantitative Researcher Intern 🎓</td>
 <td>New York, NY</td>
 <td>Spring 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
+<td>Trading Operations Co-op with Drexel University: Spring/Summer a Round</td>
+<td>Ardmore, PA</td>
+<td>Winter 2025</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -6120,28 +6184,12 @@
 <td><div align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Application-Engineering-Intern--Coherent-DSP-----Bachelor-s-Degree_2502256-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/40b4bfb1-7785-437f-b851-e55747b17a8a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
-<td>R&D Software Engineering Internship</td>
-<td>Calabasas, CA</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://jobs.keysight.com/jobs/50043?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7f9582b2-7e37-492f-9e48-cff3471a618f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Qorvo?utm_source=GHList&utm_medium=company">Qorvo</a></strong></td>
-<td>Test & Characterization Intern</td>
-<td>Fort Lauderdale, FL</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://careers.qorvo.com/job/Ft_-Lauderdale-Test-&-Characterization-Intern-FL-33309/1340351000/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fe5cebff-59b2-444d-b1ec-946624b0513f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 </tbody>
 </table>
 
 
 <details>
-<summary>🗃️ Inactive roles (65)</summary>
+<summary>🗃️ Inactive roles (67)</summary>
 
 <table>
 <thead>
@@ -6155,6 +6203,22 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
+<td>R&D Software Engineering Internship</td>
+<td>Calabasas, CA</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Qorvo?utm_source=GHList&utm_medium=company">Qorvo</a></strong></td>
+<td>Test & Characterization Intern</td>
+<td>Fort Lauderdale, FL</td>
+<td>Winter 2025</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
 <td>SoC Performance Modeling Internship - Platform Architecture</td>
