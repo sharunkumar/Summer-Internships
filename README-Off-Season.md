@@ -4087,7 +4087,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (141)</summary>
+<summary>🗃️ Inactive roles (142)</summary>
 
 <table>
 <thead>
@@ -4764,6 +4764,14 @@
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Essen-Health-Care?utm_source=GHList&utm_medium=company">Essen Health Care</a></strong></td>
+<td>Quality Intern</td>
+<td>Bronx, NY</td>
+<td>Winter 2025</td>
+<td>🔒</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Apogee-Engineering?utm_source=GHList&utm_medium=company">Apogee Engineering</a></strong></td>
