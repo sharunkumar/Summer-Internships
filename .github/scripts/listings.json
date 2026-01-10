@@ -155,69 +155,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Brex",
-        "id": "81d7ccda-dfee-4208-92db-ed4f57441699",
-        "title": "Software Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1755889197,
-        "date_posted": 1747273333,
-        "url": "https://www.brex.com/careers/7985666002?gh_jid=7985666002",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Brex",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ChargePoint",
-        "id": "562b87c3-5f3e-4aec-972f-03419f369bdd",
-        "title": "Software Engineering \u2013 Intern",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1747276545,
-        "date_posted": 1747276545,
-        "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=7979604002",
-        "locations": [
-            "Los Gatos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ChargePoint",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "date_updated": 1749265725,
-        "url": "https://careers-cadent.icims.com/jobs/1186/backend-engineer-intern/job",
-        "company_name": "Cadent",
-        "title": "Backend Engineer Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "GaryZhous",
-        "id": "8ec93f77-38f3-4159-89c4-8e6aa8e83ddb",
-        "date_posted": 1747281975,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Amgen",
         "id": "ce4bd948-2c14-46f1-a057-d5875bcd7e9a",
         "title": "Undergraduate / Graduate Co-op Student - Software Engineer - Large Molecule Discovery - Technology",
@@ -199791,7 +199728,7 @@
         "company_name": "Essen Health Care",
         "id": "5bbe5efe-14da-4829-9ba8-59f0f6de337b",
         "title": "Quality Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
