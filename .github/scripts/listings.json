@@ -154,46 +154,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Samsung",
-        "id": "53f4e5a2-b21d-4206-b87c-19fe190a870b",
-        "title": "Applied AI Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747418557,
-        "date_posted": 1747418557,
-        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Applied-AI-Engineer--Intern_R104061",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Moog Inc",
-        "id": "b621cd91-6759-49d1-b7de-baa8415934bb",
-        "title": "Intern \u2013 IT Computer Science",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747418000,
-        "date_posted": 1747418000,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--IT-Computer-Science_R-25-11845",
-        "locations": [
-            "Blacksburg, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog-Inc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "TP-ICAP",
         "id": "ea5aebe3-57ee-4714-8403-84f7376d8da0",
@@ -295133,6 +295093,54 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Woven",
+        "id": "66ef628d-4eae-4d7b-9d03-896f837927c7",
+        "title": "Machine Learning Intern - Autolabeling",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768140318,
+        "date_posted": 1768140318,
+        "url": "https://jobs.lever.co/woven-by-toyota/24cceda1-b852-413c-8e60-039280a1c849/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Woven-Planet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Woven",
+        "id": "56ad64c8-97db-44c9-b5e7-e35b9199050c",
+        "title": "Machine Learning Intern - Vehicle Perception",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768140341,
+        "date_posted": 1768140341,
+        "url": "https://jobs.lever.co/woven-by-toyota/b5e4fe1a-240d-433d-ac40-e2cc04588985/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Woven-Planet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
