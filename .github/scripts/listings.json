@@ -155,89 +155,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Caribou Financial",
-        "id": "0d8b822f-41da-4d36-982b-c08eeb9f6e9f",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747360020,
-        "date_posted": 1747360020,
-        "url": "https://job-boards.greenhouse.io/caribou/jobs/6571559003",
-        "locations": [
-            "SF",
-            "Chicago, IL",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/43633ba6-edf5-4998-bd88-8b2ebcf8542e",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "0ab38358-eb77-44ef-b7b4-25370409a428",
-        "title": "Camera Systems Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1747363449,
-        "date_posted": 1747363449,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-TX-Austin/Camera-Systems-Software-Engineering-Intern---Fall-2025_JR1993696",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "d3e667d6-30d5-4980-8bfd-210d4e189816",
-        "title": "Systems Software Engineering Intern - GPU Virtualization",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1747365338,
-        "date_posted": 1747365338,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineering-Intern--GPU-Virtualization---Fall-2025_JR1996983",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "deac1579-67cc-4ec5-b2e1-f72ce7683143",
-        "title": "Software Engineering Intern - Robotics Perception Research",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1747363448,
-        "date_posted": 1747363448,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Canada-Toronto/Software-Engineering-Intern--Robotics-Perception-Research---Fall-2025_JR1997029",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Samsung",
         "id": "53f4e5a2-b21d-4206-b87c-19fe190a870b",
         "title": "Applied AI Engineer \u2013 Intern",
@@ -119221,7 +119138,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "ccc105ff-5dae-4442-9318-b636784164f9",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
