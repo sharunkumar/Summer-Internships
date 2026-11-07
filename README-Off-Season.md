@@ -10768,14 +10768,6 @@
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Menasha-Corporation?utm_source=GHList&utm_medium=company">Menasha Corporation</a></strong></td>
-<td>Product Marketing Intern</td>
-<td>Oconomowoc, WI</td>
-<td>Spring 2026, Summer 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -31748,14 +31740,6 @@
 <td>Level 3 Metrology Apprentice</td>
 <td>Milton Keynes, UK</td>
 <td>Spring 2026, Summer 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company">BorgWarner</a></strong></td>
-<td>Emotor Engineering Intern</td>
-<td>Auburn Hills, MI</td>
-<td>Winter 2026, Spring 2026, Summer 2026, Fall 2026</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>

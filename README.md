@@ -504,7 +504,7 @@
 <td>Software Engineer Intern - AI Platform Team</td>
 <td>Des Moines, IA</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/WellmarkInc/744000159260670?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/29c0eb17-de6c-4332-addb-c6f0732b0b09?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tria-Federal?utm_source=GHList&utm_medium=company">Tria Federal</a></strong></td>
