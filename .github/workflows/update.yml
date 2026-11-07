@@ -53,7 +53,11 @@ jobs:
 
     - name: Update READMEs
       id: readmes
-      run: uv run main.py readme update
+      run: |
+        cp .github/template/README.md .
+        cp .github/template/README-Off-Season.md .
+        cp .github/template/README-Inactive.md .
+        uv run python .github/scripts/update_readmes_custom.py
 
     - name: Set commit message (with fallback)
       id: commit_message
