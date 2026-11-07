@@ -9506,7 +9506,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (157)</summary>
+<summary>🗃️ Inactive roles (156)</summary>
 
 <table>
 <thead>
@@ -12108,6 +12108,14 @@
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/VusionGroupSA/744000149935589?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5205ce61-1e2e-4829-be7d-0ea7eedb6145?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cartesian-Systems?utm_source=GHList&utm_medium=company">Cartesian Systems</a></strong></td>
+<td>Research Assistant Micro-Intern - IAP - Alumni Host</td>
+<td>Cambridge, MA</td>
+<td>Winter 2027</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/cartesiansystems/jobs/4408725009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a10f6985-4ead-4559-a478-0bdbae54544d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 
 </tbody>
 </table>
@@ -12134,14 +12142,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Cartesian-Systems?utm_source=GHList&utm_medium=company">Cartesian Systems</a></strong></td>
-<td>Research Assistant Micro-Intern - IAP - Alumni Host</td>
-<td>Cambridge, MA</td>
-<td>Winter 2027</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/cartesiansystems/jobs/4408725009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a10f6985-4ead-4559-a478-0bdbae54544d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Oshkosh?utm_source=GHList&utm_medium=company">Oshkosh</a></strong></td>
 <td>Supply Chain Intern - Data Analytics & AI</td>
@@ -12515,7 +12515,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1274)</summary>
+<summary>🗃️ Inactive roles (1273)</summary>
 
 <table>
 <thead>
@@ -22713,14 +22713,6 @@
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Global-Partners?utm_source=GHList&utm_medium=company">Global Partners</a></strong></td>
-<td>Northeastern Co-op - Data Science</td>
-<td>Waltham, MA</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -25033,7 +25025,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (838)</summary>
+<summary>🗃️ Inactive roles (837)</summary>
 
 <table>
 <thead>
