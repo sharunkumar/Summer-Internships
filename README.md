@@ -8,7 +8,9 @@
 
 ## 💻 Software Engineering Internship Roles
 
-[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2027-tech-internships-by-pitt-csc--simplify)
+
+> 🔗 GitHub strips the code that makes links open in a new tab, so clicking a role here navigates away from the list. The [Simplify extension](https://simplify.jobs/install?utm_source=GHList&utm_medium=newtab) opens them in a new tab instead, so you keep your place.
 
 <table>
 <thead>
@@ -260,13 +262,13 @@
 </table>
 
 
-</details>
+🔒 **[See 1188 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
 ## 📱 Product Management Internship Roles
 
-[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2027-tech-internships-by-pitt-csc--simplify)
 
 > 📅 Curious when Big Tech product internships typically open? Simplify put together an [openings tracker](https://simplify.jobs/top-list/Associate-Product-Manager-Intern?utm_source=GHList&utm_medium=ot) based on historical data for those companies.
 
@@ -338,13 +340,13 @@
 </table>
 
 
-</details>
+🔒 **[See 228 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
 
 
 
 ## 🤖 Data Science, AI & Machine Learning Internship Roles
 
-[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2027-tech-internships-by-pitt-csc--simplify)
 
 > 📄 Here's the [resume template](https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing) used by Stanford CS and Pitt CSC for internship prep.
 
@@ -677,13 +679,13 @@
 </table>
 
 
-</details>
+🔒 **[See 1183 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
 ## 📈 Quantitative Finance Internship Roles
 
-[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2027-tech-internships-by-pitt-csc--simplify)
 
 <details>
 <summary>🗃️ Inactive roles (12)</summary>
@@ -787,13 +789,13 @@
 </table>
 
 
-</details>
+🔒 **[See 276 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
 
 
 
 ## 🔧 Hardware Engineering Internship Roles
 
-[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2027-tech-internships-by-pitt-csc--simplify)
 
 <table>
 <thead>
@@ -884,6 +886,6 @@
 </table>
 
 
-</details>
+🔒 **[See 527 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
