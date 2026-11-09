@@ -9164,7 +9164,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/United-Airlines?utm_source=GHList&utm_medium=company">United Airlines</a></strong></td>
+<td>↳</td>
 <td>Sales Product Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -20049,7 +20049,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/BP?utm_source=GHList&utm_medium=company">BP</a></strong></td>
+<td>↳</td>
 <td>Finance & Risk Intern - Supply - Trading</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -21589,6 +21589,20 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Rocket-Lab-USA?utm_source=GHList&utm_medium=company">Rocket Lab USA</a></strong></td>
+<td>Flight Software Intern</td>
+<td>Littleton, CO</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Flight Software Intern</td>
+<td>Littleton, CO</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory?utm_source=GHList&utm_medium=company">Johns Hopkins Applied Physics Laboratory</a></strong></td>
 <td>Electrical/Computer Engineer Intern - Intelligence Surveillance & Reconnaissance</td>
 <td>Laurel, MD</td>
@@ -21662,13 +21676,6 @@
 <td><strong><a href="https://simplify.jobs/c/Lexington-Medical?utm_source=GHList&utm_medium=company">Lexington Medical</a></strong></td>
 <td>Electrical/Embedded Software Engineer Intern</td>
 <td>Bedford, MA</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Hexagon-AB?utm_source=GHList&utm_medium=company">Hexagon AB</a></strong></td>
-<td>Digital Hardware Engineer Intern - GNSS Positioning Digital Team</td>
-<td>Calgary, AB, Canada</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
