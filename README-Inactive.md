@@ -687,6 +687,13 @@
 <td>20d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Redgate?utm_source=GHList&utm_medium=company">Redgate</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Cambridge, UK</td>
+<td>🔒</td>
+<td>21d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
 <td>R&D Software Engineer Intern</td>
 <td>Arden Hills, MN</td>
@@ -2783,6 +2790,13 @@
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics?utm_source=GHList&utm_medium=company">General Dynamics</a></strong></td>
 <td>Information Technology Intern - Software Engineering - Computer Science</td>
 <td><details><summary><strong>5 locations</strong></summary>Newport, RI<br>New London, CT<br>North Kingstown, RI<br>North Stonington, CT<br>Groton, CT</details></td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RAVE-Aerospace?utm_source=GHList&utm_medium=company">RAVE Aerospace</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Laramie, WY</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -16689,7 +16703,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/CSX?utm_source=GHList&utm_medium=company">CSX</a></strong></td>
+<td>↳</td>
 <td>Intermodal Intern - Summer 2027 - Paid</td>
 <td>Jacksonville, FL</td>
 <td>🔒</td>
