@@ -15751,7 +15751,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
+<td>↳</td>
 <td>Research Data Science Intern - Active Implantable Systems 🎓</td>
 <td>Arden Hills, MN</td>
 <td>🔒</td>
@@ -19403,13 +19403,6 @@
 <td>Raleigh, NC</td>
 <td>🔒</td>
 <td>12d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Cenovus-Energy?utm_source=GHList&utm_medium=company">Cenovus Energy</a></strong></td>
-<td>Student Risk Analytics Intern</td>
-<td>Calgary, AB, Canada</td>
-<td>🔒</td>
-<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Aegon-Asset-Management?utm_source=GHList&utm_medium=company">Aegon Asset Management</a></strong></td>

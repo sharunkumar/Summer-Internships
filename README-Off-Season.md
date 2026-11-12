@@ -1293,7 +1293,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (992)</summary>
+<summary>🗃️ Inactive roles (990)</summary>
 
 <table>
 <thead>
@@ -9227,22 +9227,6 @@
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Synchrony-Financial?utm_source=GHList&utm_medium=company">Synchrony Financial</a></strong></td>
-<td>Technology Intern</td>
-<td>NYC</td>
-<td>Spring 2026, Summer 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Technology Intern</td>
-<td>NYC</td>
-<td>Spring 2026, Summer 2026, Fall 2026</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -11314,7 +11298,7 @@
 <td>Foxborough, MA</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://se.jibeapply.com/jobs/136783?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/585157cb-2a25-4e5d-8dbb-321781e13898?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/University-Of-Texas-Austin?utm_source=GHList&utm_medium=company">University of Texas at Austin</a></strong></td>
@@ -12363,7 +12347,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1306)</summary>
+<summary>🗃️ Inactive roles (1305)</summary>
 
 <table>
 <thead>
@@ -14010,7 +13994,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
+<td>↳</td>
 <td>Computer Vision Engineer Intern - Cell Engineering</td>
 <td>Palo Alto, CA</td>
 <td>Spring 2027</td>
@@ -24769,7 +24753,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (877)</summary>
+<summary>🗃️ Inactive roles (878)</summary>
 
 <table>
 <thead>
@@ -26243,6 +26227,14 @@
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Rochester, NY</td>
+<td>Winter 2026</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Integration/Test Engineer Intern</td>
+<td>Melbourne, FL</td>
 <td>Winter 2026</td>
 <td>🔒</td>
 <td>2mo</td>
@@ -30816,7 +30808,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
 <td>Hardware Engineering Co-op</td>
 <td>Sunnyvale, CA</td>
 <td>Fall 2026, Winter 2026</td>
