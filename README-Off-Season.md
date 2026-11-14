@@ -401,6 +401,14 @@
 <td>24d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Accenture-FS?utm_source=GHList&utm_medium=company">Accenture</a></strong></td>
+<td>Technology Apprentice</td>
+<td>London, UK</td>
+<td>Fall 2027</td>
+<td><div align="center"><a href="https://accenture.pinpointhq.com/en/postings/0f0d4251-2c54-4614-8be7-f0042813b9d3?ats=pinpointhq&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/df277f28-ed91-4120-be99-f111f0f9f162?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>24d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/HeyGen?utm_source=GHList&utm_medium=company">HeyGen</a></strong></td>
 <td>Software Engineer Intern</td>
 <td><details><summary><strong>4 locations</strong></summary>Toronto, ON, Canada<br>SF<br>LA<br>Singapore</details></td>
@@ -9506,7 +9514,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (160)</summary>
+<summary>🗃️ Inactive roles (159)</summary>
 
 <table>
 <thead>
@@ -9520,14 +9528,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/MANN-HUMMEL?utm_source=GHList&utm_medium=company">MANN+HUMMEL</a></strong></td>
-<td>Product Management & Market Intelligence Intern</td>
-<td>Gastonia, NC</td>
-<td>Spring 2027</td>
-<td>🔒</td>
-<td>14d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/1Password?utm_source=GHList&utm_medium=company">1Password</a></strong></td>
 <td>Product Management Intern - End User Experience</td>
@@ -10216,32 +10216,6 @@
 <td>🔒</td>
 <td>3mo</td>
 </tr>
-
-</tbody>
-</table>
-
----
-
-<div align="center" id="github-cutoff-warning">
-  <h2>🔗 See Full List</h2>
-  <p><strong>⚠️ GitHub preview cuts off around here due to file size limits.</strong></p>
-  <p>📋 <strong><a href="https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-see-full-list">Click here to view the complete list with all internship opportunities!</a></strong> 📋</p>
-  <p><em>To find even more internships in tech, check out <a href="https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security&jobId=2ac81173-86b5-4dbd-a7a9-260847c259cc&jobType=Internship?utm_source=GHList">Simplify's website</a>.</em></p>
-</div>
-
----
-
-<table>
-<thead>
-<tr>
-<th>Company</th>
-<th>Role</th>
-<th>Location</th>
-<th>Application</th>
-<th>Age</th>
-</tr>
-</thead>
-<tbody>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
 <td>Technology Product Analyst Intern 🎓</td>
@@ -10854,6 +10828,14 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Carnegie-Mellon-University?utm_source=GHList&utm_medium=company">Carnegie Mellon University</a></strong></td>
+<td>Cyber AI Engineer Intern</td>
+<td>Pittsburgh, PA</td>
+<td>Spring 2027</td>
+<td><div align="center"><a href="https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/331732d6-2320-4e49-9426-29401912aba0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1d</td>
+</tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">Adobe</a></strong></td>
 <td>Research Scientist Intern 🎓</td>
@@ -12481,6 +12463,32 @@
 <td>🔒</td>
 <td>1mo</td>
 </tr>
+
+</tbody>
+</table>
+
+---
+
+<div align="center" id="github-cutoff-warning">
+  <h2>🔗 See Full List</h2>
+  <p><strong>⚠️ GitHub preview cuts off around here due to file size limits.</strong></p>
+  <p>📋 <strong><a href="https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-see-full-list">Click here to view the complete list with all internship opportunities!</a></strong> 📋</p>
+  <p><em>To find even more internships in tech, check out <a href="https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security&jobId=2ac81173-86b5-4dbd-a7a9-260847c259cc&jobType=Internship?utm_source=GHList">Simplify's website</a>.</em></p>
+</div>
+
+---
+
+<table>
+<thead>
+<tr>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Metropolitan-Transportation-Authority?utm_source=GHList&utm_medium=company">Metropolitan Transportation Authority</a></strong></td>
 <td>Data Analyst Emerging Talent Intern - Supplier Relations</td>
@@ -12665,32 +12673,6 @@
 <td>🔒</td>
 <td>1mo</td>
 </tr>
-
-</tbody>
-</table>
-
----
-
-<div align="center" id="github-cutoff-warning">
-  <h2>🔗 See Full List</h2>
-  <p><strong>⚠️ GitHub preview cuts off around here due to file size limits.</strong></p>
-  <p>📋 <strong><a href="https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-see-full-list">Click here to view the complete list with all internship opportunities!</a></strong> 📋</p>
-  <p><em>To find even more internships in tech, check out <a href="https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security&jobId=2ac81173-86b5-4dbd-a7a9-260847c259cc&jobType=Internship?utm_source=GHList">Simplify's website</a>.</em></p>
-</div>
-
----
-
-<table>
-<thead>
-<tr>
-<th>Company</th>
-<th>Role</th>
-<th>Location</th>
-<th>Application</th>
-<th>Age</th>
-</tr>
-</thead>
-<tbody>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Biogen?utm_source=GHList&utm_medium=company">Biogen</a></strong></td>
 <td>Integrated Insights & Analytics Co-op - Nephrology</td>
@@ -30794,7 +30776,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
 <td>Hardware Engineering Co-op</td>
 <td>Sunnyvale, CA</td>
 <td>Fall 2026, Winter 2026</td>

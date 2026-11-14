@@ -1240,6 +1240,13 @@
 <td>30d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Wolf-And-Company?utm_source=GHList&utm_medium=company">Wolf & Company</a></strong></td>
+<td>AI & Automation Intern</td>
+<td>Boston, MA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Parsons?utm_source=GHList&utm_medium=company">Parsons</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Huntsville, AL</td>
