@@ -799,6 +799,13 @@
 <td>21d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Nutanix?utm_source=GHList&utm_medium=company">Nutanix</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Cambridge, UK</td>
+<td>🔒</td>
+<td>22d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Boston-Scientific?utm_source=GHList&utm_medium=company">Boston Scientific</a></strong></td>
 <td>AI Solutions Engineering Intern</td>
 <td>Arden Hills, MN</td>
@@ -1455,13 +1462,6 @@
 <td>Chicago, IL</td>
 <td>🔒</td>
 <td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/DriveWealth?utm_source=GHList&utm_medium=company">DriveWealth</a></strong></td>
-<td>AI Consulting Associate Program Product Owner Intern</td>
-<td>Chicago, IL</td>
-<td>🔒</td>
-<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company">Applied Materials</a></strong></td>
@@ -2965,6 +2965,13 @@
 <td>↳</td>
 <td>Simulation Engineering Intern</td>
 <td>SF<br>Mountain View, CA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/GM-Financial?utm_source=GHList&utm_medium=company">GM financial</a></strong></td>
+<td>Software Development Engineer Intern</td>
+<td>Arlington, TX</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -12216,6 +12223,13 @@
 <td>14d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Public-Service-Enterprise-Group?utm_source=GHList&utm_medium=company">Public Service Enterprise Group</a></strong></td>
+<td>Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability</td>
+<td>Newark, NJ</td>
+<td>🔒</td>
+<td>14d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/State-Farm?utm_source=GHList&utm_medium=company">State Farm</a></strong></td>
 <td>P&C Actuarial & Underwriting Modeling Intern - Data Scientist 🎓</td>
 <td><details><summary><strong>4 locations</strong></summary>Tempe, AZ<br>Dunwoody, GA<br>Richardson, TX<br>Bloomington, IL</details></td>
@@ -12422,6 +12436,13 @@
 <td><strong><a href="https://simplify.jobs/c/Zebra-Technologies?utm_source=GHList&utm_medium=company">Zebra Technologies</a></strong></td>
 <td>Data Scientist Intern 🎓</td>
 <td>Holtsville, NY<br>Lincolnshire, IL</td>
+<td>🔒</td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Sierra-Nevada-Corporation?utm_source=GHList&utm_medium=company">Sierra Nevada Corporation</a></strong></td>
+<td>Data Science Intern - Summer 2027</td>
+<td>Sparks, NV</td>
 <td>🔒</td>
 <td>18d</td>
 </tr>
@@ -24312,6 +24333,13 @@
 <td>9d</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Software Engineer Intern</td>
+<td>Schaumburg, IL</td>
+<td>🔒</td>
+<td>9d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/MKS-Instruments?utm_source=GHList&utm_medium=company">MKS Instruments</a></strong></td>
 <td>Software Engineer Co-op</td>
 <td>Andover, MA</td>
@@ -26625,13 +26653,6 @@
 <td><strong><a href="https://simplify.jobs/c/Lexington-Medical?utm_source=GHList&utm_medium=company">Lexington Medical</a></strong></td>
 <td>Electrical/Embedded Software Engineer Intern</td>
 <td>Bedford, MA</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
-<td>FPGA Design Engineering Intern</td>
-<td>Schaumburg, IL</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
