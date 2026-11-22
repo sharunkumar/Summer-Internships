@@ -1,101 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SiFive",
-        "id": "de32672b-e299-4728-857a-e9714510e0de",
-        "title": "CPU Design Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774591625,
-        "date_posted": 1774591625,
-        "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/CPU-Design-Intern_R-101043",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SiFive",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "NBCUniversal",
-        "id": "d3beceeb-585c-49d6-8478-ae5480fd807f",
-        "title": "Culinary Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774617561,
-        "date_posted": 1774591575,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000117141938",
-        "locations": [
-            "North Hollywood, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Rolls-Royce Motorcars",
-        "id": "75cfa15d-4740-4b16-bde7-92b946730038",
-        "title": "Intern Technical Service Electrical or Mechanical & Digitalization",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774617068,
-        "date_posted": 1774591493,
-        "url": "https://jobs.bmwgroup.com/job/Woodcliff-Lake-Intern-Technical-Service-Electrical-or-Mechanical-&-Digitalization-New/1378078933/?ats=successfactors",
-        "locations": [
-            "Paramus, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "5f65a98d-7f74-4256-ac22-44ba5c68e076",
-        "title": "Copyright Solution Product Manager Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1774591943,
-        "date_posted": 1774591943,
-        "url": "https://lifeattiktok.com/search/7615924066587232517",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Socure",
         "id": "f926c3eb-b1ea-4028-b59a-bc891b3e6b9f",
@@ -184861,7 +184766,7 @@
         "company_name": "Edison International",
         "id": "77203ce5-b7d4-43d5-a610-f97e1ddee542",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -184910,7 +184815,7 @@
         "company_name": "Edison International",
         "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
         "title": "Summer Internship - Data Analytics/Science/Applied Math",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -279122,7 +279027,7 @@
         "company_name": "Rhoda AI",
         "id": "1736ee29-1f1e-4421-8616-9c616abc3f8e",
         "title": "Robot Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -311876,7 +311781,7 @@
         "company_name": "Workday",
         "id": "7d29e9a8-e116-43c5-a3b9-267f864cddfc",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -311900,7 +311805,7 @@
         "company_name": "Workday",
         "id": "0a37326a-6eb6-4459-8249-044ccfac8600",
         "title": "Software Application Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -312093,7 +311998,7 @@
         "company_name": "Workday",
         "id": "3bcb752a-418d-4efe-88b2-389292a7eed0",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336970,7 +336875,7 @@
         "company_name": "TD Bank",
         "id": "2d43585f-8138-4d37-97ac-3ac58db1d2cc",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338806,7 +338711,7 @@
         "company_name": "American Family Insurance Group",
         "id": "d74a8f1e-37e1-4db6-b4bc-ed33d69d7ea3",
         "title": "Business Intelligence Enablement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344130,7 +344035,7 @@
         "company_name": "Thomson Reuters",
         "id": "afa3c0c7-940c-4de0-847a-f6af71fecffb",
         "title": "Applied Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382609,7 +382514,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e10ce551-2780-4df7-898b-4416e1679bd9",
         "title": "Statistics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390528,7 +390433,7 @@
         "company_name": "Micron Technology",
         "id": "23656e12-b4f7-407c-aa31-bfc1c7f3a9f9",
         "title": "Data Scientist New Grad - AI for Business Functions",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398106,7 +398011,7 @@
         "company_name": "Verisk",
         "id": "f080ba31-67e8-4a12-a748-8d74a2b6067b",
         "title": "Data Science/AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399559,7 +399464,7 @@
         "company_name": "Capital Group",
         "id": "2090dcc2-c489-4ec4-bd16-8b1af5aa79f2",
         "title": "Global Technology Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401809,7 +401714,7 @@
         "company_name": "ServiceNow",
         "id": "a2fe1cc0-aff1-49f6-bc73-fc65ecaa526f",
         "title": "Associate Forward Deployed Solution Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -412663,7 +412568,7 @@
         "company_name": "Blackberry",
         "id": "aea2626a-4582-4875-ab5a-aeed57c50f4d",
         "title": "Hardware Engineering Student Intern - Radar",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -412980,6 +412885,97 @@
             "Indianapolis, IN"
         ],
         "company_url": "https://simplify.jobs/c/Allegion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "e8ff9442-41f5-41b5-83e0-6bfd57fd8f6b",
+        "title": "Data Analyst Intern - Wealth Management",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1795333873,
+        "date_posted": 1793923200,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/o-2027-Wealth-Management--Winter-Data-Analyst_R-0000192288",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NBCUniversal",
+        "id": "c670d7e9-977a-470d-8a6c-8b9abe9099ad",
+        "title": "Business Data Intern - Film IT",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1795333336,
+        "date_posted": 1795188377,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NBCUniversal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMD",
+        "id": "090826fc-fc8c-443f-8302-02afa9826799",
+        "title": "BIOS Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1795344880,
+        "date_posted": 1795342620,
+        "url": "https://careers.amd.com/jobs/90475?icims=1&lang=en-us",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Manville",
+        "id": "e4edff5e-f411-4f18-af6c-d380593b8540",
+        "title": "Business Analytics & Strategy Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1795347725,
+        "date_posted": 1793923200,
+        "url": "https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Business-Analytics---Strategy-Intern_R26_2002",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Manville",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
