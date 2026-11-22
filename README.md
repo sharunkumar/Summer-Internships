@@ -2666,7 +2666,7 @@
 </table>
 
 
-🔒 **[See 1446 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 1451 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -3384,7 +3384,7 @@
 </table>
 
 
-🔒 **[See 278 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
+🔒 **[See 277 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
 
 
 
@@ -5857,20 +5857,6 @@
 <td><div align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8244128&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/33d96aa1-005b-4988-b918-7ffecf83de91?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/LLNL?utm_source=GHList&utm_medium=company">Lawrence Livermore National Laboratory (LLNL)</a></strong></td>
-<td>Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer Institute</td>
-<td>Livermore, CA</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/LLNL/3743990016610216?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e0cf8e4d-5b4b-471a-b7ae-fb2a0930de16?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Pennsylvania-State-University?utm_source=GHList&utm_medium=company">Pennsylvania State University</a></strong></td>
-<td>R&D Engineer Intern</td>
-<td>Key West, FL</td>
-<td><div align="center"><a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Key-West-FL/R-D-Engineer-Intern_REQ_0000083331?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/33bbbdb3-7bf2-4ddd-90dc-200d4e2d8f82?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
 
 </tbody>
 </table>
@@ -5897,6 +5883,20 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/LLNL?utm_source=GHList&utm_medium=company">Lawrence Livermore National Laboratory (LLNL)</a></strong></td>
+<td>Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer Institute</td>
+<td>Livermore, CA</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/LLNL/3743990016610216?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e0cf8e4d-5b4b-471a-b7ae-fb2a0930de16?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Pennsylvania-State-University?utm_source=GHList&utm_medium=company">Pennsylvania State University</a></strong></td>
+<td>R&D Engineer Intern</td>
+<td>Key West, FL</td>
+<td><div align="center"><a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Key-West-FL/R-D-Engineer-Intern_REQ_0000083331?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/33bbbdb3-7bf2-4ddd-90dc-200d4e2d8f82?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
 <td>Embodied AI Data Scaling Intern - Data Scaling - Embodied AI 🎓</td>
@@ -6993,7 +6993,7 @@
 </table>
 
 
-🔒 **[See 1476 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 1481 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
@@ -7345,7 +7345,7 @@
 </table>
 
 
-🔒 **[See 297 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
+🔒 **[See 298 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
 
 
 
@@ -8296,13 +8296,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
-<td>ASIC Verification Intern</td>
-<td>Toronto, ON, Canada</td>
-<td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/409557ba-787e-483f-90a0-5070340bc017?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Badger-Meter?utm_source=GHList&utm_medium=company">Badger Meter</a></strong></td>
 <td>Systems Integration Engineer Intern</td>
 <td>Milwaukee, WI</td>
@@ -8880,6 +8873,6 @@
 </table>
 
 
-🔒 **[See 636 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
+🔒 **[See 639 more closed roles →](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

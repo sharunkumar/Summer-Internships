@@ -3228,6 +3228,13 @@
 <td>2mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/William-Blair?utm_source=GHList&utm_medium=company">William Blair</a></strong></td>
+<td>Agentic AI Development Intern</td>
+<td>Chicago, IL</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Emerson-Electric?utm_source=GHList&utm_medium=company">Emerson Electric</a></strong></td>
 <td>Software Engineer Intern - Process Systems and Solutions 🎓</td>
 <td>Round Rock, TX</td>
