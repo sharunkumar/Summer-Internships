@@ -6364,7 +6364,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company">Peraton</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Blacksburg, VA<br>Herndon, VA</td>
 <td>🔒</td>
@@ -10487,7 +10487,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Marshall-Wace?utm_source=GHList&utm_medium=company">Marshall Wace</a></strong></td>
 <td>Technology Intern</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -12510,7 +12510,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
+<td>↳</td>
 <td>Product Innovation Intern - Credit & Fraud Risk</td>
 <td>Phoenix, AZ</td>
 <td>🔒</td>
@@ -12856,13 +12856,6 @@
 <td>↳</td>
 <td>Clinical Operations Business Analyst Intern</td>
 <td>Remote in USA</td>
-<td>🔒</td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Capital-Power?utm_source=GHList&utm_medium=company">Capital Power</a></strong></td>
-<td>Student Intern - Data Science</td>
-<td>Edmonton, AB, Canada</td>
 <td>🔒</td>
 <td>16d</td>
 </tr>
@@ -15593,13 +15586,6 @@
 <td><strong><a href="https://simplify.jobs/c/UL-Solutions?utm_source=GHList&utm_medium=company">UL Solutions</a></strong></td>
 <td>Data Science Intern</td>
 <td>Northbrook, IL<br>Chicago, IL</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan?utm_source=GHList&utm_medium=company">Blue Cross Blue Shield of Michigan</a></strong></td>
-<td>Data Analytics Intern - HEDIS</td>
-<td>Detroit, MI</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
@@ -23514,7 +23500,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/AON?utm_source=GHList&utm_medium=company">Aon</a></strong></td>
+<td>↳</td>
 <td>Actuarial Consulting Intern - Pensions</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -24368,7 +24354,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/InfiniteQuant?utm_source=GHList&utm_medium=company">InfiniteQuant</a></strong></td>
+<td>↳</td>
 <td>Quantitative Researcher Intern - Summer 2027 🎓</td>
 <td>Dubai - United Arab Emirates<br>NYC</td>
 <td>🔒</td>
@@ -25569,7 +25555,7 @@
 <td>Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving</td>
 <td>Newark, CA</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Renesas-Electronics?utm_source=GHList&utm_medium=company">Renesas Electronics</a></strong></td>
@@ -26991,6 +26977,13 @@
 <td>Huntsville, AL</td>
 <td>🔒</td>
 <td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Onsemi?utm_source=GHList&utm_medium=company">onsemi</a></strong></td>
+<td>Integrated Circuit Design Engineer Intern</td>
+<td>Allen, TX</td>
+<td>🔒</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
